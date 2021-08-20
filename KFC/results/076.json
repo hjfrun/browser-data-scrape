@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MEGA MALL MANADO",
+    "address": "JL. PIERE TENDEAN, Manado, Sulawesi Utara",
+    "latitude": 1.483992,
+    "longitude": 124.834747,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL PLUIT VILLAGE",
+    "address": "JL.PLUIT INDAH RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.116198,
+    "longitude": 106.790245,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL SORONG",
+    "address": "JL. BASUKI RAHMAT NO. 1 KM. 8.5, Sorong, Papua Barat",
+    "latitude": -0.88765,
+    "longitude": 131.301809,
+    "services": []
+  },
+  {
+    "name": "MEGA ZANUR MALL GORONTALO",
+    "address": "JL. KH. AGUS SALIM NO. 51 KOMPLEKS MEGA ZANUR MALL, Gorontalo, Gorontalo",
+    "latitude": 0.543808,
+    "longitude": 123.056986,
+    "services": []
+  },
+  {
+    "name": "MELAWAI PLAZA",
+    "address": "JL. MELAWAI - KEBAYORAN BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245557,
+    "longitude": 106.802415,
+    "services": []
+  },
+  {
+    "name": "MERDEKA PALEMBANG",
+    "address": "JL. MERDEKA NO. 38 RT. 023/08 KEL TALANG SEMUT, KEC. BUKIT KECIL, Palembang, Sumatera Selatan",
+    "latitude": -2.990108,
+    "longitude": 104.748421,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

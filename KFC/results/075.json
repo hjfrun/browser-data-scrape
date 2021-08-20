@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MATARAM MALL LOMBOK",
+    "address": "JL.PEJANGGIK - KOMP.CILINAYA CAKRANEGARA- MATARAM LOMBOK NTB, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.586923,
+    "longitude": 116.119865,
+    "services": []
+  },
+  {
+    "name": "MAXX KARAWACI",
+    "address": "Jl. Jend. Sudirman, Bencongan, Kec. Kelapa. Dua, Tangerang, Banten 15810, Tangerang, Banten",
+    "latitude": -6.227838,
+    "longitude": 106.605756,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MEDAN FAIR",
+    "address": "JL. GATOT SUBROTO NO. 30, Medan, Sumatera Utara",
+    "latitude": 3.591704,
+    "longitude": 98.66313,
+    "services": []
+  },
+  {
+    "name": "MEDAN MALL",
+    "address": "JL. MT. HARYONO NO. 8 - 9, Medan, Sumatera Utara",
+    "latitude": 3.587613,
+    "longitude": 98.686527,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL AYANI PONTIANAK",
+    "address": "JL. AHMAD YANI KOMPLEK  MEGA MALL, Pontianak, Kalimantan Barat",
+    "latitude": -0.051407,
+    "longitude": 109.345823,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL BATAM CENTRE",
+    "address": "JL. ENGKU PUTRI, BATAM, UPPER GROUND FLOOR NO. UG 101 / 102, Batam, Kepulauan Riau",
+    "latitude": 1.1291,
+    "longitude": 104.055715,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  }
+]

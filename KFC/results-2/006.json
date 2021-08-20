@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ASAHAN MEDAN",
+    "address": "Jl Lintas Sumatera, Dusun Hessa Air Genting, Air Batu, Kab. Asahan, Sumatera Utara",
+    "latitude": 2.925263,
+    "longitude": 99.704177,
+    "services": ""
+  },
+  {
+    "name": "ASIA MEGA MAS MEDAN",
+    "address": "Jl. Sukaramai II, KEL. Sukaramai II, Kec. Medan Area. Medan - Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.586381,
+    "longitude": 98.703083,
+    "services": ""
+  },
+  {
+    "name": "ATRIUM SENEN",
+    "address": "JL.SEGITIGA SENEN, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.176392,
+    "longitude": 106.840894,
+    "services": ""
+  },
+  {
+    "name": "AYAM BULUNGAN JAKARTA",
+    "address": "JL. BULUNGAN I / 64 KEBAYORAN BARU - JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.24405,
+    "longitude": 106.796912,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "BAHU MALL MANADO",
+    "address": "Bahu Mall, R.W., Jl. Wolter Monginsidi, Bahu, Malalayang, Manado, Sulawesi Utara",
+    "latitude": -1.4623217,
+    "longitude": 124.8252785,
+    "services": ""
+  },
+  {
+    "name": "BALAI PUSTAKA RAWAMANGUN",
+    "address": "Jl. Balai Pustaka Timur, RT.7/RW.9, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.199916,
+    "longitude": 106.886107,
+    "services": ""
+  }
+]

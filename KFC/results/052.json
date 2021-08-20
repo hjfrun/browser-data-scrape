@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GRAGE MALL II CIREBON",
+    "address": "Jl. Pangeran Drajat Perumahan Penggambiran Residen Cluster oasis Blok A 1 No.2 Cirebon, Cirebon, Jawa Barat",
+    "latitude": -6.742725,
+    "longitude": 108.570689,
+    "services": []
+  },
+  {
+    "name": "GRAHA CIJANTUNG",
+    "address": "JL PENDIDIKAN I CIJANTUNG, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.312964,
+    "longitude": 106.861781,
+    "services": []
+  },
+  {
+    "name": "GRAND INDONESIA JAKARTA",
+    "address": "JL. MH THAMRIN RT. 11 RW. 15 KEL. KEBON MELATI - KEC. TANAH ABANG, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.195095,
+    "longitude": 106.820168,
+    "services": []
+  },
+  {
+    "name": "GRAND KOTA BINTANG",
+    "address": "Grand Kota Bintang, Jl KH Noer Ali, Jakasampurna, Bekasi Barat, Bekasi, Jawa Barat",
+    "latitude": -6.249239,
+    "longitude": 106.957374,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "GRAND MALL BEKASI",
+    "address": "JL. JEND. SUDIRMAN DEPAN KORAMIL 01 - BEKASI, Bekasi, Jawa Barat",
+    "latitude": -6.227911,
+    "longitude": 106.983651,
+    "services": []
+  },
+  {
+    "name": "GRAND METROPOLITAN BEKASI",
+    "address": "Jl. K.H. Noer Ali, Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.24887,
+    "longitude": 106.984909,
+    "services": []
+  }
+]

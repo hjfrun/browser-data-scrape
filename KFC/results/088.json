@@ -1,0 +1,53 @@
+[
+  {
+    "name": "PERCETAKAN NEGARA",
+    "address": "Jl. Percetakan Negara Raya No.80. Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.18973,
+    "longitude": 106.859129,
+    "services": []
+  },
+  {
+    "name": "PERINTIS KEMERDEKAAN",
+    "address": "Jl. Perintis Kemerdekaan No. 14 A, Biring Kanaya, Makassar, Makassar, Sulawesi Selatan",
+    "latitude": -5.094572,
+    "longitude": 119.512893,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PESONA SQUARE DEPOK",
+    "address": "Jl IR H Djuanda no 99,  Bakti Jaya, Sukmajaya, Depok, Jawa Barat",
+    "latitude": -6.379889,
+    "longitude": 106.84413,
+    "services": []
+  },
+  {
+    "name": "PETRONAS CIPUTAT",
+    "address": "JL. CIPUTAT RAYA, GINTUNG ( DEPAN MAKRO ), Tangerang Selatan, Banten",
+    "latitude": -6.302763,
+    "longitude": 106.760585,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PETRONAS IMAM BONJOL",
+    "address": "JL. IMAM BONJOL DEPAN BANDARA POLONIA, Medan, Sumatera Utara",
+    "latitude": 3.569604,
+    "longitude": 98.677823,
+    "services": []
+  },
+  {
+    "name": "PETTARANI MAKASSAR",
+    "address": "Jl. Andi Pangeran Pettarani, samping gedung Gedung Dewan Perwakilan Rakyat Daerah (DPRD), Kel. Tidung, Kec. Tamalete, Kota Makassar - Sulawesi Selatan, Makassar, Sulawesi Selatan",
+    "latitude": -5.162804,
+    "longitude": 119.435827,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

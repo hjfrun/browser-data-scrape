@@ -1,0 +1,44 @@
+[
+  {
+    "name": "WAYANG SANUR",
+    "address": "JL. BY PASS NGURAH RAI, Denpasar, Bali",
+    "latitude": -8.673768,
+    "longitude": 115.258933,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "WISMA BNI 46 JAKARTA",
+    "address": "JL.JEND.SUDIRMAN KAV.1, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.202818,
+    "longitude": 106.820794,
+    "services": ""
+  },
+  {
+    "name": "WTC JAMBI",
+    "address": "KOMPLEK WILLTOP BATANGHARI JL. SULTAN SAHA KEL. BERINGIN KEC. PASAR - KOTA JAMBI, Jambi, Jambi",
+    "latitude": -1.588571,
+    "longitude": 103.61576,
+    "services": ""
+  },
+  {
+    "name": "WTC SERPONG",
+    "address": "JL. RAYA SERPONG, GEDUNG WTC  MATAHARI SERPONG LT. 1., Tangerang Selatan, Banten",
+    "latitude": -6.265934,
+    "longitude": 106.65509,
+    "services": ""
+  },
+  {
+    "name": "WTC SURABAYA",
+    "address": "Jl. Pemuda 27-31, Food Galery Lantai 3, Surabaya, Jawa Timur",
+    "latitude": -7.263227,
+    "longitude": 112.747761,
+    "services": ""
+  },
+  {
+    "name": "YOGYA SUKABUMI",
+    "address": "YOGYA DEPT. STORE JL. R.E MARTADINATA NO. 3, Sukabumi, Jawa Barat",
+    "latitude": -6.919923,
+    "longitude": 106.928607,
+    "services": ""
+  }
+]

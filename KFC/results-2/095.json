@@ -1,0 +1,44 @@
+[
+  {
+    "name": "RAMAYANA BONTANG",
+    "address": "JL. MULAWARMAN NO. 1 KOTAMADYA BONTANG - KALTIM, Bontang, Kalimantan Timur",
+    "latitude": 0.136411,
+    "longitude": 117.488486,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA CENGKARENG",
+    "address": "JL.LINGKAR  LUAR BARAT LT.DASAR, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153036,
+    "longitude": 106.728052,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA CILEGON",
+    "address": "JL.RAYA MERAK,CILEGON MALL RAMAYANA, Cilegon, Banten",
+    "latitude": -6.021535,
+    "longitude": 106.063664,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA CIMONE",
+    "address": "JL.MERDEKA NO.10,TANGERANG, CIMONE, Tangerang, Banten",
+    "latitude": -6.185419,
+    "longitude": 106.616029,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA CIPUTAT",
+    "address": "JL.DEWI SARTIKA,CIPUTAT, LANTAI I, Tangerang Selatan, Banten",
+    "latitude": -6.314955,
+    "longitude": 106.747104,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA DUMAI",
+    "address": "JL. JEND. SUDIRMAN GD RAMAYANA DUMAI, Dumai, Riau",
+    "latitude": 1.663589,
+    "longitude": 101.446463,
+    "services": ""
+  }
+]

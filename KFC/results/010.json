@@ -1,0 +1,52 @@
+[
+  {
+    "name": "BASUKI RAHMAT",
+    "address": "Jl. Basuki rahmad no.31, Surabaya, Jawa Timur",
+    "latitude": -7.264614,
+    "longitude": 112.741291,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BASUKI RAHMAT TUBAN",
+    "address": "Jl. Basuki Rakhmat 260. Kutorejo, Kab. Tuban, Jawa Timur, Kab. Tuban, Jawa Timur",
+    "latitude": -6.899783,
+    "longitude": 112.062559,
+    "services": []
+  },
+  {
+    "name": "BATAM BOTANIA",
+    "address": "KO Botania Garden C-01, Kel Belian, Kec. Batam Kota, Kota Batam, Batam, Kepulauan Riau",
+    "latitude": 1.126507,
+    "longitude": 104.098357,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BATAM CITY SQUARE",
+    "address": "JL. KOMPLEK PINUNIC BLOK R NO. 3 LUBUK BAJA - BATAM, Batam, Kepulauan Riau",
+    "latitude": 1.132164,
+    "longitude": 104.010207,
+    "services": []
+  },
+  {
+    "name": "BATU 9 TANJUNG PINANG",
+    "address": "Jl. DI. Panjaitan Km. 9 - Tanjung Pinang Timur - Kota Tanjung Pinang , Kepri, Tanjung Pinang, Kepulauan Riau",
+    "latitude": 0.916609,
+    "longitude": 104.50692,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BATU AJI BATAM",
+    "address": "Jl. Let Jend Suprapto, Batu Aji - Batam, Batam, Kepulauan Riau",
+    "latitude": 1.042317,
+    "longitude": 103.983288,
+    "services": []
+  }
+]

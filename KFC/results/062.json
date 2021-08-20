@@ -1,0 +1,56 @@
+[
+  {
+    "name": "KARANG ASEM",
+    "address": "Jl. Jendrl Sudirman No.25, Karangasem, Kec. Karangasem, Kabupaten Karangasem, Bali 80811, Kab. Karang Asem, Bali",
+    "latitude": -8.451331,
+    "longitude": 115.604681,
+    "services": []
+  },
+  {
+    "name": "KARAWANG GALUH MAS",
+    "address": "Jl. Galuh Mas Raya. Teluk Jambe Karawang, Jawa Barat, Kab. Karawang, Jawa Barat",
+    "latitude": -6.32878,
+    "longitude": 107.290973,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KARTINI CIREBON",
+    "address": "JL. KARTINI NO. 46 CIREBON, Cirebon, Jawa Barat",
+    "latitude": -6.711143,
+    "longitude": 108.553968,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KARTINI MALL LAMPUNG",
+    "address": "JL. KARTINI NO.49, Bandar Lampung, Lampung",
+    "latitude": -5.416628,
+    "longitude": 105.253721,
+    "services": []
+  },
+  {
+    "name": "KAWI MALANG",
+    "address": "Jl. KAWI ATAS NO. 38, Malang, Jawa Timur",
+    "latitude": -7.974986,
+    "longitude": 112.619043,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KEDATON LAMPUNG",
+    "address": "JL. ZAENAL ABIDIN  PAGAR ALAM KEDATON, Bandar Lampung, Lampung",
+    "latitude": -5.380028,
+    "longitude": 105.253725,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

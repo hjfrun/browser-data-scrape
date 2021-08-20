@@ -1,0 +1,46 @@
+[
+  {
+    "name": "RAMAYANA SEMPER",
+    "address": "JL. KRAMAT JAYA I , TUGU UTARA KEC. KOJA TANJUNG PRIOK, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.127205,
+    "longitude": 106.916592,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA SESETAN",
+    "address": "JL. RAYA SESETAN NO. 22, Denpasar, Bali",
+    "latitude": -8.691905,
+    "longitude": 115.217393,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA SIDOARJO",
+    "address": "Jl.  DIPONEGORO NO.2, MAL SIDOARJO, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.451459,
+    "longitude": 112.714197,
+    "services": []
+  },
+  {
+    "name": "RATU PLAZA JAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 9 KEL. GELORA - KEC. TANAH ABANG JAKARTA 10270, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.226694,
+    "longitude": 106.801171,
+    "services": []
+  },
+  {
+    "name": "RAWAMANGUN SQUARE",
+    "address": "JL. PENGGAMBIRAN NO. 55, RAWAMANGUN, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.199905,
+    "longitude": 106.890487,
+    "services": []
+  },
+  {
+    "name": "RAYA DARMO",
+    "address": "JL. RAYA DARMO NO. 101, Surabaya, Jawa Timur",
+    "latitude": -7.289642,
+    "longitude": 112.739292,
+    "services": [
+      "KFC A.M"
+    ]
+  }
+]

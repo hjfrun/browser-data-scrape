@@ -1,0 +1,46 @@
+[
+  {
+    "name": "GIANT KAIRAGI MANADO",
+    "address": "Jl. M.V Maramis, Kel Kairagi I, Kec Mapanget, Manado, Sulawesi Utara",
+    "latitude": 1.497007,
+    "longitude": 124.878475,
+    "services": []
+  },
+  {
+    "name": "GIANT MEGA BEKASI HYPERMALL",
+    "address": "JL. Ahmad Yani keluar pintu TOL Bekasi Barat, Bekasi, Jawa Barat",
+    "latitude": -6.249891,
+    "longitude": 106.992901,
+    "services": []
+  },
+  {
+    "name": "GLODOK PLAZA",
+    "address": "JL. PINANGSIA RAYA NO. 1, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.142309,
+    "longitude": 106.81661,
+    "services": []
+  },
+  {
+    "name": "GOLDEN CITY BEKASI",
+    "address": "Jl. Kaliabang, Perumahan Golden City (Villa Indah Permai), Bekasi Utara, Kota Bekasi, Jawa Barat",
+    "latitude": -6.207771,
+    "longitude": 107.020961,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "GOLDEN TRULLY GUNUNG SAHARI",
+    "address": "JL. GN.SAHARI NO 59 JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.162329,
+    "longitude": 106.83849,
+    "services": []
+  },
+  {
+    "name": "GRAGE MALL CIREBON",
+    "address": "JL.TENTARA PELAJAR,GRAGE MALL, Cirebon, Jawa Barat",
+    "latitude": -6.713102,
+    "longitude": 108.551903,
+    "services": []
+  }
+]

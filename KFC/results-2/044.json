@@ -1,0 +1,44 @@
+[
+  {
+    "name": "COCO MANADO",
+    "address": "JL.SAM RATULANGI NO 458 MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.459491,
+    "longitude": 124.837445,
+    "services": ""
+  },
+  {
+    "name": "COCO SARAPUNG",
+    "address": "Jl.  SARAPUNG NO 5 MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.489017,
+    "longitude": 124.840472,
+    "services": ""
+  },
+  {
+    "name": "D'BEST PANAKUKANG MALL",
+    "address": "JL. BOULEVARD RAYA, Makassar, Sulawesi Selatan",
+    "latitude": -5.157326,
+    "longitude": 119.446413,
+    "services": ""
+  },
+  {
+    "name": "DAAN MOGOT",
+    "address": "JL.DAAN MOGOT 163 A, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.162752,
+    "longitude": 106.773077,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "DAAN MOGOT BARU",
+    "address": "Jl. Utan Jati 65, Kel. Kalideres, Kec. Kalideres, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.15344,
+    "longitude": 106.713879,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "DADAP RAYA TANGERANG",
+    "address": "Sentra Pergudangan, Jl. Raya Kosambi, Dadap, Kec. Kosambi, Tangerang, Banten 15213, Kabupaten Tangerang, Banten",
+    "latitude": -6.085765,
+    "longitude": 106.702429,
+    "services": ""
+  }
+]

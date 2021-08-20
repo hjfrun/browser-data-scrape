@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX TOM AND JERRY MADURA",
+    "address": "Superrmarket Tom & Jerry, Jl Trunojoyo, Bangkalan, Madura, Jawa Timur",
+    "latitude": -7.027057,
+    "longitude": 112.75486,
+    "services": []
+  },
+  {
+    "name": "BOX TRANS MART KAWANUA MANADO",
+    "address": "Transmart Kawanua Manado Lt. GF. 20. Jl. AA. Maramis,  Paniki Bawah, Mapenget, Kota Manado. Sulawesi Utara., Manado, Sulawesi Utara",
+    "latitude": 1.503,
+    "longitude": 124.900194,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART CIREBON",
+    "address": "Jl Raya Doktor Cipto Mangunkusumo no 234 , Pekiringan, Kesambi, Cirebon, Jawa Barat",
+    "latitude": -6.720731,
+    "longitude": 108.550286,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART DEPOK",
+    "address": "Jl. Dewi Sartika no 9, Pancoran Mas, Depok, Jawa Barat",
+    "latitude": -6.399963,
+    "longitude": 106.816748,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART GRAHA BINTARO",
+    "address": "Jl Kebayoran Utama no 2A, Serpong Utara, Tangerang Selatan, Banten",
+    "latitude": -6.240588,
+    "longitude": 106.675659,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART JEMBER",
+    "address": "Jl Hayam Wuruk no 61 A, Sempusari, Kaliwates, Kab. Jember, Jawa Timur",
+    "latitude": -8.184709,
+    "longitude": 113.666577,
+    "services": []
+  }
+]

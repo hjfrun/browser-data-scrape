@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ITC MANGGA DUA",
+    "address": "GEDUNG PUSAT GROSIR PASAR PAGI  MANGGA DUA JEMBATAN LT. II NO. 1 JL. MANGGA DUA RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.135908,
+    "longitude": 106.824494,
+    "services": ""
+  },
+  {
+    "name": "ITC PERMATA HIJAU",
+    "address": "JL. ARTERI PERMATA HIJAU JAKARTA 12210, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.221092,
+    "longitude": 106.783551,
+    "services": ""
+  },
+  {
+    "name": "ITC ROXY MAS",
+    "address": "JL. KH. HASYIM ASHARI KEL. CIDENG KECAMATAN GAMBIR, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.16669,
+    "longitude": 106.803014,
+    "services": ""
+  },
+  {
+    "name": "JAMBI TOWN SQUARE",
+    "address": "Jl. Kapt. A. Bakaruddin RT.01 Kel. Beliung , kec kota baru - jambi, Jambi, Jambi",
+    "latitude": -1.620957,
+    "longitude": 103.586979,
+    "services": ""
+  },
+  {
+    "name": "JAMBU AIR BUKITTINGGI",
+    "address": "Jl.Raya Jambu Air ,Banuhampu, Agam Sumatra Barat, Bukittinggi, Sumatera Barat",
+    "latitude": -0.326567,
+    "longitude": 100.379855,
+    "services": ""
+  },
+  {
+    "name": "JASMIN KULINER BOGOR",
+    "address": "Jl. K.H Abdullah Bin Nuh, Bogor, Kab.Bogor, Jawa Barat",
+    "latitude": -6.556381,
+    "longitude": 106.776564,
+    "services": "KFC Drive Thru"
+  }
+]

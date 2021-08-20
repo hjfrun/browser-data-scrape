@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TABANAN",
+    "address": "Jl. Ir. Soekarno - bypass Kediri, Tabanan - Bali, Kab. Tabanan, Bali",
+    "latitude": -8.55246,
+    "longitude": 115.132983,
+    "services": ""
+  },
+  {
+    "name": "TAKENGON",
+    "address": "Jl Lebe Kader Kel Mongal Kec Bebesan, Aceh Tengah, Aceh",
+    "latitude": 4.642087,
+    "longitude": 96.83942,
+    "services": ""
+  },
+  {
+    "name": "TALASALAPANG MAKASSAR",
+    "address": "JL. SULTAN ALAHUDIN, Makassar, Sulawesi Selatan",
+    "latitude": -5.184214,
+    "longitude": 119.44112,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "TAMAN DAYU PANDAAN PASURUAN",
+    "address": "JL. RAYA SURABAYA MALANG KM. 48 PANDAAN - PASURUAN, Pasuruan, Jawa Timur",
+    "latitude": -7.666981,
+    "longitude": 112.70005,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "TAMAN HARAPAN INDAH",
+    "address": "DEKAT BUNDARAN PATUNG KOTA HARAPAN  INDAH BEKASI - KEL. MEDAN SATRIA, Bekasi, Jawa Barat",
+    "latitude": -6.191884,
+    "longitude": 106.974472,
+    "services": "KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "TAMAN RASUNA",
+    "address": "Plaza Festival Kompleks Rasuna Epicentrum Jl.H.R Rasuna Said Kav.C22 Jakarta 12940 Indonesia (Unit UG 63), Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.221421,
+    "longitude": 106.83294,
+    "services": ""
+  }
+]

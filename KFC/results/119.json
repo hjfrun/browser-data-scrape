@@ -1,0 +1,53 @@
+[
+  {
+    "name": "TOHPATI",
+    "address": "Jl. Cempaka Biru Selatan II, Buluh Indah, Denpasar, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237, Denpasar, Bali",
+    "latitude": -8.641075,
+    "longitude": 115.254433,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TOMOHON",
+    "address": "JL. RAYA TOMOHON NO. 74 - 75, Tomohon, Sulawesi Utara",
+    "latitude": 1.327891,
+    "longitude": 124.838547,
+    "services": []
+  },
+  {
+    "name": "TONDANO",
+    "address": "Jl Totemboan, Kel Liningaan Tondano Timur, Kab. Minahasa, Sulawesi Utara",
+    "latitude": 1.300806,
+    "longitude": 124.912054,
+    "services": []
+  },
+  {
+    "name": "TRAGIA NUSA DUA",
+    "address": "JL.BYPASS NGURAH RAI SHOP. CTR TRAGIA, Kab. Badung, Bali",
+    "latitude": -8.79643,
+    "longitude": 115.218594,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TRANSMART CILANDAK",
+    "address": "JL. CILANDAK KKO CILANDAK TIMUR, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.301587,
+    "longitude": 106.813862,
+    "services": []
+  },
+  {
+    "name": "TRANSYOGI CIBUBUR",
+    "address": "Jl. Alternatif Transyogi Cibubur KM. 1-3 , Depok, Depok, Jawa Barat",
+    "latitude": -6.375419,
+    "longitude": 106.905945,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  }
+]

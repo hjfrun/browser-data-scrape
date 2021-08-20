@@ -1,0 +1,49 @@
+[
+  {
+    "name": "MOJOKERTO",
+    "address": "JL. LETKOL SUMARJO NO. 67 MOJOKERTO - JAWA TIMUR, Mojokerto, Jawa Timur",
+    "latitude": -7.463963,
+    "longitude": 112.43545,
+    "services": []
+  },
+  {
+    "name": "MT HARYONO BALIKPAPAN",
+    "address": "Jl. MT Haryono No. 00 RT 041. Balikpapan Selatan, Balikpapan, Kalimantan Timur, Balikpapan, Kalimantan Timur",
+    "latitude": -1.253137,
+    "longitude": 116.86894,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "MT HARYONO JAKARTA",
+    "address": "JL.MT. HARYONO KAV.7, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243021,
+    "longitude": 106.847063,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MT HARYONO KENDARI",
+    "address": "JL. MT. HARYONO, Kendari, Sulawesi Tenggara",
+    "latitude": -3.990432,
+    "longitude": 122.508676,
+    "services": []
+  },
+  {
+    "name": "MT HARYONO SEMARANG",
+    "address": "Jl. MT. Haryono 884 RT.009 RW.07 Kelurahan Peterongan, Kecamatan Semarang Selatan, Semarang, Jawa Tengah",
+    "latitude": -6.997015,
+    "longitude": 110.4322,
+    "services": []
+  },
+  {
+    "name": "MTC MANADO",
+    "address": "JL. PIERE TENDEAN MEGA TRADE CENTER MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.479996,
+    "longitude": 124.83498,
+    "services": []
+  }
+]

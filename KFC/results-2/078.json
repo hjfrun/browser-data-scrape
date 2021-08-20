@@ -1,0 +1,44 @@
+[
+  {
+    "name": "METROPOLIS TOWN SQUARE",
+    "address": "JL. HARTONO BOULEVARD, Tangerang, Banten",
+    "latitude": -6.197404,
+    "longitude": 106.636631,
+    "services": ""
+  },
+  {
+    "name": "METROPOLITAN CITY PEKANBARU",
+    "address": "JL. HR..R. SUBRANTAS PANAM, Pekanbaru, Riau",
+    "latitude": 0.464827,
+    "longitude": 101.388316,
+    "services": ""
+  },
+  {
+    "name": "METROPOLITAN MALL",
+    "address": "JL.JEND. SUDIRMAN METROPOL MAL-1, Bekasi, Jawa Barat",
+    "latitude": -6.248398,
+    "longitude": 106.991013,
+    "services": ""
+  },
+  {
+    "name": "MEULABOH ACEH",
+    "address": "Jl. Manek Roo No. 35 - 38 MEULABOH – ACEH BARAT, Meulaboh, Aceh",
+    "latitude": 4.155058,
+    "longitude": 96.127967,
+    "services": ""
+  },
+  {
+    "name": "MILLENIUM PLAZA MEDAN",
+    "address": "JL. KAPTEN MUSLIM COMPLEK MILLENIUM NO. 10 A, Medan, Sumatera Utara",
+    "latitude": 3.599368,
+    "longitude": 98.644167,
+    "services": ""
+  },
+  {
+    "name": "MINANG PLAZA PADANG",
+    "address": "JL. PROF. DR. HAMKA NO. 2 A, Padang, Sumatera Barat",
+    "latitude": -0.901786,
+    "longitude": 100.350968,
+    "services": ""
+  }
+]

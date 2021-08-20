@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MALL PEKANBARU",
+    "address": "MALL PEKANBARU JL. JEND. SUDIRMAN NO. 123, Pekanbaru, Riau",
+    "latitude": 0.531827,
+    "longitude": 101.448069,
+    "services": ""
+  },
+  {
+    "name": "MALL RATU INDAH",
+    "address": "Jl. SAM RATULANGI NO. 35, Makassar, Sulawesi Selatan",
+    "latitude": -5.153271,
+    "longitude": 119.417335,
+    "services": ""
+  },
+  {
+    "name": "MALL SERANG",
+    "address": "JL. VETERAN NO. 7 - SERANG, Serang, Banten",
+    "latitude": -6.116383,
+    "longitude": 106.153381,
+    "services": ""
+  },
+  {
+    "name": "MALL TAMAN ANGGREK",
+    "address": "JL.S.PARMAN,GROGOL, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.178778,
+    "longitude": 106.792611,
+    "services": ""
+  },
+  {
+    "name": "MALL TAMAN PALEM",
+    "address": "JL. KAMAL RAYA OUTER RINGROAD LT. DASAR BLOK A, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.139675,
+    "longitude": 106.731996,
+    "services": ""
+  },
+  {
+    "name": "MALL TAMAN PALEM FOODCOURT",
+    "address": "JL. Kamal Raya Outer Ringroad Cengkareng Jakarta Barat, Semi Basement Blok 9-10, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.139675,
+    "longitude": 106.731996,
+    "services": ""
+  }
+]

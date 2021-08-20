@@ -1,0 +1,46 @@
+[
+  {
+    "name": "CIPUTRA SERAYA",
+    "address": "Mall Ciputra Seraya, Ground Floor, Jl. Riau  No 58. Pekan Baru, Riau, Pekanbaru, Riau",
+    "latitude": 0.535882,
+    "longitude": 101.430255,
+    "services": []
+  },
+  {
+    "name": "CIPUTRA WORLD SURABAYA",
+    "address": "CIPUTRA WORLD FOOD COURT LANTAI 3 unit 38-39, Jl. M Sungkono No.89, Surabaya, Jawa Timur",
+    "latitude": -7.292165,
+    "longitude": 112.720402,
+    "services": []
+  },
+  {
+    "name": "CIRACAS",
+    "address": "JL. RAYA BOGOR KM. 25, CIRACAS JAKARTA TIMUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.328268,
+    "longitude": 106.865148,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "CIREBON MALL",
+    "address": "JL.BAHAGIA NO.123, Cirebon, Jawa Barat",
+    "latitude": -6.718943,
+    "longitude": 108.568672,
+    "services": []
+  },
+  {
+    "name": "CIREBON SUPER BLOCK",
+    "address": "Mall Cirebon Superblock, Foodcourt Unit 3A-06, Second Floor, Jl. Dr Cipto Mangunkusumo, No 26 Cirebon Jawa Barat, Cirebon, Jawa Barat",
+    "latitude": -6.718242,
+    "longitude": 108.549567,
+    "services": []
+  },
+  {
+    "name": "CIRENDEU",
+    "address": "JL. RAYA CIRENDEU NO. 20 LEBAK BULUS - PAMULANG, Tangerang Selatan, Banten",
+    "latitude": -6.318059,
+    "longitude": 106.768617,
+    "services": []
+  }
+]

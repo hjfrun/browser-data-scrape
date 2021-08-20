@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BUAH BATU SQUARE",
+    "address": "Jl Bojong Soang no 321, Cipagalo- Bojongsoang, Bandung, Jawa Barat",
+    "latitude": -6.966227,
+    "longitude": 107.638093,
+    "services": []
+  },
+  {
+    "name": "BUARAN PLAZA",
+    "address": "JL. RADIN INTEN RT.01 / 04 KLENDER DUREN SAWIT, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.217833,
+    "longitude": 106.923883,
+    "services": []
+  },
+  {
+    "name": "BUKIT RAYA PEKANBARU",
+    "address": "Jl. Imam Munandar No. 2 Kel. Tangkerang Utara, Kec. Bukit Raya , Pekanbaru, Pekanbaru, Riau",
+    "latitude": 0.500881,
+    "longitude": 101.47143,
+    "services": []
+  },
+  {
+    "name": "BUKIT SEMARANG BARU",
+    "address": "Jl. Rm. Hadi Soebeno Raya No.KM.6, Kedungpane, Kec. Mijen, Kota Semarang, Jawa Tengah 50211, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.0299583,
+    "longitude": 110.3347053,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BUKITTINGGI",
+    "address": "JL.AHMAD YANI NO.1,BUKIT TINGGI, Bukittinggi, Sumatera Barat",
+    "latitude": -0.304549,
+    "longitude": 100.369011,
+    "services": []
+  },
+  {
+    "name": "BUNYAMIN PURWOKERTO",
+    "address": "Jl. Prof Dr Bunyamin, Purwokerto Utara, Kab. Banyumas, Jawa Tengah, Kab.Banyumas, Jawa Tengah",
+    "latitude": -7.400178,
+    "longitude": 109.245061,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  }
+]

@@ -1,0 +1,4253 @@
+[
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Hero Bekasi",
+    "address": "Jl. K.H. Noer Ali No. 177 Bekasi Selatan, Bekasi Kota. (Bekasi Cyber Park Ground Floor)",
+    "location": "-6.24635,106.991817",
+    "latitude": "-6.24635",
+    "longitude": "106.991817",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Sarinah Malang",
+    "address": "Ground Floor,Jl.Jend.Basuki Rachmat 2A",
+    "location": "-7.981156,112.630642",
+    "latitude": "-7.981156",
+    "longitude": "112.630642",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Malioboro Jogja",
+    "address": "Ground Floor, Jl. Malioboro 52-58",
+    "location": "-7.7984,110.365964",
+    "latitude": "-7.7984",
+    "longitude": "110.365964",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Citraland Semarang",
+    "address": "Ground Floor, Jl. Simpang Lima Raya No. 1",
+    "location": "-6.989375,110.424192",
+    "latitude": "-6.989375",
+    "longitude": "110.424192",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Tebet Shophouse",
+    "address": "Jl. Prof. Dr. Soepomo SH, No. 55, Tebet",
+    "location": "-6.2321,106.845578",
+    "latitude": "-6.2321",
+    "longitude": "106.845578",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bintaro",
+    "address": "Bintaro Jaya Sektor IX",
+    "location": "-6.281053,106.713148",
+    "latitude": "-6.281053",
+    "longitude": "106.713148",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's New Dewata Ayu",
+    "address": "Jl. Panglima Sudirman 20",
+    "location": "-8.669437,115.217664",
+    "latitude": "-8.669437",
+    "longitude": "115.217664",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bumi Serpong Damai",
+    "address": "Jl. Raya Teras Bukit No.614 Sektor VII, Bumi Serpong Damai, Banten",
+    "location": "-6.280514,106.661962",
+    "latitude": "-6.280514",
+    "longitude": "106.661962",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Lippo Karawaci",
+    "address": "105 Boulevard Diponegoro, Karawaci 1200",
+    "location": "-6.227617,106.606867",
+    "latitude": "-6.227617",
+    "longitude": "106.606867",
+    "services": [
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Dufan",
+    "address": "Jl. Lodan Timur No. 7, Dunia Fantasi (WAHANA RAMA SHINTA)",
+    "location": "-6.124325,106.832053",
+    "latitude": "-6.124325",
+    "longitude": "106.832053",
+    "services": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Plaza Sentral",
+    "address": "Ground Floor,Jl.Jend. Sudirman,Kav.47-48",
+    "location": "-6.217448,106.816539",
+    "latitude": "-6.217448",
+    "longitude": "106.816539",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kemang",
+    "address": "Jl. Kemang Raya No. 10",
+    "location": "-6.257512,106.814512",
+    "latitude": "-6.257512",
+    "longitude": "106.814512",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Plasa Marina",
+    "address": "Jl. Raya Margorejo Indah No. 97-99, Surabaya",
+    "location": "-7.316256,112.7482195",
+    "latitude": "-7.316256",
+    "longitude": "112.7482195",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's S'house Pondok Indah",
+    "address": "Jl. Metro Pondok Indah Plaza I, Blok UA. Kav. 33-34, Pondok Indah",
+    "location": "-6.283864,106.780467",
+    "latitude": "-6.283864",
+    "longitude": "106.780467",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Depok Plaza",
+    "address": "Plaza Depok Lantai Dasar, Jl. Margonda Raya",
+    "location": "-6.391825,106.825148",
+    "latitude": "-6.391825",
+    "longitude": "106.825148",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Hero Padjajaran Bogor",
+    "address": "Jl. Raya Padjajaran",
+    "location": "-6.607231,106.809767",
+    "latitude": "-6.607231",
+    "longitude": "106.809767",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Gas Station Cibubur",
+    "address": "Jl. Raya Akses Baru, BUPERTA, Cibubur",
+    "location": "-6.370378,106.896842",
+    "latitude": "-6.370378",
+    "longitude": "106.896842",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Mal Bekasi",
+    "address": "Jl. Jend. Sudirman No. 1 KM. 18",
+    "location": "-6.228392,106.9835195",
+    "latitude": "-6.228392",
+    "longitude": "106.9835195",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Batam Harmoni S'house",
+    "address": "Jln Imam Bonjol Blok F 1-2 Komplek Hotel Harmoni Sei Jodoh Batam Island 24932",
+    "location": "1.149722,104.006944",
+    "latitude": "1.149722",
+    "longitude": "104.006944",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Java Supermall",
+    "address": "Java Supermal Lantai 1, Jl. MT. Haryono, 992-994",
+    "location": "-7.006297,110.432553",
+    "latitude": "-7.006297",
+    "longitude": "110.432553",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Kuta Square",
+    "address": "Komplek Pertokoan Kuta Square, Jl. Bakung Sari I, Blok A/2",
+    "location": "-8.723731,115.1714195",
+    "latitude": "-8.723731",
+    "longitude": "115.1714195",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Graha Cijantung",
+    "address": "Jl. Kenari, Komplek Kopassus",
+    "location": "-6.312033,106.861789",
+    "latitude": "-6.312033",
+    "longitude": "106.861789",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Plaza Tanjung Karang",
+    "address": "Jl.RA. Kartini No. 21",
+    "location": "-5.419948,105.252256",
+    "latitude": "-5.419948",
+    "longitude": "105.252256",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Mal Ratu Indah",
+    "address": "Mal Ratu Indah. Jl.Dr.Sam Ratulangi No. 35, Sulawesi Selatan",
+    "location": "-5.153189,119.416659",
+    "latitude": "-5.153189",
+    "longitude": "119.416659",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Ancol Pantai Timur",
+    "address": "Jl. Lodan No. 7, Ancol Timur",
+    "location": "-6.120042,106.849681",
+    "latitude": "-6.120042",
+    "longitude": "106.849681",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Mayjen Sungkono",
+    "address": "Jl.Mayjend Sungkono 153,Sblh Taman Makam Pahlawan",
+    "location": "-7.2887,112.706592",
+    "latitude": "-7.2887",
+    "longitude": "112.706592",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pasir Kaliki",
+    "address": "Jl. Pasir Kaliki No. 121 - 123, Bandung",
+    "location": "-6.906147,107.597244",
+    "latitude": "-6.906147",
+    "longitude": "107.597244",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sanur Bali",
+    "address": "Jl. By Pass Ngurah Rai 109, Sanur, Bali",
+    "location": "-8.682528,115.259572",
+    "latitude": "-8.682528",
+    "longitude": "115.259572",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cilinaya Lombok",
+    "address": "Jl. Pejanggik Kompleks Mataram Mall, Mataram, Nusa Tenggara Barat.",
+    "location": "-8.587234,116.119681",
+    "latitude": "-8.587234",
+    "longitude": "116.119681",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kuta Beach",
+    "address": "Jl.Pantai Kuta,Banjar Pering Kuta,Bali(Dpn Htl Maharani)",
+    "location": "-8.719755,115.16935",
+    "latitude": "-8.719755",
+    "longitude": "115.16935",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McCafe",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sidoarjo",
+    "address": "Jl. Pahlawan No 1, Depan GOR",
+    "location": "-7.449223,112.703923",
+    "latitude": "-7.449223",
+    "longitude": "112.703923",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Darmo Surabaya",
+    "address": "Jl. Raya Darmo No. 43",
+    "location": "-7.282314,112.740692",
+    "latitude": "-7.282314",
+    "longitude": "112.740692",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Basuki Rahmat Sby",
+    "address": "Jl. Basuki Rachmat No. 21-23",
+    "location": "-7.264284,112.741467",
+    "latitude": "-7.264284",
+    "longitude": "112.741467",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kalibata Mall",
+    "address": "Kalibata Mall, Jl. Raya Kalibata",
+    "location": "-6.257281,106.856514",
+    "latitude": "-6.257281",
+    "longitude": "106.856514",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Jimbaran",
+    "address": "Jl. Uluwatu II No. 01. Jimbaran, Bali",
+    "location": "-8.781678,115.1784",
+    "latitude": "-8.781678",
+    "longitude": "115.1784",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Plaza Millenium Medan",
+    "address": "Plaza Milenium, Lt. 1,Jl.Kapten Muslim No. 111",
+    "location": "3.599373,98.644487",
+    "latitude": "3.599373",
+    "longitude": "98.644487",
+    "services": [
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Central Plaza Samarinda",
+    "address": "Samarinda Central Plaza, Jl. Pulau Irian No. 1",
+    "location": "-0.503475,117.154864",
+    "latitude": "-0.503475",
+    "longitude": "117.154864",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kopo Mas Bandung",
+    "address": "Komplek Ruko Kopo Mas Regency, Jl. Kopo No 618",
+    "location": "-6.959592,107.580084",
+    "latitude": "-6.959592",
+    "longitude": "107.580084",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Green Garden",
+    "address": "Perumahan Green Garden Blok I - 9, No. 1 - 2,Kedoya Utara Kebon Jeruk",
+    "location": "-6.16577,106.762712",
+    "latitude": "-6.16577",
+    "longitude": "106.762712",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's ADA Swalayan Semarang",
+    "address": "Jl. Setiabudi No. 221 - 225",
+    "location": "-7.061156,110.413187",
+    "latitude": "-7.061156",
+    "longitude": "110.413187",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Sri Ratu Kediri",
+    "address": "Sri Ratu Mall, Jl. Hayam Wuruk No. 46, Kediri",
+    "location": "-7.814619,112.015578",
+    "latitude": "-7.814619",
+    "longitude": "112.015578",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Toko Agung Tasikmalaya",
+    "address": "Jl. K.H. Z. Mustofa, No. 126",
+    "location": "-7.331398,108.21925",
+    "latitude": "-7.331398",
+    "longitude": "108.21925",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Mulyo Sari Surabaya",
+    "address": "Jl. Raya Mulyosari, Komplek Ruko Central Park",
+    "location": "-7.266734,112.796409",
+    "latitude": "-7.266734",
+    "longitude": "112.796409",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Veteran Gresik",
+    "address": "Plz Matahari,Jl.Veteran Gresik No.1,Gresik-Jawa Timur",
+    "location": "-7.171748,112.653853",
+    "latitude": "-7.171748",
+    "longitude": "112.653853",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Gatot Subroto Bandung",
+    "address": "Jl. Gatot Subroto 160, Bandung",
+    "location": "-6.925992,107.632173",
+    "latitude": "-6.925992",
+    "longitude": "107.632173",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sudirman Jogja",
+    "address": "Jl. Jendral Sudirman 38",
+    "location": "-7.783295,110.371673",
+    "latitude": "-7.783295",
+    "longitude": "110.371673",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Sukabumi Indah Plaza",
+    "address": "Jl. R.E. Martadinata 25",
+    "location": "-6.92007,106.930128",
+    "latitude": "-6.92007",
+    "longitude": "106.930128",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Mal Daan Mogot",
+    "address": "Jl. Raya Daanmogot km 16",
+    "location": "-6.151109,106.714503",
+    "latitude": "-6.151109",
+    "longitude": "106.714503",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Ruko Sudirman Palembang",
+    "address": "Jl. Jendral Sudirman No. 149",
+    "location": "-2.974217,104.752473",
+    "latitude": "-2.974217",
+    "longitude": "104.752473",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Simpang Dago",
+    "address": "Jl. Ir. H. Juanda no 181,Simpang Dago",
+    "location": "-6.884925,107.61352",
+    "latitude": "-6.884925",
+    "longitude": "107.61352",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cempaka Mas Jakarta",
+    "address": "ITC Cempaka Mas,Jl.Let.Jend Suprapto",
+    "location": "-6.164598,106.877917",
+    "latitude": "-6.164598",
+    "longitude": "106.877917",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Transmart Cilandak Mall",
+    "address": "Transmart Cilandak Mall, Jl. Cilandak KKO, Cilandak Timur",
+    "location": "-6.301159,106.814089",
+    "latitude": "-6.301159",
+    "longitude": "106.814089",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kayu Tangan Malang",
+    "address": "Jl. Brigjend Slamet Riyadi no 1-3",
+    "location": "-7.974695,112.62945",
+    "latitude": "-7.974695",
+    "longitude": "112.62945",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Senayan Trade Center",
+    "address": "Sport Trade Center, Shopping Mall, Lantai LG, Jl. Asia Afrika Pintu IX Senayan",
+    "location": "-6.227717,106.798398",
+    "latitude": "-6.227717",
+    "longitude": "106.798398",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pusat Grosir Cililitan",
+    "address": "Jl. Letjend Sutoyo 76, Cililitan, Kramat Jati",
+    "location": "-6.262264,106.86465",
+    "latitude": "-6.262264",
+    "longitude": "106.86465",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Merdeka Walk",
+    "address": "Jl. Balaikota Komplek Merdeka Walk",
+    "location": "3.589045,98.678289",
+    "latitude": "3.589045",
+    "longitude": "98.678289",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Tamini Square",
+    "address": "Tamini Square Lt. Dasar , Jl. Taman Mini Raya, Pinang Ranti",
+    "location": "-6.290634,106.881084",
+    "latitude": "-6.290634",
+    "longitude": "106.881084",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Duren Sawit",
+    "address": "Jl. Radin Inten, Duren Sawit",
+    "location": "-6.227353,106.922856",
+    "latitude": "-6.227353",
+    "longitude": "106.922856",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Alam Sutera",
+    "address": "Jl. Alam Sutera Bulevard Kav. 2",
+    "location": "-6.244614,106.649822",
+    "latitude": "-6.244614",
+    "longitude": "106.649822",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Lodaya Bogor",
+    "address": "Jl. Raya Padjajaran 21 C",
+    "location": "-6.59232,106.804837",
+    "latitude": "-6.59232",
+    "longitude": "106.804837",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pondok Cabe",
+    "address": "Jl. RE Martadinata, Perempatan Lampu Merah Gaplek No. 45 Pamulang 15417",
+    "location": "-6.346797,106.749614",
+    "latitude": "-6.346797",
+    "longitude": "106.749614",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Medan Tasbi",
+    "address": "Jl. Gagak Hitam, Ring Road ,Tasbi 2",
+    "location": "3.567859,98.625762",
+    "latitude": "3.567859",
+    "longitude": "98.625762",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Shinta Tangerang",
+    "address": "Jl. Teuku Umar No. 1 RT. 4 RW 3 Kel. Karawaci Tangerang Banten",
+    "location": "-6.195042,106.623478",
+    "latitude": "-6.195042",
+    "longitude": "106.623478",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kebo Iwa",
+    "address": "Jl. Kebo Iwa Selatan No 177X Denpasar",
+    "location": "-8.637017,115.185589",
+    "latitude": "-8.637017",
+    "longitude": "115.185589",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Rungkut",
+    "address": "Jl. Raya Rungkut Madya No. 57-59 Surabaya",
+    "location": "-7.331073,112.77575",
+    "latitude": "-7.331073",
+    "longitude": "112.77575",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Graha Family",
+    "address": "Middle Ring Road Pintu Barat Graha Family Surabaya",
+    "location": "-7.288253,112.678831",
+    "latitude": "-7.288253",
+    "longitude": "112.678831",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cinere",
+    "address": "Jl. Cinere Raya No. 1 Pangkalan jati Limo Depok 16513",
+    "location": "-6.323894,106.783903",
+    "latitude": "-6.323894",
+    "longitude": "106.783903",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Megamas Beach Front Manado",
+    "address": "Jl. Boulevard 2 Megamas Manado",
+    "location": "1.487098,124.834456",
+    "latitude": "1.487098",
+    "longitude": "124.834456",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Hayam Wuruk",
+    "address": "Jl. Hayam Wuruk No. 34 - 34A",
+    "location": "-6.160762,106.819703",
+    "latitude": "-6.160762",
+    "longitude": "106.819703",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kelapa Gading",
+    "address": "Jl. Bulevar Artha Gading Kav. D-01, Jakarta Utara",
+    "location": "-6.14675,106.896414",
+    "latitude": "-6.14675",
+    "longitude": "106.896414",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Gading Serpong",
+    "address": "Jl. Boulevard Gading Serpong, Kav. Rotunda No.2, Tangerang",
+    "location": "-6.228992,106.634817",
+    "latitude": "-6.228992",
+    "longitude": "106.634817",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sukahati Cibinong",
+    "address": "Jl. Tegar Beriman/ Jl. Sukahati Cibinong Kabupaten Bogor",
+    "location": "-6.483087,106.81827",
+    "latitude": "-6.483087",
+    "longitude": "106.81827",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kota Harapan Indah",
+    "address": "Kota Harapan Indah, Jl. Harapan Indah Raya, Bekasi Utara",
+    "location": "-6.191317,106.976328",
+    "latitude": "-6.191317",
+    "longitude": "106.976328",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Arion Mall",
+    "address": "Arion Mall, Ground Floor, Jl. Pemuda Rawamangun, Jakarta Timur",
+    "location": "-6.194006,106.890025",
+    "latitude": "-6.194006",
+    "longitude": "106.890025",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Taman Alfa",
+    "address": "Jl. Joglo Raya (Taman Alfa) depan giant, kebon jeruk",
+    "location": "-6.218687,106.754037",
+    "latitude": "-6.218687",
+    "longitude": "106.754037",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Waru Sidoardjo",
+    "address": "Jl. S. Parman No. 4 Waru Sidoarjo",
+    "location": "-7.364762,112.7286",
+    "latitude": "-7.364762",
+    "longitude": "112.7286",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bandung Indah Plaza",
+    "address": "Jl. Merdeka No 56 Bandung",
+    "location": "-6.908275,107.610903",
+    "latitude": "-6.908275",
+    "longitude": "107.610903",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Plaza Cibubur",
+    "address": "Jl. Alternatif Cibubur KM 2-3 Bekasi",
+    "location": "-6.375775,106.915237",
+    "latitude": "-6.375775",
+    "longitude": "106.915237",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Lippo Cikarang",
+    "address": "Jl. MH Thamrin Kav 106 Cikarang",
+    "location": "-6.32727,107.126987",
+    "latitude": "-6.32727",
+    "longitude": "107.126987",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's The Plaza Balikpapan",
+    "address": "Plaza Balikpapan, Jl Sudirman No 1",
+    "location": "-1.277759,116.838639",
+    "latitude": "-1.277759",
+    "longitude": "116.838639",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Depok Town Center",
+    "address": "Jl. Raya Sawangan No 1 Depok",
+    "location": "-6.395039,106.793192",
+    "latitude": "-6.395039",
+    "longitude": "106.793192",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pasar Festival",
+    "address": "Jl HR Rasuna Said No 9 Jakarta Selatan",
+    "location": "-6.220825,106.832675",
+    "latitude": "-6.220825",
+    "longitude": "106.832675",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pandanaran Semarang",
+    "address": "Jl. Pandanaran No 44, Semarang",
+    "location": "-6.986303,110.414112",
+    "latitude": "-6.986303",
+    "longitude": "110.414112",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kartini Cirebon",
+    "address": "Jl. RA Kartini No. 33-35",
+    "location": "-6.711434,108.555634",
+    "latitude": "-6.711434",
+    "longitude": "108.555634",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Citra Raya Cikupa",
+    "address": "Citra Raya Food Festival Jl. Raya Serang, km. 14.7, Tangerang",
+    "location": "-6.230378,106.520844",
+    "latitude": "-6.230378",
+    "longitude": "106.520844",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's MT Haryono Malang",
+    "address": "Jl. MT Haryono No 115",
+    "location": "-7.946861,112.6127",
+    "latitude": "-7.946861",
+    "longitude": "112.6127",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Lippo St Mark Square Karawaci",
+    "address": "Jl.Boulevard Jendral Sudirman No.1298, Kel.Bencongan,Kec.Kelap Dua",
+    "location": "-6.227231,106.604631",
+    "latitude": "-6.227231",
+    "longitude": "106.604631",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sutoyo Tegal",
+    "address": "Jl. Mayjend Sutoyo No 54",
+    "location": "-6.869067,109.128584",
+    "latitude": "-6.869067",
+    "longitude": "109.128584",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Salemba Raya",
+    "address": "Jl. Salemba Raya Kav. 31 RT 01/ RW 05 Kelurahan Paseban, Kecamatan Senen",
+    "location": "-6.194873,106.850317",
+    "latitude": "-6.194873",
+    "longitude": "106.850317",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Nangka Denpasar",
+    "address": "Jl. Gatot Subroto No. 238",
+    "location": "-8.635278,115.22272",
+    "latitude": "-8.635278",
+    "longitude": "115.22272",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pettarani Makassar",
+    "address": "Jl. Pangeran Pettarani No 20",
+    "location": "-5.146153,119.438592",
+    "latitude": "-5.146153",
+    "longitude": "119.438592",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Alauddin",
+    "address": "Jl.Sultan Alauddin No 255 Plaza Boulevar makassar",
+    "location": "-5.179242,119.440162",
+    "latitude": "-5.179242",
+    "longitude": "119.440162",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Padang A.Yani",
+    "address": "Jl. Bandar Damar No 18",
+    "location": "-0.943306,100.355887",
+    "latitude": "-0.943306",
+    "longitude": "100.355887",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Plaza Surabaya",
+    "address": "Jl. Pemuda No.27-31 Surabaya",
+    "location": "-7.265203,112.748695",
+    "latitude": "-7.265203",
+    "longitude": "112.748695",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jati Asih Bekasi",
+    "address": "Jati asih Jl wibawa mukti 2",
+    "location": "-6.295792,106.958742",
+    "latitude": "-6.295792",
+    "longitude": "106.958742",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Ciceri Serang",
+    "address": "Jl. A. Yani, RT 002/ RW 06 Sumur Pecung, Serang",
+    "location": "-6.120194,106.171569",
+    "latitude": "-6.120194",
+    "longitude": "106.171569",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sunset Star",
+    "address": "Jl. Sunset Road Simpang Dewi Sri, Ruko Sunset Star unit DA",
+    "location": "-8.700092,115.177892",
+    "latitude": "-8.700092",
+    "longitude": "115.177892",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McCafe",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Citra Garden",
+    "address": "Citra Garden City, Komp Perum Citra 6 Blok L3 Kecamatan Kalideres, Jakarta Barat",
+    "location": "-6.129164,106.715433",
+    "latitude": "-6.129164",
+    "longitude": "106.715433",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's R. Sukamto Palembang",
+    "address": "Jl. R. Sukamto No.90A Palembang",
+    "location": "-2.9519,104.762233",
+    "latitude": "-2.9519",
+    "longitude": "104.762233",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Graha Raya Tangerang",
+    "address": "Jl. Boulevard Raya Blok MD No.7 Graha Raya Bintaro Tangerang",
+    "location": "-6.240211,106.675967",
+    "latitude": "-6.240211",
+    "longitude": "106.675967",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Meutia Bekasi",
+    "address": "Jl. Raya Cut Meutia Blok A No 1 & 2 , Kel Sepanjang Jaya, Kec Narogong, Bekasi Timur",
+    "location": "-6.260778,107.001144",
+    "latitude": "-6.260778",
+    "longitude": "107.001144",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Juanda Sidoarjo",
+    "address": "Jl Raya Pabean No. 6 Sedati Juanda Sidoardjo",
+    "location": "-7.369119,112.763703",
+    "latitude": "-7.369119",
+    "longitude": "112.763703",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Puri Indah",
+    "address": "Jl Puri Indah blok U1 No 1 Puri Kembangan Jakarta Barat",
+    "location": "-6.187589,106.737958",
+    "latitude": "-6.187589",
+    "longitude": "106.737958",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Juanda Bogor",
+    "address": "Jl. Ir H Juanda Bogor No 50",
+    "location": "-6.601236,106.794647",
+    "latitude": "-6.601236",
+    "longitude": "106.794647",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's BSD Sunburst",
+    "address": "BSD Sun Burst CBD Office Park II.18 Tangerang",
+    "location": "-6.299372,106.664322",
+    "latitude": "-6.299372",
+    "longitude": "106.664322",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Danau Sunter",
+    "address": "Jl. Sunter Agung Utara Blok U 2 No 1, Jakarta Utara",
+    "location": "-6.14076035,106.8840329",
+    "latitude": "-6.14076035",
+    "longitude": "106.8840329",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Grand Wisata Bekasi",
+    "address": "Jl Festival Boulevard Grand Wisata Bekasi",
+    "location": "-6.275164,107.045181",
+    "latitude": "-6.275164",
+    "longitude": "107.045181",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bojongsari Depok",
+    "address": "Jl. Raya Bojong sari No 48, Bojong sari Depok.",
+    "location": "-6.404886,106.741944",
+    "latitude": "-6.404886",
+    "longitude": "106.741944",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jombor Sleman",
+    "address": "Jl Magelang Km 6.3 Jombor Melati Sleman",
+    "location": "-7.748739,110.361861",
+    "latitude": "-7.748739",
+    "longitude": "110.361861",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Karang Satria",
+    "address": "Jl Raya Karang Satria Mutiara Gading 2, Area Gading Teras",
+    "location": "-6.214181,107.035325",
+    "latitude": "-6.214181",
+    "longitude": "107.035325",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kelapa Dua",
+    "address": "Jl Akses UI No 59 Cimanggis Depok",
+    "location": "-6.354772,106.844414",
+    "latitude": "-6.354772",
+    "longitude": "106.844414",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cipayung",
+    "address": "Jl Raya Cipayung, Jakarta Timur",
+    "location": "-6.331386,106.888292",
+    "latitude": "-6.331386",
+    "longitude": "106.888292",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Karang Mulya Tangerang",
+    "address": "Jl. Raden Saleh Karang Mulya Tangerang",
+    "location": "-6.203836,106.716553",
+    "latitude": "-6.203836",
+    "longitude": "106.716553",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Grand Taruma Karawang",
+    "address": "Jl Tarumanegara Kav. 8 Karawang Barat",
+    "location": "-6.30611956,107.2773533",
+    "latitude": "-6.30611956",
+    "longitude": "107.2773533",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jatiwaringin Bekasi",
+    "address": "Jl. Raya Jatiwaringin RT.001 Rw.09 No.26 Jaticempaka PondokGede Bekasi",
+    "location": "-6.268281,106.911278",
+    "latitude": "-6.268281",
+    "longitude": "106.911278",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Slamet Riyadi Solo",
+    "address": "Jl. Slamet Riyadi No. 112, Surakarta",
+    "location": "-7.57023238,110.8229863",
+    "latitude": "-7.57023238",
+    "longitude": "110.8229863",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Teuku Umar Barat Bali",
+    "address": "Jl. Teuku Umar Barat No 241X, Denpasar - Bali",
+    "location": "-8.6820465,115.191633",
+    "latitude": "-8.6820465",
+    "longitude": "115.191633",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jatiwarna Bekasi",
+    "address": "Jl. Raya Hankam No.31 Bekasi",
+    "location": "-6.311461,106.924136",
+    "latitude": "-6.311461",
+    "longitude": "106.924136",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Duta Garden",
+    "address": "Jl Husein Sastra Negara B3 Juru mudi Tangerang",
+    "location": "-6.143031,106.682006",
+    "latitude": "-6.143031",
+    "longitude": "106.682006",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Emerald",
+    "address": "Jl. Rasuna Said CBD Emerald Bintaro Blok CE/A Bintaro Jaya Tangerang Selatan",
+    "location": "-6.272094,106.698381",
+    "latitude": "-6.272094",
+    "longitude": "106.698381",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Soekarno Hatta Bandung",
+    "address": "Jl. Soekarno Hatta no.611 RT.01 RW 01 Kel. Sekejati Kec. Buahbatu",
+    "location": "-6.939578,107.662964",
+    "latitude": "-6.939578",
+    "longitude": "107.662964",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Manyar Kertoarjo Surabaya",
+    "address": "Raya Manyar Kertoarjo no 15",
+    "location": "-7.27935011,112.7653576",
+    "latitude": "-7.27935011",
+    "longitude": "112.7653576",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Menjangan Tangerang",
+    "address": "Jl. Ki Hajar Dewantara, Sawah Lama Ciputat, Tangerang Selatan",
+    "location": "-6.295317,106.734867",
+    "latitude": "-6.295317",
+    "longitude": "106.734867",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jababeka II Cikarang",
+    "address": "Jl. Niaga Raya Metro Boulevard Kav CC3C Jababeka II",
+    "location": "-6.30084536,107.1516219",
+    "latitude": "-6.30084536",
+    "longitude": "107.1516219",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cibitung",
+    "address": "Jl. Imam Bonjol KM 44, Raya Cibitung-Bekasi, Telaga Asih, Cikarang Barat",
+    "location": "-6.269622,107.088719",
+    "latitude": "-6.269622",
+    "longitude": "107.088719",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cipondoh Tangerang",
+    "address": "Jl. KH Hasim Hasari No. 90 Cipondoh, Tangerang Banten",
+    "location": "-6.188542,106.664975",
+    "latitude": "-6.188542",
+    "longitude": "106.664975",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jl Panjang",
+    "address": "Jl Panjang No 16, Kebon Jeruk, Jakarta Barat",
+    "location": "-6.19934596,106.7694258",
+    "latitude": "-6.19934596",
+    "longitude": "106.7694258",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Simpang Dewa Ruci",
+    "address": "Jl By Pass Ngurah Rai No 168, Kuta, Bali",
+    "location": "-8.73111922,115.1789462",
+    "latitude": "-8.73111922",
+    "longitude": "115.1789462",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bandung Buah Batu",
+    "address": "Jl. Buah Batu no 161",
+    "location": "-6.938986,107.625117",
+    "latitude": "-6.938986",
+    "longitude": "107.625117",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pekayon",
+    "address": "Jl Pekayon Raya No 66 Kel Pekayon Bekasi Selatan",
+    "location": "-6.26939415,106.9812629",
+    "latitude": "-6.26939415",
+    "longitude": "106.9812629",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bintara Bekasi",
+    "address": "Jl. Bintara Raya No 17",
+    "location": "-6.23284511,106.9652104",
+    "latitude": "-6.23284511",
+    "longitude": "106.9652104",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Serpong Jaya Tangerang",
+    "address": "Jl Perumahan Serpong Jaya Kav A01 Babakan Tangerang Pamulang, Tangerang Selatan 15314",
+    "location": "-6.346486,106.699367",
+    "latitude": "-6.346486",
+    "longitude": "106.699367",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bogor-Semplak",
+    "address": "Jl. Raya semplak",
+    "location": "-6.564022,106.763094",
+    "latitude": "-6.564022",
+    "longitude": "106.763094",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Gresik GKB",
+    "address": "Jl Sumatra No 4 Perum Gresik Kota Baru (GKB)",
+    "location": "-7.159239,112.618625",
+    "latitude": "-7.159239",
+    "longitude": "112.618625",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kirana Shophouse",
+    "address": "Jl Kelapa Gading Boulevard, Rukan Kirana Boutique Office Blok A1 no 6, Jakarta Utara",
+    "location": "-6.17469253,106.8959841",
+    "latitude": "-6.17469253",
+    "longitude": "106.8959841",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Larangan Indah",
+    "address": "Jl HOS Cokroaminoto Ciledug Tangerang",
+    "location": "-6.231172,106.727808",
+    "latitude": "-6.231172",
+    "longitude": "106.727808",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Ciputat",
+    "address": "Jl H Ruko Juanda No 364 Ciputat",
+    "location": "-6.311339,106.754381",
+    "latitude": "-6.311339",
+    "longitude": "106.754381",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cideng",
+    "address": "Jl Cideng Barat No 55-56 Jakarta Pusat",
+    "location": "-6.173397,106.811111",
+    "latitude": "-6.173397",
+    "longitude": "106.811111",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jakarta Fatmawati",
+    "address": "Jl. RS Fatmawati no 25",
+    "location": "-6.277925,106.797644",
+    "latitude": "-6.277925",
+    "longitude": "106.797644",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Jakarta Otista",
+    "address": "JL OTTO ISKANDARDINATA KAV 125-127 JAKTIM",
+    "location": "-6.237119,106.869008",
+    "latitude": "-6.237119",
+    "longitude": "106.869008",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Bekasi Mustika Jaya Setu",
+    "address": "Jl. H. Djole RT 14 RW 06 Kelurahan Pedurenan Kecamatan Mustika Jaya, Bekasi",
+    "location": "-6.321222,107.015836",
+    "latitude": "-6.321222",
+    "longitude": "107.015836",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Yogyakarta Ambarukmo",
+    "address": "jl. Laksda Adi Sucipto 23-25",
+    "location": "-7.783089,110.407019",
+    "latitude": "-7.783089",
+    "longitude": "110.407019",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jakarta Pahlawan Revolusi",
+    "address": "Jl Revolusi No 122-123 Pondok Bambu",
+    "location": "-6.238669,106.899711",
+    "latitude": "-6.238669",
+    "longitude": "106.899711",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kedaton Lampung",
+    "address": "Jl ZA Pagar Alam No 3 Kedaton Bandar Lampung",
+    "location": "-5.379717,105.253664",
+    "latitude": "-5.379717",
+    "longitude": "105.253664",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Majapahit Semarang",
+    "address": "JL.Brigjen Sudiarto 326 B-C",
+    "location": "-7.008433,110.464497",
+    "latitude": "-7.008433",
+    "longitude": "110.464497",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Grand Kota Bintang",
+    "address": "Jl. KH Noer Ali Kalimalang Bekasi",
+    "location": "-6.249061,106.956839",
+    "latitude": "-6.249061",
+    "longitude": "106.956839",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cibiru Bandung",
+    "address": "Jl.A.H.Nasution",
+    "location": "-6.934467,107.7178",
+    "latitude": "-6.934467",
+    "longitude": "107.7178",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jakarta-Raden Saleh",
+    "address": "Jl. Raden Saleh no 25 rt 02 rw 02 cikini jakpus",
+    "location": "-6.191519,106.842775",
+    "latitude": "-6.191519",
+    "longitude": "106.842775",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pekanbaru-Sudirman (telkom)",
+    "address": "JL.Jendral Sudirman No.117 Pekanbaru",
+    "location": "0.534133,101.447914",
+    "latitude": "0.534133",
+    "longitude": "101.447914",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Strada Tangerang",
+    "address": "Jl.Daan Mogot No.42 Tangerang",
+    "location": "-6.171644,106.631544",
+    "latitude": "-6.171644",
+    "longitude": "106.631544",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Tangerang SDC",
+    "address": "Summarecon Digital Center, Garden Pads 02 SDC Jl Scientia Boulevard Tangerang",
+    "location": "-6.258214,106.616289",
+    "latitude": "-6.258214",
+    "longitude": "106.616289",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Summarecon- Bekasi",
+    "address": "Jl.Boulevard Selatan, La Terrazza Summarecon Bekasi",
+    "location": "-6.227886,106.997617",
+    "latitude": "-6.227886",
+    "longitude": "106.997617",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sangkuriang-Cimahi",
+    "address": "Jl. Sangkuriang No.1 Cimahi",
+    "location": "-6.869628,107.5346",
+    "latitude": "-6.869628",
+    "longitude": "107.5346",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sidoarjo-Taman Geluran",
+    "address": "Jl. Raya Geluran Sidoarjo",
+    "location": "-7.356561,112.69295",
+    "latitude": "-7.356561",
+    "longitude": "112.69295",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Transmart Cempaka Putih",
+    "address": "Transmart Lantai GF, Jalan Ahmad Yani Kav 83, Cempaka Putih, Jakarta Pusat",
+    "location": "-6.168769,106.877322",
+    "latitude": "-6.168769",
+    "longitude": "106.877322",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Bogor-Kota Wisata Cibubur",
+    "address": "Area komersial blok SJ perumahan kota wisata cibubur, kel desa Ciangsana, Kec Gunung Putri",
+    "location": "-6.349878,106.960853",
+    "latitude": "-6.349878",
+    "longitude": "106.960853",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jakarta-TB Simatupang",
+    "address": "Jl. Nangka RT 06 RW 05 Tanjung Barat Jagakarsa Jakarta Selatan",
+    "location": "-6.303814,106.847978",
+    "latitude": "-6.303814",
+    "longitude": "106.847978",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Wiyung Surabaya",
+    "address": "Jl Raya Babatan No 640",
+    "location": "-7.309967,112.679617",
+    "latitude": "-7.309967",
+    "longitude": "112.679617",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's SM Raja Medan",
+    "address": "Jl. SM.Raja No. 140 Simp. Pelangi Medan",
+    "location": "3.562858,98.692722",
+    "latitude": "3.562858",
+    "longitude": "98.692722",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Gambir-Jakarta",
+    "address": "Jalan Merdeka Timur Stasiun Gambir Jakarta Pusat",
+    "location": "-6.176667,106.830783",
+    "latitude": "-6.176667",
+    "longitude": "106.830783",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Solo - Park",
+    "address": "The Park Mall jln IR Soekarno Madegondo Grogol Sukoharjo",
+    "location": "-7.598481,110.815656",
+    "latitude": "-7.598481",
+    "longitude": "110.815656",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Pamularsih",
+    "address": "Jl. Pamularsih No.54, Kel Salaman Mloyo",
+    "location": "-6.988917,110.394328",
+    "latitude": "-6.988917",
+    "longitude": "110.394328",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Puri Surya Jaya-Sidoarjo",
+    "address": "Jl. Taman Gerbang Utama Kav 1 Puri Surya Jaya Sidoarjo",
+    "location": "-7.395783,112.727936",
+    "latitude": "-7.395783",
+    "longitude": "112.727936",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Yogyakarta-Kaliurang",
+    "address": "Jln. Kaliurang km 5.5 Mbarek, Sleman",
+    "location": "-7.762522,110.379772",
+    "latitude": "-7.762522",
+    "longitude": "110.379772",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Edutown-Tangerang",
+    "address": "Jl. BSD Raya Utama No 22",
+    "location": "-6.300228,106.640839",
+    "latitude": "-6.300228",
+    "longitude": "106.640839",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sriwijaya-Lombok",
+    "address": "Jl. Sriwijaya no 98 Pagesangan Timur",
+    "location": "-8.594647,116.11245",
+    "latitude": "-8.594647",
+    "longitude": "116.11245",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Lenteng Agung",
+    "address": "Jl. Raya Lenteng Agung No.12 Kel. Lenteng Agung, Kec. Jagakarsa.Jakarta Selatan",
+    "location": "-6.331542,106.835842",
+    "latitude": "-6.331542",
+    "longitude": "106.835842",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Ciater Raya Tangerang",
+    "address": "Jl. Ciater Raya No. 29 Serpong Kota Tangerang Selatan",
+    "location": "-6.314539,106.700361",
+    "latitude": "-6.314539",
+    "longitude": "106.700361",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Hos Cokroaminoto",
+    "address": "Jl Hos Cokroaminoto no 464 Ubung Kaja Denpasar",
+    "location": "-8.613542,115.193208",
+    "latitude": "-8.613542",
+    "longitude": "115.193208",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Muara Karang",
+    "address": "Jln. Pluit Karang Barat No. 49, Muara Karang, Jakarta Utara",
+    "location": "-6.1158,106.774808",
+    "latitude": "-6.1158",
+    "longitude": "106.774808",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Galuh Mas-Karawang",
+    "address": "Jl. Arteri Galuh Mas, CBD Galuh Mas Kav XIIIC No. 5 & 6",
+    "location": "-6.329319,107.29615",
+    "latitude": "-6.329319",
+    "longitude": "107.29615",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sesetan Bali",
+    "address": "Jalan Raya Sesetan no 369 Denpasar Bali",
+    "location": "-8.703378,115.219811",
+    "latitude": "-8.703378",
+    "longitude": "115.219811",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Metland Transyogi",
+    "address": "Jl. Taman Kota Metropolitan Cileungsi",
+    "location": "-6.404806,106.976583",
+    "latitude": "-6.404806",
+    "longitude": "106.976583",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Batam Center",
+    "address": "Komp. Fanindo Sanctuary Garden, Jl Ahmad Yani No 1, Teluk Tering, Batam Kota",
+    "location": "1.121272,104.049739",
+    "latitude": "1.121272",
+    "longitude": "104.049739",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Ceger Pondok Aren",
+    "address": "Jl. Ceger Raya No. 11 Rt. 01 RW. 11 Jurang Mangu Barat Pondok Aren Tangerang Selatan",
+    "location": "-6.262833,106.727983",
+    "latitude": "-6.262833",
+    "longitude": "106.727983",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Transmart Carrefour-Pekanbaru",
+    "address": "Jl. Soekarno Hatta, Payung Sekaki, Kota Pekanbaru",
+    "location": "0.503458,101.420261",
+    "latitude": "0.503458",
+    "longitude": "101.420261",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Ngaliyan - Semarang",
+    "address": "Jl.Prof Hamka No 105, Semarang",
+    "location": "-7001922,110340581",
+    "latitude": "-7001922",
+    "longitude": "110340581",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jakarta Garden City-Jakarta",
+    "address": "Komplek Garden City, Jalan Raya Cakung Cilincing ( Cacing Raya ) KM 0,5 Cakung, Jakarta Timur 13160",
+    "location": "-6175589,106956397",
+    "latitude": "-6175589",
+    "longitude": "106956397",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Dramaga Bogor",
+    "address": "Jl. Raya Dramaga Rt 01/01 Desa Dramaga Kel. Dramaga Kab.Bogor",
+    "location": "-6.570072,106.738797",
+    "latitude": "-6.570072",
+    "longitude": "106.738797",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jember- Jl Hayam wuruk",
+    "address": "Jl Hayam Wuruk Jember no.40 Sempusari Kaliwates Jember",
+    "location": "-8.184294,113.665869",
+    "latitude": "-8.184294",
+    "longitude": "113.665869",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McDelivery",
+      "Indoor Playground"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Cilegon",
+    "address": "Jl. Ahmad Yani No. 2 Cilegon",
+    "location": "-6.024339,106.068417",
+    "latitude": "-6.024339",
+    "longitude": "106.068417",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jatipadang",
+    "address": "Jl. Raya Ragunan no B6, Jatipadang ÃÂÃÂ Pasar Minggu",
+    "location": "-6.286274,106.831174",
+    "latitude": "-6.286274",
+    "longitude": "106.831174",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's PalMerah",
+    "address": "Jl. Palmerah Barat No 110",
+    "location": "-6.207331,106.791094",
+    "latitude": "-6.207331",
+    "longitude": "106.791094",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Deltamas Cikarang",
+    "address": "Jl Deltamas Boulevard, Greenland Square Block BA-01 Intersection",
+    "location": "-6.365345,107.17888",
+    "latitude": "-6.365345",
+    "longitude": "107.17888",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Binjai",
+    "address": "Jl Soekarno Hatta No. 53 Tanah Tinggi Binjai Timur, BinjaiÃÂÃÂ Medan",
+    "location": "3.608659,98.499612",
+    "latitude": "3.608659",
+    "longitude": "98.499612",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Daya Makasar",
+    "address": "Jl. Perintis Kemerdekaan KM 13 Daya Makasar",
+    "location": "-5.119867,119.509251",
+    "latitude": "-5.119867",
+    "longitude": "119.509251",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Balikpapan Baru",
+    "address": "Jl.MT Haryono,Kelurahan Damai Balikpapan Baru",
+    "location": "-1.242034,116.872489",
+    "latitude": "-1.242034",
+    "longitude": "116.872489",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Setia Budi Bandung",
+    "address": "Jl. Setiabudhi No. 86-88 Bandung.",
+    "location": "-6.880039,107.598936",
+    "latitude": "-6.880039",
+    "longitude": "107.598936",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Rest Area KM 57",
+    "address": "Jl. Tol Jakarta Ã- Cikampek KM 57, Karawang",
+    "location": "-6.3669,107.360421",
+    "latitude": "-6.3669",
+    "longitude": "107.360421",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Antasari Lampung",
+    "address": "Jl.Pangeran Antasari no 100 ,Jagabaya III Way Halim",
+    "location": "-5.40537,105.277165",
+    "latitude": "-5.40537",
+    "longitude": "105.277165",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "McDelivery"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Talaga Bestari",
+    "address": "Jl. Jungle Boulevard, Talaga Bestari, Cibadak, Cikupa, Tangerang",
+    "location": "-6.200423,106.48066",
+    "latitude": "-6.200423",
+    "longitude": "106.48066",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sultan Agung",
+    "address": "JL. Sultan Agung no. 24 Yogyakarta",
+    "location": "-7.801881,110.374652",
+    "latitude": "-7.801881",
+    "longitude": "110.374652",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sisingaraja",
+    "address": "Jl. Ngurah rai no. 53 Singaraja - Bali",
+    "location": "-8.115158,115.091489",
+    "latitude": "-8.115158",
+    "longitude": "115.091489",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Marelan",
+    "address": "Jl. Marelan raya, pasar 1 Medan Sumatra Utara",
+    "location": "3.690538,98.65623",
+    "latitude": "3.690538",
+    "longitude": "98.65623",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Hasyim Ashari",
+    "address": "Jl KH Hasyim Ashari no 08, kelurahan Nerotog, Kecamatan Pinang, Tangerang",
+    "location": "-6.209086,106.687977",
+    "latitude": "-6.209086",
+    "longitude": "106.687977",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Perdatam",
+    "address": "Jl Raya Pasar Minggu RT 008 RW 02 Pancoran,Jakarta Selatan",
+    "location": "-6.250209,106.842889",
+    "latitude": "-6.250209",
+    "longitude": "106.842889",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Jati Bengkulu",
+    "address": "Jl Jati Bengkulu No. 01A rt 8 rw 2 Kel Sawah Lebar, Kec Ratu Agung, Kota Bengkulu",
+    "location": "-3.796652,102.272952",
+    "latitude": "-3.796652",
+    "longitude": "102.272952",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sipin Jambi",
+    "address": "Jl Soemantri Brojonegoro No 54, Kota Jambi",
+    "location": "-1.610528,103.596200",
+    "latitude": "-1.610528",
+    "longitude": "103.596200",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Banjarmasin",
+    "address": "Jl A Yani KM 2,5 rt 12 rw 02 Kel Sungai Lebar Kec Banjarmasin Tengah",
+    "location": "-3.326767,114.606134",
+    "latitude": "-3.326767",
+    "longitude": "114.606134",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Mampang Hermina",
+    "address": "Jl Mampang Prapatan Raya rt 008 rw 03 No 90 Tegal Parang",
+    "location": "-6.145481,106.493342",
+    "latitude": "-6.145481",
+    "longitude": "106.493342",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald’s Citra 7",
+    "address": "Jl. Citra 7, Blok B.02 No. 28 - 31, Perumahan Citra 7, Citra Garden City, Kalideres, Jakarta Barat",
+    "location": "-6.146620,106.700723",
+    "latitude": "-6.146620",
+    "longitude": "106.700723",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Magnolia Residence Tangerang",
+    "address": "Jl. Gatot Subroto Km. 6,8 Jatake, Jatiuwung - Magnolia Residence Tangerang",
+    "location": "-6.200463,106.574884",
+    "latitude": "-6.200463",
+    "longitude": "106.574884",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kemiling Lampung",
+    "address": "Jl. Teuku Cik Ditiro Blok H-3 No. 05 Rt.016 LK.1 Kel Beringin Raya Kemiling Bandar lampung",
+    "location": "-5.398022,105.212257",
+    "latitude": "-5.398022",
+    "longitude": "105.212257",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald’s Ryacudu",
+    "address": "Jl. HM Ryacudu, Rt.44/12 Kelurahan 7 Ulu, Kecamatan Seberang Ulu 1 Palembang",
+    "location": "-2.997788,104.76719",
+    "latitude": "-2.997788",
+    "longitude": "104.76719",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Grand Batavia",
+    "address": "Perumahan Grand Batavia Sindangsari, Kec. Ps. Kemis, Tangerang, Banten",
+    "location": "-6.138959,106.541526",
+    "latitude": "-6.138959",
+    "longitude": "106.541526",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's WJ Lalamentik Kupang",
+    "address": "Jl. WJ Lalamentik, Kupang, NTT",
+    "location": "-10.173582,123.613652",
+    "latitude": "-10.173582",
+    "longitude": "123.613652",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Griya Idola",
+    "address": "Jl. Raya Serang no. 12 , Bitung Jaya , Tangerang, Banten",
+    "location": "-6.224853,106.545928",
+    "latitude": "-6.224853",
+    "longitude": "106.545928",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sudirman Madiun",
+    "address": "Jl. Panglima Sudirman nomor 93 Kota Madiun",
+    "location": "-7.631427,111.523391",
+    "latitude": "-7.631427",
+    "longitude": "111.523391",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Juanda Bekasi Timur",
+    "address": "Jl. Ir. Juanda No. 22 Bekasi Timur (Samping Stasiun Bekasi Timur)",
+    "location": "-6.247837,107.018504",
+    "latitude": "-6.247837",
+    "longitude": "107.018504",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Karebosi Link Makassar",
+    "address": "Jl. Jenderal Achmad Yani, Lapangan Karebosi, Kelurahan Baru, Kecamatan Ujung pandang",
+    "location": "-5.133206,119.411154",
+    "latitude": "-5.133206",
+    "longitude": "119.411154",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald'S Pondok Indah Mall 1",
+    "address": "JL. Metro Pondok Indah Block 3B Rt 01/Rw16 Pondok Pinang, Kec Kebayoran lama Jakarta Selatan",
+    "location": "-6.266496,106.784582",
+    "latitude": "-6.266496",
+    "longitude": "106.784582",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Rest Area KM21",
+    "address": "Rest Area Tol jagorawi KM21, Bojong Nangka, Kec. Gunung Putri, Bogor, Jawa Barat",
+    "location": "-6.434664,106.893662",
+    "latitude": "-6.434664",
+    "longitude": "106.893662",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Self-Order Kiosk"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Veteran Purwakarta",
+    "address": "Jl. Veteran Nagri Kaler No 18 Purwakarta",
+    "location": "-6.527389,107.447472",
+    "latitude": "-6.527389",
+    "longitude": "107.447472",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Hertasning Gowa",
+    "address": "Jl. Tun Abdul Razak, Tombolo Somba Opu , Gowa",
+    "location": "-5.180442,119.466558",
+    "latitude": "-5.180442",
+    "longitude": "119.466558",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Tabanan",
+    "address": "Jl. Ir. Soekarno By Pass Kediri Tabanan",
+    "location": "-8.551735,115.13062",
+    "latitude": "-8.551735",
+    "longitude": "115.13062",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kings Plaza",
+    "address": "Jl. Kepatihan No 11 - 17",
+    "location": "-6.922841,107.604889",
+    "latitude": "-6.922841",
+    "longitude": "107.604889",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonalds Khatib Sulaiman",
+    "address": "JL Khatib Sulaiman",
+    "location": "-0.911840,100.355933",
+    "latitude": "-0.911840",
+    "longitude": "100.355933",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Summarecon Bandung",
+    "address": "Jl Magna Raya, Rancabolang - Gedebage",
+    "location": "-6.957241,107.690091",
+    "latitude": "-6.957241",
+    "longitude": "107.690091",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Telkom Cilegon",
+    "address": "JL. Raya Anyer Warnasari,Citangkil",
+    "location": "-6.01171,106.01205",
+    "latitude": "-6.01171",
+    "longitude": "106.01205",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Rest Area KM 726B",
+    "address": "Rest Area KM 726B Tol Surabaya - Mojokerto",
+    "location": "-7.375806,112.553352",
+    "latitude": "-7.375806",
+    "longitude": "112.553352",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sunandar Priyo Malang",
+    "address": "Jl. Sunandar Priyo Sudarmo No 11 Malang",
+    "location": "-7.956398,112.644144",
+    "latitude": "-7.956398",
+    "longitude": "112.644144",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonalds Tangcity Mall",
+    "address": "Jl. Jendral Sudirman No.1 , Cikokol",
+    "location": "-6.193671,106.633473",
+    "latitude": "-6.193671",
+    "longitude": "106.633473",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Margonda",
+    "address": "Jl. Margonda Raya No.229, Beji, Jabodetabek",
+    "location": "-6.382449,106.829564",
+    "latitude": "-6.382449",
+    "longitude": "106.829564",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Indoor Playground",
+      "Party Room"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Drive Thru Pemuda",
+    "address": "Jln.Pemuda no.19 Ramawangun",
+    "location": "-6.192868,106.881649",
+    "latitude": "-6.192868",
+    "longitude": "106.881649",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "McCafe",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Summarecon Mutiara Makassar",
+    "address": "Jl Mutiara Boulevard",
+    "location": "-5.07839,119.50365",
+    "latitude": "-5.07839",
+    "longitude": "119.50365",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Hb Jassin Gorontalo",
+    "address": "Jl. Hb Jassin no 33 Gorontalo",
+    "location": "0.544528,123.054338",
+    "latitude": "0.544528",
+    "longitude": "123.054338",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Pancing Medan",
+    "address": "Jln.Williem Iskandar,Indra kasih,Kec.Medan Tembung,Kota Medan Sumatera Utara",
+    "location": "3.6182891,98.7073385",
+    "latitude": "3.6182891",
+    "longitude": "98.7073385",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Brigjen Darsono",
+    "address": "Jl Brigjen Darsono - Cirebon",
+    "location": "-6.73215207,108.54070394",
+    "latitude": "-6.73215207",
+    "longitude": "108.54070394",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Blok M",
+    "address": "Jl. Sultan Hasanudin No.53 - 54 , Melawai Jakarta Selatan",
+    "location": "-6.24215838,106.8021101",
+    "latitude": "-6.24215838",
+    "longitude": "106.8021101",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Banjar Baru",
+    "address": "Jl A Yani KM 34 RT 2 RW 2 Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru, Kalimantan Selatan",
+    "location": "-3.44254,114.825303",
+    "latitude": "-3.44254",
+    "longitude": "114.825303",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party"
+    ]
+  },
+  {
+    "opening": "CLOSED",
+    "name": "McDonald's K-Walk Manado",
+    "address": "Jl. AA Maramis, Paniki Bawah - Kecamatan Mapanget",
+    "location": "1.503223,124.900394",
+    "latitude": "1.503223",
+    "longitude": "124.900394",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Kramat Raya Kwitang",
+    "address": "Jl. Kramat Raya No 104, Kwitang Jakarta Pusat",
+    "location": "-6.183577,106.843022",
+    "latitude": "-6.183577",
+    "longitude": "106.843022",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Mal Panakkukang",
+    "address": "Jl.Boulevard kompleks panakkukang mas Makassar",
+    "location": "-5.1583507,119.4477117",
+    "latitude": "-5.1583507",
+    "longitude": "119.4477117",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sultan Hasanuddin Makassar",
+    "address": "Jl. Sultan Hasanuddin No.33",
+    "location": "-5.141328,119.410802",
+    "latitude": "-5.141328",
+    "longitude": "119.410802",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Sedayu City",
+    "address": "Jl. Sedayu Boulevard Kav Bigbox No 30-32",
+    "location": "-6.182629,106.947666",
+    "latitude": "-6.182629",
+    "longitude": "106.947666",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Meruya Ilir",
+    "address": "Jl. Meruya Ilir No. 19 ,kel. Meruya Utara, Jakarta Barat",
+    "location": "-6.197259,106.74823",
+    "latitude": "-6.197259",
+    "longitude": "106.74823",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Edi Sabara Kendari",
+    "address": "Jl. Edi Sabara-Made Sabara Kelurahan Korumba, Kecamatan Madonga",
+    "location": "-3.975.034,122.521613",
+    "latitude": "-3.975.034",
+    "longitude": "122.521613",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Jaya Imperial Park",
+    "address": "Jl. Raya Mauk No.km 11, Sepatan",
+    "location": "-6.1255050,106.5854559",
+    "latitude": "-6.1255050",
+    "longitude": "106.5854559",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Gandaria Pasar Rebo",
+    "address": "Jl. Raya Bogor Km. 28 RT. 008 RW. 07, Pekayon, Pasar Rebo",
+    "location": "-6.3523263,106.8636291",
+    "latitude": "-6.3523263",
+    "longitude": "106.8636291",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Citra Grand City Palembang",
+    "address": "Citra Grand City Palembang Blok B 01 No. 01 95/20",
+    "location": "-2.929652,104.682831",
+    "latitude": "-2.929652",
+    "longitude": "104.682831",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Tambak",
+    "address": "Jl. Tambak No 15 - 17 , Pengangsaan Kec Menteng",
+    "location": "-6.203934,106.849815",
+    "latitude": "-6.203934",
+    "longitude": "106.849815",
+    "services": [
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Tentara Pelajar Magelang",
+    "address": "Jl. Tentara Pelajar Magelang N0 65 Magelang",
+    "location": "-7.48596,110.215667",
+    "latitude": "-7.48596",
+    "longitude": "110.215667",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "Birthday Party",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN",
+    "name": "McDonald's Bandung Electronic Centre",
+    "address": "Jalan Purnawarman No 13 - 15",
+    "location": "-6.907978,107.608940",
+    "latitude": "-6.907978",
+    "longitude": "107.608940",
+    "services": [
+      "Wi-Fi",
+      "Breakfast",
+      "McDelivery",
+      "Self-Order Kiosk",
+      "Table Service"
+    ]
+  },
+  {
+    "opening": "OPEN 24 HOURS",
+    "name": "McDonald's Djuanda Tasikmalaya",
+    "address": "Jalan Ir H Djuanda No 8",
+    "location": "-7.306109,108.204043",
+    "latitude": "-7.306109",
+    "longitude": "108.204043",
+    "services": [
+      "24 hours",
+      "Wi-Fi",
+      "Drive Thru",
+      "Breakfast",
+      "Birthday Party",
+      "McDelivery",
+      "Indoor Playground",
+      "Party Room",
+      "Self-Order Kiosk"
+    ]
+  }
+]

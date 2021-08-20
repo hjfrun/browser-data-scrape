@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CARREFOUR DENPASAR",
+    "address": "JL. SUNSET ROAD, Denpasar, Bali",
+    "latitude": -8.712663,
+    "longitude": 115.187294,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR KIARA CONDONG",
+    "address": "SUKARNO HATTA 526, Bandung, Jawa Barat",
+    "latitude": -6.946752,
+    "longitude": 107.640954,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR LEBAK BULUS",
+    "address": "JL. LEBAK BULUS NO. 8, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.28773,
+    "longitude": 106.775911,
+    "services": []
+  },
+  {
+    "name": "CBD CILEDUG",
+    "address": "JL. HOS COKROAMINOTO NO. 93 KARANG TENGAH - CILEDUG, Tangerang, Banten",
+    "latitude": -6.22432,
+    "longitude": 106.70827,
+    "services": []
+  },
+  {
+    "name": "CEMARA ASRI MEDAN",
+    "address": "JL. KOMP. CEMARA ASRI, Medan, Sumatera Utara",
+    "latitude": 3.628707,
+    "longitude": 98.707532,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CEMPAKA PUTIH JAKARTA",
+    "address": "JL. CEMPAKA PUTIH RAYA,  NO 106 KEL. CEMPAKA PUTIH TIMUR, CEMPAKA PUTIH JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.17654,
+    "longitude": 106.873131,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  }
+]

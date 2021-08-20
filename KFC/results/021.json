@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX LIPPO PLAZA JOGJA",
+    "address": "Jl Laksda Adisucipto, no 32-34, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.78352,
+    "longitude": 110.390516,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING PLAZA BALIKPAPAN",
+    "address": "Jl. MT Haryono, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114, Balikpapan, Kalimantan Timur",
+    "latitude": -1.241574,
+    "longitude": 116.873223,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING PLAZA JABABEKA",
+    "address": "Jl. Niaga Raya, Mekarmukti, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530, Bekasi, Jawa Barat",
+    "latitude": -6.299453,
+    "longitude": 107.150927,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING WORLD ALAM SUTERA",
+    "address": "Jl. Alam Sutera Boulevard Kav.21, Pakulonan, Serpong Utara , Kota Tangerang Selatan, Banten 15325, Tangerang Selatan, Banten",
+    "latitude": -6.244225,
+    "longitude": 106.653568,
+    "services": []
+  },
+  {
+    "name": "BOX MAJU BERSAMA MARENDAL",
+    "address": "Jl. KL Yos Sudarso, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238, Indonesia, Kota Medan, Sumatera Utara",
+    "latitude": 3.538458,
+    "longitude": 98.699776,
+    "services": []
+  },
+  {
+    "name": "BOX MAJU BERSAMA MEDAN",
+    "address": "Jl. Yos Sudarso No. 123 - 125 Glugur Medan, Medan, Sumatera Utara",
+    "latitude": 3.616344,
+    "longitude": 98.671799,
+    "services": []
+  }
+]

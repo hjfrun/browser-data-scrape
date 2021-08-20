@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX RSUD KANUJOSO BALIKPAPAN",
+    "address": "Jl MT Haryono Ringroad no 656, Balikpapan Utara, Balikpapan, Kalimantan Timur",
+    "latitude": -1.223472,
+    "longitude": 116.868806,
+    "services": []
+  },
+  {
+    "name": "BOX SEKIP PALEMBANG",
+    "address": "Jl. Mayor Salim Batubara, 20 Ilir D II, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30164, Kota Palembang, Sumatera Selatan",
+    "latitude": -2.959938,
+    "longitude": 104.757026,
+    "services": []
+  },
+  {
+    "name": "BOX SHELL CIREBON",
+    "address": "Jl. Kesambi No.130, Sunyaragi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45132, Cirebon, Jawa Barat",
+    "latitude": -6.737444,
+    "longitude": 108.549551,
+    "services": []
+  },
+  {
+    "name": "BOX SHELL PLUIT",
+    "address": "( Shell Pluit Selatan - 1 ) Jl Pluit Selatan Raya No. 7 Jakarta Utara, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.125658,
+    "longitude": 106.798359,
+    "services": []
+  },
+  {
+    "name": "BOX SLEMAN MALL",
+    "address": "Jl Magelang km 9,6  Tridadi, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.720201,
+    "longitude": 110.361258,
+    "services": []
+  },
+  {
+    "name": "BOX SPBU BOX KATAMSO",
+    "address": "Jl. Brigjend Katamso, Sei Mati, Medan Maimun, Kota Medan, Sumatera Utara 20215, Kota Medan, Sumatera Utara",
+    "latitude": 3.568465,
+    "longitude": 98.686929,
+    "services": []
+  }
+]

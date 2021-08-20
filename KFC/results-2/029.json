@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX SPBU CIAUL SUKABUMI",
+    "address": "Jl. RA Kosasih Cisarua Cikole. Sukabumi, Sukabumi, Jawa Barat",
+    "latitude": -6.922244,
+    "longitude": 106.941693,
+    "services": ""
+  },
+  {
+    "name": "BOX SPBU FATMAWATI",
+    "address": "Jl. Rumah Sakit Fatmawati RT.04 RW.04 Cipete Selatan, Cilandak Jakarta – Selatan 12150, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.272167,
+    "longitude": 106.797778,
+    "services": ""
+  },
+  {
+    "name": "BOX SPBU SUNTER KEMAYORAN",
+    "address": "Jl Sunter Kemayoran no 3, Sunter Jaya, Tanjung Priuk, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.161974,
+    "longitude": 106.875059,
+    "services": ""
+  },
+  {
+    "name": "BOX STASIUN CIREBON",
+    "address": "Stasiun Kejaksaan Cirebon, Jl Siliwangi, Kebon Baru, Kejaksaan, Cirebon, Jawa Barat",
+    "latitude": -6.705328,
+    "longitude": 108.555566,
+    "services": ""
+  },
+  {
+    "name": "BOX STASIUN MANGGARAI",
+    "address": "Stasiun Manggarai, JL. Manggarai Utara No. 1 Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.210417,
+    "longitude": 106.849921,
+    "services": ""
+  },
+  {
+    "name": "BOX SUNCITY MADIUN",
+    "address": "Jl. S. Parman, Oro-oro Ombo, Kec. Kartoharjo, Kota Madiun, Jawa Timur 63119, Madiun, Jawa Timur",
+    "latitude": -7.622412,
+    "longitude": 111.536293,
+    "services": ""
+  }
+]

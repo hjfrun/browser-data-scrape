@@ -1,0 +1,44 @@
+[
+  {
+    "name": "REST AREA KM 102 CIPALI",
+    "address": "KM REST AREA 102 CIPALI BABAKAN ROYOM DESA BATUSARI, Kab. Subang, Jawa Barat",
+    "latitude": -6.507975,
+    "longitude": 107.721883,
+    "services": "KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "REST AREA KM 13,5 TANGERANG",
+    "address": "Jalan Tol Jakarta Merak KM 13,5, Tangerang, Banten",
+    "latitude": -6.213941,
+    "longitude": 106.682339,
+    "services": ""
+  },
+  {
+    "name": "REST AREA KM 14 TANGERANG",
+    "address": "REST AREA PINANG POINT TOL TANGERANG KM. 14, Tangerang, Banten",
+    "latitude": -6.214452,
+    "longitude": 106.677286,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "REST AREA KM 19 BEKASI",
+    "address": "TOL JAKARTA - CIKAMPEK KM. 19 LAMBANG SARI - TAMBUN SELATAN, Bekasi, Jawa Barat",
+    "latitude": -6.268796,
+    "longitude": 107.036539,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "REST AREA KM 26 SURABAYA",
+    "address": "JL. TOL SURABAYA- GEMPOL KM.26, DESA SIDOKEPUNG,KEC.BUDURAN, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.426642,
+    "longitude": 112.693249,
+    "services": ""
+  },
+  {
+    "name": "REST AREA KM 40 KARAWANG",
+    "address": "JL. TOL JAKARTA - CIKAMPEK KM 40 DESA GINTUNG - KEC. KLARI, Kab. Karawang, Jawa Barat",
+    "latitude": -6.348186,
+    "longitude": 107.204839,
+    "services": "KFC Drive Thru"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CAKUNG",
+    "address": "PLZ TAMAN MODERN CAKUNG JL. RAYA BEKASI KM. 24 CAKUNG - JKATIM, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.186366,
+    "longitude": 106.949391,
+    "services": ""
+  },
+  {
+    "name": "CAKUNG GRAND MALL",
+    "address": "JL. Raya Bekasi, KM 25, Cakung, Kota Jakarta Timur, 17143, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.187187,
+    "longitude": 106.9585,
+    "services": ""
+  },
+  {
+    "name": "CANDI SEMARANG",
+    "address": "JL.SULTAN AGUNG NO. 97, Semarang, Jawa Tengah",
+    "latitude": -7.015471,
+    "longitude": 110.417946,
+    "services": ""
+  },
+  {
+    "name": "CARGO PERMAI BALI",
+    "address": "Jl. Gunung Galunggung No.888x Kel.Padangsambian, Denpasar, Bali",
+    "latitude": -8.618594,
+    "longitude": 115.190432,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "CARREFOUR BEKASI",
+    "address": "JL. CHAIRIL ANWAR NO. 27 - 36, Bekasi, Jawa Barat",
+    "latitude": -6.256491,
+    "longitude": 107.008512,
+    "services": ""
+  },
+  {
+    "name": "CARREFOUR CAWANG",
+    "address": "LAKESPRA  MT. HARYONO , JAKARTA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243501,
+    "longitude": 106.862883,
+    "services": ""
+  }
+]

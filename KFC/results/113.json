@@ -1,0 +1,46 @@
+[
+  {
+    "name": "SUZUYA BANDA ACEH",
+    "address": "Jl. Teuku Umar, Lam Teumen, Banda Aceh, Banda Aceh, Aceh",
+    "latitude": 5.537917,
+    "longitude": 95.306625,
+    "services": []
+  },
+  {
+    "name": "SUZUYA BINJAI",
+    "address": "JL. SUTOMO NO. 12, Binjai, Sumatera Utara",
+    "latitude": 3.610904,
+    "longitude": 98.493272,
+    "services": []
+  },
+  {
+    "name": "SUZUYA BIREUN",
+    "address": "Jl Sultan Malikul Saleh Sp. 4 Kota Bireun, Samping Kantor Pos, Kec.Juang, Kab. Bireun, Aceh",
+    "latitude": 5.201929,
+    "longitude": 96.703069,
+    "services": []
+  },
+  {
+    "name": "SUZUYA MEDAN",
+    "address": "JL. BRIGJEN KATAMSO, KAMPUNG BARU, Medan, Sumatera Utara",
+    "latitude": 3.54873,
+    "longitude": 98.687581,
+    "services": []
+  },
+  {
+    "name": "SUZUYA RANTAU PRAPAT",
+    "address": "JL. JEND. AHMAD YANI NO. 125, Kab. Labuhan Batu, Sumatera Utara",
+    "latitude": 2.097483,
+    "longitude": 99.833032,
+    "services": []
+  },
+  {
+    "name": "SUZUYA TANJUNG MORAWA",
+    "address": "JL. MEDAN - LUBUK PAKAM KM. 17,5, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.52678,
+    "longitude": 98.796143,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  }
+]

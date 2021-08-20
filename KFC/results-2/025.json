@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX RAMAYANA CIKUPA",
+    "address": "Jl. Raya Serang, Talagasari, Cikupa, Tangerang, Banten 15710, Tangerang, Banten",
+    "latitude": -6.228423,
+    "longitude": 106.514233,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA CILEDUG",
+    "address": "Jl. HOS Cokroaminoto, Karang Tim., Kec. Karang Tengah, Kota Tangerang, Banten 15157, Kab. Tangerang, Banten",
+    "latitude": -6.227441,
+    "longitude": 106.717894,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA CIREBON",
+    "address": "Jl. Raya Plered - Cirebon, Weru Lor, Weru, Cirebon, Jawa Barat 45000, Cirebon, Jawa Barat",
+    "latitude": -6.703391,
+    "longitude": 108.501762,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA KEDIRI",
+    "address": "Jl. Jend. Sudirman, Ringin Anom, Kec. Kota Kediri, Kota Kediri, Jawa Timur 64129, Kabupaten Kediri, Jawa Timur",
+    "latitude": -7.822599,
+    "longitude": 112.011052,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA PADALARANG",
+    "address": "Jl. Raya Padalarang, Kertamulya, Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553, Bandung Barat, Jawa Barat",
+    "latitude": -6.846087,
+    "longitude": 107.489244,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA PASAR MINGGU",
+    "address": "Jalan Raya Ragunan RT 01/07 no 113, Pasar Minggu, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.285345,
+    "longitude": 106.840797,
+    "services": ""
+  }
+]

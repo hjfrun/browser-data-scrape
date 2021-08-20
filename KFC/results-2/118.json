@@ -1,0 +1,44 @@
+[
+  {
+    "name": "THAMRIN LIPPO CIKARANG",
+    "address": "Jl. MH Thamrin Kav 110B, Lippo Cikarang - Bekasi 17550, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.328611,
+    "longitude": 107.12875,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "THEE MATIC MAJALAYA",
+    "address": "Jl. Anyar, Majasetra, Kec. Majalaya, Bandung, Jawa Barat 40382, Bandung, Jawa Barat",
+    "latitude": 7.027093,
+    "longitude": 107.750678,
+    "services": ""
+  },
+  {
+    "name": "THM PLAZA TARAKAN",
+    "address": "JL. YOS SUDARSO , SIMPANG  TIGA TARAKAN, Tarakan, Kalimantan Utara",
+    "latitude": 3.309133,
+    "longitude": 117.583964,
+    "services": ""
+  },
+  {
+    "name": "TIBAN BATAM",
+    "address": "Jl. Gajah Mada Tiban III. Kel Patam Lestari, Kec Sekupang, Kota Batam, Batam, Kepulauan Riau",
+    "latitude": 1.108655,
+    "longitude": 103.966688,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "TIMIKA",
+    "address": "JL. CENDRAWASIH KOMPLEKS MULIA MINI MALL - TIMIKA, Kab. Mimika, Papua ",
+    "latitude": -4.542394,
+    "longitude": 136.885497,
+    "services": ""
+  },
+  {
+    "name": "TITI KUNING MEDAN",
+    "address": "JL. JEND A.H NASUTION NO. 58, Medan, Sumatera Utara",
+    "latitude": 3.540586,
+    "longitude": 98.680664,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "CENTRAL BALIKPAPAN",
+    "address": "Jl Let. Jend. Suprapto No 3 Balikpapan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.237723,
+    "longitude": 116.827298,
+    "services": []
+  },
+  {
+    "name": "CENTRE POINT MEDAN",
+    "address": "Center Point Medan. LG Unit 20, Jl. Jawa No.8 - 20231 Medan Timur, Medan, Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.591253,
+    "longitude": 98.680437,
+    "services": []
+  },
+  {
+    "name": "CHANDRA LAMPUNG",
+    "address": "JL. PEMUDA, H. WURUK NO. 1, TJ. KARANG, Bandar Lampung, Lampung",
+    "latitude": -5.411657,
+    "longitude": 105.259537,
+    "services": []
+  },
+  {
+    "name": "CIAWI BOGOR",
+    "address": "Jl. Raya Ciawi , Samping Pasar Ciawi Puncak Bogor, Bogor Selatan, Kab. Bogor, Jawa Barat, Kab.Bogor, Jawa Barat",
+    "latitude": -6.658624,
+    "longitude": 106.849845,
+    "services": []
+  },
+  {
+    "name": "CIBABAT CIMAHI",
+    "address": "Jl. Raya Cibabat, Rt. 01/ Rw. 03 Kel. Cibabat, Kec. Cimahi Utara, Kota Cimahi, Cimahi, Jawa Barat",
+    "latitude": -6.878445,
+    "longitude": 107.550123,
+    "services": []
+  },
+  {
+    "name": "CIBUBUR CIKEAS",
+    "address": "Jl. Alternatif Cibubur  Rt.002 Rw. 007 Kel. Ngarak Kab.Gunung Putri - Bogor, Kab. Bogor, Jawa Barat",
+    "latitude": -6.388206,
+    "longitude": 106.942454,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  }
+]

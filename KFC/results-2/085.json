@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PANTAI INDAH KAPUK",
+    "address": "JL. PANTAI INDAH UTARA 2 METRO CENTRO BLOK B 1 NO. 1, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.116632,
+    "longitude": 106.76162,
+    "services": "KFC A.M,KFC Drive Thru"
+  },
+  {
+    "name": "PANTAI LOSARI",
+    "address": "Jl. Penghibur No. 45, kec. Ujung pandang, kel. Maloku, Makassar, Makassar, Sulawesi Selatan",
+    "latitude": -5.141186,
+    "longitude": 119.407066,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "PARAGON SENGGIGI",
+    "address": "Jl. Raya Senggigi No.8, Senggigi, Batu Layar, Kabupaten Lombok Barat, Nusa Tenggara Bar. 83355, Kab. Lombok Barat, Nusa Tenggara Barat",
+    "latitude": -8.5013108,
+    "longitude": 116.0507576,
+    "services": ""
+  },
+  {
+    "name": "PARAMOUNT SERPONG",
+    "address": "Kampung Sangereng Curug, Sangereng Kelapa II, Tangerang Kav.1 One Bez, Tangerang, Banten",
+    "latitude": -6.257127,
+    "longitude": 106.620483,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "PARE-PARE",
+    "address": "JL. BAU MASSEPPE NO, 419, Pare-pare, Sulawesi Selatan",
+    "latitude": -4.013361,
+    "longitude": 119.621566,
+    "services": ""
+  },
+  {
+    "name": "PARIS VAN JAVA",
+    "address": "JL. SUKAJADI NO. 137 - 139, Bandung, Jawa Barat",
+    "latitude": -6.888945,
+    "longitude": 107.596326,
+    "services": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MANAHAN SOLO",
+    "address": "Jl Adi Sucipto No 30, Manahan Surakarta, Surakarta, Jawa Tengah",
+    "latitude": -7.555742,
+    "longitude": 110.802935,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MANDALA MERAUKE",
+    "address": "Jl Raya Mandala Rt 16/06 Kel. Seringgu, Kec Merauke, Kab. Merauke, Papua ",
+    "latitude": -8.497019,
+    "longitude": 140.394825,
+    "services": []
+  },
+  {
+    "name": "MANDAU CITY",
+    "address": "Jl Jend. Sudirman Komp Duri Indah Raya Kav 109, Duri Riau, Kab. Bengkalis, Riau",
+    "latitude": 1.280387,
+    "longitude": 101.193516,
+    "services": []
+  },
+  {
+    "name": "MANGGA DUA MALL",
+    "address": "JL.ARTERI MANGGA DUA RAYA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.136859,
+    "longitude": 106.823626,
+    "services": []
+  },
+  {
+    "name": "MANGGA DUA SQUARE",
+    "address": "JL. MANGGA DUA RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138615,
+    "longitude": 106.831622,
+    "services": []
+  },
+  {
+    "name": "MANOKWARI",
+    "address": "JL. YOS SUDARSO HADI MALL MANOKWARI, Kab. Manokwari, Papua Barat",
+    "latitude": -0.856636,
+    "longitude": 134.067416,
+    "services": []
+  }
+]

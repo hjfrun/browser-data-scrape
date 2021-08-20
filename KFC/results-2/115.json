@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TAMAN SEMANAN INDAH",
+    "address": "KOMPLEK TAMAN SEMANAN INDAH BLOK F NO. 1,2,3 RT. 00 / RW. 11 KEL. DURI KOSAMBI KEC. CENGKARENG, JAKARTA BARAT, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.164138,
+    "longitude": 106.725214,
+    "services": "KFC A.M,KFC Coffee"
+  },
+  {
+    "name": "TAMAN TOPI SQUARE",
+    "address": "JL. KAPTEN MUSLIHAT RUKO A, Bogor, Jawa Barat",
+    "latitude": -6.596458,
+    "longitude": 106.790704,
+    "services": ""
+  },
+  {
+    "name": "TAMINI SQUARE",
+    "address": "JL. RAYA PONDOK GEDE NO. 15 GARUDA PINANG RANTI, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.291032,
+    "longitude": 106.881298,
+    "services": ""
+  },
+  {
+    "name": "TANAH ABANG BLOK A",
+    "address": "JL. KH. MAS MANSYUR PASAR TANAH ABANG BLOK A LT. 8, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187225,
+    "longitude": 106.815315,
+    "services": ""
+  },
+  {
+    "name": "TANGERANG CITY",
+    "address": "Tang City Mall Jl. Jend. Sudirman No. 1 Cikokol Tangerang 15117, Tangerang, Banten",
+    "latitude": -6.194084,
+    "longitude": 106.634434,
+    "services": ""
+  },
+  {
+    "name": "TANJUNG BALAI KARIMUN",
+    "address": "Jl. Pertambangan , Tebing , Tanjung Balai Karimun, Kepulauan Riau, Kab. Karimun, Kepulauan Riau",
+    "latitude": 1.003706,
+    "longitude": 103.424456,
+    "services": ""
+  }
+]

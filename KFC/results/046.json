@@ -1,0 +1,46 @@
+[
+  {
+    "name": "DHARMA BALI",
+    "address": "JL.HASANUDDIN NO.59, Denpasar, Bali",
+    "latitude": -8.658568,
+    "longitude": 115.212706,
+    "services": []
+  },
+  {
+    "name": "DHOHO PLAZA KEDIRI",
+    "address": "JL. BRIGJEN KATAMSO NO. 1 A - KEDIRI, Kediri, Jawa Timur",
+    "latitude": -7.827532,
+    "longitude": 112.010763,
+    "services": []
+  },
+  {
+    "name": "DIPONEGORO SURABAYA",
+    "address": "Jl. Diponegoro 217. Rt. 06 / RW. 10, Kel. Darmo, Kec. Wonokromo, Surabaya - Jawa Timur, Surabaya, Jawa Timur",
+    "latitude": -7.279233,
+    "longitude": 112.729798,
+    "services": []
+  },
+  {
+    "name": "DISCOVERY MALL BALI",
+    "address": "JL. KARTIKA PLAZA KUTA DENPASAR, Denpasar, Bali",
+    "latitude": -8.729047,
+    "longitude": 115.167689,
+    "services": []
+  },
+  {
+    "name": "DJUANDA PALU",
+    "address": "Jl Djuanda no 83/ Jl Sisingamangaraja no 62, Palu, Sulawesi Tengah",
+    "latitude": -0.897394,
+    "longitude": 119.886551,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "DOK 5 JAYAPURA",
+    "address": "Jl Soasiu, Dok V Bawah, Saga Mart lt 2, Kel Mandala, Distrik Jayapura Utara, Jayapura, Papua ",
+    "latitude": -2.533955,
+    "longitude": 140.72373,
+    "services": []
+  }
+]

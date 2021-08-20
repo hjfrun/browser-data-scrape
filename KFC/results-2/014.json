@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BLOK M SQUARE",
+    "address": "JL. MELAWAI 5 - KEBAYORAN BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.244735,
+    "longitude": 106.800816,
+    "services": ""
+  },
+  {
+    "name": "BOGOR INDAH PLAZA",
+    "address": "JL. SHOLEH ISKANDARDINATA RUKO A 3, Bogor, Jawa Barat",
+    "latitude": -6.561294,
+    "longitude": 106.790357,
+    "services": ""
+  },
+  {
+    "name": "BOGOR PAJAJARAN",
+    "address": "JL. PAJAJARAN NO. 8, Bogor, Jawa Barat",
+    "latitude": -6.60246,
+    "longitude": 106.805594,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "BOGOR REST AREA",
+    "address": "JL. TOL JAGORAWI STA 20 + 400, Kab. Bogor, Jawa Barat",
+    "latitude": -6.575954,
+    "longitude": 106.838866,
+    "services": ""
+  },
+  {
+    "name": "BOGOR TRADE MALL",
+    "address": "JL. IR. H. JUANDA, Bogor, Jawa Barat",
+    "latitude": -6.604952,
+    "longitude": 106.795812,
+    "services": ""
+  },
+  {
+    "name": "BONE SULAWESI",
+    "address": "Jl. Ahmad Yani, Wantampone, Bone , Sul-Sel, Kab. Bone, Sulawesi Selatan",
+    "latitude": -4.540041,
+    "longitude": 120.315394,
+    "services": ""
+  }
+]

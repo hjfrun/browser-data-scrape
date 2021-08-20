@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GATEWAY AHMAD YANI",
+    "address": "Jl. A. Yani No. 669. Cibeunying Kidul, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.907406,
+    "longitude": 107.6454,
+    "services": ""
+  },
+  {
+    "name": "GATOT SUBROTO BALI",
+    "address": "JL. GATOT SUBROTO NO. 356, Denpasar, Bali",
+    "latitude": -8.636662,
+    "longitude": 115.214396,
+    "services": ""
+  },
+  {
+    "name": "GATOT SUBROTO BARAT BALI",
+    "address": "JL. GATOT SUBROTO BARAT BANJAR LEPANG PADANGSAMBIAN DENPASAR, Denpasar, Bali",
+    "latitude": -8.637003,
+    "longitude": 115.184882,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "GATOT SUBROTO TIMUR BALI",
+    "address": "Jl. Gatot Subroto, Kel. Tonja, Kec. Denpasar Utara, Denpasar, Denpasar, Bali",
+    "latitude": -8.635194,
+    "longitude": 115.2232,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "GEMPOL CITY WALK",
+    "address": "Jl. Surabaya – Malang KM 38 Gempol Pasuruan, Kab Pasuruan, Jawa Timur",
+    "latitude": -7.590952,
+    "longitude": 112.690226,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "GIANT BSD",
+    "address": "JL. RAYA SERPONG - BSD GIANT BSD KOMPLEK VILA MELATI, Tangerang Selatan, Banten",
+    "latitude": -6.269574,
+    "longitude": 106.655822,
+    "services": ""
+  }
+]

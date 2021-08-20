@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ADAM MALIK MEDAN",
+    "address": "JL.ADAM MALIK NO. 5 / 7, Medan, Sumatera Utara",
+    "latitude": 3.594566,
+    "longitude": 98.668599,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ADITYAWARMAN SURABAYA",
+    "address": "Jl. Adityawarman No. 371, Dukuh Pakis, Surabaya, Jawa Timur, Surabaya, Jawa Timur",
+    "latitude": -7.294636,
+    "longitude": 112.73172,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AEON JAKARTA GARDEN CITY",
+    "address": "Mall AEON Jakarta Garden City- Unit FC 3-11, Kel Cakung Timur, Kec. Cakung, Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.172174,
+    "longitude": 106.953081,
+    "services": []
+  },
+  {
+    "name": "AEON MALL",
+    "address": "Jl. BSD Raya Utama, Desa Sampora, Kec. Cisauk, Kec. Tangerang, Banten 15345, Indonesia, Kab. Tangerang, Banten",
+    "latitude": -6.305178,
+    "longitude": 106.641562,
+    "services": []
+  },
+  {
+    "name": "AHMAD YANI BANDUNG",
+    "address": "Jalan Ahmay Yani no 310, Kacapiring, Batununggal, Bandung, Jawa Barat",
+    "latitude": -6.913795,
+    "longitude": 107.634276,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AHMAD YANI BANJARMASIN",
+    "address": "Jl A. Yani km4, Rt 002/001  kelurahan Karang Mekar   Kecamatan Banjarmasin Timur – Kota Banjarmasin   Kalimantan Selatan kode pos 70234, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.334515,
+    "longitude": 114.614911,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

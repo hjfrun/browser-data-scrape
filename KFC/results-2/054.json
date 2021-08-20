@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GUNAWARMAN",
+    "address": "JL. GUNAWARMAN NO. 80 BLOK Q1 KEL. RAWA BARAT , KEC. KEBAYORAN  BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.238975,
+    "longitude": 106.807376,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "GUNUNG KAWI BALIKPAPAN",
+    "address": "Jl. Sutoyo, Mayjend 22. Kelandasan Ilir, Balikpapan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.267897,
+    "longitude": 116.845633,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "HADI BIAK",
+    "address": "Jl. Imam Bonjol No.11, Fandoi, Biak Kota, Kabupaten Biak Numfor, Papua 98111, Jayapura, Papua ",
+    "latitude": -1.179636,
+    "longitude": 136.082497,
+    "services": ""
+  },
+  {
+    "name": "HALIM PERDANAKUSUMA",
+    "address": "Bandara Halim Perdanakusuma (ex ruang Customer Service), Jl. Halim Perdana Kusuma, RT.13/RW.4, Makasar - Jakarta 13610, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.265638,
+    "longitude": 106.884493,
+    "services": ""
+  },
+  {
+    "name": "HARCO MANGGA DUA",
+    "address": "Plaza Elektronika Harco Mangga Dua, Jl Mangga Dua Raya, Jakarta Utara., Jakarta Utara, DKI Jakarta",
+    "latitude": -6.139068,
+    "longitude": 106.828367,
+    "services": ""
+  },
+  {
+    "name": "HARCO PASAR BARU",
+    "address": "Jl. SAMANHUDI NO. 133 LT. 2 GEDUNG HARCO PLAZA NO. 218 - 224, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.161604,
+    "longitude": 106.832547,
+    "services": ""
+  }
+]

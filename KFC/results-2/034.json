@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX WAHIDIN PONTIANAK",
+    "address": "Jl. Dr Wahidin S, Sungai Jawi, Pontianak, Kalimantan Barat 78113, Pontianak, Kalimantan Barat",
+    "latitude": -0.038046,
+    "longitude": 109.310217,
+    "services": ""
+  },
+  {
+    "name": "BSD PLAZA",
+    "address": "JL.BUMI SERPONG DAMAI SEKTOR IV, Tangerang Selatan, Banten",
+    "latitude": -6.279259,
+    "longitude": 106.662995,
+    "services": ""
+  },
+  {
+    "name": "BSD SQUARE",
+    "address": "SUNBURST CBD LOT I,1 JL KAPT. SOEBIANTO DJOJOHADIKUSUMO BSD CITY TANGERANG, Tangerang Selatan, Banten",
+    "latitude": -6.293441,
+    "longitude": 106.666069,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "BTC BEKASI",
+    "address": "Jl HM Joyomartono Bulak Kapal Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.258572,
+    "longitude": 107.021256,
+    "services": ""
+  },
+  {
+    "name": "BTC MARELAND",
+    "address": "JL. VETERAN SIMPANG JIPUR MARELAN, Medan, Sumatera Utara",
+    "latitude": 3.627839,
+    "longitude": 98.66218,
+    "services": ""
+  },
+  {
+    "name": "BUAH BATU",
+    "address": "JL.BUAH BATU RAYA NO.180 AB, Bandung, Jawa Barat",
+    "latitude": -6.941178,
+    "longitude": 107.62712,
+    "services": ""
+  }
+]

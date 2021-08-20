@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PASIR KALIKI PAJAJARAN",
+    "address": "JL. PAJAJARAN NO. 65, Bandung, Jawa Barat",
+    "latitude": -6.906704,
+    "longitude": 107.59759,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "PAYAKUMBUH",
+    "address": "Jl. Soekarno Hatta Kel. Padang Tengah Kec. Payakumbuh Barat, Payakumbuh, Sumatera Barat, Payakumbuh, Sumatera Barat",
+    "latitude": -0.229302,
+    "longitude": 100.623891,
+    "services": ""
+  },
+  {
+    "name": "PELABUHAN RATU",
+    "address": "Jl. Kidang Kencana, Ruko Pasar Plabuhan Ratu No 1, Kab. Sukabumi, Jawa Barat",
+    "latitude": -6.986491,
+    "longitude": 106.543427,
+    "services": ""
+  },
+  {
+    "name": "PEMATANG SIANTAR",
+    "address": "JL.SUTOMO 24 ABC, PEMATANG SIANTAR, Pematang Siantar, Sumatera Utara",
+    "latitude": 2.955672,
+    "longitude": 99.063366,
+    "services": ""
+  },
+  {
+    "name": "PEMUDA SEMARANG",
+    "address": "JL.PEMUDA NO.53 A, Semarang, Jawa Tengah",
+    "latitude": -6.974619,
+    "longitude": 110.419001,
+    "services": ""
+  },
+  {
+    "name": "PENTACITY BALIKPAPAN",
+    "address": "Jl. Jend Sudirman No. 47, Gn Bahagia. Balikpapan Selatan, Balikpapan Super Block, Kota Balikpapan, Kalimantan Timur",
+    "latitude": -1.274398,
+    "longitude": 116.856968,
+    "services": ""
+  }
+]

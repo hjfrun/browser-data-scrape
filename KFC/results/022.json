@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX MEGA MALL BENGKULU",
+    "address": "Jl. KZ. Abidin II Komplek Mega Mall Lantai Dasar No.19-23, Kel. Belakang Pondok Kec. Ratu Samban, Kota Bengkulu, Bengkulu, Bengkulu",
+    "latitude": -3.793722,
+    "longitude": 102.267,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA HANKAM",
+    "address": "Jl Raya Hankam, Jati Rahayu, Pondok Melati, Bekasi, Jawa Barat",
+    "latitude": -6.295839,
+    "longitude": 106.920956,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA PEKAYON BKS",
+    "address": "Jl. Raya Pekayon No. 29  RT 00/00. Kel. Pekayon Jaya. Kec. Bekasi Selatan. Kota Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.2645,
+    "longitude": 106.986806,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA WISMA ASRI BEKASI",
+    "address": "Jalan Raya Perjuangan No. 88 Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.221139,
+    "longitude": 107.018306,
+    "services": []
+  },
+  {
+    "name": "BOX NATAR LAMPUNG",
+    "address": "Jl Raya Natar no 1028-1029, Natar, Kab. Lampung Selatan, Lampung",
+    "latitude": -5.309605,
+    "longitude": 105.193857,
+    "services": []
+  },
+  {
+    "name": "BOX ONE BEL PARK",
+    "address": "Jl RS Fatmawati no 1, Rt 2/1, Pondok Labu, Cilandak, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.304523,
+    "longitude": 106.795146,
+    "services": []
+  }
+]

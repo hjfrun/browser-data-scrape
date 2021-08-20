@@ -1,0 +1,49 @@
+[
+  {
+    "name": "KOTA BARU PARAHYANGAN",
+    "address": "Jl.Panyawangan Kav.3 Bale Pare, Kota Baru Parahyangan Padalarang, Kab. Bandung Barat, Jawa Barat",
+    "latitude": -6.856182,
+    "longitude": 107.490646,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KOTA KASABLANKA",
+    "address": "Jl Casablanca Kav 88 RT 007/008 Menteng Dalam Tebet Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223861,
+    "longitude": 106.841905,
+    "services": []
+  },
+  {
+    "name": "KOTA LAMA KUPANG",
+    "address": "Jl Siliwangi, Kampung Solor, Kota Lama, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.158903,
+    "longitude": 123.580442,
+    "services": []
+  },
+  {
+    "name": "KOTAMOBAGU",
+    "address": "Jl. Adampe Dolot, kel Mogolaing, Kec Kotamobagu Barat, Kotamobagu, Sulawesi Utara",
+    "latitude": 0.735846,
+    "longitude": 124.306284,
+    "services": []
+  },
+  {
+    "name": "KUTA GELAEL",
+    "address": "JL.RAYA KUTA No. 105, Kabupaten Badung, Bali",
+    "latitude": -8.721337,
+    "longitude": 115.179968,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "KUTA SQUARE",
+    "address": "JL.BAKUNG SARI NO.1 BLOK C-1-2 KUTA, Kab. Badung, Bali",
+    "latitude": -8.722584,
+    "longitude": 115.171408,
+    "services": []
+  }
+]

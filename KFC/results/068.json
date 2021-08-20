@@ -1,0 +1,44 @@
+[
+  {
+    "name": "LIPPO KRAMAT JATI",
+    "address": "Jl Raya Bogor no 19, Rt 14/6, Kramat jati,, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.270833,
+    "longitude": 106.868055,
+    "services": []
+  },
+  {
+    "name": "LIPPO PLAZA BATU",
+    "address": "Jl Diponegoro no 1, Sisir, Kecamatan Batu, Kota Batu, Jawa Timur",
+    "latitude": -7.878443,
+    "longitude": 112.534227,
+    "services": []
+  },
+  {
+    "name": "LIPPO SUPERMAL KARAWACI",
+    "address": "LIPPO SUPERMALL, LANTAI DASAR, Kab. Tangerang, Banten",
+    "latitude": -6.226755,
+    "longitude": 106.60753,
+    "services": []
+  },
+  {
+    "name": "LOKASARI PLAZA",
+    "address": "JL.MANGGA BESAR RAYA NO.51 C/1-18, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.14794,
+    "longitude": 106.823691,
+    "services": []
+  },
+  {
+    "name": "LUBUK LINGGAU",
+    "address": "JL. YOS SUDARSO NO. 97 SIMPANG TIGA - LUBUK LINGGAU, Lubuk Linggau, Sumatera Selatan",
+    "latitude": -3.291839,
+    "longitude": 102.870069,
+    "services": []
+  },
+  {
+    "name": "LUWUK BANGGAI",
+    "address": "JL. JEND SUDIRMAN RUKO A1- A3 SIMPONG LUWUK BANGGAI - SULAWESI SELATAN, Kab. Banggai, Sulawesi Tengah",
+    "latitude": -0.961429,
+    "longitude": 122.790143,
+    "services": []
+  }
+]

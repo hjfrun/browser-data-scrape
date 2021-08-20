@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BALIKPAPAN PLAZA",
+    "address": "JL. JEND. SUDIRMAN NO. 1, Balikpapan, Kalimantan Timur",
+    "latitude": -1.277995,
+    "longitude": 116.838334,
+    "services": ""
+  },
+  {
+    "name": "BANDA ACEH",
+    "address": "JL.NYAK ARIS NO.20, Banda Aceh, Aceh",
+    "latitude": 5.556039,
+    "longitude": 95.323045,
+    "services": ""
+  },
+  {
+    "name": "BANDAR JAYA LAMPUNG",
+    "address": "JL. PROKLAMATOR LT. 1 - BANDAR JAYA, Kab. Lampung Tengah, Lampung",
+    "latitude": -4.938588,
+    "longitude": 105.212187,
+    "services": ""
+  },
+  {
+    "name": "BANDAR LAMPUNG",
+    "address": "JL.JEND.SUDIRMAN 11-15, Bandar Lampung, Lampung",
+    "latitude": -5.422417,
+    "longitude": 105.260789,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "BANDARA HALUOLEO, KENDARI",
+    "address": "Jl Bandara Haluoleo, Ambaipua, Ranomeeto, Kab. Konawe Selatan, Sulawesi Tenggara",
+    "latitude": -4.076903,
+    "longitude": 122.417077,
+    "services": ""
+  },
+  {
+    "name": "BANDARA HASANUDDIN",
+    "address": "JL. POROS MAROS BLOK C.1.1, Kab. Maros, Sulawesi Selatan",
+    "latitude": -5.076627,
+    "longitude": 119.546958,
+    "services": ""
+  }
+]

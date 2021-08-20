@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BANDARA JUANDA TERM 2",
+    "address": "Jl Ir. H. Juanda Surabaya, Parking Area T2 Bandara Surabaya, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.38374,
+    "longitude": 112.775108,
+    "services": []
+  },
+  {
+    "name": "BANDARA KUALANAMU",
+    "address": "Kualanamu International Airport, PS Enam Kualanamu, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.635495,
+    "longitude": 98.878874,
+    "services": []
+  },
+  {
+    "name": "BANDARA SEPINGGAN",
+    "address": "Jl Marsma R Iswahyudi, Komplek Bandara Sepinggan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.261028,
+    "longitude": 116.899722,
+    "services": []
+  },
+  {
+    "name": "BANDARA SOEKARNO-HATTA TERM 1C PARKING AREA",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 2 E-F, Tangerang, Banten",
+    "latitude": -6.12983,
+    "longitude": 106.654474,
+    "services": []
+  },
+  {
+    "name": "BANDARA SOEKARNO-HATTA TERM 2F CENGKARENG",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 2 E-F, Tangerang, Banten",
+    "latitude": -6.122324,
+    "longitude": 106.654085,
+    "services": []
+  },
+  {
+    "name": "BANDUNG TRADE CENTER",
+    "address": "JL. IR. DJUNJUNAN 143 - 149, Bandung, Jawa Barat",
+    "latitude": -6.893048,
+    "longitude": 107.584836,
+    "services": []
+  }
+]

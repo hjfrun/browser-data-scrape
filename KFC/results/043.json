@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CITRALAND JAKARTA",
+    "address": "JL.JEND.S.PARMAN GED.CITRALAND, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.168468,
+    "longitude": 106.786801,
+    "services": []
+  },
+  {
+    "name": "CITRALAND MAKASSAR",
+    "address": "Per.Citraland Celebes A/1-A/3 Makassar, Kab. Gowa, Sulawesi Selatan",
+    "latitude": -5.179857,
+    "longitude": 119.463581,
+    "services": []
+  },
+  {
+    "name": "CITRALAND SEMARANG",
+    "address": "JL.SIMPANG LIMA LT.I, CITRALAND MAL, Semarang, Jawa Tengah",
+    "latitude": -6.98863,
+    "longitude": 110.423835,
+    "services": []
+  },
+  {
+    "name": "CITY MART BITUNG",
+    "address": "Jl. Yos Sudarso, Bitung Tengah, Maesa, Kota Bitung, Sulawesi Utara, Manado, Sulawesi Utara",
+    "latitude": 1.443028,
+    "longitude": 125.185917,
+    "services": []
+  },
+  {
+    "name": "CITY OF TOMORROW",
+    "address": "JL. A. YANI DEPAN BUNDARAN TOL WARU, Surabaya, Jawa Timur",
+    "latitude": -7.345362,
+    "longitude": 112.72786,
+    "services": []
+  },
+  {
+    "name": "CITYMALL CIANJUR",
+    "address": "Jl KH Abdullah bin Nuh no 1, Pamoyanan, Kab. Cianjur, Jawa Barat",
+    "latitude": -6.816722,
+    "longitude": 107.130607,
+    "services": []
+  }
+]

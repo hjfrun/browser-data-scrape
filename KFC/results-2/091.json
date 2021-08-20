@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PLAZA SENAYAN",
+    "address": "JL.PINTU I NO.9 PLAZA SENAYAN LT.III, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.225382,
+    "longitude": 106.798693,
+    "services": ""
+  },
+  {
+    "name": "PLAZA SETIABUDI - SRONDOL",
+    "address": "Jl. Setiabudi 217 Srondol Kulon, Banyumanik Semarang, Semarang, Jawa Tengah",
+    "latitude": -7.066122,
+    "longitude": 110.411643,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "PLAZA SURABAYA",
+    "address": "JL.PEMUDA NO.31-71, Surabaya, Jawa Timur",
+    "latitude": -7.264812,
+    "longitude": 112.748629,
+    "services": ""
+  },
+  {
+    "name": "PONDOK BAMBU",
+    "address": "Jl. Pahlawan Revolusi 7 RT/RW 003/04 Klender, Duren Sawit, Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.220865,
+    "longitude": 106.899256,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "PONDOK CHANDRA",
+    "address": "JL RUNGKUT MENANGGAL NO 32 SURABAYA, Surabaya, Jawa Timur",
+    "latitude": -7.341309,
+    "longitude": 112.768083,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "PONDOK GEDE PARK",
+    "address": "Jl. Raya Pondok Gede Rt. 002 / 01, Jatiwaringin, Pondok Gede, Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.284852,
+    "longitude": 106.912544,
+    "services": ""
+  }
+]

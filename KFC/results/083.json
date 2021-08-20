@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PALU GRAND MALL",
+    "address": "Jl. Cumi Cumi No 77 Bumi Bahari. Palu - Sulawesi Tengah, Palu, Sulawesi Tengah",
+    "latitude": -0.883401,
+    "longitude": 119.842297,
+    "services": []
+  },
+  {
+    "name": "PALU HASANUDDIN",
+    "address": "JL.SULTAN HASANUDIN I NO.15, Palu, Sulawesi Tengah",
+    "latitude": -0.897004,
+    "longitude": 119.867975,
+    "services": []
+  },
+  {
+    "name": "PALUR PLAZA",
+    "address": "Jl. Raya Solo - Sragen KM. 1 (Palur) , Karang Anyar -Jateng, Kab. Karanganyar, Jawa Tengah",
+    "latitude": -7.566826,
+    "longitude": 110.873836,
+    "services": []
+  },
+  {
+    "name": "PAMULANG SQUARE",
+    "address": "JL. RAYA SILIWANGI- PAMULANG DEPAN CARREFOUR PAMULANG, Tangerang Selatan, Banten",
+    "latitude": -6.342111,
+    "longitude": 106.725454,
+    "services": []
+  },
+  {
+    "name": "PANAKUKANG MAS",
+    "address": "JL.PENGAYOMAN BLOK A8-A9,KOMP,MIRAH, Makassar, Sulawesi Selatan",
+    "latitude": -5.16098,
+    "longitude": 119.449563,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PANAKUKANG SQUARE",
+    "address": "JL. ADHYAKSA RW.03 LT. 2 NO. BI, Makassar, Sulawesi Selatan",
+    "latitude": -5.158329,
+    "longitude": 119.447782,
+    "services": []
+  }
+]

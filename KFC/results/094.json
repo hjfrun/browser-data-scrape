@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PURUS VETERAN PADANG",
+    "address": "JL. VETERAN PADANG NO. 7 B, Padang, Sumatera Barat",
+    "latitude": -0.942354,
+    "longitude": 100.354306,
+    "services": []
+  },
+  {
+    "name": "Q MALL BANJARMASIN",
+    "address": "Jl. A. Yani Km.36,8. Banjar Baru- Kalimantan Selatan 70174, Banjarbaru, Kalimantan Selatan",
+    "latitude": -3.439225,
+    "longitude": 114.849156,
+    "services": []
+  },
+  {
+    "name": "RABINZA MALL",
+    "address": "Jl. Rt Hardiwinangun, Muara Ciujung Timur, Rangkasbitung, Kabupaten Lebak, Banten 42314, Kab. Lebak, Banten",
+    "latitude": -6.354545,
+    "longitude": 106.249719,
+    "services": []
+  },
+  {
+    "name": "RADEN INTEN JAKARTA",
+    "address": "Jl. Raden Inten RT.009 RW. 010 Kel.Duren Sawit, Kec. Duren Sawit,  Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.222313,
+    "longitude": 106.923674,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "RAJA MEDAN",
+    "address": "Jl Sisingamangaraja No 41 Kelurahan Sitirejo Kecamatan Medan Kota, Medan Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.557348,
+    "longitude": 98.694529,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "RAMAYANA BATURAJA",
+    "address": "JL. AHMAD YANI RAJA PLAZA, Kab. Ogan Komering Ulu, Sumatera Selatan",
+    "latitude": -4.125461,
+    "longitude": 104.171098,
+    "services": []
+  }
+]

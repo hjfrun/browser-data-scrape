@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX TRANSMART JUANDA BEKASI",
+    "address": "Jl. Ir H Juanda no 19, Margahayu, Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.249361,
+    "longitude": 107.016707,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART KALIMAS SBY",
+    "address": "Jl. Ngagel no 137-141, Ngagel, Wonokromo, Kota Surabaya, Jawa Timur",
+    "latitude": -7.290928,
+    "longitude": 112.743632,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART LAMPUNG",
+    "address": "Jl. Sultan Agung No 283, Way Halim Permai, Sukarame, Bandar Lampung, Lampung",
+    "latitude": -5.383088,
+    "longitude": 105.282354,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART PADANG",
+    "address": "Jl Khatib Sulaiman no 85, Ulak Karang Selatan, Padang Utara, Padang, Sumatera Barat",
+    "latitude": -0.912357,
+    "longitude": 100.357265,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART PONTIANAK",
+    "address": "Jl Jend. Ahmad Yani no 2, Sungai Raya, Pontianak, Kalimantan Barat",
+    "latitude": -0.077424,
+    "longitude": 109.367497,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART SIDOARDJO",
+    "address": "Jl Mayjen Sungkono, Pagerwojo, Buduran, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.439352,
+    "longitude": 112.714717,
+    "services": []
+  }
+]

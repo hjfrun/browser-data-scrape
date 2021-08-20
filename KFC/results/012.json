@@ -1,0 +1,47 @@
+[
+  {
+    "name": "BENCOOLEN MALL",
+    "address": "Jl. Pariwisata, No.1, Bengkulu, Bengkulu, Bengkulu",
+    "latitude": -3.811121,
+    "longitude": 102.268607,
+    "services": []
+  },
+  {
+    "name": "BENGKULU",
+    "address": "JL. LETJEND R. SUPRAPTO NO. 171 - 173, Bengkulu, Bengkulu",
+    "latitude": -3.793052,
+    "longitude": 102.262683,
+    "services": []
+  },
+  {
+    "name": "BERAU",
+    "address": "Jl. Pemuda No.1, Bugis, Tj. Redeb, Kabupaten Berau, Kalimantan Timur 77352, Kabupaten Berau, Kalimantan Timur",
+    "latitude": -2.156094,
+    "longitude": 117.4972364,
+    "services": []
+  },
+  {
+    "name": "BG JUNCTION SURABAYA",
+    "address": "JL. BUBUTAN NO. 1 - 7, Surabaya, Jawa Timur",
+    "latitude": -7.255718,
+    "longitude": 112.733829,
+    "services": []
+  },
+  {
+    "name": "BIG MALL SAMARINDA",
+    "address": "Jl. Untung Suropati No.8, Samarinda - Kalimantan Timur, Samarinda, Kalimantan Timur",
+    "latitude": -0.52607,
+    "longitude": 117.115561,
+    "services": []
+  },
+  {
+    "name": "BINJAI DELI SERDANG",
+    "address": "Jl. Raya Binjai KM. 10.8, No.97, Kab. Deli Serdang, Kec. Sunggal, Desa Sei Mayang, Dusun IX, Pasar Besar, Binjai - Medan, Sumatera Utara, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.599145,
+    "longitude": 98.562956,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  }
+]

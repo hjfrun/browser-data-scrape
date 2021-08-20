@@ -1,0 +1,44 @@
+[
+  {
+    "name": "KENDARI JAYA MAKMUR",
+    "address": "JL.ACHMAD Y A N I 39, Kendari, Sulawesi Tenggara",
+    "latitude": -3.981364,
+    "longitude": 122.509681,
+    "services": ""
+  },
+  {
+    "name": "KEPATIHAN BANDUNG",
+    "address": "JL. KEPATIHAN NO. 19 A, Bandung, Jawa Barat",
+    "latitude": -6.923114,
+    "longitude": 107.605514,
+    "services": ""
+  },
+  {
+    "name": "KEPRI MALL",
+    "address": "Jl. Jend Sudirman simpang muka kuning, Ruko Mall lantai 3 No.14-15, Batam, Kepri., Batam, Kepulauan Riau",
+    "latitude": 1.101377,
+    "longitude": 104.037606,
+    "services": ""
+  },
+  {
+    "name": "KETAPANG KALIMANTAN",
+    "address": "Jl. DI Panjaitan, kel. Sampit, Kec. Matan Hilir Utara, Kabupaten Ketapang, Kalimantan Barat, Kab. Ketapang, Kalimantan Barat",
+    "latitude": -1.832649,
+    "longitude": 109.968274,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "KEUTAPANG ACEH",
+    "address": "JL. MATA IE NO. 19 KETAPANG DUA ACEH BESAR, Kab. Aceh Besar, Aceh",
+    "latitude": 5.517227,
+    "longitude": 95.303466,
+    "services": ""
+  },
+  {
+    "name": "KISAMAUN",
+    "address": "JL. DAAN MOGOT KELURAHAN SURAKARSA KISAMAUN SEKTOR 2 BLOK UA NO. 44 - 45, Tangerang, Banten",
+    "latitude": -6.173449,
+    "longitude": 106.63058,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  }
+]

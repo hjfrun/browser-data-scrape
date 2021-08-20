@@ -1,0 +1,57 @@
+[
+  {
+    "name": "SENTUL CITY",
+    "address": "Jl. Thamrin No.25, Kec. Babakan Madang, Kab. Bogor, Sentul - Jawa Barat, Kab. Bogor, Jawa Barat",
+    "latitude": -6.566657,
+    "longitude": 106.849081,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SESETAN DENPASAR",
+    "address": "Jl. Raya Sesetan, Kel. Sesetan, Kec. Denpasar Selatan, kota Denpasar, Denpasar, Bali",
+    "latitude": -8.704248,
+    "longitude": 115.220192,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETIABUDI BANDUNG",
+    "address": "JL.DR.SETIABUDI NO.169, Bandung, Jawa Barat",
+    "latitude": -6.868378,
+    "longitude": 107.593398,
+    "services": []
+  },
+  {
+    "name": "SETIABUDI HOME CENTRA",
+    "address": "Jl. Ring Road Setiabudi II, No. 99 S, Kel. Asam Kumbang, Kec. Medan Selayang, Kota Medan, Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.565145,
+    "longitude": 98.62567,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETIABUDI SUKAWANGI",
+    "address": "JL. SUKAWANGI NO. 1 SETIABUDI, Bandung, Jawa Barat",
+    "latitude": -6.87841,
+    "longitude": 107.597725,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETURAN YOGYAKARTA",
+    "address": "Merapi Merbabu Hotel. Jl. Raya Seturan, Sleman , Yogyakarta, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.771386,
+    "longitude": 110.409841,
+    "services": []
+  }
+]

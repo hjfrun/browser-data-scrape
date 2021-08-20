@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MTC PALANGKARAYA",
+    "address": "MEGA TOP TRADE CENTER JL. YOS SUDARSO , NO. 57 - PALANGKARAYA, Palangkaraya, Kalimantan Tengah",
+    "latitude": -2.214003,
+    "longitude": 113.905922,
+    "services": ""
+  },
+  {
+    "name": "MUARA RAPAK BALIKPAPAN",
+    "address": "JL.  SOEKARNO HATTA NO. 1, Balikpapan, Kalimantan Timur",
+    "latitude": -1.241676,
+    "longitude": 116.836132,
+    "services": ""
+  },
+  {
+    "name": "MULYOSARI SURABAYA",
+    "address": "JL. MULYOSARI NO. 121 BLOK AA, Surabaya, Jawa Timur",
+    "latitude": -7.266225,
+    "longitude": 112.796367,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "MY MART MAKASSAR",
+    "address": "Jl Poros Palangga no 34, Je'netallasa, Palangga, Kab. Gowa, Sulawesi Selatan",
+    "latitude": -5.228347,
+    "longitude": 119.439453,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "NAGOYA BATAM",
+    "address": "JL. HARMONI BATAM, KOMP. NEW HOLIDAY NO. 1 - 2 A, Batam, Kepulauan Riau",
+    "latitude": 1.150096,
+    "longitude": 104.008172,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "NAGOYA HILLS BATAM",
+    "address": "KOMPLEKS NAGOYA HILL SUPER BLOK  NAGOYA BATAM, Batam, Kepulauan Riau",
+    "latitude": 1.146444,
+    "longitude": 104.012827,
+    "services": ""
+  }
+]

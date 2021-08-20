@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CIBUBUR PLAZA",
+    "address": "JL. ALTERNATIF ( TRANS YOGIE ) KM 2 - 3 CIBUBUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.376222,
+    "longitude": 106.914828,
+    "services": ""
+  },
+  {
+    "name": "CIDENG JAKARTA",
+    "address": "JL. TANAH ABANG II NO. 85 KEL. PETOJO SELATAN , KEC. GAMBIR JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.175623,
+    "longitude": 106.812217,
+    "services": "KFC A.M,KFC Coffee"
+  },
+  {
+    "name": "CIHAMPELAS WALK",
+    "address": "JL. CIHAMPELAS NO. 160, Bandung, Jawa Barat",
+    "latitude": -6.893206,
+    "longitude": 107.605483,
+    "services": ""
+  },
+  {
+    "name": "CIK DI TIRO LAMPUNG",
+    "address": "Jl.Cik Di Tiro Kemilling Bandar Lampung., Bandar Lampung, Lampung",
+    "latitude": -5.397375,
+    "longitude": 105.213045,
+    "services": ""
+  },
+  {
+    "name": "CIKARANG UTARA",
+    "address": "Jl. RE. Martadinata No. 17, Karangbaru, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530, Bekasi, Jawa Barat",
+    "latitude": -6.262201,
+    "longitude": 107.141799,
+    "services": ""
+  },
+  {
+    "name": "CIKINI JAKARTA",
+    "address": "JL.CIKINI RAYA 119, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.19655,
+    "longitude": 106.84025,
+    "services": "KFC A.M"
+  }
+]

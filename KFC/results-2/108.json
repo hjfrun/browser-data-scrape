@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SINGARAJA BALI",
+    "address": "Jl. Ngurahrai 78, Kelurahan Banjar Jawa, Kecamatan Buleleng, Kabupaten Buleleng, Bali, Kab. Buleleng, Bali",
+    "latitude": -8.112647,
+    "longitude": 115.091152,
+    "services": ""
+  },
+  {
+    "name": "SINGKAWANG GRAND MALL",
+    "address": "Jl. Alianyang RT 39/ RW 15, Singkawang, Kalimantan Barat, Singkawang, Kalimantan Barat",
+    "latitude": 0.897534,
+    "longitude": 108.971029,
+    "services": ""
+  },
+  {
+    "name": "SIPIN JAMBI",
+    "address": "Jl. Sumantri Brojonegoro, RT. 013 Rw. 04  Kel. Solok Sipin, Kec. Telanaipura, Kota Jamb, Jambi, Jambi",
+    "latitude": -1.607581,
+    "longitude": 103.598395,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "SOEKARNO HATTA PEKANBARU",
+    "address": "Jln Soekarno Hatta No. 155 Kelurahan Tangerang Barat, Kec. Marpoyan Dumai Riau 28124, Pekanbaru, Riau",
+    "latitude": 0.490858,
+    "longitude": 101.419559,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "SOLO BARU",
+    "address": "Jl. Ir Soekarno, Madegondo, Solo Baru, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.60801,
+    "longitude": 1,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "SOLO GRAND MALL",
+    "address": "JL. SLAMET RIYADI NO. 273, Surakarta, Jawa Tengah",
+    "latitude": -7.566486,
+    "longitude": 110.807382,
+    "services": ""
+  }
+]

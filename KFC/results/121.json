@@ -1,0 +1,50 @@
+[
+  {
+    "name": "UOB PLAZA",
+    "address": "Gedung UOB Plz, Lantai B1 Jl. MH Thamrin no.1, Jakarta 10230, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.19888,
+    "longitude": 106.822258,
+    "services": []
+  },
+  {
+    "name": "VETERAN PURWAKARTA",
+    "address": "Jl. Veteran, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41115, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.534935,
+    "longitude": 107.445104,
+    "services": []
+  },
+  {
+    "name": "WAENA PAPUA",
+    "address": "Jl. Raya Sentani. Kel. Waena, Kec. Heram, Kota Jayapura - Papua, Jayapura, Papua ",
+    "latitude": -2.596954,
+    "longitude": 140.635046,
+    "services": []
+  },
+  {
+    "name": "WAHIDIN GRESIK",
+    "address": "Jl. Dr. Wahidin Sudirohusodo No.138, Kel. Kebomas, Kec. Kebomas, Kab. Gresik, Gresik, Jawa Timur",
+    "latitude": -7.162659,
+    "longitude": 112.631471,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "WALIKOTA MEDAN",
+    "address": "JL.MONGONSIDI SIMPANG WALIKOTA NO.14, Medan, Sumatera Utara",
+    "latitude": 3.571512,
+    "longitude": 98.671411,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "WAY HALIM LAMPUNG",
+    "address": "Chandra Way Halim, Jl Kimaja No.67, Bandar Lampung, Lampung., Bandar Lampung, Lampung",
+    "latitude": -5.376854,
+    "longitude": 105.271884,
+    "services": []
+  }
+]

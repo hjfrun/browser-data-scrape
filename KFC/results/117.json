@@ -1,0 +1,52 @@
+[
+  {
+    "name": "TELUK GONG",
+    "address": "JL. TELUK GONG RAYA BLOK E 1 NO. 27, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138073,
+    "longitude": 106.782944,
+    "services": []
+  },
+  {
+    "name": "TENGGARONG",
+    "address": "Jl. KH Achmad Muksin, Tenggarong, Kab. Kutai Kartanegara, Kalimantan Timur, Kab. Kutai Kartanegara, Kalimantan Timur",
+    "latitude": -0.430976,
+    "longitude": 116.99521,
+    "services": []
+  },
+  {
+    "name": "TERAS BENHIL",
+    "address": "Jl. Bendungan Hillr Raya No 34 RT 009/01 Kel. Bendhill Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.214523,
+    "longitude": 106.814841,
+    "services": []
+  },
+  {
+    "name": "TERMINAL 3 SOEKARNO HATTA",
+    "address": "Bandara Soekarno hatta Terminal 3, Tangerang, Banten",
+    "latitude": -6.118451,
+    "longitude": 106.666207,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TERMINAL BANDA ACEH",
+    "address": "Jl MR Muhammad Hasan, Depan Terminal Banda Aceh, Kota Banda Aceh, Aceh",
+    "latitude": 5.528581,
+    "longitude": 95.330443,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TEUKU UMAR BARAT",
+    "address": "SPBU Jl. Teuku Umar Barat Bali (disamping McD Teuku Umar), Denpasar, Bali",
+    "latitude": -8.681756,
+    "longitude": 115.191154,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

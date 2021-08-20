@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX REST AREA KM 125",
+    "address": "Rest Area Palararang Cileunyi KM 125, Cibeber,Cimahi Selatan, Kota Cimahi, Jawa Barat, Cimahi, Jawa Barat",
+    "latitude": -6.885009,
+    "longitude": 107.519821,
+    "services": ""
+  },
+  {
+    "name": "BOX REST AREA KM 22",
+    "address": "Rest Area KM 22. Susukan, Ungaran Tim., Semarang, Jawa Tengah 50516, Semarang, Jawa Tengah",
+    "latitude": -7.129639,
+    "longitude": 110.423944,
+    "services": ""
+  },
+  {
+    "name": "BOX REVO TOWN",
+    "address": "Revo Town Lt. LG 35,  Jl. Jend. A. Yani Pekayon Jaya, Bekasi Selatan, Kota Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.253861,
+    "longitude": 106.989972,
+    "services": ""
+  },
+  {
+    "name": "BOX RS PELNI JAKARTA",
+    "address": "Jl. KS Tubun Raya No. 92 Petamburan Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.193046,
+    "longitude": 106.804475,
+    "services": ""
+  },
+  {
+    "name": "BOX RS PHC TANJUNG PERAK",
+    "address": "Jl. Prapat Kurung Selatan, Tj. Perak (Surabaya) - Benoa No.1, Perak Utara, Pabean Cantian, Kota SBY, Jawa Timur 60165, Surabaya, Jawa Timur",
+    "latitude": -7.209384,
+    "longitude": 112.735678,
+    "services": ""
+  },
+  {
+    "name": "BOX RS POLRI",
+    "address": "Rumah Sakit Bhayangkara TK. IR Said Sukanto Jl. Raya Bogor Kramat Jati, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.269204,
+    "longitude": 106.870417,
+    "services": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "KELAPA GADING BOULEVARD",
+    "address": "JL. KELAPA GADING BOULEVARD NO. 1 - 3, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.157091,
+    "longitude": 106.907047,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "KELAPA GADING MALL",
+    "address": "JL. KELAPA GADING BOULEVARD RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.157774,
+    "longitude": 106.907852,
+    "services": ""
+  },
+  {
+    "name": "KEMANG",
+    "address": "JL. KEMANG RAYA NO. 14 B, JAKARTA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.255717,
+    "longitude": 106.811644,
+    "services": "KFC Drive Thru,KFC A.M"
+  },
+  {
+    "name": "KEMANG PRATAMA",
+    "address": "Jl. Boulevard Kemang Pratama. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.270532,
+    "longitude": 106.987042,
+    "services": ""
+  },
+  {
+    "name": "KEMANGGISAN JAKARTA",
+    "address": "Jl. Kebon Jeruk Raya 8rt. 006/RW.12 , Kel. Palmerah, Kec. Palmerah, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.20029,
+    "longitude": 106.78262,
+    "services": "KFC A.M,KFC Coffee"
+  },
+  {
+    "name": "KENARI MAS",
+    "address": "JL. KRAMAT RAYA NO 101 JAKARTA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.192045,
+    "longitude": 106.848483,
+    "services": ""
+  }
+]

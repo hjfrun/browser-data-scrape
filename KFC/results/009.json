@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BANDUNG TRADE MALL",
+    "address": "JL. IBRAHIM ADJI - KIARA CONDONG, Bandung, Jawa Barat",
+    "latitude": -6.911628,
+    "longitude": 107.644289,
+    "services": []
+  },
+  {
+    "name": "BANGKA TRADE CENTER",
+    "address": "Gedung Bangka Trade Center, Lt. Dasar unit No. D - 03, Pangkal Pinang - Bangka, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.129316,
+    "longitude": 106.116232,
+    "services": []
+  },
+  {
+    "name": "BANJARBARU",
+    "address": "JL. AHMAD YANI KM. 34,5, Banjarbaru, Kalimantan Selatan",
+    "latitude": -3.442541,
+    "longitude": 114.828958,
+    "services": []
+  },
+  {
+    "name": "BASMAR PLAZA",
+    "address": "Jl MAMPANG PRAPATAN RAYA 106, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.254381,
+    "longitude": 106.82713,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BASSILICA PALEMBANG",
+    "address": "Jln. Brigjend Hasan Kasim Komplek 044 RW 009, Kel. Bukit Sangkal Kec. Kalidoni Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.948452,
+    "longitude": 104.785431,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BASSURA MALL",
+    "address": "Jln. Basuki Rahmat N.1A Rt 08 /Rw 10, Kel. Cipinang Besar Selatan, Kec. Jatinegara, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.224687,
+    "longitude": 106.878967,
+    "services": []
+  }
+]

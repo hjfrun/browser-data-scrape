@@ -1,0 +1,49 @@
+[
+  {
+    "name": "BATULICIN",
+    "address": "Jl.Raya Kodeco km.2 Desa Gunung Antasari Kec.Simpang Empat,Kab.tanah bumbu Kalimantan Selatan, Kab. Tanah Bumbu, Kalimantan Selatan",
+    "latitude": -3.412525,
+    "longitude": 116.01149,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "BAU-BAU",
+    "address": "Jl. Yos Sudarso,Kab. Buton, Kel.  Wale, Kec.Wolio, Bau - Bau Sulawesi Tenggara, Bau-Bau, Sulawesi Tenggara",
+    "latitude": -5.455143,
+    "longitude": 122.607202,
+    "services": []
+  },
+  {
+    "name": "BDNI SUDIRMAN YOGYAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 69, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.78268,
+    "longitude": 110.372653,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "BEC BANDUNG",
+    "address": "GedUNG Istana BEC. Jl. Purnawarman No.7 Bandung, Bandung, Jawa Barat",
+    "latitude": -6.908891,
+    "longitude": 107.609053,
+    "services": []
+  },
+  {
+    "name": "BEKASI CYBERPARK",
+    "address": "Jl KH Noer Ali no 177, Margajaya, Bekasi Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.246799,
+    "longitude": 106.991686,
+    "services": []
+  },
+  {
+    "name": "BELU ATAMBUA",
+    "address": "Jl. Adam Malik. Atambua - NTT, Kab. Belu, Nusa Tenggara Timur",
+    "latitude": -9.105206,
+    "longitude": 124.889299,
+    "services": []
+  }
+]

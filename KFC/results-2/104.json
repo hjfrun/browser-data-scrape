@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SARINAH THAMRIN",
+    "address": "SARINAH THAMRIN,LT.BASEMENT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187794,
+    "longitude": 106.823772,
+    "services": ""
+  },
+  {
+    "name": "SEASON CITY",
+    "address": "JL. JEMBATAN BESI NO. 33 KEL. JEMBATAN BESI, KEC TAMBORA, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153773,
+    "longitude": 106.796398,
+    "services": ""
+  },
+  {
+    "name": "SEIBU PASARAYA BLOK M",
+    "address": "PASARAYA BLOK M, BASEMENT F00D  COURT, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243861,
+    "longitude": 106.802849,
+    "services": ""
+  },
+  {
+    "name": "SENAYAN CITY JAKARTA",
+    "address": "JL. ASIA AFRIKA RT. 001 / 06 KEL. GELORA - KEC. TANAH ABANG JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.227771,
+    "longitude": 106.796687,
+    "services": ""
+  },
+  {
+    "name": "SENGGIGI LOMBOK",
+    "address": "Jl. Raya Senggigi No 12. Batu Layar. Gunung Sari. Lombok Barat, Kab. Lombok Barat, Nusa Tenggara Barat",
+    "latitude": -8.501224,
+    "longitude": 116.050595,
+    "services": ""
+  },
+  {
+    "name": "SENTANI",
+    "address": "Jl. Raya Sentani HM 04060/2010. Sentani Kota. Jayapura, Jayapura, Papua ",
+    "latitude": -2.565666,
+    "longitude": 140.513562,
+    "services": ""
+  }
+]

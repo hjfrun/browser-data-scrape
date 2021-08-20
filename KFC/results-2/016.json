@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX CIBINONG CITY POINT",
+    "address": "Jl HR Lukman, Cirimekar, Cibinong, Kab. Bogor, Jawa Barat",
+    "latitude": -6.46832,
+    "longitude": 106.853408,
+    "services": ""
+  },
+  {
+    "name": "BOX CIBITUNG MEDIKA",
+    "address": "Rumah Sakit Cibitung Kp. selang cau RT 004 / 02 Wanasari Cibitung Kabupaten Bekasi, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.2532,
+    "longitude": 107.08595,
+    "services": ""
+  },
+  {
+    "name": "BOX CIMANGGIS SQUARE",
+    "address": "Jl Raya Bogor Km 29 , Mekarsari, Cimanggis, Depok, Jawa Barat",
+    "latitude": -6.357264,
+    "longitude": 106.859793,
+    "services": ""
+  },
+  {
+    "name": "BOX CIPANAS",
+    "address": "Jl. Raya Cipanas No. 162 Desa Ciputri , Kec. Sindanglaya Kab. Pacet Cianjur Jawa barat, Kab. Cianjur, Jawa Barat",
+    "latitude": -6.726938,
+    "longitude": 107.039727,
+    "services": ""
+  },
+  {
+    "name": "BOX CIPINANG INDAH",
+    "address": "Jl Raya Kalimalang no 88, Pd Bambu, Duren Sawit, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.239418,
+    "longitude": 106.894338,
+    "services": ""
+  },
+  {
+    "name": "BOX CLICK SQUARE BANDUNG",
+    "address": "Jl Tubagus Ismail VIII no 5, Dago, Bandung, Bandung, Jawa Barat",
+    "latitude": -6.920633,
+    "longitude": 1,
+    "services": ""
+  }
+]

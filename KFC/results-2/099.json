@@ -1,0 +1,44 @@
+[
+  {
+    "name": "REST AREA KM 57 CIKAMPEK",
+    "address": "JL. TOL JAKARTA - CIKAMPEK KM 57 DESA GINTUNG - KEC. KLARI, Kab. Karawang, Jawa Barat",
+    "latitude": -6.367789,
+    "longitude": 107.361091,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "REST AREA KM 6",
+    "address": "Rest Area KM 6B. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.258361,
+    "longitude": 106.927722,
+    "services": ""
+  },
+  {
+    "name": "REST AREA KM 62 CIKAMPEK",
+    "address": "JL TOL CIKAMPEK - JAKARTA KM. 62, Kab. Karawang, Jawa Barat",
+    "latitude": -6.389332,
+    "longitude": 107.395294,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "REST AREA KM 97 CIPULARANG",
+    "address": "Jl. Tol Purbaleunyi KM. 97B, Kel. Sadarkarya, Kec. Darangdan, Purwakarta, Jawa Barat, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.674999,
+    "longitude": 107.439215,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "RIAU BANDUNG",
+    "address": "JL.LAKSA.RE.MARTADINATA 77, Bandung, Jawa Barat",
+    "latitude": -6.905978,
+    "longitude": 107.621212,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "ROXY BANYUWANGI",
+    "address": "JL. A. YANI NO. 21 - 23, Kab. Banyuwangi, Jawa Timur",
+    "latitude": -8.218181,
+    "longitude": 114.36999,
+    "services": ""
+  }
+]

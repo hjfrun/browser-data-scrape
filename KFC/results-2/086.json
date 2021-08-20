@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PARUNG PLAZA",
+    "address": "Jl. Raya Parung, Bogor. Ramayana Parung Lt.1 No. Unit R-1D, Kab. Bogor, Jawa Barat",
+    "latitude": -6.419173,
+    "longitude": 106.733882,
+    "services": ""
+  },
+  {
+    "name": "PASAR BARU BALIKPAPAN",
+    "address": "JL.SUDIRMAN  NO. 3, Balikpapan, Kalimantan Timur",
+    "latitude": -1.276779,
+    "longitude": 116.838948,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "PASAR BARU BANDUNG",
+    "address": "Pasar Baru Square. Jl Otista No. 81-89. Bandung, Bandung, Jawa Barat",
+    "latitude": -6.9182,
+    "longitude": 107.604253,
+    "services": ""
+  },
+  {
+    "name": "PASAR BARU JAKARTA",
+    "address": "JL.PASAR BARU, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.163933,
+    "longitude": 106.833833,
+    "services": ""
+  },
+  {
+    "name": "PASAR REBO",
+    "address": "JL.GEDONG NO.57, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.30305,
+    "longitude": 106.857296,
+    "services": ""
+  },
+  {
+    "name": "PASARAYA MANGGARAI",
+    "address": "JL.RAYA SULTAN AGUNG, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.20951,
+    "longitude": 106.847353,
+    "services": ""
+  }
+]

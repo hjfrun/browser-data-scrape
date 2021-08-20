@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BONTANG",
+    "address": "Jl Brigjen Katamso no 10, Bontang, Bontang, Kalimantan Timur",
+    "latitude": 0.140655,
+    "longitude": 1,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "BOX  SAMUDRA SOREANG",
+    "address": "Jl. Soreang- Banjaran, Soreang, Kab. Bandung, Jawa Barat",
+    "latitude": -7.028143,
+    "longitude": 107.52209,
+    "services": ""
+  },
+  {
+    "name": "BOX ANDUONOHU KENDARI",
+    "address": "Jl. Bunggasi No.1, Anduonohu, Poasia, Kota Kendari, Sulawesi Tenggara 93231, Kendari, Sulawesi Tenggara",
+    "latitude": -4.001918,
+    "longitude": 122.534263,
+    "services": ""
+  },
+  {
+    "name": "BOX ANTASARI LAMPUNG",
+    "address": "Jl. P. Antasari 137-105, Tj. Baru, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122, Bandar Lampung, Lampung",
+    "latitude": -5.405762,
+    "longitude": 105.276829,
+    "services": ""
+  },
+  {
+    "name": "BOX BANDARA LOMBOK",
+    "address": "Jl. Bypass Bill Praya, Kel. Tanah Awu, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat 83572, Kabupaten Lombok Tengah, Nusa Tenggara Barat",
+    "latitude": -8.762131,
+    "longitude": 116.273631,
+    "services": ""
+  },
+  {
+    "name": "BOX CBD BINTARO",
+    "address": "CBD Bintaro Jaya, Jl. Boulevard Bintaro Jaya, Pd. Jaya, Pd. Aren, Kota Tangerang Selatan, Banten 15220, Tangerang Selatan, Banten",
+    "latitude": -6.276101,
+    "longitude": 106.719492,
+    "services": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GRAND PANGANDARAN",
+    "address": "Jl. Dusun Karang Sari RT 04 RW 02, Pangandaran, Kab. Pangandaran, Jawa Barat",
+    "latitude": -7.6873,
+    "longitude": 108.64852,
+    "services": ""
+  },
+  {
+    "name": "GRAND WISATA BEKASI",
+    "address": "Jl Sunset Avenue, Perum Grand Wisata, Lambang Sari, Tambun Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.27625,
+    "longitude": 107.044607,
+    "services": "KFC Drive Thru,KFC A.M"
+  },
+  {
+    "name": "GREEN HILL MEDAN",
+    "address": "Jl. Jamin Ginting KM 45, Sibolangit, Medan, Sumatera Utara., Medan, Sumatera Utara",
+    "latitude": 3.282727,
+    "longitude": 98.556041,
+    "services": ""
+  },
+  {
+    "name": "GREEN TERRACE",
+    "address": "Jl Raya Mabes Hankam, Rt 1/Rw 2, Ceger, Cipayung, Bekasi, Jawa Barat",
+    "latitude": -6.303805,
+    "longitude": 106.886108,
+    "services": ""
+  },
+  {
+    "name": "GRIYA SUMEDANG",
+    "address": "JL. ABDUL RAHMAN NO. 35, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.839967,
+    "longitude": 107.925706,
+    "services": ""
+  },
+  {
+    "name": "GTC TANJUNG BUNGA",
+    "address": "JL. METRO TANJUNG BUNGA RUKO GA 8A, Makassar, Sulawesi Selatan",
+    "latitude": -5.16867,
+    "longitude": 119.390339,
+    "services": ""
+  }
+]

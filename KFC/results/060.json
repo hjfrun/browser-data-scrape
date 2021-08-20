@@ -1,0 +1,52 @@
+[
+  {
+    "name": "JEMBATAN MERAH PLAZA 2",
+    "address": "JMP PLAZA LANTAI DASAR JL. JAYENG RONO NO. 2, Surabaya, Jawa Timur",
+    "latitude": -7.234509,
+    "longitude": 112.737967,
+    "services": []
+  },
+  {
+    "name": "JEMBER",
+    "address": "JL. GAJAH MADA NO. 74, Kab. Jember, Jawa Timur",
+    "latitude": -8.172482,
+    "longitude": 113.690671,
+    "services": []
+  },
+  {
+    "name": "JEMBRANA",
+    "address": "Jl. Ngurah Rai, Negare, Jembrana -Bali, Kab. Jembrana, Bali",
+    "latitude": -8.360593,
+    "longitude": 114.629171,
+    "services": []
+  },
+  {
+    "name": "JEPARA",
+    "address": "JL. PEMUDA NO.23 - JEPARA, Kab. Jepara, Jawa Tengah",
+    "latitude": -6.596517,
+    "longitude": 110.669368,
+    "services": []
+  },
+  {
+    "name": "JIMBARAN",
+    "address": "JL. BY PASS NGURAH RAI - JIMBARAN, Kab. Badung, Bali",
+    "latitude": -8.781523,
+    "longitude": 115.178662,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "JUANDA JAKARTA",
+    "address": "Jl. Ir. Juanda No. 27 RT/RW 001/003 Kel. Kebon Kelapa , Kec. Gambir , Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.167006,
+    "longitude": 106.824809,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  }
+]

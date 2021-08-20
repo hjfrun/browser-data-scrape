@@ -1,0 +1,48 @@
+[
+  {
+    "name": "AMBARUKMO MALL",
+    "address": "JL. LAKSDA ADI SUCIPTO GF A 27 - 28, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.782735,
+    "longitude": 110.401276,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AMBASSADOR MALL",
+    "address": "JL.PROF.DR.SATRIO,KUNINGAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223974,
+    "longitude": 106.826852,
+    "services": []
+  },
+  {
+    "name": "AMBON BARU DIPONEGORO",
+    "address": "Amaris Hotel, Ground floor, Jl. No. 82-84, Diponegoro,Kota Ambon,Maluku , Ambon, Maluku",
+    "latitude": -3.701136,
+    "longitude": 128.182669,
+    "services": []
+  },
+  {
+    "name": "AMBON KAKIALY",
+    "address": "Jl. Kakialy , Kabupaten Kota Madya Ambon, Kecamatan Kotamadya Ambon, Desa Kampung huruf D - Ambon, Ambon, Maluku",
+    "latitude": -3.695448,
+    "longitude": 128.187067,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AMBON PLAZA",
+    "address": "JL.  SAM RATULANGI NO. 126, LT. 2 AMBON PLAZA, Ambon, Maluku",
+    "latitude": -3.693331,
+    "longitude": 128.179715,
+    "services": []
+  },
+  {
+    "name": "ANCOL BEACH CITY",
+    "address": "Ancol Beach City, Pantai Carnaval, Taman Impian Jaya Ancol, Jakarta Utara 14430, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.117412,
+    "longitude": 106.857904,
+    "services": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "SGC CIKARANG",
+    "address": "JL. RE MARTADINATA RT. 04/09 DESA CIKARANG KOTA, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.258119,
+    "longitude": 107.14684,
+    "services": []
+  },
+  {
+    "name": "SGC CIKARANG FOODCOURT",
+    "address": "Sentra Grosir Cikarang, Lt. 2 / Zona Merah / No. 39, 50. dan 51, Jl RE Martadinata, Kel. Cikarang Kota, Kec. Cikarang Utara, Kab. Bekasi, Jawa Barat., Kab. Bekasi, Jawa Barat",
+    "latitude": -6.258119,
+    "longitude": 107.14684,
+    "services": []
+  },
+  {
+    "name": "SHELL MAMPANG",
+    "address": "Jl. Mampang Prapatan Raya, No 75B Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.246435,
+    "longitude": 106.826361,
+    "services": []
+  },
+  {
+    "name": "SHELL S PARMAN",
+    "address": "Jl. Let. Jend S. Parman. Kemanggisan, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.198558,
+    "longitude": 106.797986,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SHODANCO SUPRIYADI BLITAR",
+    "address": "Jl. Sudanco Supriadi no 61-63, Sananwetan, Blitar 66133 Jawa-Timur, Kab. Blitar, Jawa Timur",
+    "latitude": -8.092165,
+    "longitude": 112.180613,
+    "services": []
+  },
+  {
+    "name": "SIDOARJO",
+    "address": "JL.GAJAH MADA  NO.82, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.45607,
+    "longitude": 112.717343,
+    "services": []
+  }
+]

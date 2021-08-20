@@ -1,0 +1,52 @@
+[
+  {
+    "name": "DAGO BANDUNG",
+    "address": "Jl. Ir. H. Juanda No. 40-42, Bandung, Jawa Barat",
+    "latitude": -6.901838,
+    "longitude": 107.61273,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "DEMANG LEBAR DAUN PALEMBANG",
+    "address": "DEMANG LEBAR DAUN NO. 89, Palembang, Sumatera Selatan",
+    "latitude": -2.972045,
+    "longitude": 104.730202,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "DENPASAR DUTA PLAZA",
+    "address": "JL.DEWI SARTIKA,DUTA PLAZA, Denpasar, Bali",
+    "latitude": -8.6698165,
+    "longitude": 115.2173325,
+    "services": []
+  },
+  {
+    "name": "DEPOK MALL",
+    "address": "JL.MARGONDA RAYA,KAV 88 DEPOK, Depok, Jawa Barat",
+    "latitude": -6.386871,
+    "longitude": 106.826907,
+    "services": []
+  },
+  {
+    "name": "DEPOK PLAZA",
+    "address": "JL.MARGONDA RAYA,DEPOK, Depok, Jawa Barat",
+    "latitude": -6.392053,
+    "longitude": 106.825234,
+    "services": []
+  },
+  {
+    "name": "DERMAGA POINT PALEMBANF",
+    "address": "Jl.Sultan Mahmud II Benteng Kuto Besak Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.991058,
+    "longitude": 104.761658,
+    "services": [
+      "KFC Coffee"
+    ]
+  }
+]

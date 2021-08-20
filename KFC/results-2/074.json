@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MANYAR KERTOARJO",
+    "address": "Jl. Manyar Kertoarjo  No. 92-94, manyar sabrangan, mulyorejo,Surabaya, Surabaya, Jawa Timur",
+    "latitude": -7.280221,
+    "longitude": 112.769848,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "MARELAN RAYA MEDAN",
+    "address": "Jl. Marelan Raya Lk. XI Rt.00 Rw.00, Kel. Tanah Enam Ratus, Kec. Mareland Medan - Medan, Medan, Sumatera Utara",
+    "latitude": 3.67904,
+    "longitude": 98.655381,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "MARGONDA",
+    "address": "Jl. Margonda Raya. Rt. 001/02 Kel. Kemii Muka, Kec. Beji, Depok, Depok, Jawa Barat",
+    "latitude": -6.374514,
+    "longitude": 106.832746,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "MAROS BATANG ASE",
+    "address": "Jl. Poros Makassar - Maros No. 53 Kel. Bontoa, Kec Mandai Kab. Maros. Sulawesi Selatan, Kab. Maros, Sulawesi Selatan",
+    "latitude": -5.049667,
+    "longitude": 119.553778,
+    "services": ""
+  },
+  {
+    "name": "MARVEL CITY",
+    "address": "Jl Ngagel Jaya no 123, Mall Marvell City, Kota Surabaya, Jawa Timur",
+    "latitude": -7.289252,
+    "longitude": 112.745524,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "MATAHARI PONTIANAK",
+    "address": "Jl. Jend Urip Sumoharjo No.1 Pontianak Kalimantan Barat, Pontianak, Kalimantan Barat",
+    "latitude": -0.024457,
+    "longitude": 109.336647,
+    "services": ""
+  }
+]

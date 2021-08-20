@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CILACAP",
+    "address": "JL. JENDERAL AHMAD YANI NO. 94 SIDAKAYA, CILACAP SELATAN, Kab. Cilacap, Jawa Tengah",
+    "latitude": -7.731762,
+    "longitude": 109.00948,
+    "services": ""
+  },
+  {
+    "name": "CILEDUG PETUKANGAN",
+    "address": "Jl. Ciledug Raya No.12 Petukangan., Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.236751,
+    "longitude": 106.750724,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "CIMAHI MALL",
+    "address": "JL. GANDAWIJAYA - CIMAHI, Cimahi, Jawa Barat",
+    "latitude": -6.878111,
+    "longitude": 107.539454,
+    "services": ""
+  },
+  {
+    "name": "CINERE MALL",
+    "address": "JL. CINERE RAYA BLOK M NO 84 DEPOK, Depok, Jawa Barat",
+    "latitude": -6.323801,
+    "longitude": 106.783866,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "CIPONDOH",
+    "address": "JL. KH. HASYIM ASHARI KEL. CIPONDOH, KEC. CIPONDOH, TANGERANG, Tangerang, Banten",
+    "latitude": -6.192751,
+    "longitude": 106.672787,
+    "services": ""
+  },
+  {
+    "name": "CIPUTAT GAPLEK",
+    "address": "Jl. Cabe Raya RT. 003/05  Kel. Pondok Cabe Udik Kec. Pamulang, Tangerang - Banten, Tangerang Selatan, Banten",
+    "latitude": -6.346798,
+    "longitude": 106.749825,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  }
+]

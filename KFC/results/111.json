@@ -1,0 +1,48 @@
+[
+  {
+    "name": "SUDIRMAN DENPASAR",
+    "address": "Jl. PB Jendral Sudirman No. 50, Denpasar Barat, Denpasar, Bali 80234, Denpasar, Bali",
+    "latitude": -8.670789,
+    "longitude": 115.218034,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SUDIRMAN PEKANBARU",
+    "address": "JL. JEND. SUDIRMAN NO. 403, Pekanbaru, Riau",
+    "latitude": 0.503372,
+    "longitude": 101.454202,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "SUMMARECON MALL BEKASI",
+    "address": "Jl. Jend. Sudirman No.1A , Bekasi 17143, Bekasi, Jawa Barat",
+    "latitude": -6.225618,
+    "longitude": 106.999856,
+    "services": []
+  },
+  {
+    "name": "SUMMARECON MALL SERPONG",
+    "address": "JL. BOULEVARD GADING SERPONG BLOK AA NO. 43 - 45 - GADING SERPONG, Kab. Tangerang, Banten",
+    "latitude": -6.241228,
+    "longitude": 106.628376,
+    "services": []
+  },
+  {
+    "name": "SUNCITY PLAZA SIDOARJO",
+    "address": "JL. PAHLAWAN NO. 01 - SIDOARJO, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.449863,
+    "longitude": 112.71123,
+    "services": []
+  },
+  {
+    "name": "SUNGAI LIAT BANGKA",
+    "address": "Jl. Jendral Sudirman No. 20, Sungai Liat, Kel. Sungai Liat, Kec. Sungai Liat, Kab. Bangka - Sumatera Selatan, Kab. Bangka, Bangka Belitung",
+    "latitude": -1.853059,
+    "longitude": 106.117687,
+    "services": []
+  }
+]

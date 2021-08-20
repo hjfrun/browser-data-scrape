@@ -1,0 +1,48 @@
+[
+  {
+    "name": "PLAZA EKALOKASARI",
+    "address": "JL. SILIWANGI NO. 123, Bogor, Jawa Barat",
+    "latitude": -6.621426,
+    "longitude": 106.816899,
+    "services": []
+  },
+  {
+    "name": "PLAZA KALIBATA",
+    "address": "Kalibata Plaza, Lt 1, Jl Raya Kalibata, Rawajati, Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.2572,
+    "longitude": 106.856413,
+    "services": []
+  },
+  {
+    "name": "PLAZA LINGGA JATI JOMBANG",
+    "address": "Jl. KH. Wahid Hasyim 3 C Ds. Candimulyo , Kel. Jombang ,Kec. Jombang,, Kab. Jombang, Jawa Timur",
+    "latitude": -7.538984,
+    "longitude": 112.238085,
+    "services": []
+  },
+  {
+    "name": "PLAZA MAYASARI TASIKMALAYA",
+    "address": "JL. PASAR WETAN, Tasikmalaya, Jawa Barat",
+    "latitude": -7.327312,
+    "longitude": 108.215842,
+    "services": []
+  },
+  {
+    "name": "PLAZA MULIA SAMARINDA",
+    "address": "JL. BHAYANGKARA NO. 58, Samarinda, Kalimantan Timur",
+    "latitude": -0.490824,
+    "longitude": 117.145927,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PLAZA SEMANGGI",
+    "address": "Jl. Jendral Sudirman. Unit L3A-FCK-022-024A. Jakarta, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.219809,
+    "longitude": 106.81441,
+    "services": []
+  }
+]

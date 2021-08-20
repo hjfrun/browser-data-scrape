@@ -1,0 +1,48 @@
+[
+  {
+    "name": "JATI ASIH BEKASI",
+    "address": "Jl.Wibawa Mukti (sebrang giant) Jati Asih Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.294799,
+    "longitude": 106.95943,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "JATILAND TERNATE",
+    "address": "JL. KOMPLEKS JATI LAND RAYA TERNATE MALUKU UTARA, Ternate, Maluku Utara",
+    "latitude": 0.791389,
+    "longitude": 127.390278,
+    "services": []
+  },
+  {
+    "name": "JATINANGOR TOWN SQUARE",
+    "address": "JL. RAYA SUMEDANG NO. 150, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.934878,
+    "longitude": 107.771796,
+    "services": []
+  },
+  {
+    "name": "JATINEGARA CITY PLAZA",
+    "address": "Jl Matraman Raya No. 173 - 175 RT 11 RW 06. Kel. Balimester Kec. Jatinegara. Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.214114,
+    "longitude": 106.864334,
+    "services": []
+  },
+  {
+    "name": "JAVA SUPERMALL SEMARANG",
+    "address": "KOMPLEKS JAVA SUPERMALL JL. MT. HARYONO 992 - 994 LT. BASEMENT, Semarang, Jawa Tengah",
+    "latitude": -7.006322,
+    "longitude": 110.432064,
+    "services": []
+  },
+  {
+    "name": "JAYAPURA PAPUA",
+    "address": "JL. IRIAN NO. 29 DEPAN HOTEL YASMIN PAPUA, Jayapura, Papua ",
+    "latitude": -2.540755,
+    "longitude": 140.704855,
+    "services": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX GIANT CIMANGGIS",
+    "address": "Jl. Raya Bogor KM 31. Cimanggis 16952, Depok, Jawa Barat",
+    "latitude": -6.371023,
+    "longitude": 106.86087,
+    "services": ""
+  },
+  {
+    "name": "BOX GIANT DRAMAGA BOGOR",
+    "address": "Jln. Dramaga Kel. Margajaya, Bogor, Jawa Barat",
+    "latitude": -6.572428,
+    "longitude": 106.746448,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "BOX GIANT HARAPAN INDAH",
+    "address": "Jl. Harapan Indah Boulevard Ujung Menteng RT 05 RW 01. Medan Satria. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.186896,
+    "longitude": 106.974058,
+    "services": ""
+  },
+  {
+    "name": "BOX GIANT KENTEN PALEMBANG",
+    "address": "Jl. MP. Mangkunegara No.327 Kelurahan 8 Ilir Kecamatan Ilir Timur II, Palembang, Sumatera Selatan",
+    "latitude": -2.941264,
+    "longitude": 104.766641,
+    "services": ""
+  },
+  {
+    "name": "BOX GIANT MEGA BEKASI",
+    "address": "JL. AHMAD YANI KELUAR PINTU TOL BEKASI BARAT, Bekasi, Jawa Barat",
+    "latitude": -6.249776,
+    "longitude": 106.992819,
+    "services": ""
+  },
+  {
+    "name": "BOX GIANT METLAND CILEUNGSI",
+    "address": "Perum Metland Transyogi, Jl Metro Raya, Cileungsi Kidul, Cileungsi, Kab. Bogor, Jawa Barat",
+    "latitude": -6.405337,
+    "longitude": 106.976014,
+    "services": ""
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "name": "SRI RATU PURWOKERTO",
+    "address": "JL. JEND. SUDIRMAN NO. 447, Kab. Banyumas, Jawa Tengah",
+    "latitude": -7.427554,
+    "longitude": 109.240266,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ST MORITZ PURI INDAH",
+    "address": "Lippo Mall Puri St.Moritz Food Court Food Avenue Lantai 1, Unit FCS -09 Puri Indah Blok U1, CBD, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.188235,
+    "longitude": 106.738653,
+    "services": []
+  },
+  {
+    "name": "STASIUN BNI CITY",
+    "address": "Stasiun BNI City Jl. Tanjung Karang No. 01 Kebon Melati, Tanah Abang, Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.201278,
+    "longitude": 106.819096,
+    "services": []
+  },
+  {
+    "name": "STASIUN GAMBIR",
+    "address": "Jl. Medan Merdeka Timur No.1, Kel. Gambir, Kec. Gambir, Jakarta Pusat  , Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.176759,
+    "longitude": 106.830816,
+    "services": []
+  },
+  {
+    "name": "STASIUN KOTA",
+    "address": "Jl. Stasiun Kota, Kel. Pinangsia, Kec. Taman sari, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.137585,
+    "longitude": 106.814676,
+    "services": []
+  },
+  {
+    "name": "SUBANG",
+    "address": "JL. OTTO ISKANDARDINATA NO. 106, Kab. Subang, Jawa Barat",
+    "latitude": -6.562976,
+    "longitude": 107.767544,
+    "services": []
+  }
+]

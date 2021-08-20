@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ITC ATOM",
+    "address": "JL. BUNGURAN NO. 35 B ( GROUND FLOOR ), Surabaya, Jawa Timur",
+    "latitude": -7.240857,
+    "longitude": 112.74598,
+    "services": ""
+  },
+  {
+    "name": "ITC BSD FOODCOURT",
+    "address": "JL. PAHLAWAN SERIBU BSD CITY - TANGGERANG, Tangerang Selatan, Banten",
+    "latitude": -6.285859,
+    "longitude": 106.664615,
+    "services": ""
+  },
+  {
+    "name": "ITC CEMPAKA MAS",
+    "address": "JL.CEMPAKA PUTIH LT. 5 CEMPAKA MAS, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.164462,
+    "longitude": 106.877354,
+    "services": ""
+  },
+  {
+    "name": "ITC CEMPAKA MAS FOODCOURT",
+    "address": "JL.CEMPAKA PUTIH LT. 5 CEMPAKA MAS BIG SPACE FOODCOURT/160, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.164462,
+    "longitude": 106.877354,
+    "services": ""
+  },
+  {
+    "name": "ITC DEPOK",
+    "address": "JL. MARGONDA RAYA, Depok, Jawa Barat",
+    "latitude": -6.392735,
+    "longitude": 106.823324,
+    "services": ""
+  },
+  {
+    "name": "ITC KOPO",
+    "address": "JL. KOPO NO. 599 BLOK 8 LT. DASAR, Bandung, Jawa Barat",
+    "latitude": -6.960001,
+    "longitude": 107.580452,
+    "services": ""
+  }
+]

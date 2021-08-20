@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MERUYUNG",
+    "address": "Jl Meruyung Raya, Rt 002/04, Meruyung, Limo, Depok, Jawa Barat",
+    "latitude": -6.382035,
+    "longitude": 106.769172,
+    "services": []
+  },
+  {
+    "name": "METLAND CILEUNGSI",
+    "address": "Jl. Taman Metro Raya No. 99 Cilengusi, Kab. Bogor, Jawa Barat, Kab. Bogor, Jawa Barat",
+    "latitude": -6.399,
+    "longitude": 106.974844,
+    "services": []
+  },
+  {
+    "name": "METLAND TAMBUN",
+    "address": "Jl. Hasanudin, Metropolitan Land Tambun , Kabupaten Bekasi, Jawa Barat, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.265443,
+    "longitude": 107.073045,
+    "services": []
+  },
+  {
+    "name": "METRO LAMPUNG",
+    "address": "Chandra Super Store. Komplek Pertokoan Sumur Bandung, Metro - Lampung Tengah, Metro, Lampung",
+    "latitude": -5.114513,
+    "longitude": 105.305702,
+    "services": []
+  },
+  {
+    "name": "METRO MARGAHAYU",
+    "address": "JL.SOEKARNO HATTA 628, Bandung, Jawa Barat",
+    "latitude": -6.9390582,
+    "longitude": 107.6680595,
+    "services": []
+  },
+  {
+    "name": "METRO TRADE CENTER BANDUNG",
+    "address": "JL. SOEKARNO HATTA NO. 590, Bandung, Jawa Barat",
+    "latitude": -6.940673,
+    "longitude": 107.657609,
+    "services": []
+  }
+]

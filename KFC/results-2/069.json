@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MAGELANG",
+    "address": "JL. PEMUDA NO. 12, Magelang, Jawa Tengah",
+    "latitude": -7.478846,
+    "longitude": 110.219305,
+    "services": ""
+  },
+  {
+    "name": "MAGELANG YOGYA",
+    "address": "Jl. Magelang KM 6 RT 06 / RW 14, Kel. Sinduadi, Kec. Mlati, Kab. Sleman, Yogyakarta, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.752861,
+    "longitude": 110.362028,
+    "services": "KFC Drive Thru,KFC A.M"
+  },
+  {
+    "name": "MAJAPAHIT SEMARANG",
+    "address": "Jl. Majapahit, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.019605,
+    "longitude": 110.493866,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "MAKASSAR TOWN SQUARE",
+    "address": "JL. PERINTIS KEMERDEKAAN KM. 8 BLOK A NO. 1 - 2 KOMPLEKS MAKASSAR TOWN SQUARE, Makassar, Sulawesi Selatan",
+    "latitude": -5.144565,
+    "longitude": 119.475264,
+    "services": ""
+  },
+  {
+    "name": "MALANG TOWN SQUARE",
+    "address": "JL. VETERAN NO. 2, Malang, Jawa Timur",
+    "latitude": -7.95677,
+    "longitude": 112.618832,
+    "services": ""
+  },
+  {
+    "name": "MALIOBORO YOGYAKARTA",
+    "address": "JL.MALIOBORO 133, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.792106,
+    "longitude": 110.365724,
+    "services": "KFC A.M"
+  }
+]

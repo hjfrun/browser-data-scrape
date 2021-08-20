@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PONDOK GEDE PLAZA",
+    "address": "JL. RAYA PONDOK GEDE, KEL. JATIWARINGIN KEC. PONDOK GEDE, Bekasi, Jawa Barat",
+    "latitude": -6.283562,
+    "longitude": 106.911428,
+    "services": ""
+  },
+  {
+    "name": "PONDOK INDAH MALL II",
+    "address": "JL. METRO PONDOK INDAH II, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.26519,
+    "longitude": 106.782764,
+    "services": ""
+  },
+  {
+    "name": "PONDOK INDAH PLAZA",
+    "address": "RUKO PONDOK INDAH SEKTOR II BLOK UA NO 44-45, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.283664,
+    "longitude": 106.78043,
+    "services": "KFC A.M,KFC Coffee"
+  },
+  {
+    "name": "PONTIANAK",
+    "address": "JL.GAJAH MADA NO.54-55, Pontianak, Kalimantan Barat",
+    "latitude": -0.0308964,
+    "longitude": 109.3401057,
+    "services": ""
+  },
+  {
+    "name": "PRABUMULIH",
+    "address": "Jl.Sudirman No.13 rt. 13/04, Kel. Muara dua, kec. Prabumulih timur, muara enim,  Prabumulih - Palembang, Prabumulih, Sumatera Selatan",
+    "latitude": -3.430522,
+    "longitude": 104.239678,
+    "services": ""
+  },
+  {
+    "name": "PRAPATAN TUGU TANI",
+    "address": "Jl.Ikhwan ridwan rais no.7-B, Kel. Gambir, Kec. Gambir, Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.18249,
+    "longitude": 106.833581,
+    "services": "KFC Coffee,KFC A.M"
+  }
+]

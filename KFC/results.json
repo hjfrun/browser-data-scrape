@@ -1,0 +1,5607 @@
+[
+  {
+    "name": "ADAM MALIK MEDAN",
+    "address": "JL.ADAM MALIK NO. 5 / 7, Medan, Sumatera Utara",
+    "latitude": 3.594566,
+    "longitude": 98.668599,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ADITYAWARMAN SURABAYA",
+    "address": "Jl. Adityawarman No. 371, Dukuh Pakis, Surabaya, Jawa Timur, Surabaya, Jawa Timur",
+    "latitude": -7.294636,
+    "longitude": 112.73172,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AEON JAKARTA GARDEN CITY",
+    "address": "Mall AEON Jakarta Garden City- Unit FC 3-11, Kel Cakung Timur, Kec. Cakung, Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.172174,
+    "longitude": 106.953081,
+    "services": []
+  },
+  {
+    "name": "AEON MALL",
+    "address": "Jl. BSD Raya Utama, Desa Sampora, Kec. Cisauk, Kec. Tangerang, Banten 15345, Indonesia, Kab. Tangerang, Banten",
+    "latitude": -6.305178,
+    "longitude": 106.641562,
+    "services": []
+  },
+  {
+    "name": "AHMAD YANI BANDUNG",
+    "address": "Jalan Ahmay Yani no 310, Kacapiring, Batununggal, Bandung, Jawa Barat",
+    "latitude": -6.913795,
+    "longitude": 107.634276,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AHMAD YANI BANJARMASIN",
+    "address": "Jl A. Yani km4, Rt 002/001  kelurahan Karang Mekar   Kecamatan Banjarmasin Timur – Kota Banjarmasin   Kalimantan Selatan kode pos 70234, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.334515,
+    "longitude": 114.614911,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AHMAD YANI MAKASSAR",
+    "address": "JL. AHMAD YANI NO. 23 - 25 BLOK B 5 - B 6, Makassar, Sulawesi Selatan",
+    "latitude": -5.132727,
+    "longitude": 119.410053,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AHMAD YANI PADANG",
+    "address": "JL. PATTIMURA NO. 23, Padang, Sumatera Barat",
+    "latitude": -0.943025,
+    "longitude": 100.357658,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AHMAD YANI PONTIANAK",
+    "address": "JL. AHMAD YANI 24 - PONTIANAK, Pontianak, Kalimantan Barat",
+    "latitude": -0.039114,
+    "longitude": 109.336255,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AHMAD YANI SURABAYA",
+    "address": "JL. AHMAD YANI 76 - 86, Surabaya, Jawa Timur",
+    "latitude": -7.319361,
+    "longitude": 112.732494,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AIR PACAH PADANG",
+    "address": "Jl. Maransi, Air Pacah, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Padang, Sumatera Barat",
+    "latitude": -0.872102,
+    "longitude": 100.382795,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "AIRLANGGA SQUARE LOMBOK",
+    "address": "JL. AIRLANGGA - GOMONG MATARAM, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.588002,
+    "longitude": 116.100534,
+    "services": []
+  },
+  {
+    "name": "AIRMADIDI",
+    "address": "Airmadidi. Kec Airmadidi, Kab. Minahasa Utara. Sulawesi Utara, Kab. Minahasa Utara, Sulawesi Utara",
+    "latitude": 1.420592,
+    "longitude": 124.986556,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "AIRPORT HUB",
+    "address": "Jl. Hesein Sastranegara (Tol Airport ) , Kel. Benda , Kec. Benda , Tangerang, Tangerang, Banten",
+    "latitude": -6.113569,
+    "longitude": 106.685983,
+    "services": []
+  },
+  {
+    "name": "ALAM SUTERA",
+    "address": "Jl. Boulevard Alam Sutera Kav. A. Kel. Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.238299,
+    "longitude": 106.659607,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ALAMANDA KARANG SATRIA",
+    "address": "Jl Raya Karang Satria, Karang Satria, Tambun Utara, Bekasi, Jawa Barat",
+    "latitude": -6.224006,
+    "longitude": 107.041881,
+    "services": []
+  },
+  {
+    "name": "ALFA LATTA AMBON",
+    "address": "Jl. Wolter monginsidi ,  Desa Latta, Kec. Teluk Ambon Baguala, Kotamadya Ambon, Kec. Maluku, Ambon, Maluku",
+    "latitude": -3.653368,
+    "longitude": 128.226739,
+    "services": []
+  },
+  {
+    "name": "AMBACANG PADANG",
+    "address": "JL.BUNDA KANDUANG NO.14-16 AMBACANG PLAZA, Padang, Sumatera Barat",
+    "latitude": -0.953254,
+    "longitude": 100.35963,
+    "services": []
+  },
+  {
+    "name": "AMBARUKMO MALL",
+    "address": "JL. LAKSDA ADI SUCIPTO GF A 27 - 28, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.782735,
+    "longitude": 110.401276,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AMBASSADOR MALL",
+    "address": "JL.PROF.DR.SATRIO,KUNINGAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223974,
+    "longitude": 106.826852,
+    "services": []
+  },
+  {
+    "name": "AMBON BARU DIPONEGORO",
+    "address": "Amaris Hotel, Ground floor, Jl. No. 82-84, Diponegoro,Kota Ambon,Maluku , Ambon, Maluku",
+    "latitude": -3.701136,
+    "longitude": 128.182669,
+    "services": []
+  },
+  {
+    "name": "AMBON KAKIALY",
+    "address": "Jl. Kakialy , Kabupaten Kota Madya Ambon, Kecamatan Kotamadya Ambon, Desa Kampung huruf D - Ambon, Ambon, Maluku",
+    "latitude": -3.695448,
+    "longitude": 128.187067,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "AMBON PLAZA",
+    "address": "JL.  SAM RATULANGI NO. 126, LT. 2 AMBON PLAZA, Ambon, Maluku",
+    "latitude": -3.693331,
+    "longitude": 128.179715,
+    "services": []
+  },
+  {
+    "name": "ANCOL BEACH CITY",
+    "address": "Ancol Beach City, Pantai Carnaval, Taman Impian Jaya Ancol, Jakarta Utara 14430, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.117412,
+    "longitude": 106.857904,
+    "services": []
+  },
+  {
+    "name": "APOLLO TULUNGAGUNG",
+    "address": "Jl. Di Ponegoro 96, Kel. Tamanan, Kec. Tulung Agung, Kab. Tulung agung, Kab. Tulungagung, Jawa Timur",
+    "latitude": -8.068583,
+    "longitude": 111.901482,
+    "services": []
+  },
+  {
+    "name": "ARENA FANTASI BALIKPAPAN",
+    "address": "RUKO PURI BLOK A NO. 19 - 21 MALL FANTASI - FANTASI, Balikpapan, Kalimantan Timur",
+    "latitude": -1.24357,
+    "longitude": 116.86166,
+    "services": []
+  },
+  {
+    "name": "ARIFIN AHMAD PEKANBARU",
+    "address": "Jl. Arifin ahmad, kel. Sidomulyo Timur, Kec. Marpoyan Damai, Kota Pekanbaru - Riau, Pekanbaru, Riau",
+    "latitude": 0.480832,
+    "longitude": 101.438767,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "ARION PLAZA",
+    "address": "JL.PEMUDA NO.3, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.193631,
+    "longitude": 106.89092,
+    "services": []
+  },
+  {
+    "name": "ARMADA TOWN SQUARE",
+    "address": "Jl. Mayjend Bambang Soegeng No. 1 Magelang, Jawa Tengah - Indonesia. P.O.BOX. 160 Magelang, Magelang, Jawa Tengah",
+    "latitude": -7.504144,
+    "longitude": 110.224535,
+    "services": []
+  },
+  {
+    "name": "ARTHA GADING FOODCOURT",
+    "address": "ARTHA GADING MAL FOOD COURT JL. BOULEVARD ARTHA GADING B1 & B2 KELAPA GADING BARAT - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145786,
+    "longitude": 106.892655,
+    "services": []
+  },
+  {
+    "name": "ASAHAN MEDAN",
+    "address": "Jl Lintas Sumatera, Dusun Hessa Air Genting, Air Batu, Kab. Asahan, Sumatera Utara",
+    "latitude": 2.925263,
+    "longitude": 99.704177,
+    "services": []
+  },
+  {
+    "name": "ASIA MEGA MAS MEDAN",
+    "address": "Jl. Sukaramai II, KEL. Sukaramai II, Kec. Medan Area. Medan - Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.586381,
+    "longitude": 98.703083,
+    "services": []
+  },
+  {
+    "name": "ATRIUM SENEN",
+    "address": "JL.SEGITIGA SENEN, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.176392,
+    "longitude": 106.840894,
+    "services": []
+  },
+  {
+    "name": "AYAM BULUNGAN JAKARTA",
+    "address": "JL. BULUNGAN I / 64 KEBAYORAN BARU - JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.24405,
+    "longitude": 106.796912,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BAHU MALL MANADO",
+    "address": "Bahu Mall, R.W., Jl. Wolter Monginsidi, Bahu, Malalayang, Manado, Sulawesi Utara",
+    "latitude": -1.4623217,
+    "longitude": 124.8252785,
+    "services": []
+  },
+  {
+    "name": "BALAI PUSTAKA RAWAMANGUN",
+    "address": "Jl. Balai Pustaka Timur, RT.7/RW.9, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.199916,
+    "longitude": 106.886107,
+    "services": []
+  },
+  {
+    "name": "BALIKPAPAN PLAZA",
+    "address": "JL. JEND. SUDIRMAN NO. 1, Balikpapan, Kalimantan Timur",
+    "latitude": -1.277995,
+    "longitude": 116.838334,
+    "services": []
+  },
+  {
+    "name": "BANDA ACEH",
+    "address": "JL.NYAK ARIS NO.20, Banda Aceh, Aceh",
+    "latitude": 5.556039,
+    "longitude": 95.323045,
+    "services": []
+  },
+  {
+    "name": "BANDAR JAYA LAMPUNG",
+    "address": "JL. PROKLAMATOR LT. 1 - BANDAR JAYA, Kab. Lampung Tengah, Lampung",
+    "latitude": -4.938588,
+    "longitude": 105.212187,
+    "services": []
+  },
+  {
+    "name": "BANDAR LAMPUNG",
+    "address": "JL.JEND.SUDIRMAN 11-15, Bandar Lampung, Lampung",
+    "latitude": -5.422417,
+    "longitude": 105.260789,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BANDARA HALUOLEO, KENDARI",
+    "address": "Jl Bandara Haluoleo, Ambaipua, Ranomeeto, Kab. Konawe Selatan, Sulawesi Tenggara",
+    "latitude": -4.076903,
+    "longitude": 122.417077,
+    "services": []
+  },
+  {
+    "name": "BANDARA HASANUDDIN",
+    "address": "JL. POROS MAROS BLOK C.1.1, Kab. Maros, Sulawesi Selatan",
+    "latitude": -5.076627,
+    "longitude": 119.546958,
+    "services": []
+  },
+  {
+    "name": "BANDARA JUANDA TERM 2",
+    "address": "Jl Ir. H. Juanda Surabaya, Parking Area T2 Bandara Surabaya, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.38374,
+    "longitude": 112.775108,
+    "services": []
+  },
+  {
+    "name": "BANDARA KUALANAMU",
+    "address": "Kualanamu International Airport, PS Enam Kualanamu, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.635495,
+    "longitude": 98.878874,
+    "services": []
+  },
+  {
+    "name": "BANDARA SEPINGGAN",
+    "address": "Jl Marsma R Iswahyudi, Komplek Bandara Sepinggan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.261028,
+    "longitude": 116.899722,
+    "services": []
+  },
+  {
+    "name": "BANDARA SOEKARNO-HATTA TERM 1C PARKING AREA",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 2 E-F, Tangerang, Banten",
+    "latitude": -6.12983,
+    "longitude": 106.654474,
+    "services": []
+  },
+  {
+    "name": "BANDARA SOEKARNO-HATTA TERM 2F CENGKARENG",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 2 E-F, Tangerang, Banten",
+    "latitude": -6.122324,
+    "longitude": 106.654085,
+    "services": []
+  },
+  {
+    "name": "BANDUNG TRADE CENTER",
+    "address": "JL. IR. DJUNJUNAN 143 - 149, Bandung, Jawa Barat",
+    "latitude": -6.893048,
+    "longitude": 107.584836,
+    "services": []
+  },
+  {
+    "name": "BANDUNG TRADE MALL",
+    "address": "JL. IBRAHIM ADJI - KIARA CONDONG, Bandung, Jawa Barat",
+    "latitude": -6.911628,
+    "longitude": 107.644289,
+    "services": []
+  },
+  {
+    "name": "BANGKA TRADE CENTER",
+    "address": "Gedung Bangka Trade Center, Lt. Dasar unit No. D - 03, Pangkal Pinang - Bangka, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.129316,
+    "longitude": 106.116232,
+    "services": []
+  },
+  {
+    "name": "BANJARBARU",
+    "address": "JL. AHMAD YANI KM. 34,5, Banjarbaru, Kalimantan Selatan",
+    "latitude": -3.442541,
+    "longitude": 114.828958,
+    "services": []
+  },
+  {
+    "name": "BASMAR PLAZA",
+    "address": "Jl MAMPANG PRAPATAN RAYA 106, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.254381,
+    "longitude": 106.82713,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BASSILICA PALEMBANG",
+    "address": "Jln. Brigjend Hasan Kasim Komplek 044 RW 009, Kel. Bukit Sangkal Kec. Kalidoni Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.948452,
+    "longitude": 104.785431,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BASSURA MALL",
+    "address": "Jln. Basuki Rahmat N.1A Rt 08 /Rw 10, Kel. Cipinang Besar Selatan, Kec. Jatinegara, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.224687,
+    "longitude": 106.878967,
+    "services": []
+  },
+  {
+    "name": "BASUKI RAHMAT",
+    "address": "Jl. Basuki rahmad no.31, Surabaya, Jawa Timur",
+    "latitude": -7.264614,
+    "longitude": 112.741291,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BASUKI RAHMAT TUBAN",
+    "address": "Jl. Basuki Rakhmat 260. Kutorejo, Kab. Tuban, Jawa Timur, Kab. Tuban, Jawa Timur",
+    "latitude": -6.899783,
+    "longitude": 112.062559,
+    "services": []
+  },
+  {
+    "name": "BATAM BOTANIA",
+    "address": "KO Botania Garden C-01, Kel Belian, Kec. Batam Kota, Kota Batam, Batam, Kepulauan Riau",
+    "latitude": 1.126507,
+    "longitude": 104.098357,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BATAM CITY SQUARE",
+    "address": "JL. KOMPLEK PINUNIC BLOK R NO. 3 LUBUK BAJA - BATAM, Batam, Kepulauan Riau",
+    "latitude": 1.132164,
+    "longitude": 104.010207,
+    "services": []
+  },
+  {
+    "name": "BATU 9 TANJUNG PINANG",
+    "address": "Jl. DI. Panjaitan Km. 9 - Tanjung Pinang Timur - Kota Tanjung Pinang , Kepri, Tanjung Pinang, Kepulauan Riau",
+    "latitude": 0.916609,
+    "longitude": 104.50692,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BATU AJI BATAM",
+    "address": "Jl. Let Jend Suprapto, Batu Aji - Batam, Batam, Kepulauan Riau",
+    "latitude": 1.042317,
+    "longitude": 103.983288,
+    "services": []
+  },
+  {
+    "name": "BATULICIN",
+    "address": "Jl.Raya Kodeco km.2 Desa Gunung Antasari Kec.Simpang Empat,Kab.tanah bumbu Kalimantan Selatan, Kab. Tanah Bumbu, Kalimantan Selatan",
+    "latitude": -3.412525,
+    "longitude": 116.01149,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "BAU-BAU",
+    "address": "Jl. Yos Sudarso,Kab. Buton, Kel.  Wale, Kec.Wolio, Bau - Bau Sulawesi Tenggara, Bau-Bau, Sulawesi Tenggara",
+    "latitude": -5.455143,
+    "longitude": 122.607202,
+    "services": []
+  },
+  {
+    "name": "BDNI SUDIRMAN YOGYAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 69, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.78268,
+    "longitude": 110.372653,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "BEC BANDUNG",
+    "address": "GedUNG Istana BEC. Jl. Purnawarman No.7 Bandung, Bandung, Jawa Barat",
+    "latitude": -6.908891,
+    "longitude": 107.609053,
+    "services": []
+  },
+  {
+    "name": "BEKASI CYBERPARK",
+    "address": "Jl KH Noer Ali no 177, Margajaya, Bekasi Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.246799,
+    "longitude": 106.991686,
+    "services": []
+  },
+  {
+    "name": "BELU ATAMBUA",
+    "address": "Jl. Adam Malik. Atambua - NTT, Kab. Belu, Nusa Tenggara Timur",
+    "latitude": -9.105206,
+    "longitude": 124.889299,
+    "services": []
+  },
+  {
+    "name": "BENCOOLEN MALL",
+    "address": "Jl. Pariwisata, No.1, Bengkulu, Bengkulu, Bengkulu",
+    "latitude": -3.811121,
+    "longitude": 102.268607,
+    "services": []
+  },
+  {
+    "name": "BENGKULU",
+    "address": "JL. LETJEND R. SUPRAPTO NO. 171 - 173, Bengkulu, Bengkulu",
+    "latitude": -3.793052,
+    "longitude": 102.262683,
+    "services": []
+  },
+  {
+    "name": "BERAU",
+    "address": "Jl. Pemuda No.1, Bugis, Tj. Redeb, Kabupaten Berau, Kalimantan Timur 77352, Kabupaten Berau, Kalimantan Timur",
+    "latitude": -2.156094,
+    "longitude": 117.4972364,
+    "services": []
+  },
+  {
+    "name": "BG JUNCTION SURABAYA",
+    "address": "JL. BUBUTAN NO. 1 - 7, Surabaya, Jawa Timur",
+    "latitude": -7.255718,
+    "longitude": 112.733829,
+    "services": []
+  },
+  {
+    "name": "BIG MALL SAMARINDA",
+    "address": "Jl. Untung Suropati No.8, Samarinda - Kalimantan Timur, Samarinda, Kalimantan Timur",
+    "latitude": -0.52607,
+    "longitude": 117.115561,
+    "services": []
+  },
+  {
+    "name": "BINJAI DELI SERDANG",
+    "address": "Jl. Raya Binjai KM. 10.8, No.97, Kab. Deli Serdang, Kec. Sunggal, Desa Sei Mayang, Dusun IX, Pasar Besar, Binjai - Medan, Sumatera Utara, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.599145,
+    "longitude": 98.562956,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "BINTARO 9",
+    "address": "Jl. Raya Bintaro Sektor IX Kav BJ/06. Pondok Aren - Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.280056,
+    "longitude": 106.715694,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BINTARO ANNEX",
+    "address": "Area Foodwalk / Blok Annex - 6B. pLaza Bintaro Jaya, Jl. Bintaro Utama III, Bintaro Jaya Sektor 3A, Tangerang 15225. Telp. 735-4888/021-735 3003, Tangerang Selatan, Banten",
+    "latitude": -6.272943,
+    "longitude": 106.742009,
+    "services": []
+  },
+  {
+    "name": "BINTARO PLAZA",
+    "address": "BINTARO PLAZA SEKTOR 3, BINTARO JAYA, Tangerang Selatan, Banten",
+    "latitude": -6.272558,
+    "longitude": 106.74199,
+    "services": []
+  },
+  {
+    "name": "BINTARO SATOE",
+    "address": "JL.BINTARO  UTAMA  NO. 1, BINTARO JAYA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.270996,
+    "longitude": 106.757515,
+    "services": []
+  },
+  {
+    "name": "BITUNG MANADO",
+    "address": "Jl. Wolter Monginsidi (Jl. Poros)  Kelurahan Girian Weru dua, Kecamatan Girian, Bitung - Sulawesi Utara, Bitung, Sulawesi Utara",
+    "latitude": 1.440344,
+    "longitude": 125.129863,
+    "services": []
+  },
+  {
+    "name": "BLOK M PLAZA",
+    "address": "JL. BULUNGAN NO.76, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245002,
+    "longitude": 106.797587,
+    "services": []
+  },
+  {
+    "name": "BLOK M SQUARE",
+    "address": "JL. MELAWAI 5 - KEBAYORAN BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.244735,
+    "longitude": 106.800816,
+    "services": []
+  },
+  {
+    "name": "BOGOR INDAH PLAZA",
+    "address": "JL. SHOLEH ISKANDARDINATA RUKO A 3, Bogor, Jawa Barat",
+    "latitude": -6.561294,
+    "longitude": 106.790357,
+    "services": []
+  },
+  {
+    "name": "BOGOR PAJAJARAN",
+    "address": "JL. PAJAJARAN NO. 8, Bogor, Jawa Barat",
+    "latitude": -6.60246,
+    "longitude": 106.805594,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BOGOR REST AREA",
+    "address": "JL. TOL JAGORAWI STA 20 + 400, Kab. Bogor, Jawa Barat",
+    "latitude": -6.575954,
+    "longitude": 106.838866,
+    "services": []
+  },
+  {
+    "name": "BOGOR TRADE MALL",
+    "address": "JL. IR. H. JUANDA, Bogor, Jawa Barat",
+    "latitude": -6.604952,
+    "longitude": 106.795812,
+    "services": []
+  },
+  {
+    "name": "BONE SULAWESI",
+    "address": "Jl. Ahmad Yani, Wantampone, Bone , Sul-Sel, Kab. Bone, Sulawesi Selatan",
+    "latitude": -4.540041,
+    "longitude": 120.315394,
+    "services": []
+  },
+  {
+    "name": "BONTANG",
+    "address": "Jl Brigjen Katamso no 10, Bontang, Bontang, Kalimantan Timur",
+    "latitude": 0.140655,
+    "longitude": 1,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BOX  SAMUDRA SOREANG",
+    "address": "Jl. Soreang- Banjaran, Soreang, Kab. Bandung, Jawa Barat",
+    "latitude": -7.028143,
+    "longitude": 107.52209,
+    "services": []
+  },
+  {
+    "name": "BOX ANDUONOHU KENDARI",
+    "address": "Jl. Bunggasi No.1, Anduonohu, Poasia, Kota Kendari, Sulawesi Tenggara 93231, Kendari, Sulawesi Tenggara",
+    "latitude": -4.001918,
+    "longitude": 122.534263,
+    "services": []
+  },
+  {
+    "name": "BOX ANTASARI LAMPUNG",
+    "address": "Jl. P. Antasari 137-105, Tj. Baru, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122, Bandar Lampung, Lampung",
+    "latitude": -5.405762,
+    "longitude": 105.276829,
+    "services": []
+  },
+  {
+    "name": "BOX BANDARA LOMBOK",
+    "address": "Jl. Bypass Bill Praya, Kel. Tanah Awu, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat 83572, Kabupaten Lombok Tengah, Nusa Tenggara Barat",
+    "latitude": -8.762131,
+    "longitude": 116.273631,
+    "services": []
+  },
+  {
+    "name": "BOX CBD BINTARO",
+    "address": "CBD Bintaro Jaya, Jl. Boulevard Bintaro Jaya, Pd. Jaya, Pd. Aren, Kota Tangerang Selatan, Banten 15220, Tangerang Selatan, Banten",
+    "latitude": -6.276101,
+    "longitude": 106.719492,
+    "services": []
+  },
+  {
+    "name": "BOX CIBINONG CITY POINT",
+    "address": "Jl HR Lukman, Cirimekar, Cibinong, Kab. Bogor, Jawa Barat",
+    "latitude": -6.46832,
+    "longitude": 106.853408,
+    "services": []
+  },
+  {
+    "name": "BOX CIBITUNG MEDIKA",
+    "address": "Rumah Sakit Cibitung Kp. selang cau RT 004 / 02 Wanasari Cibitung Kabupaten Bekasi, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.2532,
+    "longitude": 107.08595,
+    "services": []
+  },
+  {
+    "name": "BOX CIMANGGIS SQUARE",
+    "address": "Jl Raya Bogor Km 29 , Mekarsari, Cimanggis, Depok, Jawa Barat",
+    "latitude": -6.357264,
+    "longitude": 106.859793,
+    "services": []
+  },
+  {
+    "name": "BOX CIPANAS",
+    "address": "Jl. Raya Cipanas No. 162 Desa Ciputri , Kec. Sindanglaya Kab. Pacet Cianjur Jawa barat, Kab. Cianjur, Jawa Barat",
+    "latitude": -6.726938,
+    "longitude": 107.039727,
+    "services": []
+  },
+  {
+    "name": "BOX CIPINANG INDAH",
+    "address": "Jl Raya Kalimalang no 88, Pd Bambu, Duren Sawit, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.239418,
+    "longitude": 106.894338,
+    "services": []
+  },
+  {
+    "name": "BOX CLICK SQUARE BANDUNG",
+    "address": "Jl Tubagus Ismail VIII no 5, Dago, Bandung, Bandung, Jawa Barat",
+    "latitude": -6.920633,
+    "longitude": 1,
+    "services": []
+  },
+  {
+    "name": "BOX ECO PLAZA CITRA RAYA",
+    "address": "Jl Ecopolis Avenue blok VE no 7-9, Mekar Bakti, Panongan, Kab. Tangerang, Banten",
+    "latitude": -6.250014,
+    "longitude": 106.525017,
+    "services": []
+  },
+  {
+    "name": "BOX ERAMART SAMARINDA",
+    "address": "Jl. Cipto Mangunkusumo, Simpang Tiga, Kec. Loa Janan Ilir, Kota Samarinda, Kalimantan Timur 75131, Samarinda, Kalimantan Timur",
+    "latitude": -0.572281,
+    "longitude": 117.08754,
+    "services": []
+  },
+  {
+    "name": "BOX FERRY BATAM CENTER",
+    "address": "Terminal Ferry International Batam Centre Point teluk tering  - Nongsa Batam 29400, Batam, Kepulauan Riau",
+    "latitude": 1.130674,
+    "longitude": 104.055288,
+    "services": []
+  },
+  {
+    "name": "BOX GAYA KEDUNGMUNDU",
+    "address": "Jl. Kedungmundu No.233, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.023971,
+    "longitude": 110.459522,
+    "services": []
+  },
+  {
+    "name": "BOX GEDUNG BIRU BALIKPAPAN",
+    "address": "Jl Soekarno Hatta, Batu Ampar, Balikpapan Utara, Balikpapan, Kalimantan Timur",
+    "latitude": -1.21868,
+    "longitude": 116.849924,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT BANJARMASIN",
+    "address": "Jl Ahmad Yani Km 6,2 Kertak Hanyar, Kab Banjar, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.352087,
+    "longitude": 114.626791,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT CIMANGGIS",
+    "address": "Jl. Raya Bogor KM 31. Cimanggis 16952, Depok, Jawa Barat",
+    "latitude": -6.371023,
+    "longitude": 106.86087,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT DRAMAGA BOGOR",
+    "address": "Jln. Dramaga Kel. Margajaya, Bogor, Jawa Barat",
+    "latitude": -6.572428,
+    "longitude": 106.746448,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BOX GIANT HARAPAN INDAH",
+    "address": "Jl. Harapan Indah Boulevard Ujung Menteng RT 05 RW 01. Medan Satria. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.186896,
+    "longitude": 106.974058,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT KENTEN PALEMBANG",
+    "address": "Jl. MP. Mangkunegara No.327 Kelurahan 8 Ilir Kecamatan Ilir Timur II, Palembang, Sumatera Selatan",
+    "latitude": -2.941264,
+    "longitude": 104.766641,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT MEGA BEKASI",
+    "address": "JL. AHMAD YANI KELUAR PINTU TOL BEKASI BARAT, Bekasi, Jawa Barat",
+    "latitude": -6.249776,
+    "longitude": 106.992819,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT METLAND CILEUNGSI",
+    "address": "Perum Metland Transyogi, Jl Metro Raya, Cileungsi Kidul, Cileungsi, Kab. Bogor, Jawa Barat",
+    "latitude": -6.405337,
+    "longitude": 106.976014,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT PALEM SEMI TANGERANG",
+    "address": "Jalan Palem Raja Raya, Bencongan Indah, Kelapa Dua, Panunggangan Bar., Cibodas, Kota Tangerang, Banten 15116, Kota Tangerang, Banten",
+    "latitude": -6.219806,
+    "longitude": 106.615528,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT PETTARANI MAKASSAR",
+    "address": "Jl Andi Pangeran Pettarani Kel Sinri Jala Kec Ranakukang, Makassar, Sulawesi Selatan",
+    "latitude": -5.13805,
+    "longitude": 119.439358,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT SAWOJAJAR",
+    "address": "Jl Danau Toba, Lesanpuro, Kedungkandang, Malang, Jawa Timur",
+    "latitude": -7.981631,
+    "longitude": 112.654635,
+    "services": []
+  },
+  {
+    "name": "BOX GRIYA YOGYA KARAWANG",
+    "address": "Jl. Kertabumi 44, Karawang Kulon, Kec. Karawang Bar., Kabupaten Karawang, Jawa Barat 41311, Kab. Karawang, Jawa Barat",
+    "latitude": -6.30379,
+    "longitude": 107.292727,
+    "services": []
+  },
+  {
+    "name": "BOX GRIYA YOGYA SUMBERSARI",
+    "address": "Komplek Sumber Sari Indah Blok T no 1-3, Jl Soekarno Hatta, Babakan Ciparay, Bandung, Jawa Barat",
+    "latitude": -6.932143,
+    "longitude": 107.576245,
+    "services": []
+  },
+  {
+    "name": "BOX HARBOUR BAY BATAM",
+    "address": "Jl. Duyung, Sungai Jodoh, Batu Ampar, Kota Batam, Kepulauan Riau 29444, Batam, Kepulauan Riau",
+    "latitude": 1.154667,
+    "longitude": 104.001856,
+    "services": []
+  },
+  {
+    "name": "BOX HARTONO MALL",
+    "address": "Jl Raya Ringroad Utara,  Kaliwaru, Condong Catur, Depok, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.75962,
+    "longitude": 110.398873,
+    "services": []
+  },
+  {
+    "name": "BOX JOGJA WALK",
+    "address": "Sahid J-Walk Lt. GF 28.                                                   Jl. Babarsari Caturtunggal, Kec. Depok, Kab. Sleman, DIY, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.779556,
+    "longitude": 110.413694,
+    "services": []
+  },
+  {
+    "name": "BOX JUANDA CILACAP",
+    "address": "Jl. Ir. H. Juanda, Amiranom, Kebon Manis, Cilacap Utara, Kabupaten Cilacap, Jawa Tengah 53224, Kab. Cilacap, Jawa Tengah",
+    "latitude": -7.694028,
+    "longitude": 109.026276,
+    "services": []
+  },
+  {
+    "name": "BOX KERTAPATI PALEMBANG",
+    "address": "PT. Ali Kertapati, Jl. Wahid Hasyim No. 9, RT 007/02  Seberang Ulu 1 Palembang, Sumatera Selatan 30255, Palembang, Sumatera Selatan",
+    "latitude": -3.013735,
+    "longitude": 104.755795,
+    "services": []
+  },
+  {
+    "name": "BOX LAGOON AVENUE",
+    "address": "Jl KH Noer Ali no 3, Pekayon Jaya, Bekasi Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.25185,
+    "longitude": 106.978984,
+    "services": []
+  },
+  {
+    "name": "BOX LIPPO LUBUK LINGGAU",
+    "address": "Jl Yos Sudarso, Taba Jemekeh, Lubuk Linggau Timur, Lubuk Linggau, Sumatera Selatan",
+    "latitude": -3.287728,
+    "longitude": 102.877701,
+    "services": []
+  },
+  {
+    "name": "BOX LIPPO PLAZA JOGJA",
+    "address": "Jl Laksda Adisucipto, no 32-34, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.78352,
+    "longitude": 110.390516,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING PLAZA BALIKPAPAN",
+    "address": "Jl. MT Haryono, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114, Balikpapan, Kalimantan Timur",
+    "latitude": -1.241574,
+    "longitude": 116.873223,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING PLAZA JABABEKA",
+    "address": "Jl. Niaga Raya, Mekarmukti, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530, Bekasi, Jawa Barat",
+    "latitude": -6.299453,
+    "longitude": 107.150927,
+    "services": []
+  },
+  {
+    "name": "BOX LIVING WORLD ALAM SUTERA",
+    "address": "Jl. Alam Sutera Boulevard Kav.21, Pakulonan, Serpong Utara , Kota Tangerang Selatan, Banten 15325, Tangerang Selatan, Banten",
+    "latitude": -6.244225,
+    "longitude": 106.653568,
+    "services": []
+  },
+  {
+    "name": "BOX MAJU BERSAMA MARENDAL",
+    "address": "Jl. KL Yos Sudarso, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238, Indonesia, Kota Medan, Sumatera Utara",
+    "latitude": 3.538458,
+    "longitude": 98.699776,
+    "services": []
+  },
+  {
+    "name": "BOX MAJU BERSAMA MEDAN",
+    "address": "Jl. Yos Sudarso No. 123 - 125 Glugur Medan, Medan, Sumatera Utara",
+    "latitude": 3.616344,
+    "longitude": 98.671799,
+    "services": []
+  },
+  {
+    "name": "BOX MEGA MALL BENGKULU",
+    "address": "Jl. KZ. Abidin II Komplek Mega Mall Lantai Dasar No.19-23, Kel. Belakang Pondok Kec. Ratu Samban, Kota Bengkulu, Bengkulu, Bengkulu",
+    "latitude": -3.793722,
+    "longitude": 102.267,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA HANKAM",
+    "address": "Jl Raya Hankam, Jati Rahayu, Pondok Melati, Bekasi, Jawa Barat",
+    "latitude": -6.295839,
+    "longitude": 106.920956,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA PEKAYON BKS",
+    "address": "Jl. Raya Pekayon No. 29  RT 00/00. Kel. Pekayon Jaya. Kec. Bekasi Selatan. Kota Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.2645,
+    "longitude": 106.986806,
+    "services": []
+  },
+  {
+    "name": "BOX NAGA WISMA ASRI BEKASI",
+    "address": "Jalan Raya Perjuangan No. 88 Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.221139,
+    "longitude": 107.018306,
+    "services": []
+  },
+  {
+    "name": "BOX NATAR LAMPUNG",
+    "address": "Jl Raya Natar no 1028-1029, Natar, Kab. Lampung Selatan, Lampung",
+    "latitude": -5.309605,
+    "longitude": 105.193857,
+    "services": []
+  },
+  {
+    "name": "BOX ONE BEL PARK",
+    "address": "Jl RS Fatmawati no 1, Rt 2/1, Pondok Labu, Cilandak, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.304523,
+    "longitude": 106.795146,
+    "services": []
+  },
+  {
+    "name": "BOX PAJUS JAMIN GINTING",
+    "address": "Jl Jamin Ginting No 134, Pajak Karona USU, Kota Medan, Sumatera Utara",
+    "latitude": 3.56058,
+    "longitude": 98.661905,
+    "services": []
+  },
+  {
+    "name": "BOX PANJANG LAMPUNG",
+    "address": "Ruko Panjang 3, Jl. Yos Sudarso No.255, Panjang Utara, Panjang, Kota Bandar Lampung, Lampung 35243, Bandar Lampung, Lampung",
+    "latitude": -5.475758,
+    "longitude": 105.322405,
+    "services": []
+  },
+  {
+    "name": "BOX PASAR JUMAT",
+    "address": "Jl. Lebak bulus 1 No.25, RT.9/RW.7, Lb. Bulus, Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.289078,
+    "longitude": 106.773192,
+    "services": []
+  },
+  {
+    "name": "BOX PASAR PROYEK TRADE CENTER",
+    "address": "Jl Ir H. Djuanda, Margahayu, Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.241009,
+    "longitude": 107.003298,
+    "services": []
+  },
+  {
+    "name": "BOX PELABUHAN MERAK",
+    "address": "Dermaga Eksekutif Pelabuhan Merak lantai 1, Jl Pelabuhan Merak, Cilegon, Banten, Cilegon, Banten",
+    "latitude": -5.93498,
+    "longitude": 106.000225,
+    "services": []
+  },
+  {
+    "name": "BOX PELABUHAN TARAKAN",
+    "address": "Jl Yos Sudarso no 11, Sebengkok, Tarakan Tengah, Tarakan, Kalimantan Utara",
+    "latitude": 3.292209,
+    "longitude": 117.588912,
+    "services": []
+  },
+  {
+    "name": "BOX PINISI POINT MAKASSAR",
+    "address": "Mall Phinisi Point, Jl. Metro Tj. Bunga No.2, Panambungan, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90121, Makassar, Sulawesi Selatan",
+    "latitude": -5.152244,
+    "longitude": 119.40426,
+    "services": []
+  },
+  {
+    "name": "BOX PLAZA ASIA SUMEDANG",
+    "address": "Jl Mayor Abdurahman no 225, Kotakaler, Sumedang Utara, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.835637,
+    "longitude": 107.92937,
+    "services": []
+  },
+  {
+    "name": "BOX PLAZA JAMBU DUA",
+    "address": "Plaza Jambu Dua, Jln. Ahmad Yani No.1, Warung Jambu Bogor, Bogor, Jawa Barat",
+    "latitude": -6.569051,
+    "longitude": 106.8084,
+    "services": []
+  },
+  {
+    "name": "BOX PLAZA MANDIRI",
+    "address": "Plaza Mandiri. Jl. Gatot Subroto Kav.36-38 Jakarta 12190 Ged. Bank Exim Lt.2, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.225039,
+    "longitude": 106.814093,
+    "services": []
+  },
+  {
+    "name": "BOX Q BIG BSD CITY",
+    "address": "Qbig BSD City Mall Lt. G-11,Jl. BSD Raya Utama, Lengkong Kulon, Pagedangan, Tangerang, Tangerang Selatan, Banten",
+    "latitude": -6.284417,
+    "longitude": 106.63725,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA CIBUBUR",
+    "address": "Jl Raya Lapangan Tembak Kelapa Dua Wetan, Ramayana Cibubur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.351935,
+    "longitude": 106.884219,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA CIKUPA",
+    "address": "Jl. Raya Serang, Talagasari, Cikupa, Tangerang, Banten 15710, Tangerang, Banten",
+    "latitude": -6.228423,
+    "longitude": 106.514233,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA CILEDUG",
+    "address": "Jl. HOS Cokroaminoto, Karang Tim., Kec. Karang Tengah, Kota Tangerang, Banten 15157, Kab. Tangerang, Banten",
+    "latitude": -6.227441,
+    "longitude": 106.717894,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA CIREBON",
+    "address": "Jl. Raya Plered - Cirebon, Weru Lor, Weru, Cirebon, Jawa Barat 45000, Cirebon, Jawa Barat",
+    "latitude": -6.703391,
+    "longitude": 108.501762,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA KEDIRI",
+    "address": "Jl. Jend. Sudirman, Ringin Anom, Kec. Kota Kediri, Kota Kediri, Jawa Timur 64129, Kabupaten Kediri, Jawa Timur",
+    "latitude": -7.822599,
+    "longitude": 112.011052,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA PADALARANG",
+    "address": "Jl. Raya Padalarang, Kertamulya, Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553, Bandung Barat, Jawa Barat",
+    "latitude": -6.846087,
+    "longitude": 107.489244,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA PASAR MINGGU",
+    "address": "Jalan Raya Ragunan RT 01/07 no 113, Pasar Minggu, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.285345,
+    "longitude": 106.840797,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA PEKALONGAN",
+    "address": "Jl Dr Sutomo, Noyontaan, Pekalongan Timur, Pekalongan, Jawa Tengah",
+    "latitude": -6.9015,
+    "longitude": 109.682156,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA SALATIGA",
+    "address": "Jl Pemuda no 1, Sidorejo, Salatiga, Jawa Tengah",
+    "latitude": -7.324917,
+    "longitude": 110.505432,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA SIANTAR",
+    "address": "Jln. Sutomo, Dwikora, Siantar Barat, Kota Pematang Siantar, Pematang Siantar, Sumatera Utara",
+    "latitude": 2.960266,
+    "longitude": 99.073566,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA TAJUR",
+    "address": "Jl. Raya Tajur RT.02/RW.02, Sindangsari, Bogor, Muarasari, Bogor Selatan, Kota Bogor, Jawa Barat 16137, Bogor, Jawa Barat",
+    "latitude": -6.643978,
+    "longitude": 106.838796,
+    "services": []
+  },
+  {
+    "name": "BOX RAMAYANA TEBING TINGGI",
+    "address": "Jl Jenderal Sudirman, Deli, Tanjung Marulak Hilir, Tebing Tinggi, Sumatera Utara",
+    "latitude": 3.344739,
+    "longitude": 99.16606,
+    "services": []
+  },
+  {
+    "name": "BOX RED CORNER 1A SOEKARNO HATTA",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 1A, Tangerang, Banten",
+    "latitude": -6.129667,
+    "longitude": 106.657694,
+    "services": []
+  },
+  {
+    "name": "BOX REST AREA KM 125",
+    "address": "Rest Area Palararang Cileunyi KM 125, Cibeber,Cimahi Selatan, Kota Cimahi, Jawa Barat, Cimahi, Jawa Barat",
+    "latitude": -6.885009,
+    "longitude": 107.519821,
+    "services": []
+  },
+  {
+    "name": "BOX REST AREA KM 22",
+    "address": "Rest Area KM 22. Susukan, Ungaran Tim., Semarang, Jawa Tengah 50516, Semarang, Jawa Tengah",
+    "latitude": -7.129639,
+    "longitude": 110.423944,
+    "services": []
+  },
+  {
+    "name": "BOX REVO TOWN",
+    "address": "Revo Town Lt. LG 35,  Jl. Jend. A. Yani Pekayon Jaya, Bekasi Selatan, Kota Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.253861,
+    "longitude": 106.989972,
+    "services": []
+  },
+  {
+    "name": "BOX RS PELNI JAKARTA",
+    "address": "Jl. KS Tubun Raya No. 92 Petamburan Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.193046,
+    "longitude": 106.804475,
+    "services": []
+  },
+  {
+    "name": "BOX RS PHC TANJUNG PERAK",
+    "address": "Jl. Prapat Kurung Selatan, Tj. Perak (Surabaya) - Benoa No.1, Perak Utara, Pabean Cantian, Kota SBY, Jawa Timur 60165, Surabaya, Jawa Timur",
+    "latitude": -7.209384,
+    "longitude": 112.735678,
+    "services": []
+  },
+  {
+    "name": "BOX RS POLRI",
+    "address": "Rumah Sakit Bhayangkara TK. IR Said Sukanto Jl. Raya Bogor Kramat Jati, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.269204,
+    "longitude": 106.870417,
+    "services": []
+  },
+  {
+    "name": "BOX RSUD KANUJOSO BALIKPAPAN",
+    "address": "Jl MT Haryono Ringroad no 656, Balikpapan Utara, Balikpapan, Kalimantan Timur",
+    "latitude": -1.223472,
+    "longitude": 116.868806,
+    "services": []
+  },
+  {
+    "name": "BOX SEKIP PALEMBANG",
+    "address": "Jl. Mayor Salim Batubara, 20 Ilir D II, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30164, Kota Palembang, Sumatera Selatan",
+    "latitude": -2.959938,
+    "longitude": 104.757026,
+    "services": []
+  },
+  {
+    "name": "BOX SHELL CIREBON",
+    "address": "Jl. Kesambi No.130, Sunyaragi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45132, Cirebon, Jawa Barat",
+    "latitude": -6.737444,
+    "longitude": 108.549551,
+    "services": []
+  },
+  {
+    "name": "BOX SHELL PLUIT",
+    "address": "( Shell Pluit Selatan - 1 ) Jl Pluit Selatan Raya No. 7 Jakarta Utara, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.125658,
+    "longitude": 106.798359,
+    "services": []
+  },
+  {
+    "name": "BOX SLEMAN MALL",
+    "address": "Jl Magelang km 9,6  Tridadi, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.720201,
+    "longitude": 110.361258,
+    "services": []
+  },
+  {
+    "name": "BOX SPBU BOX KATAMSO",
+    "address": "Jl. Brigjend Katamso, Sei Mati, Medan Maimun, Kota Medan, Sumatera Utara 20215, Kota Medan, Sumatera Utara",
+    "latitude": 3.568465,
+    "longitude": 98.686929,
+    "services": []
+  },
+  {
+    "name": "BOX SPBU CIAUL SUKABUMI",
+    "address": "Jl. RA Kosasih Cisarua Cikole. Sukabumi, Sukabumi, Jawa Barat",
+    "latitude": -6.922244,
+    "longitude": 106.941693,
+    "services": []
+  },
+  {
+    "name": "BOX SPBU FATMAWATI",
+    "address": "Jl. Rumah Sakit Fatmawati RT.04 RW.04 Cipete Selatan, Cilandak Jakarta – Selatan 12150, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.272167,
+    "longitude": 106.797778,
+    "services": []
+  },
+  {
+    "name": "BOX SPBU SUNTER KEMAYORAN",
+    "address": "Jl Sunter Kemayoran no 3, Sunter Jaya, Tanjung Priuk, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.161974,
+    "longitude": 106.875059,
+    "services": []
+  },
+  {
+    "name": "BOX STASIUN CIREBON",
+    "address": "Stasiun Kejaksaan Cirebon, Jl Siliwangi, Kebon Baru, Kejaksaan, Cirebon, Jawa Barat",
+    "latitude": -6.705328,
+    "longitude": 108.555566,
+    "services": []
+  },
+  {
+    "name": "BOX STASIUN MANGGARAI",
+    "address": "Stasiun Manggarai, JL. Manggarai Utara No. 1 Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.210417,
+    "longitude": 106.849921,
+    "services": []
+  },
+  {
+    "name": "BOX SUNCITY MADIUN",
+    "address": "Jl. S. Parman, Oro-oro Ombo, Kec. Kartoharjo, Kota Madiun, Jawa Timur 63119, Madiun, Jawa Timur",
+    "latitude": -7.622412,
+    "longitude": 111.536293,
+    "services": []
+  },
+  {
+    "name": "BOX SUNEAST BANYUWANGI",
+    "address": "Jl Diponegoro no 11, Genteng, Banyuwangi, Kab. Banyuwangi, Jawa Timur",
+    "latitude": -8.36414,
+    "longitude": 1,
+    "services": []
+  },
+  {
+    "name": "BOX SUNGAI JAWI",
+    "address": "Jl. H. Rais A. Rachman, Sungai Jawi Dalam, Pontianak Barat, Pontianak, Kalimantan Barat 78244, Pontianak, Kalimantan Barat",
+    "latitude": -0.019758,
+    "longitude": 109.323999,
+    "services": []
+  },
+  {
+    "name": "BOX THAMRIN CITY",
+    "address": "Thamrin City Lt. GF Unit BT/LD20 – 21, Jl Thamrin Boulevard, Kebon Melati, Jakarta, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.194778,
+    "longitude": 106.817833,
+    "services": []
+  },
+  {
+    "name": "BOX THE HIVE CAWANG",
+    "address": "Jl DI Panjaitan Kav 34 Cawang, Kel Cipinang, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.244701,
+    "longitude": 106.875404,
+    "services": []
+  },
+  {
+    "name": "BOX TIDAR MAGELANG",
+    "address": "Jl. Jend. Gatot Soebroto, Karet, Bulurejo, Kec. Mertoyudan, Magelang, Jawa Tengah, Kabupaten Magelang, Jawa Tengah",
+    "latitude": -7.506065,
+    "longitude": 110.204332,
+    "services": []
+  },
+  {
+    "name": "BOX TJ MART BANGKA",
+    "address": "Teman Jaya Mart, Jalan Solihin GP no 27, Asam, Rangkui, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.142536,
+    "longitude": 106.099789,
+    "services": []
+  },
+  {
+    "name": "BOX TOM AND JERRY MADURA",
+    "address": "Superrmarket Tom & Jerry, Jl Trunojoyo, Bangkalan, Madura, Jawa Timur",
+    "latitude": -7.027057,
+    "longitude": 112.75486,
+    "services": []
+  },
+  {
+    "name": "BOX TRANS MART KAWANUA MANADO",
+    "address": "Transmart Kawanua Manado Lt. GF. 20. Jl. AA. Maramis,  Paniki Bawah, Mapenget, Kota Manado. Sulawesi Utara., Manado, Sulawesi Utara",
+    "latitude": 1.503,
+    "longitude": 124.900194,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART CIREBON",
+    "address": "Jl Raya Doktor Cipto Mangunkusumo no 234 , Pekiringan, Kesambi, Cirebon, Jawa Barat",
+    "latitude": -6.720731,
+    "longitude": 108.550286,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART DEPOK",
+    "address": "Jl. Dewi Sartika no 9, Pancoran Mas, Depok, Jawa Barat",
+    "latitude": -6.399963,
+    "longitude": 106.816748,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART GRAHA BINTARO",
+    "address": "Jl Kebayoran Utama no 2A, Serpong Utara, Tangerang Selatan, Banten",
+    "latitude": -6.240588,
+    "longitude": 106.675659,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART JEMBER",
+    "address": "Jl Hayam Wuruk no 61 A, Sempusari, Kaliwates, Kab. Jember, Jawa Timur",
+    "latitude": -8.184709,
+    "longitude": 113.666577,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART JUANDA BEKASI",
+    "address": "Jl. Ir H Juanda no 19, Margahayu, Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.249361,
+    "longitude": 107.016707,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART KALIMAS SBY",
+    "address": "Jl. Ngagel no 137-141, Ngagel, Wonokromo, Kota Surabaya, Jawa Timur",
+    "latitude": -7.290928,
+    "longitude": 112.743632,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART LAMPUNG",
+    "address": "Jl. Sultan Agung No 283, Way Halim Permai, Sukarame, Bandar Lampung, Lampung",
+    "latitude": -5.383088,
+    "longitude": 105.282354,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART PADANG",
+    "address": "Jl Khatib Sulaiman no 85, Ulak Karang Selatan, Padang Utara, Padang, Sumatera Barat",
+    "latitude": -0.912357,
+    "longitude": 100.357265,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART PONTIANAK",
+    "address": "Jl Jend. Ahmad Yani no 2, Sungai Raya, Pontianak, Kalimantan Barat",
+    "latitude": -0.077424,
+    "longitude": 109.367497,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART SIDOARDJO",
+    "address": "Jl Mayjen Sungkono, Pagerwojo, Buduran, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.439352,
+    "longitude": 112.714717,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART SOLO PABELAN",
+    "address": "Jl A. Yani no 234 , Banaran, Pabelan, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.56022,
+    "longitude": 110.767943,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART TEGAL",
+    "address": "Jl Kolonel Sugiono no 546, Pekauman, Tegal Barat, Tegal, Jawa Tengah",
+    "latitude": -6.868385,
+    "longitude": 109.123145,
+    "services": []
+  },
+  {
+    "name": "BOX TRONA EXPRESS SIMPANG RIMBO",
+    "address": "Jl. Pattimura RT 02 Kel Kenali Besar. Kec. Jambi Timur, Jambi, Jambi",
+    "latitude": -1.619444,
+    "longitude": 103.557101,
+    "services": []
+  },
+  {
+    "name": "BOX TROPI MART JAMBI",
+    "address": "Jl. Sentot Alibasha No. 23, Payo Selincah, Jambi Tim., Kota Jambi 36121, Jambi, Jambi",
+    "latitude": -1.60625,
+    "longitude": 103.645944,
+    "services": []
+  },
+  {
+    "name": "BOX UBERTOS BANDUNG",
+    "address": "Jl. A.H. Nasution Kav.46A, Pakemitan, Cinambo, Kota Bandung, Jawa Barat 45474, Bandung, Jawa Barat",
+    "latitude": -6.915264,
+    "longitude": 107.696377,
+    "services": []
+  },
+  {
+    "name": "BOX VIKTOR SERPONG",
+    "address": "Jl. Buaran-Bsd 71-10, Buaran, Kec. Serpong, Kota Tangerang Selatan, Banten 15310, Kota Tangerang Selatan, Banten",
+    "latitude": -6.343917,
+    "longitude": 106.687262,
+    "services": []
+  },
+  {
+    "name": "BOX WAHIDIN PONTIANAK",
+    "address": "Jl. Dr Wahidin S, Sungai Jawi, Pontianak, Kalimantan Barat 78113, Pontianak, Kalimantan Barat",
+    "latitude": -0.038046,
+    "longitude": 109.310217,
+    "services": []
+  },
+  {
+    "name": "BSD PLAZA",
+    "address": "JL.BUMI SERPONG DAMAI SEKTOR IV, Tangerang Selatan, Banten",
+    "latitude": -6.279259,
+    "longitude": 106.662995,
+    "services": []
+  },
+  {
+    "name": "BSD SQUARE",
+    "address": "SUNBURST CBD LOT I,1 JL KAPT. SOEBIANTO DJOJOHADIKUSUMO BSD CITY TANGERANG, Tangerang Selatan, Banten",
+    "latitude": -6.293441,
+    "longitude": 106.666069,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BTC BEKASI",
+    "address": "Jl HM Joyomartono Bulak Kapal Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.258572,
+    "longitude": 107.021256,
+    "services": []
+  },
+  {
+    "name": "BTC MARELAND",
+    "address": "JL. VETERAN SIMPANG JIPUR MARELAN, Medan, Sumatera Utara",
+    "latitude": 3.627839,
+    "longitude": 98.66218,
+    "services": []
+  },
+  {
+    "name": "BUAH BATU",
+    "address": "JL.BUAH BATU RAYA NO.180 AB, Bandung, Jawa Barat",
+    "latitude": -6.941178,
+    "longitude": 107.62712,
+    "services": []
+  },
+  {
+    "name": "BUAH BATU SQUARE",
+    "address": "Jl Bojong Soang no 321, Cipagalo- Bojongsoang, Bandung, Jawa Barat",
+    "latitude": -6.966227,
+    "longitude": 107.638093,
+    "services": []
+  },
+  {
+    "name": "BUARAN PLAZA",
+    "address": "JL. RADIN INTEN RT.01 / 04 KLENDER DUREN SAWIT, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.217833,
+    "longitude": 106.923883,
+    "services": []
+  },
+  {
+    "name": "BUKIT RAYA PEKANBARU",
+    "address": "Jl. Imam Munandar No. 2 Kel. Tangkerang Utara, Kec. Bukit Raya , Pekanbaru, Pekanbaru, Riau",
+    "latitude": 0.500881,
+    "longitude": 101.47143,
+    "services": []
+  },
+  {
+    "name": "BUKIT SEMARANG BARU",
+    "address": "Jl. Rm. Hadi Soebeno Raya No.KM.6, Kedungpane, Kec. Mijen, Kota Semarang, Jawa Tengah 50211, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.0299583,
+    "longitude": 110.3347053,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "BUKITTINGGI",
+    "address": "JL.AHMAD YANI NO.1,BUKIT TINGGI, Bukittinggi, Sumatera Barat",
+    "latitude": -0.304549,
+    "longitude": 100.369011,
+    "services": []
+  },
+  {
+    "name": "BUNYAMIN PURWOKERTO",
+    "address": "Jl. Prof Dr Bunyamin, Purwokerto Utara, Kab. Banyumas, Jawa Tengah, Kab.Banyumas, Jawa Tengah",
+    "latitude": -7.400178,
+    "longitude": 109.245061,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CAKUNG",
+    "address": "PLZ TAMAN MODERN CAKUNG JL. RAYA BEKASI KM. 24 CAKUNG - JKATIM, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.186366,
+    "longitude": 106.949391,
+    "services": []
+  },
+  {
+    "name": "CAKUNG GRAND MALL",
+    "address": "JL. Raya Bekasi, KM 25, Cakung, Kota Jakarta Timur, 17143, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.187187,
+    "longitude": 106.9585,
+    "services": []
+  },
+  {
+    "name": "CANDI SEMARANG",
+    "address": "JL.SULTAN AGUNG NO. 97, Semarang, Jawa Tengah",
+    "latitude": -7.015471,
+    "longitude": 110.417946,
+    "services": []
+  },
+  {
+    "name": "CARGO PERMAI BALI",
+    "address": "Jl. Gunung Galunggung No.888x Kel.Padangsambian, Denpasar, Bali",
+    "latitude": -8.618594,
+    "longitude": 115.190432,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CARREFOUR BEKASI",
+    "address": "JL. CHAIRIL ANWAR NO. 27 - 36, Bekasi, Jawa Barat",
+    "latitude": -6.256491,
+    "longitude": 107.008512,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR CAWANG",
+    "address": "LAKESPRA  MT. HARYONO , JAKARTA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243501,
+    "longitude": 106.862883,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR DENPASAR",
+    "address": "JL. SUNSET ROAD, Denpasar, Bali",
+    "latitude": -8.712663,
+    "longitude": 115.187294,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR KIARA CONDONG",
+    "address": "SUKARNO HATTA 526, Bandung, Jawa Barat",
+    "latitude": -6.946752,
+    "longitude": 107.640954,
+    "services": []
+  },
+  {
+    "name": "CARREFOUR LEBAK BULUS",
+    "address": "JL. LEBAK BULUS NO. 8, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.28773,
+    "longitude": 106.775911,
+    "services": []
+  },
+  {
+    "name": "CBD CILEDUG",
+    "address": "JL. HOS COKROAMINOTO NO. 93 KARANG TENGAH - CILEDUG, Tangerang, Banten",
+    "latitude": -6.22432,
+    "longitude": 106.70827,
+    "services": []
+  },
+  {
+    "name": "CEMARA ASRI MEDAN",
+    "address": "JL. KOMP. CEMARA ASRI, Medan, Sumatera Utara",
+    "latitude": 3.628707,
+    "longitude": 98.707532,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CEMPAKA PUTIH JAKARTA",
+    "address": "JL. CEMPAKA PUTIH RAYA,  NO 106 KEL. CEMPAKA PUTIH TIMUR, CEMPAKA PUTIH JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.17654,
+    "longitude": 106.873131,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CENTRAL BALIKPAPAN",
+    "address": "Jl Let. Jend. Suprapto No 3 Balikpapan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.237723,
+    "longitude": 116.827298,
+    "services": []
+  },
+  {
+    "name": "CENTRE POINT MEDAN",
+    "address": "Center Point Medan. LG Unit 20, Jl. Jawa No.8 - 20231 Medan Timur, Medan, Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.591253,
+    "longitude": 98.680437,
+    "services": []
+  },
+  {
+    "name": "CHANDRA LAMPUNG",
+    "address": "JL. PEMUDA, H. WURUK NO. 1, TJ. KARANG, Bandar Lampung, Lampung",
+    "latitude": -5.411657,
+    "longitude": 105.259537,
+    "services": []
+  },
+  {
+    "name": "CIAWI BOGOR",
+    "address": "Jl. Raya Ciawi , Samping Pasar Ciawi Puncak Bogor, Bogor Selatan, Kab. Bogor, Jawa Barat, Kab.Bogor, Jawa Barat",
+    "latitude": -6.658624,
+    "longitude": 106.849845,
+    "services": []
+  },
+  {
+    "name": "CIBABAT CIMAHI",
+    "address": "Jl. Raya Cibabat, Rt. 01/ Rw. 03 Kel. Cibabat, Kec. Cimahi Utara, Kota Cimahi, Cimahi, Jawa Barat",
+    "latitude": -6.878445,
+    "longitude": 107.550123,
+    "services": []
+  },
+  {
+    "name": "CIBUBUR CIKEAS",
+    "address": "Jl. Alternatif Cibubur  Rt.002 Rw. 007 Kel. Ngarak Kab.Gunung Putri - Bogor, Kab. Bogor, Jawa Barat",
+    "latitude": -6.388206,
+    "longitude": 106.942454,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CIBUBUR PLAZA",
+    "address": "JL. ALTERNATIF ( TRANS YOGIE ) KM 2 - 3 CIBUBUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.376222,
+    "longitude": 106.914828,
+    "services": []
+  },
+  {
+    "name": "CIDENG JAKARTA",
+    "address": "JL. TANAH ABANG II NO. 85 KEL. PETOJO SELATAN , KEC. GAMBIR JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.175623,
+    "longitude": 106.812217,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "CIHAMPELAS WALK",
+    "address": "JL. CIHAMPELAS NO. 160, Bandung, Jawa Barat",
+    "latitude": -6.893206,
+    "longitude": 107.605483,
+    "services": []
+  },
+  {
+    "name": "CIK DI TIRO LAMPUNG",
+    "address": "Jl.Cik Di Tiro Kemilling Bandar Lampung., Bandar Lampung, Lampung",
+    "latitude": -5.397375,
+    "longitude": 105.213045,
+    "services": []
+  },
+  {
+    "name": "CIKARANG UTARA",
+    "address": "Jl. RE. Martadinata No. 17, Karangbaru, Kec. Cikarang Utara, Bekasi, Jawa Barat 17530, Bekasi, Jawa Barat",
+    "latitude": -6.262201,
+    "longitude": 107.141799,
+    "services": []
+  },
+  {
+    "name": "CIKINI JAKARTA",
+    "address": "JL.CIKINI RAYA 119, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.19655,
+    "longitude": 106.84025,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "CILACAP",
+    "address": "JL. JENDERAL AHMAD YANI NO. 94 SIDAKAYA, CILACAP SELATAN, Kab. Cilacap, Jawa Tengah",
+    "latitude": -7.731762,
+    "longitude": 109.00948,
+    "services": []
+  },
+  {
+    "name": "CILEDUG PETUKANGAN",
+    "address": "Jl. Ciledug Raya No.12 Petukangan., Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.236751,
+    "longitude": 106.750724,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CIMAHI MALL",
+    "address": "JL. GANDAWIJAYA - CIMAHI, Cimahi, Jawa Barat",
+    "latitude": -6.878111,
+    "longitude": 107.539454,
+    "services": []
+  },
+  {
+    "name": "CINERE MALL",
+    "address": "JL. CINERE RAYA BLOK M NO 84 DEPOK, Depok, Jawa Barat",
+    "latitude": -6.323801,
+    "longitude": 106.783866,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "CIPONDOH",
+    "address": "JL. KH. HASYIM ASHARI KEL. CIPONDOH, KEC. CIPONDOH, TANGERANG, Tangerang, Banten",
+    "latitude": -6.192751,
+    "longitude": 106.672787,
+    "services": []
+  },
+  {
+    "name": "CIPUTAT GAPLEK",
+    "address": "Jl. Cabe Raya RT. 003/05  Kel. Pondok Cabe Udik Kec. Pamulang, Tangerang - Banten, Tangerang Selatan, Banten",
+    "latitude": -6.346798,
+    "longitude": 106.749825,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CIPUTRA SERAYA",
+    "address": "Mall Ciputra Seraya, Ground Floor, Jl. Riau  No 58. Pekan Baru, Riau, Pekanbaru, Riau",
+    "latitude": 0.535882,
+    "longitude": 101.430255,
+    "services": []
+  },
+  {
+    "name": "CIPUTRA WORLD SURABAYA",
+    "address": "CIPUTRA WORLD FOOD COURT LANTAI 3 unit 38-39, Jl. M Sungkono No.89, Surabaya, Jawa Timur",
+    "latitude": -7.292165,
+    "longitude": 112.720402,
+    "services": []
+  },
+  {
+    "name": "CIRACAS",
+    "address": "JL. RAYA BOGOR KM. 25, CIRACAS JAKARTA TIMUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.328268,
+    "longitude": 106.865148,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "CIREBON MALL",
+    "address": "JL.BAHAGIA NO.123, Cirebon, Jawa Barat",
+    "latitude": -6.718943,
+    "longitude": 108.568672,
+    "services": []
+  },
+  {
+    "name": "CIREBON SUPER BLOCK",
+    "address": "Mall Cirebon Superblock, Foodcourt Unit 3A-06, Second Floor, Jl. Dr Cipto Mangunkusumo, No 26 Cirebon Jawa Barat, Cirebon, Jawa Barat",
+    "latitude": -6.718242,
+    "longitude": 108.549567,
+    "services": []
+  },
+  {
+    "name": "CIRENDEU",
+    "address": "JL. RAYA CIRENDEU NO. 20 LEBAK BULUS - PAMULANG, Tangerang Selatan, Banten",
+    "latitude": -6.318059,
+    "longitude": 106.768617,
+    "services": []
+  },
+  {
+    "name": "CITIMALL LAHAT",
+    "address": "Jl. Lintas Tengah Sumatera, Manggul, Kec. Lahat, Kabupaten Lahat, Sumatera Selatan 30961, Kab. Lahat, Sumatera Selatan",
+    "latitude": -3.781978,
+    "longitude": 103.565233,
+    "services": []
+  },
+  {
+    "name": "CITRA GARDEN 6",
+    "address": "Perum Citra 6 Blok L7 Citra Garden City, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.128858,
+    "longitude": 106.714588,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CITRA GARDEN II",
+    "address": "JL. CITRA 2 BLOK D.J 1/1 -2 CITRA GARDEN CITY, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.142642,
+    "longitude": 106.707218,
+    "services": []
+  },
+  {
+    "name": "CITRA MALL KLENDER",
+    "address": "JL. I  GUSTI NGURAH RAI - KLENDER, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.213929,
+    "longitude": 106.902794,
+    "services": []
+  },
+  {
+    "name": "CITRA RAYA CIKUPA",
+    "address": "CITRA RAYA BOULEVARD BLOK A 07 NO. 1 CIKUPA - TANGERANG, Kab. Tangerang, Banten",
+    "latitude": -6.231189,
+    "longitude": 106.520495,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CITRALAKE SAWANGAN",
+    "address": "Jl. Raya Bojongsari, Kedaung, Kec. Bojongsari, Kota Depok, Jawa Barat 16516, Depok, Jawa Barat",
+    "latitude": -6.381871,
+    "longitude": 106.746766,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "CITRALAND JAKARTA",
+    "address": "JL.JEND.S.PARMAN GED.CITRALAND, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.168468,
+    "longitude": 106.786801,
+    "services": []
+  },
+  {
+    "name": "CITRALAND MAKASSAR",
+    "address": "Per.Citraland Celebes A/1-A/3 Makassar, Kab. Gowa, Sulawesi Selatan",
+    "latitude": -5.179857,
+    "longitude": 119.463581,
+    "services": []
+  },
+  {
+    "name": "CITRALAND SEMARANG",
+    "address": "JL.SIMPANG LIMA LT.I, CITRALAND MAL, Semarang, Jawa Tengah",
+    "latitude": -6.98863,
+    "longitude": 110.423835,
+    "services": []
+  },
+  {
+    "name": "CITY MART BITUNG",
+    "address": "Jl. Yos Sudarso, Bitung Tengah, Maesa, Kota Bitung, Sulawesi Utara, Manado, Sulawesi Utara",
+    "latitude": 1.443028,
+    "longitude": 125.185917,
+    "services": []
+  },
+  {
+    "name": "CITY OF TOMORROW",
+    "address": "JL. A. YANI DEPAN BUNDARAN TOL WARU, Surabaya, Jawa Timur",
+    "latitude": -7.345362,
+    "longitude": 112.72786,
+    "services": []
+  },
+  {
+    "name": "CITYMALL CIANJUR",
+    "address": "Jl KH Abdullah bin Nuh no 1, Pamoyanan, Kab. Cianjur, Jawa Barat",
+    "latitude": -6.816722,
+    "longitude": 107.130607,
+    "services": []
+  },
+  {
+    "name": "COCO MANADO",
+    "address": "JL.SAM RATULANGI NO 458 MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.459491,
+    "longitude": 124.837445,
+    "services": []
+  },
+  {
+    "name": "COCO SARAPUNG",
+    "address": "Jl.  SARAPUNG NO 5 MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.489017,
+    "longitude": 124.840472,
+    "services": []
+  },
+  {
+    "name": "D'BEST PANAKUKANG MALL",
+    "address": "JL. BOULEVARD RAYA, Makassar, Sulawesi Selatan",
+    "latitude": -5.157326,
+    "longitude": 119.446413,
+    "services": []
+  },
+  {
+    "name": "DAAN MOGOT",
+    "address": "JL.DAAN MOGOT 163 A, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.162752,
+    "longitude": 106.773077,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "DAAN MOGOT BARU",
+    "address": "Jl. Utan Jati 65, Kel. Kalideres, Kec. Kalideres, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.15344,
+    "longitude": 106.713879,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "DADAP RAYA TANGERANG",
+    "address": "Sentra Pergudangan, Jl. Raya Kosambi, Dadap, Kec. Kosambi, Tangerang, Banten 15213, Kabupaten Tangerang, Banten",
+    "latitude": -6.085765,
+    "longitude": 106.702429,
+    "services": []
+  },
+  {
+    "name": "DAGO BANDUNG",
+    "address": "Jl. Ir. H. Juanda No. 40-42, Bandung, Jawa Barat",
+    "latitude": -6.901838,
+    "longitude": 107.61273,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "DEMANG LEBAR DAUN PALEMBANG",
+    "address": "DEMANG LEBAR DAUN NO. 89, Palembang, Sumatera Selatan",
+    "latitude": -2.972045,
+    "longitude": 104.730202,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "DENPASAR DUTA PLAZA",
+    "address": "JL.DEWI SARTIKA,DUTA PLAZA, Denpasar, Bali",
+    "latitude": -8.6698165,
+    "longitude": 115.2173325,
+    "services": []
+  },
+  {
+    "name": "DEPOK MALL",
+    "address": "JL.MARGONDA RAYA,KAV 88 DEPOK, Depok, Jawa Barat",
+    "latitude": -6.386871,
+    "longitude": 106.826907,
+    "services": []
+  },
+  {
+    "name": "DEPOK PLAZA",
+    "address": "JL.MARGONDA RAYA,DEPOK, Depok, Jawa Barat",
+    "latitude": -6.392053,
+    "longitude": 106.825234,
+    "services": []
+  },
+  {
+    "name": "DERMAGA POINT PALEMBANF",
+    "address": "Jl.Sultan Mahmud II Benteng Kuto Besak Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.991058,
+    "longitude": 104.761658,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "DHARMA BALI",
+    "address": "JL.HASANUDDIN NO.59, Denpasar, Bali",
+    "latitude": -8.658568,
+    "longitude": 115.212706,
+    "services": []
+  },
+  {
+    "name": "DHOHO PLAZA KEDIRI",
+    "address": "JL. BRIGJEN KATAMSO NO. 1 A - KEDIRI, Kediri, Jawa Timur",
+    "latitude": -7.827532,
+    "longitude": 112.010763,
+    "services": []
+  },
+  {
+    "name": "DIPONEGORO SURABAYA",
+    "address": "Jl. Diponegoro 217. Rt. 06 / RW. 10, Kel. Darmo, Kec. Wonokromo, Surabaya - Jawa Timur, Surabaya, Jawa Timur",
+    "latitude": -7.279233,
+    "longitude": 112.729798,
+    "services": []
+  },
+  {
+    "name": "DISCOVERY MALL BALI",
+    "address": "JL. KARTIKA PLAZA KUTA DENPASAR, Denpasar, Bali",
+    "latitude": -8.729047,
+    "longitude": 115.167689,
+    "services": []
+  },
+  {
+    "name": "DJUANDA PALU",
+    "address": "Jl Djuanda no 83/ Jl Sisingamangaraja no 62, Palu, Sulawesi Tengah",
+    "latitude": -0.897394,
+    "longitude": 119.886551,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "DOK 5 JAYAPURA",
+    "address": "Jl Soasiu, Dok V Bawah, Saga Mart lt 2, Kel Mandala, Distrik Jayapura Utara, Jayapura, Papua ",
+    "latitude": -2.533955,
+    "longitude": 140.72373,
+    "services": []
+  },
+  {
+    "name": "DOWNTOWN JUNGLELAND",
+    "address": "Taman Rekreasi Jungleland , Desa Karang Tengah , Kec. Babakan Madang, Kabupaten Bogor, Kab. Bogor, Jawa Barat",
+    "latitude": -6.574322,
+    "longitude": 106.890911,
+    "services": []
+  },
+  {
+    "name": "DP MALL SEMARANG",
+    "address": "JL. PEMUDA NO. 150, Semarang, Jawa Tengah",
+    "latitude": -6.982141,
+    "longitude": 110.412997,
+    "services": []
+  },
+  {
+    "name": "DRAMAGA CANTIK BOGOR",
+    "address": "Jl. Dramaga Cantik, Dramaga, Kec. Dramaga, Bogor, Jawa Barat 16680, Bogor, Jawa Barat",
+    "latitude": -6.568727,
+    "longitude": 106.738089,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "DUTA GARDEN",
+    "address": "Jl. Husein Sastranegara, Jurumudi, Benda, Tangerang, Banten 15124, Tangerang, Banten",
+    "latitude": -6.142719,
+    "longitude": 106.682426,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "DUTA MALL BANJARMASIN",
+    "address": "JL. AHMAD YANI KM.2 KOMPLEK DUTA MALL, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.32256,
+    "longitude": 114.603252,
+    "services": []
+  },
+  {
+    "name": "EMPORIUM PLUIT",
+    "address": "JL. RAYA PLUIT SELATAN KEL. PENJARINGAN - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.127616,
+    "longitude": 106.790442,
+    "services": []
+  },
+  {
+    "name": "EPICENTRUM LOMBOK",
+    "address": "Jl. Sriwijaya No. 333 Kel. Punia , Lombok Epicentrum Mall, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.594818,
+    "longitude": 116.10454,
+    "services": []
+  },
+  {
+    "name": "EXPRESS DC MALL BATAM",
+    "address": "Diamond City Mall Ground Floor, JL. Duyung, Sei Jodoh, Sungai Jodoh, Kec. Batu Ampar, Kota Batam, Kepulauan Riau 29444, Batam, Kepulauan Riau",
+    "latitude": 1.1415338,
+    "longitude": 104.0031113,
+    "services": []
+  },
+  {
+    "name": "FESTIVAL CITYLINK",
+    "address": "Jl. Peta No. 241 Bandung - 40232, Bandung, Jawa Barat",
+    "latitude": -6.929471,
+    "longitude": 107.586289,
+    "services": []
+  },
+  {
+    "name": "FLOBAMORA MALL KUPANG",
+    "address": "JL. W.J LALAMENTIK OEBUFU, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.173433,
+    "longitude": 123.613106,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "FOOD AVENUE LOTTE KUNINGAN",
+    "address": "Lotte Shopping Avenue Lt. 4 , Ciputra world Jakarta, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223765,
+    "longitude": 106.822672,
+    "services": []
+  },
+  {
+    "name": "FOODPOINT MALIOBORO",
+    "address": "Jl Malioboro Yogyakarta, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.793023,
+    "longitude": 110.366069,
+    "services": []
+  },
+  {
+    "name": "FRANS SEDA KUPANG",
+    "address": "Jl. Fransseda RT. 21/07 Kel. Oesapa Barat, Kec. Kelapa Lima, Kupang, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.156002,
+    "longitude": 123.631044,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "GAJAH MADA PLAZA",
+    "address": "JL.GAJAH MADA PLAZA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.160379,
+    "longitude": 106.818846,
+    "services": []
+  },
+  {
+    "name": "GALAXY PLAZA SURABAYA",
+    "address": "JL.DARMA HUSADA TIMUR NO.37, Surabaya, Jawa Timur",
+    "latitude": -7.275661,
+    "longitude": 112.782093,
+    "services": []
+  },
+  {
+    "name": "GALLERIA YOGYAKARTA",
+    "address": "JL.JEND.SUDIRMAN NO.99-101, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.782867,
+    "longitude": 110.379031,
+    "services": []
+  },
+  {
+    "name": "GANDARIA CITY",
+    "address": "JL. GANDARIA RT.12 RW.04 KEL. KEBAYORAN LAMA UTARA KEBAYORAN LAMA - JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245013,
+    "longitude": 106.782952,
+    "services": []
+  },
+  {
+    "name": "GARUT PLAZA",
+    "address": "Ramayana Garut. Lt. Dasar No. Unit R-GF.D. Jl. Guntur, Kel. Pakuwon, Kec. Garut Kota, Garut, Kab. Garut, Jawa Barat",
+    "latitude": -7.211483,
+    "longitude": 107.901833,
+    "services": []
+  },
+  {
+    "name": "GATEWAY AHMAD YANI",
+    "address": "Jl. A. Yani No. 669. Cibeunying Kidul, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.907406,
+    "longitude": 107.6454,
+    "services": []
+  },
+  {
+    "name": "GATOT SUBROTO BALI",
+    "address": "JL. GATOT SUBROTO NO. 356, Denpasar, Bali",
+    "latitude": -8.636662,
+    "longitude": 115.214396,
+    "services": []
+  },
+  {
+    "name": "GATOT SUBROTO BARAT BALI",
+    "address": "JL. GATOT SUBROTO BARAT BANJAR LEPANG PADANGSAMBIAN DENPASAR, Denpasar, Bali",
+    "latitude": -8.637003,
+    "longitude": 115.184882,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "GATOT SUBROTO TIMUR BALI",
+    "address": "Jl. Gatot Subroto, Kel. Tonja, Kec. Denpasar Utara, Denpasar, Denpasar, Bali",
+    "latitude": -8.635194,
+    "longitude": 115.2232,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "GEMPOL CITY WALK",
+    "address": "Jl. Surabaya – Malang KM 38 Gempol Pasuruan, Kab Pasuruan, Jawa Timur",
+    "latitude": -7.590952,
+    "longitude": 112.690226,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "GIANT BSD",
+    "address": "JL. RAYA SERPONG - BSD GIANT BSD KOMPLEK VILA MELATI, Tangerang Selatan, Banten",
+    "latitude": -6.269574,
+    "longitude": 106.655822,
+    "services": []
+  },
+  {
+    "name": "GIANT KAIRAGI MANADO",
+    "address": "Jl. M.V Maramis, Kel Kairagi I, Kec Mapanget, Manado, Sulawesi Utara",
+    "latitude": 1.497007,
+    "longitude": 124.878475,
+    "services": []
+  },
+  {
+    "name": "GIANT MEGA BEKASI HYPERMALL",
+    "address": "JL. Ahmad Yani keluar pintu TOL Bekasi Barat, Bekasi, Jawa Barat",
+    "latitude": -6.249891,
+    "longitude": 106.992901,
+    "services": []
+  },
+  {
+    "name": "GLODOK PLAZA",
+    "address": "JL. PINANGSIA RAYA NO. 1, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.142309,
+    "longitude": 106.81661,
+    "services": []
+  },
+  {
+    "name": "GOLDEN CITY BEKASI",
+    "address": "Jl. Kaliabang, Perumahan Golden City (Villa Indah Permai), Bekasi Utara, Kota Bekasi, Jawa Barat",
+    "latitude": -6.207771,
+    "longitude": 107.020961,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "GOLDEN TRULLY GUNUNG SAHARI",
+    "address": "JL. GN.SAHARI NO 59 JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.162329,
+    "longitude": 106.83849,
+    "services": []
+  },
+  {
+    "name": "GRAGE MALL CIREBON",
+    "address": "JL.TENTARA PELAJAR,GRAGE MALL, Cirebon, Jawa Barat",
+    "latitude": -6.713102,
+    "longitude": 108.551903,
+    "services": []
+  },
+  {
+    "name": "GRAGE MALL II CIREBON",
+    "address": "Jl. Pangeran Drajat Perumahan Penggambiran Residen Cluster oasis Blok A 1 No.2 Cirebon, Cirebon, Jawa Barat",
+    "latitude": -6.742725,
+    "longitude": 108.570689,
+    "services": []
+  },
+  {
+    "name": "GRAHA CIJANTUNG",
+    "address": "JL PENDIDIKAN I CIJANTUNG, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.312964,
+    "longitude": 106.861781,
+    "services": []
+  },
+  {
+    "name": "GRAND INDONESIA JAKARTA",
+    "address": "JL. MH THAMRIN RT. 11 RW. 15 KEL. KEBON MELATI - KEC. TANAH ABANG, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.195095,
+    "longitude": 106.820168,
+    "services": []
+  },
+  {
+    "name": "GRAND KOTA BINTANG",
+    "address": "Grand Kota Bintang, Jl KH Noer Ali, Jakasampurna, Bekasi Barat, Bekasi, Jawa Barat",
+    "latitude": -6.249239,
+    "longitude": 106.957374,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "GRAND MALL BEKASI",
+    "address": "JL. JEND. SUDIRMAN DEPAN KORAMIL 01 - BEKASI, Bekasi, Jawa Barat",
+    "latitude": -6.227911,
+    "longitude": 106.983651,
+    "services": []
+  },
+  {
+    "name": "GRAND METROPOLITAN BEKASI",
+    "address": "Jl. K.H. Noer Ali, Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.24887,
+    "longitude": 106.984909,
+    "services": []
+  },
+  {
+    "name": "GRAND PANGANDARAN",
+    "address": "Jl. Dusun Karang Sari RT 04 RW 02, Pangandaran, Kab. Pangandaran, Jawa Barat",
+    "latitude": -7.6873,
+    "longitude": 108.64852,
+    "services": []
+  },
+  {
+    "name": "GRAND WISATA BEKASI",
+    "address": "Jl Sunset Avenue, Perum Grand Wisata, Lambang Sari, Tambun Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.27625,
+    "longitude": 107.044607,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "GREEN HILL MEDAN",
+    "address": "Jl. Jamin Ginting KM 45, Sibolangit, Medan, Sumatera Utara., Medan, Sumatera Utara",
+    "latitude": 3.282727,
+    "longitude": 98.556041,
+    "services": []
+  },
+  {
+    "name": "GREEN TERRACE",
+    "address": "Jl Raya Mabes Hankam, Rt 1/Rw 2, Ceger, Cipayung, Bekasi, Jawa Barat",
+    "latitude": -6.303805,
+    "longitude": 106.886108,
+    "services": []
+  },
+  {
+    "name": "GRIYA SUMEDANG",
+    "address": "JL. ABDUL RAHMAN NO. 35, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.839967,
+    "longitude": 107.925706,
+    "services": []
+  },
+  {
+    "name": "GTC TANJUNG BUNGA",
+    "address": "JL. METRO TANJUNG BUNGA RUKO GA 8A, Makassar, Sulawesi Selatan",
+    "latitude": -5.16867,
+    "longitude": 119.390339,
+    "services": []
+  },
+  {
+    "name": "GUNAWARMAN",
+    "address": "JL. GUNAWARMAN NO. 80 BLOK Q1 KEL. RAWA BARAT , KEC. KEBAYORAN  BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.238975,
+    "longitude": 106.807376,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "GUNUNG KAWI BALIKPAPAN",
+    "address": "Jl. Sutoyo, Mayjend 22. Kelandasan Ilir, Balikpapan, Balikpapan, Kalimantan Timur",
+    "latitude": -1.267897,
+    "longitude": 116.845633,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HADI BIAK",
+    "address": "Jl. Imam Bonjol No.11, Fandoi, Biak Kota, Kabupaten Biak Numfor, Papua 98111, Jayapura, Papua ",
+    "latitude": -1.179636,
+    "longitude": 136.082497,
+    "services": []
+  },
+  {
+    "name": "HALIM PERDANAKUSUMA",
+    "address": "Bandara Halim Perdanakusuma (ex ruang Customer Service), Jl. Halim Perdana Kusuma, RT.13/RW.4, Makasar - Jakarta 13610, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.265638,
+    "longitude": 106.884493,
+    "services": []
+  },
+  {
+    "name": "HARCO MANGGA DUA",
+    "address": "Plaza Elektronika Harco Mangga Dua, Jl Mangga Dua Raya, Jakarta Utara., Jakarta Utara, DKI Jakarta",
+    "latitude": -6.139068,
+    "longitude": 106.828367,
+    "services": []
+  },
+  {
+    "name": "HARCO PASAR BARU",
+    "address": "Jl. SAMANHUDI NO. 133 LT. 2 GEDUNG HARCO PLAZA NO. 218 - 224, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.161604,
+    "longitude": 106.832547,
+    "services": []
+  },
+  {
+    "name": "HARLIN SOLO",
+    "address": "Ruko Harlin Malangjiwan, Jl. Adisumarmo, Colomadu, Kab. Karanganyar, Jawa Tengah, Kab. Karanganyar, Jawa Tengah",
+    "latitude": -7.539298,
+    "longitude": 110.745627,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HARMONI CEGER",
+    "address": "Jl. Ceger Raya Rt. 02 / 01 kel. Jurang Mangu Timur, Kec. Pondok Aren Kota, Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.262945,
+    "longitude": 106.734897,
+    "services": []
+  },
+  {
+    "name": "HARTONO MALL SOLO BARU",
+    "address": "Hartono Mall, Unit GF - B01, Ground Floor, Jl Solo Baru RT 005/ RW 005 Madegondo Sukoharjo Jawa Tengah, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.601095,
+    "longitude": 110.814519,
+    "services": []
+  },
+  {
+    "name": "HARVEST CITY",
+    "address": "Jl. Harvest City Boulevard, Cileungsi Kidul, Kec. Cileungsi, Bogor, Jawa Barat 16820, Bogor, Jawa Barat",
+    "latitude": -6.408381,
+    "longitude": 106.984376,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HASAN BASRI SAMARINDA",
+    "address": "JL Hasan Basri, Sungai Pinang, Samarinda, Kalimantan Timur, Samarinda, Kalimantan Timur",
+    "latitude": -0.480212,
+    "longitude": 117.153021,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HASANUDDIN UJUNG PANDANG",
+    "address": "JL.HASANUDIN 16, Makassar, Sulawesi Selatan",
+    "latitude": -5.138332,
+    "longitude": 119.408769,
+    "services": []
+  },
+  {
+    "name": "HAYAM WURUK 2",
+    "address": "JL. HAYAM WURUK NO.103, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153206,
+    "longitude": 106.817904,
+    "services": []
+  },
+  {
+    "name": "HOLYWOOD JUNCTION",
+    "address": "Jl. H.Usmar Ismail, Mekarmukti, Cikarang Utara, Bekasi, Jawa Barat 17530, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.292917,
+    "longitude": 107.171178,
+    "services": []
+  },
+  {
+    "name": "HUB KUALANAMU",
+    "address": "Jl By Pass Kualanamu, Batang Kuis, Kab. Deli Serdang, Sumatera Utara, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.598903,
+    "longitude": 98.831033,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HYPERMART PURI INDAH",
+    "address": "JL. PURI INDAH SAMPING KANTOR  WALIKOTA JAKARTA BARAT, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.185839,
+    "longitude": 106.739697,
+    "services": []
+  },
+  {
+    "name": "INTERNATIONAL PLAZA (IP) PALEMBANG",
+    "address": "JL.JEND.SUDIRMAN 147, Palembang, Sumatera Selatan",
+    "latitude": -2.983964,
+    "longitude": 104.757967,
+    "services": []
+  },
+  {
+    "name": "ISTANA PLAZA",
+    "address": "Jl. Pasirkaliki 121-123 Bandung 40173, Bandung, Jawa Barat",
+    "latitude": -6.905728,
+    "longitude": 107.596977,
+    "services": []
+  },
+  {
+    "name": "ITC ATOM",
+    "address": "JL. BUNGURAN NO. 35 B ( GROUND FLOOR ), Surabaya, Jawa Timur",
+    "latitude": -7.240857,
+    "longitude": 112.74598,
+    "services": []
+  },
+  {
+    "name": "ITC BSD FOODCOURT",
+    "address": "JL. PAHLAWAN SERIBU BSD CITY - TANGGERANG, Tangerang Selatan, Banten",
+    "latitude": -6.285859,
+    "longitude": 106.664615,
+    "services": []
+  },
+  {
+    "name": "ITC CEMPAKA MAS",
+    "address": "JL.CEMPAKA PUTIH LT. 5 CEMPAKA MAS, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.164462,
+    "longitude": 106.877354,
+    "services": []
+  },
+  {
+    "name": "ITC CEMPAKA MAS FOODCOURT",
+    "address": "JL.CEMPAKA PUTIH LT. 5 CEMPAKA MAS BIG SPACE FOODCOURT/160, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.164462,
+    "longitude": 106.877354,
+    "services": []
+  },
+  {
+    "name": "ITC DEPOK",
+    "address": "JL. MARGONDA RAYA, Depok, Jawa Barat",
+    "latitude": -6.392735,
+    "longitude": 106.823324,
+    "services": []
+  },
+  {
+    "name": "ITC KOPO",
+    "address": "JL. KOPO NO. 599 BLOK 8 LT. DASAR, Bandung, Jawa Barat",
+    "latitude": -6.960001,
+    "longitude": 107.580452,
+    "services": []
+  },
+  {
+    "name": "ITC MANGGA DUA",
+    "address": "GEDUNG PUSAT GROSIR PASAR PAGI  MANGGA DUA JEMBATAN LT. II NO. 1 JL. MANGGA DUA RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.135908,
+    "longitude": 106.824494,
+    "services": []
+  },
+  {
+    "name": "ITC PERMATA HIJAU",
+    "address": "JL. ARTERI PERMATA HIJAU JAKARTA 12210, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.221092,
+    "longitude": 106.783551,
+    "services": []
+  },
+  {
+    "name": "ITC ROXY MAS",
+    "address": "JL. KH. HASYIM ASHARI KEL. CIDENG KECAMATAN GAMBIR, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.16669,
+    "longitude": 106.803014,
+    "services": []
+  },
+  {
+    "name": "JAMBI TOWN SQUARE",
+    "address": "Jl. Kapt. A. Bakaruddin RT.01 Kel. Beliung , kec kota baru - jambi, Jambi, Jambi",
+    "latitude": -1.620957,
+    "longitude": 103.586979,
+    "services": []
+  },
+  {
+    "name": "JAMBU AIR BUKITTINGGI",
+    "address": "Jl.Raya Jambu Air ,Banuhampu, Agam Sumatra Barat, Bukittinggi, Sumatera Barat",
+    "latitude": -0.326567,
+    "longitude": 100.379855,
+    "services": []
+  },
+  {
+    "name": "JASMIN KULINER BOGOR",
+    "address": "Jl. K.H Abdullah Bin Nuh, Bogor, Kab.Bogor, Jawa Barat",
+    "latitude": -6.556381,
+    "longitude": 106.776564,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "JATI ASIH BEKASI",
+    "address": "Jl.Wibawa Mukti (sebrang giant) Jati Asih Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.294799,
+    "longitude": 106.95943,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "JATILAND TERNATE",
+    "address": "JL. KOMPLEKS JATI LAND RAYA TERNATE MALUKU UTARA, Ternate, Maluku Utara",
+    "latitude": 0.791389,
+    "longitude": 127.390278,
+    "services": []
+  },
+  {
+    "name": "JATINANGOR TOWN SQUARE",
+    "address": "JL. RAYA SUMEDANG NO. 150, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.934878,
+    "longitude": 107.771796,
+    "services": []
+  },
+  {
+    "name": "JATINEGARA CITY PLAZA",
+    "address": "Jl Matraman Raya No. 173 - 175 RT 11 RW 06. Kel. Balimester Kec. Jatinegara. Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.214114,
+    "longitude": 106.864334,
+    "services": []
+  },
+  {
+    "name": "JAVA SUPERMALL SEMARANG",
+    "address": "KOMPLEKS JAVA SUPERMALL JL. MT. HARYONO 992 - 994 LT. BASEMENT, Semarang, Jawa Tengah",
+    "latitude": -7.006322,
+    "longitude": 110.432064,
+    "services": []
+  },
+  {
+    "name": "JAYAPURA PAPUA",
+    "address": "JL. IRIAN NO. 29 DEPAN HOTEL YASMIN PAPUA, Jayapura, Papua ",
+    "latitude": -2.540755,
+    "longitude": 140.704855,
+    "services": []
+  },
+  {
+    "name": "JEMBATAN MERAH PLAZA 2",
+    "address": "JMP PLAZA LANTAI DASAR JL. JAYENG RONO NO. 2, Surabaya, Jawa Timur",
+    "latitude": -7.234509,
+    "longitude": 112.737967,
+    "services": []
+  },
+  {
+    "name": "JEMBER",
+    "address": "JL. GAJAH MADA NO. 74, Kab. Jember, Jawa Timur",
+    "latitude": -8.172482,
+    "longitude": 113.690671,
+    "services": []
+  },
+  {
+    "name": "JEMBRANA",
+    "address": "Jl. Ngurah Rai, Negare, Jembrana -Bali, Kab. Jembrana, Bali",
+    "latitude": -8.360593,
+    "longitude": 114.629171,
+    "services": []
+  },
+  {
+    "name": "JEPARA",
+    "address": "JL. PEMUDA NO.23 - JEPARA, Kab. Jepara, Jawa Tengah",
+    "latitude": -6.596517,
+    "longitude": 110.669368,
+    "services": []
+  },
+  {
+    "name": "JIMBARAN",
+    "address": "JL. BY PASS NGURAH RAI - JIMBARAN, Kab. Badung, Bali",
+    "latitude": -8.781523,
+    "longitude": 115.178662,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "JUANDA JAKARTA",
+    "address": "Jl. Ir. Juanda No. 27 RT/RW 001/003 Kel. Kebon Kelapa , Kec. Gambir , Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.167006,
+    "longitude": 106.824809,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KACA PURI TANJUNG PINANG",
+    "address": "JL. TEUKU UMAR NO. 88, Tanjung Pinang, Kepulauan Riau",
+    "latitude": 0.928646,
+    "longitude": 104.44317,
+    "services": []
+  },
+  {
+    "name": "KALIBATA CITY 2",
+    "address": "Jl. Kalibata Raya No. 1, Jakarta Selatan 12750, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.257029,
+    "longitude": 106.853033,
+    "services": []
+  },
+  {
+    "name": "KALIMALANG",
+    "address": "JL. INSPEKSI SALURAN KALIMALANG RT.009 / RW. 007 PONDOK BAMBU DUREN SAWIT JAKARTA TIMUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.246655,
+    "longitude": 106.908098,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KALIURANG YOGYAKARTA",
+    "address": "Jl. Kaliurang Km 6,5 NO 22, Yogyakarta, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.750743,
+    "longitude": 110.385672,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KANTOR POS BANJARMASIN",
+    "address": "JL.LAMBUNG MANGKURAT 19, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.324967,
+    "longitude": 114.591134,
+    "services": []
+  },
+  {
+    "name": "KANTOR POS KOTA TUA",
+    "address": "Jl. Taman Fatahillah No. Jakarta, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.133958,
+    "longitude": 106.813319,
+    "services": []
+  },
+  {
+    "name": "KARANG ASEM",
+    "address": "Jl. Jendrl Sudirman No.25, Karangasem, Kec. Karangasem, Kabupaten Karangasem, Bali 80811, Kab. Karang Asem, Bali",
+    "latitude": -8.451331,
+    "longitude": 115.604681,
+    "services": []
+  },
+  {
+    "name": "KARAWANG GALUH MAS",
+    "address": "Jl. Galuh Mas Raya. Teluk Jambe Karawang, Jawa Barat, Kab. Karawang, Jawa Barat",
+    "latitude": -6.32878,
+    "longitude": 107.290973,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KARTINI CIREBON",
+    "address": "JL. KARTINI NO. 46 CIREBON, Cirebon, Jawa Barat",
+    "latitude": -6.711143,
+    "longitude": 108.553968,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KARTINI MALL LAMPUNG",
+    "address": "JL. KARTINI NO.49, Bandar Lampung, Lampung",
+    "latitude": -5.416628,
+    "longitude": 105.253721,
+    "services": []
+  },
+  {
+    "name": "KAWI MALANG",
+    "address": "Jl. KAWI ATAS NO. 38, Malang, Jawa Timur",
+    "latitude": -7.974986,
+    "longitude": 112.619043,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KEDATON LAMPUNG",
+    "address": "JL. ZAENAL ABIDIN  PAGAR ALAM KEDATON, Bandar Lampung, Lampung",
+    "latitude": -5.380028,
+    "longitude": 105.253725,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KELAPA GADING BOULEVARD",
+    "address": "JL. KELAPA GADING BOULEVARD NO. 1 - 3, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.157091,
+    "longitude": 106.907047,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KELAPA GADING MALL",
+    "address": "JL. KELAPA GADING BOULEVARD RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.157774,
+    "longitude": 106.907852,
+    "services": []
+  },
+  {
+    "name": "KEMANG",
+    "address": "JL. KEMANG RAYA NO. 14 B, JAKARTA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.255717,
+    "longitude": 106.811644,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "KEMANG PRATAMA",
+    "address": "Jl. Boulevard Kemang Pratama. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.270532,
+    "longitude": 106.987042,
+    "services": []
+  },
+  {
+    "name": "KEMANGGISAN JAKARTA",
+    "address": "Jl. Kebon Jeruk Raya 8rt. 006/RW.12 , Kel. Palmerah, Kec. Palmerah, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.20029,
+    "longitude": 106.78262,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "KENARI MAS",
+    "address": "JL. KRAMAT RAYA NO 101 JAKARTA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.192045,
+    "longitude": 106.848483,
+    "services": []
+  },
+  {
+    "name": "KENDARI JAYA MAKMUR",
+    "address": "JL.ACHMAD Y A N I 39, Kendari, Sulawesi Tenggara",
+    "latitude": -3.981364,
+    "longitude": 122.509681,
+    "services": []
+  },
+  {
+    "name": "KEPATIHAN BANDUNG",
+    "address": "JL. KEPATIHAN NO. 19 A, Bandung, Jawa Barat",
+    "latitude": -6.923114,
+    "longitude": 107.605514,
+    "services": []
+  },
+  {
+    "name": "KEPRI MALL",
+    "address": "Jl. Jend Sudirman simpang muka kuning, Ruko Mall lantai 3 No.14-15, Batam, Kepri., Batam, Kepulauan Riau",
+    "latitude": 1.101377,
+    "longitude": 104.037606,
+    "services": []
+  },
+  {
+    "name": "KETAPANG KALIMANTAN",
+    "address": "Jl. DI Panjaitan, kel. Sampit, Kec. Matan Hilir Utara, Kabupaten Ketapang, Kalimantan Barat, Kab. Ketapang, Kalimantan Barat",
+    "latitude": -1.832649,
+    "longitude": 109.968274,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KEUTAPANG ACEH",
+    "address": "JL. MATA IE NO. 19 KETAPANG DUA ACEH BESAR, Kab. Aceh Besar, Aceh",
+    "latitude": 5.517227,
+    "longitude": 95.303466,
+    "services": []
+  },
+  {
+    "name": "KISAMAUN",
+    "address": "JL. DAAN MOGOT KELURAHAN SURAKARSA KISAMAUN SEKTOR 2 BLOK UA NO. 44 - 45, Tangerang, Banten",
+    "latitude": -6.173449,
+    "longitude": 106.63058,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KOTA BARU PARAHYANGAN",
+    "address": "Jl.Panyawangan Kav.3 Bale Pare, Kota Baru Parahyangan Padalarang, Kab. Bandung Barat, Jawa Barat",
+    "latitude": -6.856182,
+    "longitude": 107.490646,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "KOTA KASABLANKA",
+    "address": "Jl Casablanca Kav 88 RT 007/008 Menteng Dalam Tebet Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223861,
+    "longitude": 106.841905,
+    "services": []
+  },
+  {
+    "name": "KOTA LAMA KUPANG",
+    "address": "Jl Siliwangi, Kampung Solor, Kota Lama, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.158903,
+    "longitude": 123.580442,
+    "services": []
+  },
+  {
+    "name": "KOTAMOBAGU",
+    "address": "Jl. Adampe Dolot, kel Mogolaing, Kec Kotamobagu Barat, Kotamobagu, Sulawesi Utara",
+    "latitude": 0.735846,
+    "longitude": 124.306284,
+    "services": []
+  },
+  {
+    "name": "KUTA GELAEL",
+    "address": "JL.RAYA KUTA No. 105, Kabupaten Badung, Bali",
+    "latitude": -8.721337,
+    "longitude": 115.179968,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "KUTA SQUARE",
+    "address": "JL.BAKUNG SARI NO.1 BLOK C-1-2 KUTA, Kab. Badung, Bali",
+    "latitude": -8.722584,
+    "longitude": 115.171408,
+    "services": []
+  },
+  {
+    "name": "LA TERRACE",
+    "address": "JL. LENTENG AGUNG RAYA RT. 003/06 KEL. SRENSENG SAWAH. KEC JAGAKARSA JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.344896,
+    "longitude": 106.833711,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "LAGRANDE MERDEKA",
+    "address": "LaGrande Tamansari Apartment, Jl. Merdeka No. 25 – 29, Sumur Bandung, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.909136,
+    "longitude": 107.610569,
+    "services": []
+  },
+  {
+    "name": "LAMNYONG ACEH",
+    "address": "JL. TEUKU NYAK ARIF NO. 17 DARUSSALAM, Banda Aceh, Aceh",
+    "latitude": 5.576218,
+    "longitude": 95.355455,
+    "services": []
+  },
+  {
+    "name": "LAMONGAN PLAZA",
+    "address": "Plaza Lamongan, JL. Panglima Sudirman, Lamongan, Kab. Lamongan, Jawa Timur",
+    "latitude": -7.113192,
+    "longitude": 112.420003,
+    "services": []
+  },
+  {
+    "name": "LAMPUNG SQUARE",
+    "address": "Jl. Zaenal Abidin Pagar Alam, Kel. Rajabasa, Kec. Rajabasa, Lampung, Bandar Lampung, Lampung",
+    "latitude": -5.371077,
+    "longitude": 105.237541,
+    "services": []
+  },
+  {
+    "name": "LEMABANG PALEMBANG",
+    "address": "Jl.Yos Sudarso no.9 Lemabang Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.974284,
+    "longitude": 104.783326,
+    "services": []
+  },
+  {
+    "name": "LEMBANG",
+    "address": "Jl. Panorama Ruko 8-9 , lembang , Bandung, Kab. Bandung, Jawa Barat",
+    "latitude": -6.815193,
+    "longitude": 107.622909,
+    "services": []
+  },
+  {
+    "name": "LEMBUSWANA SAMARINDA",
+    "address": "JL. S. PARMAN NO. 31, Samarinda, Kalimantan Timur",
+    "latitude": -0.47524,
+    "longitude": 117.146738,
+    "services": []
+  },
+  {
+    "name": "LHOKSEUMAWE",
+    "address": "JL. MERDEKA NO. 25 DEPAN ISLAMIC CENTRE - LHOKSEUMAWE, Lhokseumawe, Aceh",
+    "latitude": 5.181186,
+    "longitude": 97.142902,
+    "services": []
+  },
+  {
+    "name": "LIA PALEMBANG",
+    "address": "JL. JEND. SUDIRMAN, Palembang, Sumatera Selatan",
+    "latitude": -2.968293,
+    "longitude": 104.749588,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "LIPPO CIKARANG FOODCOURT",
+    "address": "Textum Foodcourt, Mall Lippo Cikarang, Jl MH Thamrin, Lippo Cikarang, Kab. Bekasi, Jawa Barat., Kab. Bekasi, Jawa Barat",
+    "latitude": -6.332981,
+    "longitude": 107.136824,
+    "services": []
+  },
+  {
+    "name": "LIPPO CITY CIKARANG",
+    "address": "JL.MH.THAMRIN LIPPO CIKARANG, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.333024,
+    "longitude": 107.137667,
+    "services": []
+  },
+  {
+    "name": "LIPPO KRAMAT JATI",
+    "address": "Jl Raya Bogor no 19, Rt 14/6, Kramat jati,, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.270833,
+    "longitude": 106.868055,
+    "services": []
+  },
+  {
+    "name": "LIPPO PLAZA BATU",
+    "address": "Jl Diponegoro no 1, Sisir, Kecamatan Batu, Kota Batu, Jawa Timur",
+    "latitude": -7.878443,
+    "longitude": 112.534227,
+    "services": []
+  },
+  {
+    "name": "LIPPO SUPERMAL KARAWACI",
+    "address": "LIPPO SUPERMALL, LANTAI DASAR, Kab. Tangerang, Banten",
+    "latitude": -6.226755,
+    "longitude": 106.60753,
+    "services": []
+  },
+  {
+    "name": "LOKASARI PLAZA",
+    "address": "JL.MANGGA BESAR RAYA NO.51 C/1-18, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.14794,
+    "longitude": 106.823691,
+    "services": []
+  },
+  {
+    "name": "LUBUK LINGGAU",
+    "address": "JL. YOS SUDARSO NO. 97 SIMPANG TIGA - LUBUK LINGGAU, Lubuk Linggau, Sumatera Selatan",
+    "latitude": -3.291839,
+    "longitude": 102.870069,
+    "services": []
+  },
+  {
+    "name": "LUWUK BANGGAI",
+    "address": "JL. JEND SUDIRMAN RUKO A1- A3 SIMPONG LUWUK BANGGAI - SULAWESI SELATAN, Kab. Banggai, Sulawesi Tengah",
+    "latitude": -0.961429,
+    "longitude": 122.790143,
+    "services": []
+  },
+  {
+    "name": "MAGELANG",
+    "address": "JL. PEMUDA NO. 12, Magelang, Jawa Tengah",
+    "latitude": -7.478846,
+    "longitude": 110.219305,
+    "services": []
+  },
+  {
+    "name": "MAGELANG YOGYA",
+    "address": "Jl. Magelang KM 6 RT 06 / RW 14, Kel. Sinduadi, Kec. Mlati, Kab. Sleman, Yogyakarta, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.752861,
+    "longitude": 110.362028,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MAJAPAHIT SEMARANG",
+    "address": "Jl. Majapahit, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.019605,
+    "longitude": 110.493866,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "MAKASSAR TOWN SQUARE",
+    "address": "JL. PERINTIS KEMERDEKAAN KM. 8 BLOK A NO. 1 - 2 KOMPLEKS MAKASSAR TOWN SQUARE, Makassar, Sulawesi Selatan",
+    "latitude": -5.144565,
+    "longitude": 119.475264,
+    "services": []
+  },
+  {
+    "name": "MALANG TOWN SQUARE",
+    "address": "JL. VETERAN NO. 2, Malang, Jawa Timur",
+    "latitude": -7.95677,
+    "longitude": 112.618832,
+    "services": []
+  },
+  {
+    "name": "MALIOBORO YOGYAKARTA",
+    "address": "JL.MALIOBORO 133, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.792106,
+    "longitude": 110.365724,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MALL ALAM SUTERA",
+    "address": "Food Court Mango Farm, Jl. Jalur Sutera 30D/18 Alam Sutera 1535 Lt. LG, Tangerang, Banten",
+    "latitude": -6.222567,
+    "longitude": 106.652429,
+    "services": []
+  },
+  {
+    "name": "MALL ARTHA GADING",
+    "address": "ARTHA GADING MAL LT. DASAR JL. BOULEVARD ARTHA GADING B1 & B2 KELAPA GADING BARAT - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145786,
+    "longitude": 106.892655,
+    "services": []
+  },
+  {
+    "name": "MALL BOTANIA 2",
+    "address": "Jl Raja Alikelana, Belian, Batam, Kepulauan Riau",
+    "latitude": 1.107343,
+    "longitude": 104.086236,
+    "services": []
+  },
+  {
+    "name": "MALL BULUKUMBA",
+    "address": "Mega Zanur Mall, Jl Samratulangi, Bulukumba, Sulawesi Selatan., Kab. Bulukumba, Sulawesi Selatan",
+    "latitude": -5.535887,
+    "longitude": 120.195148,
+    "services": []
+  },
+  {
+    "name": "MALL CIKAMPEK",
+    "address": "Jl. Ahmad Yani No.76 Cikampek. Kab. Karawang, Jawa Barat 41731, Kab. Karawang, Jawa Barat",
+    "latitude": -6.400441,
+    "longitude": 107.444538,
+    "services": []
+  },
+  {
+    "name": "MALL OF INDONESIA",
+    "address": "Kelapa Gading Square, Lt. 2, Unit G-1 & G-2 Jl Boulevard Barat Raya, Kelapa Gading, Jakarta Utara., Jakarta Utara, DKI Jakarta",
+    "latitude": -6.150847,
+    "longitude": 106.892264,
+    "services": []
+  },
+  {
+    "name": "MALL PEKANBARU",
+    "address": "MALL PEKANBARU JL. JEND. SUDIRMAN NO. 123, Pekanbaru, Riau",
+    "latitude": 0.531827,
+    "longitude": 101.448069,
+    "services": []
+  },
+  {
+    "name": "MALL RATU INDAH",
+    "address": "Jl. SAM RATULANGI NO. 35, Makassar, Sulawesi Selatan",
+    "latitude": -5.153271,
+    "longitude": 119.417335,
+    "services": []
+  },
+  {
+    "name": "MALL SERANG",
+    "address": "JL. VETERAN NO. 7 - SERANG, Serang, Banten",
+    "latitude": -6.116383,
+    "longitude": 106.153381,
+    "services": []
+  },
+  {
+    "name": "MALL TAMAN ANGGREK",
+    "address": "JL.S.PARMAN,GROGOL, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.178778,
+    "longitude": 106.792611,
+    "services": []
+  },
+  {
+    "name": "MALL TAMAN PALEM",
+    "address": "JL. KAMAL RAYA OUTER RINGROAD LT. DASAR BLOK A, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.139675,
+    "longitude": 106.731996,
+    "services": []
+  },
+  {
+    "name": "MALL TAMAN PALEM FOODCOURT",
+    "address": "JL. Kamal Raya Outer Ringroad Cengkareng Jakarta Barat, Semi Basement Blok 9-10, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.139675,
+    "longitude": 106.731996,
+    "services": []
+  },
+  {
+    "name": "MALUKU CITY MALL",
+    "address": "Jl. Sultan Hasanudin, Tantui - Ambon, Ambon, Maluku",
+    "latitude": -3.670914,
+    "longitude": 128.198994,
+    "services": []
+  },
+  {
+    "name": "MAMUJU",
+    "address": "Jl. Poros Majene - Mamuju No.28, Simboro, Kec. Simboro Dan Kepulauan, Kabupaten Mamuju, Sulawesi Barat 91512, Mamuju, Sulawesi Barat",
+    "latitude": -2.682856,
+    "longitude": 118.870089,
+    "services": []
+  },
+  {
+    "name": "MANADO BOULEVARD",
+    "address": "JL.SAM RATULANGI RUKO MANADO BOULEVARD  CENTER BLOK A-1, Manado, Sulawesi Utara",
+    "latitude": 1.48663,
+    "longitude": 124.8376,
+    "services": []
+  },
+  {
+    "name": "MANADO MEGAMAS",
+    "address": "KO Mega Surya Marina, Kel. Wenang Selatan, Kec. Wenang, Manado, Manado, Sulawesi Utara",
+    "latitude": 1.486651,
+    "longitude": 124.834202,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MANADO SUDIRMAN",
+    "address": "JL.JEND.SUDIRMAN 73, Manado, Sulawesi Utara",
+    "latitude": 1.489271,
+    "longitude": 124.846306,
+    "services": []
+  },
+  {
+    "name": "MANADO TOWN SQUARE",
+    "address": "Jl Pierre Tendean, Boulevard, Sario Utara, Manado, Sulawesi Utara, Manado, Sulawesi Utara",
+    "latitude": 1.472729,
+    "longitude": 124.832083,
+    "services": []
+  },
+  {
+    "name": "MANAHAN SOLO",
+    "address": "Jl Adi Sucipto No 30, Manahan Surakarta, Surakarta, Jawa Tengah",
+    "latitude": -7.555742,
+    "longitude": 110.802935,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MANDALA MERAUKE",
+    "address": "Jl Raya Mandala Rt 16/06 Kel. Seringgu, Kec Merauke, Kab. Merauke, Papua ",
+    "latitude": -8.497019,
+    "longitude": 140.394825,
+    "services": []
+  },
+  {
+    "name": "MANDAU CITY",
+    "address": "Jl Jend. Sudirman Komp Duri Indah Raya Kav 109, Duri Riau, Kab. Bengkalis, Riau",
+    "latitude": 1.280387,
+    "longitude": 101.193516,
+    "services": []
+  },
+  {
+    "name": "MANGGA DUA MALL",
+    "address": "JL.ARTERI MANGGA DUA RAYA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.136859,
+    "longitude": 106.823626,
+    "services": []
+  },
+  {
+    "name": "MANGGA DUA SQUARE",
+    "address": "JL. MANGGA DUA RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138615,
+    "longitude": 106.831622,
+    "services": []
+  },
+  {
+    "name": "MANOKWARI",
+    "address": "JL. YOS SUDARSO HADI MALL MANOKWARI, Kab. Manokwari, Papua Barat",
+    "latitude": -0.856636,
+    "longitude": 134.067416,
+    "services": []
+  },
+  {
+    "name": "MANYAR KERTOARJO",
+    "address": "Jl. Manyar Kertoarjo  No. 92-94, manyar sabrangan, mulyorejo,Surabaya, Surabaya, Jawa Timur",
+    "latitude": -7.280221,
+    "longitude": 112.769848,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MARELAN RAYA MEDAN",
+    "address": "Jl. Marelan Raya Lk. XI Rt.00 Rw.00, Kel. Tanah Enam Ratus, Kec. Mareland Medan - Medan, Medan, Sumatera Utara",
+    "latitude": 3.67904,
+    "longitude": 98.655381,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "MARGONDA",
+    "address": "Jl. Margonda Raya. Rt. 001/02 Kel. Kemii Muka, Kec. Beji, Depok, Depok, Jawa Barat",
+    "latitude": -6.374514,
+    "longitude": 106.832746,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MAROS BATANG ASE",
+    "address": "Jl. Poros Makassar - Maros No. 53 Kel. Bontoa, Kec Mandai Kab. Maros. Sulawesi Selatan, Kab. Maros, Sulawesi Selatan",
+    "latitude": -5.049667,
+    "longitude": 119.553778,
+    "services": []
+  },
+  {
+    "name": "MARVEL CITY",
+    "address": "Jl Ngagel Jaya no 123, Mall Marvell City, Kota Surabaya, Jawa Timur",
+    "latitude": -7.289252,
+    "longitude": 112.745524,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "MATAHARI PONTIANAK",
+    "address": "Jl. Jend Urip Sumoharjo No.1 Pontianak Kalimantan Barat, Pontianak, Kalimantan Barat",
+    "latitude": -0.024457,
+    "longitude": 109.336647,
+    "services": []
+  },
+  {
+    "name": "MATARAM MALL LOMBOK",
+    "address": "JL.PEJANGGIK - KOMP.CILINAYA CAKRANEGARA- MATARAM LOMBOK NTB, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.586923,
+    "longitude": 116.119865,
+    "services": []
+  },
+  {
+    "name": "MAXX KARAWACI",
+    "address": "Jl. Jend. Sudirman, Bencongan, Kec. Kelapa. Dua, Tangerang, Banten 15810, Tangerang, Banten",
+    "latitude": -6.227838,
+    "longitude": 106.605756,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MEDAN FAIR",
+    "address": "JL. GATOT SUBROTO NO. 30, Medan, Sumatera Utara",
+    "latitude": 3.591704,
+    "longitude": 98.66313,
+    "services": []
+  },
+  {
+    "name": "MEDAN MALL",
+    "address": "JL. MT. HARYONO NO. 8 - 9, Medan, Sumatera Utara",
+    "latitude": 3.587613,
+    "longitude": 98.686527,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL AYANI PONTIANAK",
+    "address": "JL. AHMAD YANI KOMPLEK  MEGA MALL, Pontianak, Kalimantan Barat",
+    "latitude": -0.051407,
+    "longitude": 109.345823,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL BATAM CENTRE",
+    "address": "JL. ENGKU PUTRI, BATAM, UPPER GROUND FLOOR NO. UG 101 / 102, Batam, Kepulauan Riau",
+    "latitude": 1.1291,
+    "longitude": 104.055715,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "MEGA MALL MANADO",
+    "address": "JL. PIERE TENDEAN, Manado, Sulawesi Utara",
+    "latitude": 1.483992,
+    "longitude": 124.834747,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL PLUIT VILLAGE",
+    "address": "JL.PLUIT INDAH RAYA, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.116198,
+    "longitude": 106.790245,
+    "services": []
+  },
+  {
+    "name": "MEGA MALL SORONG",
+    "address": "JL. BASUKI RAHMAT NO. 1 KM. 8.5, Sorong, Papua Barat",
+    "latitude": -0.88765,
+    "longitude": 131.301809,
+    "services": []
+  },
+  {
+    "name": "MEGA ZANUR MALL GORONTALO",
+    "address": "JL. KH. AGUS SALIM NO. 51 KOMPLEKS MEGA ZANUR MALL, Gorontalo, Gorontalo",
+    "latitude": 0.543808,
+    "longitude": 123.056986,
+    "services": []
+  },
+  {
+    "name": "MELAWAI PLAZA",
+    "address": "JL. MELAWAI - KEBAYORAN BARU, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245557,
+    "longitude": 106.802415,
+    "services": []
+  },
+  {
+    "name": "MERDEKA PALEMBANG",
+    "address": "JL. MERDEKA NO. 38 RT. 023/08 KEL TALANG SEMUT, KEC. BUKIT KECIL, Palembang, Sumatera Selatan",
+    "latitude": -2.990108,
+    "longitude": 104.748421,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MERUYUNG",
+    "address": "Jl Meruyung Raya, Rt 002/04, Meruyung, Limo, Depok, Jawa Barat",
+    "latitude": -6.382035,
+    "longitude": 106.769172,
+    "services": []
+  },
+  {
+    "name": "METLAND CILEUNGSI",
+    "address": "Jl. Taman Metro Raya No. 99 Cilengusi, Kab. Bogor, Jawa Barat, Kab. Bogor, Jawa Barat",
+    "latitude": -6.399,
+    "longitude": 106.974844,
+    "services": []
+  },
+  {
+    "name": "METLAND TAMBUN",
+    "address": "Jl. Hasanudin, Metropolitan Land Tambun , Kabupaten Bekasi, Jawa Barat, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.265443,
+    "longitude": 107.073045,
+    "services": []
+  },
+  {
+    "name": "METRO LAMPUNG",
+    "address": "Chandra Super Store. Komplek Pertokoan Sumur Bandung, Metro - Lampung Tengah, Metro, Lampung",
+    "latitude": -5.114513,
+    "longitude": 105.305702,
+    "services": []
+  },
+  {
+    "name": "METRO MARGAHAYU",
+    "address": "JL.SOEKARNO HATTA 628, Bandung, Jawa Barat",
+    "latitude": -6.9390582,
+    "longitude": 107.6680595,
+    "services": []
+  },
+  {
+    "name": "METRO TRADE CENTER BANDUNG",
+    "address": "JL. SOEKARNO HATTA NO. 590, Bandung, Jawa Barat",
+    "latitude": -6.940673,
+    "longitude": 107.657609,
+    "services": []
+  },
+  {
+    "name": "METROPOLIS TOWN SQUARE",
+    "address": "JL. HARTONO BOULEVARD, Tangerang, Banten",
+    "latitude": -6.197404,
+    "longitude": 106.636631,
+    "services": []
+  },
+  {
+    "name": "METROPOLITAN CITY PEKANBARU",
+    "address": "JL. HR..R. SUBRANTAS PANAM, Pekanbaru, Riau",
+    "latitude": 0.464827,
+    "longitude": 101.388316,
+    "services": []
+  },
+  {
+    "name": "METROPOLITAN MALL",
+    "address": "JL.JEND. SUDIRMAN METROPOL MAL-1, Bekasi, Jawa Barat",
+    "latitude": -6.248398,
+    "longitude": 106.991013,
+    "services": []
+  },
+  {
+    "name": "MEULABOH ACEH",
+    "address": "Jl. Manek Roo No. 35 - 38 MEULABOH – ACEH BARAT, Meulaboh, Aceh",
+    "latitude": 4.155058,
+    "longitude": 96.127967,
+    "services": []
+  },
+  {
+    "name": "MILLENIUM PLAZA MEDAN",
+    "address": "JL. KAPTEN MUSLIM COMPLEK MILLENIUM NO. 10 A, Medan, Sumatera Utara",
+    "latitude": 3.599368,
+    "longitude": 98.644167,
+    "services": []
+  },
+  {
+    "name": "MINANG PLAZA PADANG",
+    "address": "JL. PROF. DR. HAMKA NO. 2 A, Padang, Sumatera Barat",
+    "latitude": -0.901786,
+    "longitude": 100.350968,
+    "services": []
+  },
+  {
+    "name": "MOJOKERTO",
+    "address": "JL. LETKOL SUMARJO NO. 67 MOJOKERTO - JAWA TIMUR, Mojokerto, Jawa Timur",
+    "latitude": -7.463963,
+    "longitude": 112.43545,
+    "services": []
+  },
+  {
+    "name": "MT HARYONO BALIKPAPAN",
+    "address": "Jl. MT Haryono No. 00 RT 041. Balikpapan Selatan, Balikpapan, Kalimantan Timur, Balikpapan, Kalimantan Timur",
+    "latitude": -1.253137,
+    "longitude": 116.86894,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "MT HARYONO JAKARTA",
+    "address": "JL.MT. HARYONO KAV.7, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243021,
+    "longitude": 106.847063,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MT HARYONO KENDARI",
+    "address": "JL. MT. HARYONO, Kendari, Sulawesi Tenggara",
+    "latitude": -3.990432,
+    "longitude": 122.508676,
+    "services": []
+  },
+  {
+    "name": "MT HARYONO SEMARANG",
+    "address": "Jl. MT. Haryono 884 RT.009 RW.07 Kelurahan Peterongan, Kecamatan Semarang Selatan, Semarang, Jawa Tengah",
+    "latitude": -6.997015,
+    "longitude": 110.4322,
+    "services": []
+  },
+  {
+    "name": "MTC MANADO",
+    "address": "JL. PIERE TENDEAN MEGA TRADE CENTER MANADO, Manado, Sulawesi Utara",
+    "latitude": 1.479996,
+    "longitude": 124.83498,
+    "services": []
+  },
+  {
+    "name": "MTC PALANGKARAYA",
+    "address": "MEGA TOP TRADE CENTER JL. YOS SUDARSO , NO. 57 - PALANGKARAYA, Palangkaraya, Kalimantan Tengah",
+    "latitude": -2.214003,
+    "longitude": 113.905922,
+    "services": []
+  },
+  {
+    "name": "MUARA RAPAK BALIKPAPAN",
+    "address": "JL.  SOEKARNO HATTA NO. 1, Balikpapan, Kalimantan Timur",
+    "latitude": -1.241676,
+    "longitude": 116.836132,
+    "services": []
+  },
+  {
+    "name": "MULYOSARI SURABAYA",
+    "address": "JL. MULYOSARI NO. 121 BLOK AA, Surabaya, Jawa Timur",
+    "latitude": -7.266225,
+    "longitude": 112.796367,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "MY MART MAKASSAR",
+    "address": "Jl Poros Palangga no 34, Je'netallasa, Palangga, Kab. Gowa, Sulawesi Selatan",
+    "latitude": -5.228347,
+    "longitude": 119.439453,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "NAGOYA BATAM",
+    "address": "JL. HARMONI BATAM, KOMP. NEW HOLIDAY NO. 1 - 2 A, Batam, Kepulauan Riau",
+    "latitude": 1.150096,
+    "longitude": 104.008172,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "NAGOYA HILLS BATAM",
+    "address": "KOMPLEKS NAGOYA HILL SUPER BLOK  NAGOYA BATAM, Batam, Kepulauan Riau",
+    "latitude": 1.146444,
+    "longitude": 104.012827,
+    "services": []
+  },
+  {
+    "name": "NATURE PARK CIMONE",
+    "address": "Jl. Gatot Subroto Rt. 03/01 Kel. Cimone Jaya, Kec.Karawaci, Kota Tangerang, Propinsi Banten, Tangerang, Banten",
+    "latitude": -6.184005,
+    "longitude": 106.618792,
+    "services": []
+  },
+  {
+    "name": "NUSA DUA SILIGITA",
+    "address": "Nusa Dua Arcade, Jl. Siligita, Benoa, Kec. Kuta Sel, Kabupaten Badung, Bali 80361, Kab. Badung, Bali",
+    "latitude": -8.799399,
+    "longitude": 115.21767,
+    "services": []
+  },
+  {
+    "name": "OIL CENTER JAKARTA",
+    "address": "JL. M. H THAMRIN KAV. 55, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.191535,
+    "longitude": 106.823546,
+    "services": []
+  },
+  {
+    "name": "OVAL CIBADUYUT",
+    "address": "Jl. Cibaduyut No. 142. Bojongloa Kidul, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.956036,
+    "longitude": 107.59323,
+    "services": []
+  },
+  {
+    "name": "PACIFIC MALL TEGAL",
+    "address": "JL. MAYJEN SUTOYO NO. 35 KOMPLEK PASIFIC MALL - TEGAL 82113, Tegal, Jawa Tengah",
+    "latitude": -6.869677,
+    "longitude": 109.128812,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PADANG SIDEMPUAN",
+    "address": "JL. MERDEKA KOMPLEK CITY WALK EX. KODIM, Padangsidempuan, Sumatera Utara",
+    "latitude": 1.375809,
+    "longitude": 99.272651,
+    "services": []
+  },
+  {
+    "name": "PALEMBANG SQUARE",
+    "address": "JL. ANGKATAN 45, KOMPLEK PALEMBANG SQUARE NO. 208 - 211, Palembang, Sumatera Selatan",
+    "latitude": -2.976272,
+    "longitude": 104.742679,
+    "services": []
+  },
+  {
+    "name": "PALEMBANG TRADE CENTRE",
+    "address": "JL. R. SUKAMTO NO. 8 A, Palembang, Sumatera Selatan",
+    "latitude": -2.95104,
+    "longitude": 104.761011,
+    "services": []
+  },
+  {
+    "name": "PALM SPRING BATAM",
+    "address": "JL. ENGKU PUTRI KOMP. PALM SPRINGS BTC BLOK B I NO. 23 SEIPANAS - BATAM CENTER, Batam, Kepulauan Riau",
+    "latitude": 1.12583,
+    "longitude": 104.031358,
+    "services": []
+  },
+  {
+    "name": "PALOPO",
+    "address": "JL. RAMBUTAN NO. 157 - PALOPO, Palopo, Sulawesi Selatan",
+    "latitude": -3.002909,
+    "longitude": 120.196453,
+    "services": []
+  },
+  {
+    "name": "PALOPO CITY MARKET",
+    "address": "Jl. Doctor Samratulangi, Palopo, Palopo, Sulawesi Selatan",
+    "latitude": -2.990104,
+    "longitude": 120.187074,
+    "services": []
+  },
+  {
+    "name": "PALTROW SEMARANG",
+    "address": "Jl Tirto Agung No.5, Kel Padalangan, Kec Banyu Manik, Semarang, Jawa Tengah",
+    "latitude": -7.054307,
+    "longitude": 110.430684,
+    "services": []
+  },
+  {
+    "name": "PALU GRAND MALL",
+    "address": "Jl. Cumi Cumi No 77 Bumi Bahari. Palu - Sulawesi Tengah, Palu, Sulawesi Tengah",
+    "latitude": -0.883401,
+    "longitude": 119.842297,
+    "services": []
+  },
+  {
+    "name": "PALU HASANUDDIN",
+    "address": "JL.SULTAN HASANUDIN I NO.15, Palu, Sulawesi Tengah",
+    "latitude": -0.897004,
+    "longitude": 119.867975,
+    "services": []
+  },
+  {
+    "name": "PALUR PLAZA",
+    "address": "Jl. Raya Solo - Sragen KM. 1 (Palur) , Karang Anyar -Jateng, Kab. Karanganyar, Jawa Tengah",
+    "latitude": -7.566826,
+    "longitude": 110.873836,
+    "services": []
+  },
+  {
+    "name": "PAMULANG SQUARE",
+    "address": "JL. RAYA SILIWANGI- PAMULANG DEPAN CARREFOUR PAMULANG, Tangerang Selatan, Banten",
+    "latitude": -6.342111,
+    "longitude": 106.725454,
+    "services": []
+  },
+  {
+    "name": "PANAKUKANG MAS",
+    "address": "JL.PENGAYOMAN BLOK A8-A9,KOMP,MIRAH, Makassar, Sulawesi Selatan",
+    "latitude": -5.16098,
+    "longitude": 119.449563,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PANAKUKANG SQUARE",
+    "address": "JL. ADHYAKSA RW.03 LT. 2 NO. BI, Makassar, Sulawesi Selatan",
+    "latitude": -5.158329,
+    "longitude": 119.447782,
+    "services": []
+  },
+  {
+    "name": "PANAM PEKANBARU",
+    "address": "Jl. R  Subrantas Panam, Pekanbaru, Pekanbaru, Riau",
+    "latitude": 0.463871,
+    "longitude": 101.399444,
+    "services": []
+  },
+  {
+    "name": "PANBIL MALL BATAM",
+    "address": "JL. A. YANI,  MUKA KUNING KOMPLEX KOMERSIAL PANBIL, Batam, Kepulauan Riau",
+    "latitude": 1.071695,
+    "longitude": 104.023922,
+    "services": []
+  },
+  {
+    "name": "PANCOR",
+    "address": "Jl. TGH Zainudin Abd. Majid, Pancor , Lombok Timur - NTB, Kab. Lombok Timur, Nusa Tenggara Barat",
+    "latitude": -8.645771,
+    "longitude": 116.51929,
+    "services": []
+  },
+  {
+    "name": "PANDANARAN SEMARANG",
+    "address": "JL.PANDANARAN 78, Semarang, Jawa Tengah",
+    "latitude": -6.987193,
+    "longitude": 110.417177,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PANGKAL PINANG PLAZA",
+    "address": "JL. SUREMAN ARIEF NO. 44 PANGKAL PINANG - BANGKA, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.127719,
+    "longitude": 106.1165,
+    "services": []
+  },
+  {
+    "name": "PANGKALAN BUN",
+    "address": "Jl Iskandar, Arut Selatan, Pangkalan Bun, Kab. Kotawaringin Barat, Kalimantan Tengah, Kab. Kotawaringin Barat, Kalimantan Tengah",
+    "latitude": -2.709986,
+    "longitude": 111.651299,
+    "services": []
+  },
+  {
+    "name": "PANTAI INDAH KAPUK",
+    "address": "JL. PANTAI INDAH UTARA 2 METRO CENTRO BLOK B 1 NO. 1, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.116632,
+    "longitude": 106.76162,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PANTAI LOSARI",
+    "address": "Jl. Penghibur No. 45, kec. Ujung pandang, kel. Maloku, Makassar, Makassar, Sulawesi Selatan",
+    "latitude": -5.141186,
+    "longitude": 119.407066,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PARAGON SENGGIGI",
+    "address": "Jl. Raya Senggigi No.8, Senggigi, Batu Layar, Kabupaten Lombok Barat, Nusa Tenggara Bar. 83355, Kab. Lombok Barat, Nusa Tenggara Barat",
+    "latitude": -8.5013108,
+    "longitude": 116.0507576,
+    "services": []
+  },
+  {
+    "name": "PARAMOUNT SERPONG",
+    "address": "Kampung Sangereng Curug, Sangereng Kelapa II, Tangerang Kav.1 One Bez, Tangerang, Banten",
+    "latitude": -6.257127,
+    "longitude": 106.620483,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PARE-PARE",
+    "address": "JL. BAU MASSEPPE NO, 419, Pare-pare, Sulawesi Selatan",
+    "latitude": -4.013361,
+    "longitude": 119.621566,
+    "services": []
+  },
+  {
+    "name": "PARIS VAN JAVA",
+    "address": "JL. SUKAJADI NO. 137 - 139, Bandung, Jawa Barat",
+    "latitude": -6.888945,
+    "longitude": 107.596326,
+    "services": []
+  },
+  {
+    "name": "PARUNG PLAZA",
+    "address": "Jl. Raya Parung, Bogor. Ramayana Parung Lt.1 No. Unit R-1D, Kab. Bogor, Jawa Barat",
+    "latitude": -6.419173,
+    "longitude": 106.733882,
+    "services": []
+  },
+  {
+    "name": "PASAR BARU BALIKPAPAN",
+    "address": "JL.SUDIRMAN  NO. 3, Balikpapan, Kalimantan Timur",
+    "latitude": -1.276779,
+    "longitude": 116.838948,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PASAR BARU BANDUNG",
+    "address": "Pasar Baru Square. Jl Otista No. 81-89. Bandung, Bandung, Jawa Barat",
+    "latitude": -6.9182,
+    "longitude": 107.604253,
+    "services": []
+  },
+  {
+    "name": "PASAR BARU JAKARTA",
+    "address": "JL.PASAR BARU, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.163933,
+    "longitude": 106.833833,
+    "services": []
+  },
+  {
+    "name": "PASAR REBO",
+    "address": "JL.GEDONG NO.57, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.30305,
+    "longitude": 106.857296,
+    "services": []
+  },
+  {
+    "name": "PASARAYA MANGGARAI",
+    "address": "JL.RAYA SULTAN AGUNG, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.20951,
+    "longitude": 106.847353,
+    "services": []
+  },
+  {
+    "name": "PASIR KALIKI PAJAJARAN",
+    "address": "JL. PAJAJARAN NO. 65, Bandung, Jawa Barat",
+    "latitude": -6.906704,
+    "longitude": 107.59759,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PAYAKUMBUH",
+    "address": "Jl. Soekarno Hatta Kel. Padang Tengah Kec. Payakumbuh Barat, Payakumbuh, Sumatera Barat, Payakumbuh, Sumatera Barat",
+    "latitude": -0.229302,
+    "longitude": 100.623891,
+    "services": []
+  },
+  {
+    "name": "PELABUHAN RATU",
+    "address": "Jl. Kidang Kencana, Ruko Pasar Plabuhan Ratu No 1, Kab. Sukabumi, Jawa Barat",
+    "latitude": -6.986491,
+    "longitude": 106.543427,
+    "services": []
+  },
+  {
+    "name": "PEMATANG SIANTAR",
+    "address": "JL.SUTOMO 24 ABC, PEMATANG SIANTAR, Pematang Siantar, Sumatera Utara",
+    "latitude": 2.955672,
+    "longitude": 99.063366,
+    "services": []
+  },
+  {
+    "name": "PEMUDA SEMARANG",
+    "address": "JL.PEMUDA NO.53 A, Semarang, Jawa Tengah",
+    "latitude": -6.974619,
+    "longitude": 110.419001,
+    "services": []
+  },
+  {
+    "name": "PENTACITY BALIKPAPAN",
+    "address": "Jl. Jend Sudirman No. 47, Gn Bahagia. Balikpapan Selatan, Balikpapan Super Block, Kota Balikpapan, Kalimantan Timur",
+    "latitude": -1.274398,
+    "longitude": 116.856968,
+    "services": []
+  },
+  {
+    "name": "PERCETAKAN NEGARA",
+    "address": "Jl. Percetakan Negara Raya No.80. Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.18973,
+    "longitude": 106.859129,
+    "services": []
+  },
+  {
+    "name": "PERINTIS KEMERDEKAAN",
+    "address": "Jl. Perintis Kemerdekaan No. 14 A, Biring Kanaya, Makassar, Makassar, Sulawesi Selatan",
+    "latitude": -5.094572,
+    "longitude": 119.512893,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PESONA SQUARE DEPOK",
+    "address": "Jl IR H Djuanda no 99,  Bakti Jaya, Sukmajaya, Depok, Jawa Barat",
+    "latitude": -6.379889,
+    "longitude": 106.84413,
+    "services": []
+  },
+  {
+    "name": "PETRONAS CIPUTAT",
+    "address": "JL. CIPUTAT RAYA, GINTUNG ( DEPAN MAKRO ), Tangerang Selatan, Banten",
+    "latitude": -6.302763,
+    "longitude": 106.760585,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PETRONAS IMAM BONJOL",
+    "address": "JL. IMAM BONJOL DEPAN BANDARA POLONIA, Medan, Sumatera Utara",
+    "latitude": 3.569604,
+    "longitude": 98.677823,
+    "services": []
+  },
+  {
+    "name": "PETTARANI MAKASSAR",
+    "address": "Jl. Andi Pangeran Pettarani, samping gedung Gedung Dewan Perwakilan Rakyat Daerah (DPRD), Kel. Tidung, Kec. Tamalete, Kota Makassar - Sulawesi Selatan, Makassar, Sulawesi Selatan",
+    "latitude": -5.162804,
+    "longitude": 119.435827,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PGC CILILITAN",
+    "address": "JL. MAYJEN SUTOYO NO. 76 CILILITAN - KRAMAT JATI, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.262374,
+    "longitude": 106.865373,
+    "services": []
+  },
+  {
+    "name": "PINRANG",
+    "address": "Jl. Poros pare-pare -Pinrang , Watang Sawitto, Kab. Pinrang, Sulawesi Selatan, Kab. Pinrang, Sulawesi Selatan",
+    "latitude": -3.809969,
+    "longitude": 119.652078,
+    "services": []
+  },
+  {
+    "name": "PLAJU PALEMBANG",
+    "address": "Jl.A.yani Kel.  9-10 Ulu Kec.seberang  ulu I,  Palembang - Sumsel, Palembang, Sumatera Selatan",
+    "latitude": -2.994262,
+    "longitude": 104.779922,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PLAZA ANDALAS PADANG",
+    "address": "JL. PEMUDA KOMP. PLAZA ANDALAS LT. I, Padang, Sumatera Barat",
+    "latitude": -0.949978,
+    "longitude": 100.355738,
+    "services": []
+  },
+  {
+    "name": "PLAZA ASIA TASIKMALAYA",
+    "address": "JL. HZ MUSTOFA NO. 326, Tasikmalaya, Jawa Barat",
+    "latitude": -7.342253,
+    "longitude": 108.217287,
+    "services": []
+  },
+  {
+    "name": "PLAZA BANGKINANG",
+    "address": "Jl. Sisingamangaraja Komplek Plaza Bangkinang, Kab. Kampar , Riau",
+    "latitude": 0.339931,
+    "longitude": 101.024918,
+    "services": []
+  },
+  {
+    "name": "PLAZA EKALOKASARI",
+    "address": "JL. SILIWANGI NO. 123, Bogor, Jawa Barat",
+    "latitude": -6.621426,
+    "longitude": 106.816899,
+    "services": []
+  },
+  {
+    "name": "PLAZA KALIBATA",
+    "address": "Kalibata Plaza, Lt 1, Jl Raya Kalibata, Rawajati, Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.2572,
+    "longitude": 106.856413,
+    "services": []
+  },
+  {
+    "name": "PLAZA LINGGA JATI JOMBANG",
+    "address": "Jl. KH. Wahid Hasyim 3 C Ds. Candimulyo , Kel. Jombang ,Kec. Jombang,, Kab. Jombang, Jawa Timur",
+    "latitude": -7.538984,
+    "longitude": 112.238085,
+    "services": []
+  },
+  {
+    "name": "PLAZA MAYASARI TASIKMALAYA",
+    "address": "JL. PASAR WETAN, Tasikmalaya, Jawa Barat",
+    "latitude": -7.327312,
+    "longitude": 108.215842,
+    "services": []
+  },
+  {
+    "name": "PLAZA MULIA SAMARINDA",
+    "address": "JL. BHAYANGKARA NO. 58, Samarinda, Kalimantan Timur",
+    "latitude": -0.490824,
+    "longitude": 117.145927,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PLAZA SEMANGGI",
+    "address": "Jl. Jendral Sudirman. Unit L3A-FCK-022-024A. Jakarta, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.219809,
+    "longitude": 106.81441,
+    "services": []
+  },
+  {
+    "name": "PLAZA SENAYAN",
+    "address": "JL.PINTU I NO.9 PLAZA SENAYAN LT.III, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.225382,
+    "longitude": 106.798693,
+    "services": []
+  },
+  {
+    "name": "PLAZA SETIABUDI - SRONDOL",
+    "address": "Jl. Setiabudi 217 Srondol Kulon, Banyumanik Semarang, Semarang, Jawa Tengah",
+    "latitude": -7.066122,
+    "longitude": 110.411643,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PLAZA SURABAYA",
+    "address": "JL.PEMUDA NO.31-71, Surabaya, Jawa Timur",
+    "latitude": -7.264812,
+    "longitude": 112.748629,
+    "services": []
+  },
+  {
+    "name": "PONDOK BAMBU",
+    "address": "Jl. Pahlawan Revolusi 7 RT/RW 003/04 Klender, Duren Sawit, Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.220865,
+    "longitude": 106.899256,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PONDOK CHANDRA",
+    "address": "JL RUNGKUT MENANGGAL NO 32 SURABAYA, Surabaya, Jawa Timur",
+    "latitude": -7.341309,
+    "longitude": 112.768083,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PONDOK GEDE PARK",
+    "address": "Jl. Raya Pondok Gede Rt. 002 / 01, Jatiwaringin, Pondok Gede, Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.284852,
+    "longitude": 106.912544,
+    "services": []
+  },
+  {
+    "name": "PONDOK GEDE PLAZA",
+    "address": "JL. RAYA PONDOK GEDE, KEL. JATIWARINGIN KEC. PONDOK GEDE, Bekasi, Jawa Barat",
+    "latitude": -6.283562,
+    "longitude": 106.911428,
+    "services": []
+  },
+  {
+    "name": "PONDOK INDAH MALL II",
+    "address": "JL. METRO PONDOK INDAH II, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.26519,
+    "longitude": 106.782764,
+    "services": []
+  },
+  {
+    "name": "PONDOK INDAH PLAZA",
+    "address": "RUKO PONDOK INDAH SEKTOR II BLOK UA NO 44-45, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.283664,
+    "longitude": 106.78043,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "PONTIANAK",
+    "address": "JL.GAJAH MADA NO.54-55, Pontianak, Kalimantan Barat",
+    "latitude": -0.0308964,
+    "longitude": 109.3401057,
+    "services": []
+  },
+  {
+    "name": "PRABUMULIH",
+    "address": "Jl.Sudirman No.13 rt. 13/04, Kel. Muara dua, kec. Prabumulih timur, muara enim,  Prabumulih - Palembang, Prabumulih, Sumatera Selatan",
+    "latitude": -3.430522,
+    "longitude": 104.239678,
+    "services": []
+  },
+  {
+    "name": "PRAPATAN TUGU TANI",
+    "address": "Jl.Ikhwan ridwan rais no.7-B, Kel. Gambir, Kec. Gambir, Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.18249,
+    "longitude": 106.833581,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PRATAMA BEKASI",
+    "address": "JL.IR.H.JUANDA NO.151, Bekasi, Jawa Barat",
+    "latitude": -6.247416,
+    "longitude": 107.011162,
+    "services": []
+  },
+  {
+    "name": "PRIMA MALL JAMBI",
+    "address": "JL. JEND. SUDIRMAN NO. 90, Jambi, Jambi",
+    "latitude": -1.623057,
+    "longitude": 103.630873,
+    "services": []
+  },
+  {
+    "name": "PRINGSEWU LAMPUNG",
+    "address": "JL. AHMAD YANI NO. 27 B PRINGSEWU - BANDAR LAMPUNG, Bandar Lampung, Lampung",
+    "latitude": -5.356797,
+    "longitude": 104.984644,
+    "services": []
+  },
+  {
+    "name": "PROBOLINGGO",
+    "address": "JL. SUROYO NO. 1 PROBOLINGGO, Probolinggo, Jawa Timur",
+    "latitude": -7.753475,
+    "longitude": 113.214868,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "PURBALINGGA",
+    "address": "Jl. MT Haryono Kav 5. Kab. Purbalingga, Jawa Tengah, Kab.Purbalingga, Jawa Tengah",
+    "latitude": -7.388225,
+    "longitude": 109.355306,
+    "services": []
+  },
+  {
+    "name": "PURI INDAH MALL",
+    "address": "JL. PURI AGUNG, PURI INDAH, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.188387,
+    "longitude": 106.734313,
+    "services": []
+  },
+  {
+    "name": "PURUS VETERAN PADANG",
+    "address": "JL. VETERAN PADANG NO. 7 B, Padang, Sumatera Barat",
+    "latitude": -0.942354,
+    "longitude": 100.354306,
+    "services": []
+  },
+  {
+    "name": "Q MALL BANJARMASIN",
+    "address": "Jl. A. Yani Km.36,8. Banjar Baru- Kalimantan Selatan 70174, Banjarbaru, Kalimantan Selatan",
+    "latitude": -3.439225,
+    "longitude": 114.849156,
+    "services": []
+  },
+  {
+    "name": "RABINZA MALL",
+    "address": "Jl. Rt Hardiwinangun, Muara Ciujung Timur, Rangkasbitung, Kabupaten Lebak, Banten 42314, Kab. Lebak, Banten",
+    "latitude": -6.354545,
+    "longitude": 106.249719,
+    "services": []
+  },
+  {
+    "name": "RADEN INTEN JAKARTA",
+    "address": "Jl. Raden Inten RT.009 RW. 010 Kel.Duren Sawit, Kec. Duren Sawit,  Jakarta Timur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.222313,
+    "longitude": 106.923674,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "RAJA MEDAN",
+    "address": "Jl Sisingamangaraja No 41 Kelurahan Sitirejo Kecamatan Medan Kota, Medan Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.557348,
+    "longitude": 98.694529,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "RAMAYANA BATURAJA",
+    "address": "JL. AHMAD YANI RAJA PLAZA, Kab. Ogan Komering Ulu, Sumatera Selatan",
+    "latitude": -4.125461,
+    "longitude": 104.171098,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA BONTANG",
+    "address": "JL. MULAWARMAN NO. 1 KOTAMADYA BONTANG - KALTIM, Bontang, Kalimantan Timur",
+    "latitude": 0.136411,
+    "longitude": 117.488486,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA CENGKARENG",
+    "address": "JL.LINGKAR  LUAR BARAT LT.DASAR, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153036,
+    "longitude": 106.728052,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA CILEGON",
+    "address": "JL.RAYA MERAK,CILEGON MALL RAMAYANA, Cilegon, Banten",
+    "latitude": -6.021535,
+    "longitude": 106.063664,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA CIMONE",
+    "address": "JL.MERDEKA NO.10,TANGERANG, CIMONE, Tangerang, Banten",
+    "latitude": -6.185419,
+    "longitude": 106.616029,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA CIPUTAT",
+    "address": "JL.DEWI SARTIKA,CIPUTAT, LANTAI I, Tangerang Selatan, Banten",
+    "latitude": -6.314955,
+    "longitude": 106.747104,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA DUMAI",
+    "address": "JL. JEND. SUDIRMAN GD RAMAYANA DUMAI, Dumai, Riau",
+    "latitude": 1.663589,
+    "longitude": 101.446463,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA KARAWANG",
+    "address": "JL. TUPAREV RAYA KARAWANG - JAWA BARAT, Kab. Karawang, Jawa Barat",
+    "latitude": -6.308465,
+    "longitude": 107.306831,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA KUDUS",
+    "address": "JL. SIMPANG 7 RAMAYANA MALL LT. 1 DEMAAN - KUDUS, Kudus, Jawa Tengah",
+    "latitude": -6.80797,
+    "longitude": 110.842355,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA MEDAN",
+    "address": "JL.  SISINGAMANGARAJA MEDAN TELADAN MAL RAYAMANA, Medan, Sumatera Utara",
+    "latitude": 3.565677,
+    "longitude": 98.692612,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA PALEMBANG",
+    "address": "KOMPLEK ILIR PERMAI, Palembang, Sumatera Selatan",
+    "latitude": -2.983284,
+    "longitude": 104.751173,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA PANGKALAN KERINCI",
+    "address": "JL. LINTASAN TIMUR GEDUNG RAMAYANA PANGKALAN KERINCI - RIAU, Kab. Pelalawan, Riau",
+    "latitude": 0.408288,
+    "longitude": 101.857973,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA PONTIANAK",
+    "address": "JL. TANJUNG PURA NO. 300 A, Pontianak, Kalimantan Barat",
+    "latitude": -0.03709,
+    "longitude": 109.346983,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA SEMPER",
+    "address": "JL. KRAMAT JAYA I , TUGU UTARA KEC. KOJA TANJUNG PRIOK, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.127205,
+    "longitude": 106.916592,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA SESETAN",
+    "address": "JL. RAYA SESETAN NO. 22, Denpasar, Bali",
+    "latitude": -8.691905,
+    "longitude": 115.217393,
+    "services": []
+  },
+  {
+    "name": "RAMAYANA SIDOARJO",
+    "address": "Jl.  DIPONEGORO NO.2, MAL SIDOARJO, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.451459,
+    "longitude": 112.714197,
+    "services": []
+  },
+  {
+    "name": "RATU PLAZA JAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 9 KEL. GELORA - KEC. TANAH ABANG JAKARTA 10270, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.226694,
+    "longitude": 106.801171,
+    "services": []
+  },
+  {
+    "name": "RAWAMANGUN SQUARE",
+    "address": "JL. PENGGAMBIRAN NO. 55, RAWAMANGUN, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.199905,
+    "longitude": 106.890487,
+    "services": []
+  },
+  {
+    "name": "RAYA DARMO",
+    "address": "JL. RAYA DARMO NO. 101, Surabaya, Jawa Timur",
+    "latitude": -7.289642,
+    "longitude": 112.739292,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "REST AREA KM 102 CIPALI",
+    "address": "KM REST AREA 102 CIPALI BABAKAN ROYOM DESA BATUSARI, Kab. Subang, Jawa Barat",
+    "latitude": -6.507975,
+    "longitude": 107.721883,
+    "services": [
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "REST AREA KM 13,5 TANGERANG",
+    "address": "Jalan Tol Jakarta Merak KM 13,5, Tangerang, Banten",
+    "latitude": -6.213941,
+    "longitude": 106.682339,
+    "services": []
+  },
+  {
+    "name": "REST AREA KM 14 TANGERANG",
+    "address": "REST AREA PINANG POINT TOL TANGERANG KM. 14, Tangerang, Banten",
+    "latitude": -6.214452,
+    "longitude": 106.677286,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "REST AREA KM 19 BEKASI",
+    "address": "TOL JAKARTA - CIKAMPEK KM. 19 LAMBANG SARI - TAMBUN SELATAN, Bekasi, Jawa Barat",
+    "latitude": -6.268796,
+    "longitude": 107.036539,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "REST AREA KM 26 SURABAYA",
+    "address": "JL. TOL SURABAYA- GEMPOL KM.26, DESA SIDOKEPUNG,KEC.BUDURAN, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.426642,
+    "longitude": 112.693249,
+    "services": []
+  },
+  {
+    "name": "REST AREA KM 40 KARAWANG",
+    "address": "JL. TOL JAKARTA - CIKAMPEK KM 40 DESA GINTUNG - KEC. KLARI, Kab. Karawang, Jawa Barat",
+    "latitude": -6.348186,
+    "longitude": 107.204839,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "REST AREA KM 57 CIKAMPEK",
+    "address": "JL. TOL JAKARTA - CIKAMPEK KM 57 DESA GINTUNG - KEC. KLARI, Kab. Karawang, Jawa Barat",
+    "latitude": -6.367789,
+    "longitude": 107.361091,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "REST AREA KM 6",
+    "address": "Rest Area KM 6B. Bekasi, Bekasi, Jawa Barat",
+    "latitude": -6.258361,
+    "longitude": 106.927722,
+    "services": []
+  },
+  {
+    "name": "REST AREA KM 62 CIKAMPEK",
+    "address": "JL TOL CIKAMPEK - JAKARTA KM. 62, Kab. Karawang, Jawa Barat",
+    "latitude": -6.389332,
+    "longitude": 107.395294,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "REST AREA KM 97 CIPULARANG",
+    "address": "Jl. Tol Purbaleunyi KM. 97B, Kel. Sadarkarya, Kec. Darangdan, Purwakarta, Jawa Barat, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.674999,
+    "longitude": 107.439215,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "RIAU BANDUNG",
+    "address": "JL.LAKSA.RE.MARTADINATA 77, Bandung, Jawa Barat",
+    "latitude": -6.905978,
+    "longitude": 107.621212,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ROXY BANYUWANGI",
+    "address": "JL. A. YANI NO. 21 - 23, Kab. Banyuwangi, Jawa Timur",
+    "latitude": -8.218181,
+    "longitude": 114.36999,
+    "services": []
+  },
+  {
+    "name": "ROXY JEMBER",
+    "address": "Jalan Gajah Mada, Jember (Roxy Square), Kab. Jember, Jawa Timur",
+    "latitude": -8.185066,
+    "longitude": 113.662421,
+    "services": []
+  },
+  {
+    "name": "ROXY SQUARE",
+    "address": "JL. KYAI TAPA NO. 1, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.166611,
+    "longitude": 106.799384,
+    "services": []
+  },
+  {
+    "name": "ROYAL ASIA PALEMBANG",
+    "address": "JL. VETERAN NO. 521, Palembang, Sumatera Selatan",
+    "latitude": -2.976084,
+    "longitude": 104.760851,
+    "services": []
+  },
+  {
+    "name": "ROYAL KLATEN",
+    "address": "Jl. Pemuda 292, RT.05/01 Kelurahan Tonggalan, Kecamatan Klaten Tengah, Klaten  - Jawa TENGAH, Klaten, Jawa Tengah",
+    "latitude": -7.696725,
+    "longitude": 110.608042,
+    "services": []
+  },
+  {
+    "name": "ROYAL PLAZA FOODCOURT",
+    "address": "Royal Plaza, Ruangan Unit Lt. 3 No O1 - 29, 30, dan 30A, Jl Ahmad Yani No 16-18, Surabaya, Jawa Timur., Surabaya, Jawa Timur",
+    "latitude": -7.309283,
+    "longitude": 112.734515,
+    "services": []
+  },
+  {
+    "name": "ROYAL PLAZA SURABAYA",
+    "address": "JL. AHMAD YANI NO. 16 - 18, Surabaya, Jawa Timur",
+    "latitude": -7.309283,
+    "longitude": 112.734515,
+    "services": []
+  },
+  {
+    "name": "RS MITRA PLUMBON",
+    "address": "Jl. Raya Plumbon Km 11,  Palimanan, Kab.Cirebon, Jawa Barat, Kab.Cirebon, Jawa Barat",
+    "latitude": -6.701344,
+    "longitude": 108.481332,
+    "services": []
+  },
+  {
+    "name": "RTA MILONO PALANGKARAYA",
+    "address": "Jl. RTA . Milono , Trans Kalimantan, Pahandut, Palangkaraya, Palangkaraya, Kalimantan Tengah",
+    "latitude": -2.222252,
+    "longitude": 113.919943,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "RUMAH TIGA AMBON",
+    "address": "Jl M. Putuhena Rumah Tiga Ambon, Ambon, Maluku",
+    "latitude": -3.657598,
+    "longitude": 128.183824,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "RUMBAI PEKANBARU",
+    "address": "Jl. Rumbai , Kelurahan Meranti Pandak / Rumbai, Kecamatan Rumbai, Pekanbaru - Riau, Pekanbaru, Riau",
+    "latitude": 0.567631,
+    "longitude": 101.430205,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SADANG SQUARE PURWAKARTA",
+    "address": "JL. VETERAN NO. 242, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.508927,
+    "longitude": 107.461495,
+    "services": []
+  },
+  {
+    "name": "SADIA BIMA",
+    "address": "Jl. Sultan Hassanudin No.20 Sarae Bima, Bima, Nusa Tenggara Barat",
+    "latitude": -8.452243,
+    "longitude": 118.726988,
+    "services": []
+  },
+  {
+    "name": "SAGA ABEPURA",
+    "address": "JL. RAYA SENTANI ABEPURA SAGA MALL LT. 2 - JAYAPURA, Jayapura, Papua ",
+    "latitude": -2.610654,
+    "longitude": 140.665572,
+    "services": []
+  },
+  {
+    "name": "SAGA SORONG",
+    "address": "JL. AHMAD YANI KOMPLEX RUKO KUDA LAUT - SORONG, Sorong, Papua Barat",
+    "latitude": -0.875919,
+    "longitude": 131.256759,
+    "services": []
+  },
+  {
+    "name": "SALATIGA",
+    "address": "JL.DIPONEGORO NO.35, Salatiga, Jawa Tengah",
+    "latitude": -7.322481,
+    "longitude": 110.501293,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SALEMBA JAKARTA",
+    "address": "Jl. Salemba Raya No. 29, Rt. 001/06, Kel. Paseban, Kec. Senen , JakPus, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.194752,
+    "longitude": 106.850088,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SALLO MALL SENGKANG",
+    "address": "Jl. Parenregi, Sengkang - Kab. Wajo. Sulawesi Selatan, Kab. Wajo, Sulawesi Selatan",
+    "latitude": -4.122136,
+    "longitude": 120.02733,
+    "services": []
+  },
+  {
+    "name": "SAM RATULANGI MAKASSAR",
+    "address": "Jl. SAM RATULANGI NO. 15, Makassar, Sulawesi Selatan",
+    "latitude": -5.151203,
+    "longitude": 119.416362,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SAMARINDA CENTRAL PLAZA",
+    "address": "Jl. IRIAN JAYA NO. 1, Samarinda, Kalimantan Timur",
+    "latitude": -0.503584,
+    "longitude": 117.155071,
+    "services": []
+  },
+  {
+    "name": "SAMARINDA MULAWARMAN",
+    "address": "JL.MULAWARMAN NO.11, Samarinda, Kalimantan Timur",
+    "latitude": -0.503431,
+    "longitude": 117.153313,
+    "services": []
+  },
+  {
+    "name": "SAMPIT KALIMANTAN",
+    "address": "Jl. Kapten MT Haryono No 174 RT 044/000 Kel. Mentawa Ulu baru Kec. Mentawai Baru Ketapang Kotawaringin Timur Sampit Kal - Teng, Kab. Kotawaringin Timur, Kalimantan Tengah",
+    "latitude": -2.541282,
+    "longitude": 112.941799,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "SANGATTA TRADE CENTER",
+    "address": "Jl. Yos Sudarso - Sangatta Utara, Sangata, Kutai Timur, Kab. Kutai Timur, Kalimantan Timur",
+    "latitude": 0.500215,
+    "longitude": 117.532711,
+    "services": []
+  },
+  {
+    "name": "SARINAH MALANG",
+    "address": "JL. BASUKI RAHMAT NO. 2 JAWA TIMUR, Malang, Jawa Timur",
+    "latitude": -7.981212,
+    "longitude": 112.630738,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SARINAH PLAZA",
+    "address": "Jl.M.H Thamrin No.11 jakarta 10350 (Ground Floor), Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187794,
+    "longitude": 106.823773,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SARINAH THAMRIN",
+    "address": "SARINAH THAMRIN,LT.BASEMENT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187794,
+    "longitude": 106.823772,
+    "services": []
+  },
+  {
+    "name": "SEASON CITY",
+    "address": "JL. JEMBATAN BESI NO. 33 KEL. JEMBATAN BESI, KEC TAMBORA, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153773,
+    "longitude": 106.796398,
+    "services": []
+  },
+  {
+    "name": "SEIBU PASARAYA BLOK M",
+    "address": "PASARAYA BLOK M, BASEMENT F00D  COURT, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.243861,
+    "longitude": 106.802849,
+    "services": []
+  },
+  {
+    "name": "SENAYAN CITY JAKARTA",
+    "address": "JL. ASIA AFRIKA RT. 001 / 06 KEL. GELORA - KEC. TANAH ABANG JAKARTA PUSAT, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.227771,
+    "longitude": 106.796687,
+    "services": []
+  },
+  {
+    "name": "SENGGIGI LOMBOK",
+    "address": "Jl. Raya Senggigi No 12. Batu Layar. Gunung Sari. Lombok Barat, Kab. Lombok Barat, Nusa Tenggara Barat",
+    "latitude": -8.501224,
+    "longitude": 116.050595,
+    "services": []
+  },
+  {
+    "name": "SENTANI",
+    "address": "Jl. Raya Sentani HM 04060/2010. Sentani Kota. Jayapura, Jayapura, Papua ",
+    "latitude": -2.565666,
+    "longitude": 140.513562,
+    "services": []
+  },
+  {
+    "name": "SENTUL CITY",
+    "address": "Jl. Thamrin No.25, Kec. Babakan Madang, Kab. Bogor, Sentul - Jawa Barat, Kab. Bogor, Jawa Barat",
+    "latitude": -6.566657,
+    "longitude": 106.849081,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SESETAN DENPASAR",
+    "address": "Jl. Raya Sesetan, Kel. Sesetan, Kec. Denpasar Selatan, kota Denpasar, Denpasar, Bali",
+    "latitude": -8.704248,
+    "longitude": 115.220192,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETIABUDI BANDUNG",
+    "address": "JL.DR.SETIABUDI NO.169, Bandung, Jawa Barat",
+    "latitude": -6.868378,
+    "longitude": 107.593398,
+    "services": []
+  },
+  {
+    "name": "SETIABUDI HOME CENTRA",
+    "address": "Jl. Ring Road Setiabudi II, No. 99 S, Kel. Asam Kumbang, Kec. Medan Selayang, Kota Medan, Sumatera Utara, Medan, Sumatera Utara",
+    "latitude": 3.565145,
+    "longitude": 98.62567,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETIABUDI SUKAWANGI",
+    "address": "JL. SUKAWANGI NO. 1 SETIABUDI, Bandung, Jawa Barat",
+    "latitude": -6.87841,
+    "longitude": 107.597725,
+    "services": [
+      "KFC Drive Thru",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SETURAN YOGYAKARTA",
+    "address": "Merapi Merbabu Hotel. Jl. Raya Seturan, Sleman , Yogyakarta, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.771386,
+    "longitude": 110.409841,
+    "services": []
+  },
+  {
+    "name": "SGC CIKARANG",
+    "address": "JL. RE MARTADINATA RT. 04/09 DESA CIKARANG KOTA, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.258119,
+    "longitude": 107.14684,
+    "services": []
+  },
+  {
+    "name": "SGC CIKARANG FOODCOURT",
+    "address": "Sentra Grosir Cikarang, Lt. 2 / Zona Merah / No. 39, 50. dan 51, Jl RE Martadinata, Kel. Cikarang Kota, Kec. Cikarang Utara, Kab. Bekasi, Jawa Barat., Kab. Bekasi, Jawa Barat",
+    "latitude": -6.258119,
+    "longitude": 107.14684,
+    "services": []
+  },
+  {
+    "name": "SHELL MAMPANG",
+    "address": "Jl. Mampang Prapatan Raya, No 75B Jakarta Selatan, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.246435,
+    "longitude": 106.826361,
+    "services": []
+  },
+  {
+    "name": "SHELL S PARMAN",
+    "address": "Jl. Let. Jend S. Parman. Kemanggisan, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.198558,
+    "longitude": 106.797986,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SHODANCO SUPRIYADI BLITAR",
+    "address": "Jl. Sudanco Supriadi no 61-63, Sananwetan, Blitar 66133 Jawa-Timur, Kab. Blitar, Jawa Timur",
+    "latitude": -8.092165,
+    "longitude": 112.180613,
+    "services": []
+  },
+  {
+    "name": "SIDOARJO",
+    "address": "JL.GAJAH MADA  NO.82, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.45607,
+    "longitude": 112.717343,
+    "services": []
+  },
+  {
+    "name": "SILIWANGI KUNINGAN",
+    "address": "Jl. Siliwangi No 45, Kab.Kuningan. Jawa Barat, Kab. Kuningan, Jawa Barat",
+    "latitude": -6.975079,
+    "longitude": 108.484433,
+    "services": []
+  },
+  {
+    "name": "SIMPANG BANDARA PALEMBANG",
+    "address": "Ruko Bandara Mas Palembang.Jl. Simpang 4 hook Soekarno Hatta - Kol. Burlian, Tanjung Api - Api, No. 1, 2, dan 3, Palembang - Sumatera Selatan, Palembang, Sumatera Selatan",
+    "latitude": -2.923545,
+    "longitude": 104.710833,
+    "services": []
+  },
+  {
+    "name": "SIMPANG CILEGON",
+    "address": "PERTOKOAN BINTANG JL. RAYA MERAK SIMPANG TIGA - CILEGON, Cilegon, Banten",
+    "latitude": -6.012626,
+    "longitude": 106.044351,
+    "services": []
+  },
+  {
+    "name": "SIMPANG ENAM BALI",
+    "address": "Jl. Teuku Umar Gg. Pluto Simpang 6 Bali, Denpasar, Bali",
+    "latitude": -8.676223,
+    "longitude": 1,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SIMPANG MATARAM MEDAN",
+    "address": "JL.GAJAH MADA 14 MATARAM, Medan, Sumatera Utara",
+    "latitude": 3.584639,
+    "longitude": 98.664248,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SIMPANG SUTOMO MEDAN",
+    "address": "JL.PERINTIS KEMERDEKAAN, Medan, Sumatera Utara",
+    "latitude": 3.598398,
+    "longitude": 98.681222,
+    "services": []
+  },
+  {
+    "name": "SINGARAJA BALI",
+    "address": "Jl. Ngurahrai 78, Kelurahan Banjar Jawa, Kecamatan Buleleng, Kabupaten Buleleng, Bali, Kab. Buleleng, Bali",
+    "latitude": -8.112647,
+    "longitude": 115.091152,
+    "services": []
+  },
+  {
+    "name": "SINGKAWANG GRAND MALL",
+    "address": "Jl. Alianyang RT 39/ RW 15, Singkawang, Kalimantan Barat, Singkawang, Kalimantan Barat",
+    "latitude": 0.897534,
+    "longitude": 108.971029,
+    "services": []
+  },
+  {
+    "name": "SIPIN JAMBI",
+    "address": "Jl. Sumantri Brojonegoro, RT. 013 Rw. 04  Kel. Solok Sipin, Kec. Telanaipura, Kota Jamb, Jambi, Jambi",
+    "latitude": -1.607581,
+    "longitude": 103.598395,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SOEKARNO HATTA PEKANBARU",
+    "address": "Jln Soekarno Hatta No. 155 Kelurahan Tangerang Barat, Kec. Marpoyan Dumai Riau 28124, Pekanbaru, Riau",
+    "latitude": 0.490858,
+    "longitude": 101.419559,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SOLO BARU",
+    "address": "Jl. Ir Soekarno, Madegondo, Solo Baru, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.60801,
+    "longitude": 1,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SOLO GRAND MALL",
+    "address": "JL. SLAMET RIYADI NO. 273, Surakarta, Jawa Tengah",
+    "latitude": -7.566486,
+    "longitude": 110.807382,
+    "services": []
+  },
+  {
+    "name": "SOLO PARAGON",
+    "address": "Solo Paragon Mall. Jl. Yosodipuro No. 133. Surakarta, Surakarta, Jawa Tengah",
+    "latitude": -7.563009,
+    "longitude": 110.810404,
+    "services": []
+  },
+  {
+    "name": "SOLO SQUARE",
+    "address": "JL. SLAMET RIYADI NO. 451 - 455, Surakarta, Jawa Tengah",
+    "latitude": -7.561148,
+    "longitude": 110.788381,
+    "services": []
+  },
+  {
+    "name": "SPBU MARELAN",
+    "address": "Jl.Platina Raya, Titi Papan Marelan, Medan Deli, Sumatera Utara , Medan, Sumatera Utara",
+    "latitude": 3.689226,
+    "longitude": 98.659414,
+    "services": []
+  },
+  {
+    "name": "SPBU PADANG",
+    "address": "JL. KHATIB SULAEMAN ( AREA SPBU ), Padang, Sumatera Barat",
+    "latitude": -0.910104,
+    "longitude": 100.354065,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SPBU SUDIRMAN BANGKA",
+    "address": "Jl. Jend Sudirman, Kel Selindung Baru, Kec Gabek, Pangkal Pinang, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.098629,
+    "longitude": 106.111601,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "SRI RATU MADIUN",
+    "address": "JL. PAHLAWAN NO. 47, Madiun, Jawa Timur",
+    "latitude": -7.626945,
+    "longitude": 111.520438,
+    "services": []
+  },
+  {
+    "name": "SRI RATU PURWOKERTO",
+    "address": "JL. JEND. SUDIRMAN NO. 447, Kab. Banyumas, Jawa Tengah",
+    "latitude": -7.427554,
+    "longitude": 109.240266,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "ST MORITZ PURI INDAH",
+    "address": "Lippo Mall Puri St.Moritz Food Court Food Avenue Lantai 1, Unit FCS -09 Puri Indah Blok U1, CBD, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.188235,
+    "longitude": 106.738653,
+    "services": []
+  },
+  {
+    "name": "STASIUN BNI CITY",
+    "address": "Stasiun BNI City Jl. Tanjung Karang No. 01 Kebon Melati, Tanah Abang, Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.201278,
+    "longitude": 106.819096,
+    "services": []
+  },
+  {
+    "name": "STASIUN GAMBIR",
+    "address": "Jl. Medan Merdeka Timur No.1, Kel. Gambir, Kec. Gambir, Jakarta Pusat  , Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.176759,
+    "longitude": 106.830816,
+    "services": []
+  },
+  {
+    "name": "STASIUN KOTA",
+    "address": "Jl. Stasiun Kota, Kel. Pinangsia, Kec. Taman sari, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.137585,
+    "longitude": 106.814676,
+    "services": []
+  },
+  {
+    "name": "SUBANG",
+    "address": "JL. OTTO ISKANDARDINATA NO. 106, Kab. Subang, Jawa Barat",
+    "latitude": -6.562976,
+    "longitude": 107.767544,
+    "services": []
+  },
+  {
+    "name": "SUDIRMAN DENPASAR",
+    "address": "Jl. PB Jendral Sudirman No. 50, Denpasar Barat, Denpasar, Bali 80234, Denpasar, Bali",
+    "latitude": -8.670789,
+    "longitude": 115.218034,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SUDIRMAN PEKANBARU",
+    "address": "JL. JEND. SUDIRMAN NO. 403, Pekanbaru, Riau",
+    "latitude": 0.503372,
+    "longitude": 101.454202,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "SUMMARECON MALL BEKASI",
+    "address": "Jl. Jend. Sudirman No.1A , Bekasi 17143, Bekasi, Jawa Barat",
+    "latitude": -6.225618,
+    "longitude": 106.999856,
+    "services": []
+  },
+  {
+    "name": "SUMMARECON MALL SERPONG",
+    "address": "JL. BOULEVARD GADING SERPONG BLOK AA NO. 43 - 45 - GADING SERPONG, Kab. Tangerang, Banten",
+    "latitude": -6.241228,
+    "longitude": 106.628376,
+    "services": []
+  },
+  {
+    "name": "SUNCITY PLAZA SIDOARJO",
+    "address": "JL. PAHLAWAN NO. 01 - SIDOARJO, Kab. Sidoarjo, Jawa Timur",
+    "latitude": -7.449863,
+    "longitude": 112.71123,
+    "services": []
+  },
+  {
+    "name": "SUNGAI LIAT BANGKA",
+    "address": "Jl. Jendral Sudirman No. 20, Sungai Liat, Kel. Sungai Liat, Kec. Sungai Liat, Kab. Bangka - Sumatera Selatan, Kab. Bangka, Bangka Belitung",
+    "latitude": -1.853059,
+    "longitude": 106.117687,
+    "services": []
+  },
+  {
+    "name": "SUNGAI RAYA",
+    "address": "Jl. Sei Raya Dalam, Kec Sungai raya, Kab, Kubu Raya. Pontianak, Kab. Kubu Raya, Kalimantan Barat",
+    "latitude": -0.077895,
+    "longitude": 109.356636,
+    "services": []
+  },
+  {
+    "name": "SUNTER GREEN LAKE",
+    "address": "Jl. Danau sunter selatan, kel. Sunter agung, Kec. Tanjung Priok. Jakarta Utara, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145503,
+    "longitude": 106.876091,
+    "services": []
+  },
+  {
+    "name": "SUNTER MALL",
+    "address": "JL. DANAU SUNTER UTARA (SUNTER MALL), Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138027,
+    "longitude": 106.871012,
+    "services": []
+  },
+  {
+    "name": "SUPER MAL PAKUWON",
+    "address": "JL. PUNCAK INDAH LONTAR NO. 2, Kota Surabaya, Jawa Timur",
+    "latitude": -7.29029,
+    "longitude": 112.675183,
+    "services": []
+  },
+  {
+    "name": "SURYA SUMANTRI BANDUNG",
+    "address": "Jl. Suryasumantri 62Rt.001/05 Sukawarna - Sukajadi - Kota Bandung, Bandung, Jawa Barat",
+    "latitude": -6.887366,
+    "longitude": 107.58107,
+    "services": []
+  },
+  {
+    "name": "SUTOYO TEGAL",
+    "address": "Jl. Mayjend Sutoyo No. 42,  Pekauman, Kec. Tegal Barat, Tegal, Jawa Tengah, Tegal, Jawa Tengah",
+    "latitude": -6.869169,
+    "longitude": 109.130187,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SUZUYA BANDA ACEH",
+    "address": "Jl. Teuku Umar, Lam Teumen, Banda Aceh, Banda Aceh, Aceh",
+    "latitude": 5.537917,
+    "longitude": 95.306625,
+    "services": []
+  },
+  {
+    "name": "SUZUYA BINJAI",
+    "address": "JL. SUTOMO NO. 12, Binjai, Sumatera Utara",
+    "latitude": 3.610904,
+    "longitude": 98.493272,
+    "services": []
+  },
+  {
+    "name": "SUZUYA BIREUN",
+    "address": "Jl Sultan Malikul Saleh Sp. 4 Kota Bireun, Samping Kantor Pos, Kec.Juang, Kab. Bireun, Aceh",
+    "latitude": 5.201929,
+    "longitude": 96.703069,
+    "services": []
+  },
+  {
+    "name": "SUZUYA MEDAN",
+    "address": "JL. BRIGJEN KATAMSO, KAMPUNG BARU, Medan, Sumatera Utara",
+    "latitude": 3.54873,
+    "longitude": 98.687581,
+    "services": []
+  },
+  {
+    "name": "SUZUYA RANTAU PRAPAT",
+    "address": "JL. JEND. AHMAD YANI NO. 125, Kab. Labuhan Batu, Sumatera Utara",
+    "latitude": 2.097483,
+    "longitude": 99.833032,
+    "services": []
+  },
+  {
+    "name": "SUZUYA TANJUNG MORAWA",
+    "address": "JL. MEDAN - LUBUK PAKAM KM. 17,5, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.52678,
+    "longitude": 98.796143,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TABANAN",
+    "address": "Jl. Ir. Soekarno - bypass Kediri, Tabanan - Bali, Kab. Tabanan, Bali",
+    "latitude": -8.55246,
+    "longitude": 115.132983,
+    "services": []
+  },
+  {
+    "name": "TAKENGON",
+    "address": "Jl Lebe Kader Kel Mongal Kec Bebesan, Aceh Tengah, Aceh",
+    "latitude": 4.642087,
+    "longitude": 96.83942,
+    "services": []
+  },
+  {
+    "name": "TALASALAPANG MAKASSAR",
+    "address": "JL. SULTAN ALAHUDIN, Makassar, Sulawesi Selatan",
+    "latitude": -5.184214,
+    "longitude": 119.44112,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TAMAN DAYU PANDAAN PASURUAN",
+    "address": "JL. RAYA SURABAYA MALANG KM. 48 PANDAAN - PASURUAN, Pasuruan, Jawa Timur",
+    "latitude": -7.666981,
+    "longitude": 112.70005,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TAMAN HARAPAN INDAH",
+    "address": "DEKAT BUNDARAN PATUNG KOTA HARAPAN  INDAH BEKASI - KEL. MEDAN SATRIA, Bekasi, Jawa Barat",
+    "latitude": -6.191884,
+    "longitude": 106.974472,
+    "services": [
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TAMAN RASUNA",
+    "address": "Plaza Festival Kompleks Rasuna Epicentrum Jl.H.R Rasuna Said Kav.C22 Jakarta 12940 Indonesia (Unit UG 63), Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.221421,
+    "longitude": 106.83294,
+    "services": []
+  },
+  {
+    "name": "TAMAN SEMANAN INDAH",
+    "address": "KOMPLEK TAMAN SEMANAN INDAH BLOK F NO. 1,2,3 RT. 00 / RW. 11 KEL. DURI KOSAMBI KEC. CENGKARENG, JAKARTA BARAT, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.164138,
+    "longitude": 106.725214,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "TAMAN TOPI SQUARE",
+    "address": "JL. KAPTEN MUSLIHAT RUKO A, Bogor, Jawa Barat",
+    "latitude": -6.596458,
+    "longitude": 106.790704,
+    "services": []
+  },
+  {
+    "name": "TAMINI SQUARE",
+    "address": "JL. RAYA PONDOK GEDE NO. 15 GARUDA PINANG RANTI, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.291032,
+    "longitude": 106.881298,
+    "services": []
+  },
+  {
+    "name": "TANAH ABANG BLOK A",
+    "address": "JL. KH. MAS MANSYUR PASAR TANAH ABANG BLOK A LT. 8, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187225,
+    "longitude": 106.815315,
+    "services": []
+  },
+  {
+    "name": "TANGERANG CITY",
+    "address": "Tang City Mall Jl. Jend. Sudirman No. 1 Cikokol Tangerang 15117, Tangerang, Banten",
+    "latitude": -6.194084,
+    "longitude": 106.634434,
+    "services": []
+  },
+  {
+    "name": "TANJUNG BALAI KARIMUN",
+    "address": "Jl. Pertambangan , Tebing , Tanjung Balai Karimun, Kepulauan Riau, Kab. Karimun, Kepulauan Riau",
+    "latitude": 1.003706,
+    "longitude": 103.424456,
+    "services": []
+  },
+  {
+    "name": "TANJUNG DUREN",
+    "address": "Jl. Tanjung Duren Raya 54 C Rt. 001/ Rw. 04. Tanjung Duren Utara - Grogol Petamburan - Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.17387,
+    "longitude": 106.783389,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TANJUNG PANDAN BELITUNG",
+    "address": "JL. SRIWIJAYA SQUARE RUKO 3 1/2 LT. BLOK 567 TANJUNG PANDAN, Kab. Belitung, Bangka Belitung",
+    "latitude": -2.739367,
+    "longitude": 107.634958,
+    "services": []
+  },
+  {
+    "name": "TANJUNG TABALONG",
+    "address": "Jl. Swadharma, Mabuun, Murung Pudak, Kabupaten Tabalong, Kalimantan Selatan 71571, Kabupaten Tabalong, Kalimantan Selatan",
+    "latitude": -2.17691,
+    "longitude": 115.423156,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TANJUNG UNCANG",
+    "address": "KO Perumnas Fanindo C-01, Tanjung Uncang, Batu Aji, Batam, Batam, Kepulauan Riau",
+    "latitude": 1.047597,
+    "longitude": 103.938999,
+    "services": []
+  },
+  {
+    "name": "TEBET",
+    "address": "JL.TEBET UTARA RAYA  NO.10, Kota Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.229543,
+    "longitude": 106.849072,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TELUK BETUNG",
+    "address": "JL. IKAN HIU NO. 1 CHANDRA SUPERMARKET, Bandar Lampung, Lampung",
+    "latitude": -5.446142,
+    "longitude": 105.264572,
+    "services": []
+  },
+  {
+    "name": "TELUK GONG",
+    "address": "JL. TELUK GONG RAYA BLOK E 1 NO. 27, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138073,
+    "longitude": 106.782944,
+    "services": []
+  },
+  {
+    "name": "TENGGARONG",
+    "address": "Jl. KH Achmad Muksin, Tenggarong, Kab. Kutai Kartanegara, Kalimantan Timur, Kab. Kutai Kartanegara, Kalimantan Timur",
+    "latitude": -0.430976,
+    "longitude": 116.99521,
+    "services": []
+  },
+  {
+    "name": "TERAS BENHIL",
+    "address": "Jl. Bendungan Hillr Raya No 34 RT 009/01 Kel. Bendhill Jakarta Pusat, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.214523,
+    "longitude": 106.814841,
+    "services": []
+  },
+  {
+    "name": "TERMINAL 3 SOEKARNO HATTA",
+    "address": "Bandara Soekarno hatta Terminal 3, Tangerang, Banten",
+    "latitude": -6.118451,
+    "longitude": 106.666207,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TERMINAL BANDA ACEH",
+    "address": "Jl MR Muhammad Hasan, Depan Terminal Banda Aceh, Kota Banda Aceh, Aceh",
+    "latitude": 5.528581,
+    "longitude": 95.330443,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TEUKU UMAR BARAT",
+    "address": "SPBU Jl. Teuku Umar Barat Bali (disamping McD Teuku Umar), Denpasar, Bali",
+    "latitude": -8.681756,
+    "longitude": 115.191154,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "THAMRIN LIPPO CIKARANG",
+    "address": "Jl. MH Thamrin Kav 110B, Lippo Cikarang - Bekasi 17550, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.328611,
+    "longitude": 107.12875,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "THEE MATIC MAJALAYA",
+    "address": "Jl. Anyar, Majasetra, Kec. Majalaya, Bandung, Jawa Barat 40382, Bandung, Jawa Barat",
+    "latitude": 7.027093,
+    "longitude": 107.750678,
+    "services": []
+  },
+  {
+    "name": "THM PLAZA TARAKAN",
+    "address": "JL. YOS SUDARSO , SIMPANG  TIGA TARAKAN, Tarakan, Kalimantan Utara",
+    "latitude": 3.309133,
+    "longitude": 117.583964,
+    "services": []
+  },
+  {
+    "name": "TIBAN BATAM",
+    "address": "Jl. Gajah Mada Tiban III. Kel Patam Lestari, Kec Sekupang, Kota Batam, Batam, Kepulauan Riau",
+    "latitude": 1.108655,
+    "longitude": 103.966688,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TIMIKA",
+    "address": "JL. CENDRAWASIH KOMPLEKS MULIA MINI MALL - TIMIKA, Kab. Mimika, Papua ",
+    "latitude": -4.542394,
+    "longitude": 136.885497,
+    "services": []
+  },
+  {
+    "name": "TITI KUNING MEDAN",
+    "address": "JL. JEND A.H NASUTION NO. 58, Medan, Sumatera Utara",
+    "latitude": 3.540586,
+    "longitude": 98.680664,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TOHPATI",
+    "address": "Jl. Cempaka Biru Selatan II, Buluh Indah, Denpasar, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237, Denpasar, Bali",
+    "latitude": -8.641075,
+    "longitude": 115.254433,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TOMOHON",
+    "address": "JL. RAYA TOMOHON NO. 74 - 75, Tomohon, Sulawesi Utara",
+    "latitude": 1.327891,
+    "longitude": 124.838547,
+    "services": []
+  },
+  {
+    "name": "TONDANO",
+    "address": "Jl Totemboan, Kel Liningaan Tondano Timur, Kab. Minahasa, Sulawesi Utara",
+    "latitude": 1.300806,
+    "longitude": 124.912054,
+    "services": []
+  },
+  {
+    "name": "TRAGIA NUSA DUA",
+    "address": "JL.BYPASS NGURAH RAI SHOP. CTR TRAGIA, Kab. Badung, Bali",
+    "latitude": -8.79643,
+    "longitude": 115.218594,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "TRANSMART CILANDAK",
+    "address": "JL. CILANDAK KKO CILANDAK TIMUR, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.301587,
+    "longitude": 106.813862,
+    "services": []
+  },
+  {
+    "name": "TRANSYOGI CIBUBUR",
+    "address": "Jl. Alternatif Transyogi Cibubur KM. 1-3 , Depok, Depok, Jawa Barat",
+    "latitude": -6.375419,
+    "longitude": 106.905945,
+    "services": [
+      "KFC A.M",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "TUGU PUNCAK",
+    "address": "JL.RAYA PUNCAK, Kab. Bogor, Jawa Barat",
+    "latitude": -6.68746,
+    "longitude": 106.958723,
+    "services": []
+  },
+  {
+    "name": "TUKAD PAKERISAN",
+    "address": "Jl. Tukad Taman Sari, Panjer, Denpasar Sel., Kota Denpasar, Bali 80225, Denpasar, Bali",
+    "latitude": -8.68444,
+    "longitude": 115.225997,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "TUNJUNGAN PLAZA III",
+    "address": "JL. BASUKI RAHMAD NO. 08 - 12, Surabaya, Jawa Timur",
+    "latitude": -7.263347,
+    "longitude": 112.740606,
+    "services": []
+  },
+  {
+    "name": "UGM MIROTA YOGYAKARTA",
+    "address": "JL. SIMANJUNTAK NO. 73, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.775871,
+    "longitude": 110.374651,
+    "services": []
+  },
+  {
+    "name": "UJUNG BERUNG",
+    "address": "JL. RAYA UJUNG BERUNG NO. 194, Bandung, Jawa Barat",
+    "latitude": -6.915455,
+    "longitude": 107.703842,
+    "services": []
+  },
+  {
+    "name": "UNGARAN",
+    "address": "Jl. Diponegoro No. 280, Kel. Genuk , Kec. Ungaran Barat , Kab. Semarang, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.146541,
+    "longitude": 110.4074,
+    "services": []
+  },
+  {
+    "name": "UOB PLAZA",
+    "address": "Gedung UOB Plz, Lantai B1 Jl. MH Thamrin no.1, Jakarta 10230, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.19888,
+    "longitude": 106.822258,
+    "services": []
+  },
+  {
+    "name": "VETERAN PURWAKARTA",
+    "address": "Jl. Veteran, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41115, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.534935,
+    "longitude": 107.445104,
+    "services": []
+  },
+  {
+    "name": "WAENA PAPUA",
+    "address": "Jl. Raya Sentani. Kel. Waena, Kec. Heram, Kota Jayapura - Papua, Jayapura, Papua ",
+    "latitude": -2.596954,
+    "longitude": 140.635046,
+    "services": []
+  },
+  {
+    "name": "WAHIDIN GRESIK",
+    "address": "Jl. Dr. Wahidin Sudirohusodo No.138, Kel. Kebomas, Kec. Kebomas, Kab. Gresik, Gresik, Jawa Timur",
+    "latitude": -7.162659,
+    "longitude": 112.631471,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "WALIKOTA MEDAN",
+    "address": "JL.MONGONSIDI SIMPANG WALIKOTA NO.14, Medan, Sumatera Utara",
+    "latitude": 3.571512,
+    "longitude": 98.671411,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "WAY HALIM LAMPUNG",
+    "address": "Chandra Way Halim, Jl Kimaja No.67, Bandar Lampung, Lampung., Bandar Lampung, Lampung",
+    "latitude": -5.376854,
+    "longitude": 105.271884,
+    "services": []
+  },
+  {
+    "name": "WAYANG SANUR",
+    "address": "JL. BY PASS NGURAH RAI, Denpasar, Bali",
+    "latitude": -8.673768,
+    "longitude": 115.258933,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "WISMA BNI 46 JAKARTA",
+    "address": "JL.JEND.SUDIRMAN KAV.1, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.202818,
+    "longitude": 106.820794,
+    "services": []
+  },
+  {
+    "name": "WTC JAMBI",
+    "address": "KOMPLEK WILLTOP BATANGHARI JL. SULTAN SAHA KEL. BERINGIN KEC. PASAR - KOTA JAMBI, Jambi, Jambi",
+    "latitude": -1.588571,
+    "longitude": 103.61576,
+    "services": []
+  },
+  {
+    "name": "WTC SERPONG",
+    "address": "JL. RAYA SERPONG, GEDUNG WTC  MATAHARI SERPONG LT. 1., Tangerang Selatan, Banten",
+    "latitude": -6.265934,
+    "longitude": 106.65509,
+    "services": []
+  },
+  {
+    "name": "WTC SURABAYA",
+    "address": "Jl. Pemuda 27-31, Food Galery Lantai 3, Surabaya, Jawa Timur",
+    "latitude": -7.263227,
+    "longitude": 112.747761,
+    "services": []
+  },
+  {
+    "name": "YOGYA SUKABUMI",
+    "address": "YOGYA DEPT. STORE JL. R.E MARTADINATA NO. 3, Sukabumi, Jawa Barat",
+    "latitude": -6.919923,
+    "longitude": 106.928607,
+    "services": []
+  },
+  {
+    "name": "ZAMRUD BEKASI",
+    "address": "Jl Zamrud Selatan (Jl Haji Djole) Rt 12 Rw 17, Pedurenan, Mustika Jaya, Kota Bekasi, Jawa Barat",
+    "latitude": -6.320996,
+    "longitude": 107.0164,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  }
+]

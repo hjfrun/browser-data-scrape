@@ -1,0 +1,46 @@
+[
+  {
+    "name": "LEMBANG",
+    "address": "Jl. Panorama Ruko 8-9 , lembang , Bandung, Kab. Bandung, Jawa Barat",
+    "latitude": -6.815193,
+    "longitude": 107.622909,
+    "services": []
+  },
+  {
+    "name": "LEMBUSWANA SAMARINDA",
+    "address": "JL. S. PARMAN NO. 31, Samarinda, Kalimantan Timur",
+    "latitude": -0.47524,
+    "longitude": 117.146738,
+    "services": []
+  },
+  {
+    "name": "LHOKSEUMAWE",
+    "address": "JL. MERDEKA NO. 25 DEPAN ISLAMIC CENTRE - LHOKSEUMAWE, Lhokseumawe, Aceh",
+    "latitude": 5.181186,
+    "longitude": 97.142902,
+    "services": []
+  },
+  {
+    "name": "LIA PALEMBANG",
+    "address": "JL. JEND. SUDIRMAN, Palembang, Sumatera Selatan",
+    "latitude": -2.968293,
+    "longitude": 104.749588,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "LIPPO CIKARANG FOODCOURT",
+    "address": "Textum Foodcourt, Mall Lippo Cikarang, Jl MH Thamrin, Lippo Cikarang, Kab. Bekasi, Jawa Barat., Kab. Bekasi, Jawa Barat",
+    "latitude": -6.332981,
+    "longitude": 107.136824,
+    "services": []
+  },
+  {
+    "name": "LIPPO CITY CIKARANG",
+    "address": "JL.MH.THAMRIN LIPPO CIKARANG, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.333024,
+    "longitude": 107.137667,
+    "services": []
+  }
+]

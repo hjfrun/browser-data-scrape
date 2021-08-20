@@ -1,0 +1,47 @@
+[
+  {
+    "name": "APOLLO TULUNGAGUNG",
+    "address": "Jl. Di Ponegoro 96, Kel. Tamanan, Kec. Tulung Agung, Kab. Tulung agung, Kab. Tulungagung, Jawa Timur",
+    "latitude": -8.068583,
+    "longitude": 111.901482,
+    "services": []
+  },
+  {
+    "name": "ARENA FANTASI BALIKPAPAN",
+    "address": "RUKO PURI BLOK A NO. 19 - 21 MALL FANTASI - FANTASI, Balikpapan, Kalimantan Timur",
+    "latitude": -1.24357,
+    "longitude": 116.86166,
+    "services": []
+  },
+  {
+    "name": "ARIFIN AHMAD PEKANBARU",
+    "address": "Jl. Arifin ahmad, kel. Sidomulyo Timur, Kec. Marpoyan Damai, Kota Pekanbaru - Riau, Pekanbaru, Riau",
+    "latitude": 0.480832,
+    "longitude": 101.438767,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "ARION PLAZA",
+    "address": "JL.PEMUDA NO.3, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.193631,
+    "longitude": 106.89092,
+    "services": []
+  },
+  {
+    "name": "ARMADA TOWN SQUARE",
+    "address": "Jl. Mayjend Bambang Soegeng No. 1 Magelang, Jawa Tengah - Indonesia. P.O.BOX. 160 Magelang, Magelang, Jawa Tengah",
+    "latitude": -7.504144,
+    "longitude": 110.224535,
+    "services": []
+  },
+  {
+    "name": "ARTHA GADING FOODCOURT",
+    "address": "ARTHA GADING MAL FOOD COURT JL. BOULEVARD ARTHA GADING B1 & B2 KELAPA GADING BARAT - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145786,
+    "longitude": 106.892655,
+    "services": []
+  }
+]

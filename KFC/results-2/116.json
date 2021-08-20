@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TANJUNG DUREN",
+    "address": "Jl. Tanjung Duren Raya 54 C Rt. 001/ Rw. 04. Tanjung Duren Utara - Grogol Petamburan - Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.17387,
+    "longitude": 106.783389,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "TANJUNG PANDAN BELITUNG",
+    "address": "JL. SRIWIJAYA SQUARE RUKO 3 1/2 LT. BLOK 567 TANJUNG PANDAN, Kab. Belitung, Bangka Belitung",
+    "latitude": -2.739367,
+    "longitude": 107.634958,
+    "services": ""
+  },
+  {
+    "name": "TANJUNG TABALONG",
+    "address": "Jl. Swadharma, Mabuun, Murung Pudak, Kabupaten Tabalong, Kalimantan Selatan 71571, Kabupaten Tabalong, Kalimantan Selatan",
+    "latitude": -2.17691,
+    "longitude": 115.423156,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "TANJUNG UNCANG",
+    "address": "KO Perumnas Fanindo C-01, Tanjung Uncang, Batu Aji, Batam, Batam, Kepulauan Riau",
+    "latitude": 1.047597,
+    "longitude": 103.938999,
+    "services": ""
+  },
+  {
+    "name": "TEBET",
+    "address": "JL.TEBET UTARA RAYA  NO.10, Kota Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.229543,
+    "longitude": 106.849072,
+    "services": "KFC A.M,KFC Drive Thru"
+  },
+  {
+    "name": "TELUK BETUNG",
+    "address": "JL. IKAN HIU NO. 1 CHANDRA SUPERMARKET, Bandar Lampung, Lampung",
+    "latitude": -5.446142,
+    "longitude": 105.264572,
+    "services": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ROXY JEMBER",
+    "address": "Jalan Gajah Mada, Jember (Roxy Square), Kab. Jember, Jawa Timur",
+    "latitude": -8.185066,
+    "longitude": 113.662421,
+    "services": []
+  },
+  {
+    "name": "ROXY SQUARE",
+    "address": "JL. KYAI TAPA NO. 1, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.166611,
+    "longitude": 106.799384,
+    "services": []
+  },
+  {
+    "name": "ROYAL ASIA PALEMBANG",
+    "address": "JL. VETERAN NO. 521, Palembang, Sumatera Selatan",
+    "latitude": -2.976084,
+    "longitude": 104.760851,
+    "services": []
+  },
+  {
+    "name": "ROYAL KLATEN",
+    "address": "Jl. Pemuda 292, RT.05/01 Kelurahan Tonggalan, Kecamatan Klaten Tengah, Klaten  - Jawa TENGAH, Klaten, Jawa Tengah",
+    "latitude": -7.696725,
+    "longitude": 110.608042,
+    "services": []
+  },
+  {
+    "name": "ROYAL PLAZA FOODCOURT",
+    "address": "Royal Plaza, Ruangan Unit Lt. 3 No O1 - 29, 30, dan 30A, Jl Ahmad Yani No 16-18, Surabaya, Jawa Timur., Surabaya, Jawa Timur",
+    "latitude": -7.309283,
+    "longitude": 112.734515,
+    "services": []
+  },
+  {
+    "name": "ROYAL PLAZA SURABAYA",
+    "address": "JL. AHMAD YANI NO. 16 - 18, Surabaya, Jawa Timur",
+    "latitude": -7.309283,
+    "longitude": 112.734515,
+    "services": []
+  }
+]

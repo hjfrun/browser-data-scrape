@@ -1,0 +1,48 @@
+[
+  {
+    "name": "MALUKU CITY MALL",
+    "address": "Jl. Sultan Hasanudin, Tantui - Ambon, Ambon, Maluku",
+    "latitude": -3.670914,
+    "longitude": 128.198994,
+    "services": []
+  },
+  {
+    "name": "MAMUJU",
+    "address": "Jl. Poros Majene - Mamuju No.28, Simboro, Kec. Simboro Dan Kepulauan, Kabupaten Mamuju, Sulawesi Barat 91512, Mamuju, Sulawesi Barat",
+    "latitude": -2.682856,
+    "longitude": 118.870089,
+    "services": []
+  },
+  {
+    "name": "MANADO BOULEVARD",
+    "address": "JL.SAM RATULANGI RUKO MANADO BOULEVARD  CENTER BLOK A-1, Manado, Sulawesi Utara",
+    "latitude": 1.48663,
+    "longitude": 124.8376,
+    "services": []
+  },
+  {
+    "name": "MANADO MEGAMAS",
+    "address": "KO Mega Surya Marina, Kel. Wenang Selatan, Kec. Wenang, Manado, Manado, Sulawesi Utara",
+    "latitude": 1.486651,
+    "longitude": 124.834202,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "MANADO SUDIRMAN",
+    "address": "JL.JEND.SUDIRMAN 73, Manado, Sulawesi Utara",
+    "latitude": 1.489271,
+    "longitude": 124.846306,
+    "services": []
+  },
+  {
+    "name": "MANADO TOWN SQUARE",
+    "address": "Jl Pierre Tendean, Boulevard, Sario Utara, Manado, Sulawesi Utara, Manado, Sulawesi Utara",
+    "latitude": 1.472729,
+    "longitude": 124.832083,
+    "services": []
+  }
+]

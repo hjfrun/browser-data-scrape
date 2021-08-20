@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SAMARINDA CENTRAL PLAZA",
+    "address": "Jl. IRIAN JAYA NO. 1, Samarinda, Kalimantan Timur",
+    "latitude": -0.503584,
+    "longitude": 117.155071,
+    "services": ""
+  },
+  {
+    "name": "SAMARINDA MULAWARMAN",
+    "address": "JL.MULAWARMAN NO.11, Samarinda, Kalimantan Timur",
+    "latitude": -0.503431,
+    "longitude": 117.153313,
+    "services": ""
+  },
+  {
+    "name": "SAMPIT KALIMANTAN",
+    "address": "Jl. Kapten MT Haryono No 174 RT 044/000 Kel. Mentawa Ulu baru Kec. Mentawai Baru Ketapang Kotawaringin Timur Sampit Kal - Teng, Kab. Kotawaringin Timur, Kalimantan Tengah",
+    "latitude": -2.541282,
+    "longitude": 112.941799,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "SANGATTA TRADE CENTER",
+    "address": "Jl. Yos Sudarso - Sangatta Utara, Sangata, Kutai Timur, Kab. Kutai Timur, Kalimantan Timur",
+    "latitude": 0.500215,
+    "longitude": 117.532711,
+    "services": ""
+  },
+  {
+    "name": "SARINAH MALANG",
+    "address": "JL. BASUKI RAHMAT NO. 2 JAWA TIMUR, Malang, Jawa Timur",
+    "latitude": -7.981212,
+    "longitude": 112.630738,
+    "services": "KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "SARINAH PLAZA",
+    "address": "Jl.M.H Thamrin No.11 jakarta 10350 (Ground Floor), Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.187794,
+    "longitude": 106.823773,
+    "services": "KFC Coffee,KFC A.M"
+  }
+]

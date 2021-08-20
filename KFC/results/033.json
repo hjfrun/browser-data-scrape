@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX TRANSMART SOLO PABELAN",
+    "address": "Jl A. Yani no 234 , Banaran, Pabelan, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.56022,
+    "longitude": 110.767943,
+    "services": []
+  },
+  {
+    "name": "BOX TRANSMART TEGAL",
+    "address": "Jl Kolonel Sugiono no 546, Pekauman, Tegal Barat, Tegal, Jawa Tengah",
+    "latitude": -6.868385,
+    "longitude": 109.123145,
+    "services": []
+  },
+  {
+    "name": "BOX TRONA EXPRESS SIMPANG RIMBO",
+    "address": "Jl. Pattimura RT 02 Kel Kenali Besar. Kec. Jambi Timur, Jambi, Jambi",
+    "latitude": -1.619444,
+    "longitude": 103.557101,
+    "services": []
+  },
+  {
+    "name": "BOX TROPI MART JAMBI",
+    "address": "Jl. Sentot Alibasha No. 23, Payo Selincah, Jambi Tim., Kota Jambi 36121, Jambi, Jambi",
+    "latitude": -1.60625,
+    "longitude": 103.645944,
+    "services": []
+  },
+  {
+    "name": "BOX UBERTOS BANDUNG",
+    "address": "Jl. A.H. Nasution Kav.46A, Pakemitan, Cinambo, Kota Bandung, Jawa Barat 45474, Bandung, Jawa Barat",
+    "latitude": -6.915264,
+    "longitude": 107.696377,
+    "services": []
+  },
+  {
+    "name": "BOX VIKTOR SERPONG",
+    "address": "Jl. Buaran-Bsd 71-10, Buaran, Kec. Serpong, Kota Tangerang Selatan, Banten 15310, Kota Tangerang Selatan, Banten",
+    "latitude": -6.343917,
+    "longitude": 106.687262,
+    "services": []
+  }
+]

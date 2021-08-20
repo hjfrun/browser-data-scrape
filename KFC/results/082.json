@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PALEMBANG SQUARE",
+    "address": "JL. ANGKATAN 45, KOMPLEK PALEMBANG SQUARE NO. 208 - 211, Palembang, Sumatera Selatan",
+    "latitude": -2.976272,
+    "longitude": 104.742679,
+    "services": []
+  },
+  {
+    "name": "PALEMBANG TRADE CENTRE",
+    "address": "JL. R. SUKAMTO NO. 8 A, Palembang, Sumatera Selatan",
+    "latitude": -2.95104,
+    "longitude": 104.761011,
+    "services": []
+  },
+  {
+    "name": "PALM SPRING BATAM",
+    "address": "JL. ENGKU PUTRI KOMP. PALM SPRINGS BTC BLOK B I NO. 23 SEIPANAS - BATAM CENTER, Batam, Kepulauan Riau",
+    "latitude": 1.12583,
+    "longitude": 104.031358,
+    "services": []
+  },
+  {
+    "name": "PALOPO",
+    "address": "JL. RAMBUTAN NO. 157 - PALOPO, Palopo, Sulawesi Selatan",
+    "latitude": -3.002909,
+    "longitude": 120.196453,
+    "services": []
+  },
+  {
+    "name": "PALOPO CITY MARKET",
+    "address": "Jl. Doctor Samratulangi, Palopo, Palopo, Sulawesi Selatan",
+    "latitude": -2.990104,
+    "longitude": 120.187074,
+    "services": []
+  },
+  {
+    "name": "PALTROW SEMARANG",
+    "address": "Jl Tirto Agung No.5, Kel Padalangan, Kec Banyu Manik, Semarang, Jawa Tengah",
+    "latitude": -7.054307,
+    "longitude": 110.430684,
+    "services": []
+  }
+]

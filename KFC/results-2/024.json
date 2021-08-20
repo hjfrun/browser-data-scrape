@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX PINISI POINT MAKASSAR",
+    "address": "Mall Phinisi Point, Jl. Metro Tj. Bunga No.2, Panambungan, Kec. Mariso, Kota Makassar, Sulawesi Selatan 90121, Makassar, Sulawesi Selatan",
+    "latitude": -5.152244,
+    "longitude": 119.40426,
+    "services": ""
+  },
+  {
+    "name": "BOX PLAZA ASIA SUMEDANG",
+    "address": "Jl Mayor Abdurahman no 225, Kotakaler, Sumedang Utara, Kab. Sumedang, Jawa Barat",
+    "latitude": -6.835637,
+    "longitude": 107.92937,
+    "services": ""
+  },
+  {
+    "name": "BOX PLAZA JAMBU DUA",
+    "address": "Plaza Jambu Dua, Jln. Ahmad Yani No.1, Warung Jambu Bogor, Bogor, Jawa Barat",
+    "latitude": -6.569051,
+    "longitude": 106.8084,
+    "services": ""
+  },
+  {
+    "name": "BOX PLAZA MANDIRI",
+    "address": "Plaza Mandiri. Jl. Gatot Subroto Kav.36-38 Jakarta 12190 Ged. Bank Exim Lt.2, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.225039,
+    "longitude": 106.814093,
+    "services": ""
+  },
+  {
+    "name": "BOX Q BIG BSD CITY",
+    "address": "Qbig BSD City Mall Lt. G-11,Jl. BSD Raya Utama, Lengkong Kulon, Pagedangan, Tangerang, Tangerang Selatan, Banten",
+    "latitude": -6.284417,
+    "longitude": 106.63725,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA CIBUBUR",
+    "address": "Jl Raya Lapangan Tembak Kelapa Dua Wetan, Ramayana Cibubur, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.351935,
+    "longitude": 106.884219,
+    "services": ""
+  }
+]

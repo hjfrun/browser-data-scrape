@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MALL ALAM SUTERA",
+    "address": "Food Court Mango Farm, Jl. Jalur Sutera 30D/18 Alam Sutera 1535 Lt. LG, Tangerang, Banten",
+    "latitude": -6.222567,
+    "longitude": 106.652429,
+    "services": ""
+  },
+  {
+    "name": "MALL ARTHA GADING",
+    "address": "ARTHA GADING MAL LT. DASAR JL. BOULEVARD ARTHA GADING B1 & B2 KELAPA GADING BARAT - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145786,
+    "longitude": 106.892655,
+    "services": ""
+  },
+  {
+    "name": "MALL BOTANIA 2",
+    "address": "Jl Raja Alikelana, Belian, Batam, Kepulauan Riau",
+    "latitude": 1.107343,
+    "longitude": 104.086236,
+    "services": ""
+  },
+  {
+    "name": "MALL BULUKUMBA",
+    "address": "Mega Zanur Mall, Jl Samratulangi, Bulukumba, Sulawesi Selatan., Kab. Bulukumba, Sulawesi Selatan",
+    "latitude": -5.535887,
+    "longitude": 120.195148,
+    "services": ""
+  },
+  {
+    "name": "MALL CIKAMPEK",
+    "address": "Jl. Ahmad Yani No.76 Cikampek. Kab. Karawang, Jawa Barat 41731, Kab. Karawang, Jawa Barat",
+    "latitude": -6.400441,
+    "longitude": 107.444538,
+    "services": ""
+  },
+  {
+    "name": "MALL OF INDONESIA",
+    "address": "Kelapa Gading Square, Lt. 2, Unit G-1 & G-2 Jl Boulevard Barat Raya, Kelapa Gading, Jakarta Utara., Jakarta Utara, DKI Jakarta",
+    "latitude": -6.150847,
+    "longitude": 106.892264,
+    "services": ""
+  }
+]

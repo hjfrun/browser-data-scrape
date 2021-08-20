@@ -1,0 +1,44 @@
+[
+  {
+    "name": "KACA PURI TANJUNG PINANG",
+    "address": "JL. TEUKU UMAR NO. 88, Tanjung Pinang, Kepulauan Riau",
+    "latitude": 0.928646,
+    "longitude": 104.44317,
+    "services": ""
+  },
+  {
+    "name": "KALIBATA CITY 2",
+    "address": "Jl. Kalibata Raya No. 1, Jakarta Selatan 12750, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.257029,
+    "longitude": 106.853033,
+    "services": ""
+  },
+  {
+    "name": "KALIMALANG",
+    "address": "JL. INSPEKSI SALURAN KALIMALANG RT.009 / RW. 007 PONDOK BAMBU DUREN SAWIT JAKARTA TIMUR, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.246655,
+    "longitude": 106.908098,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "KALIURANG YOGYAKARTA",
+    "address": "Jl. Kaliurang Km 6,5 NO 22, Yogyakarta, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.750743,
+    "longitude": 110.385672,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "KANTOR POS BANJARMASIN",
+    "address": "JL.LAMBUNG MANGKURAT 19, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.324967,
+    "longitude": 114.591134,
+    "services": ""
+  },
+  {
+    "name": "KANTOR POS KOTA TUA",
+    "address": "Jl. Taman Fatahillah No. Jakarta, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.133958,
+    "longitude": 106.813319,
+    "services": ""
+  }
+]

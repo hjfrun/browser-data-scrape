@@ -1,0 +1,44 @@
+[
+  {
+    "name": "NATURE PARK CIMONE",
+    "address": "Jl. Gatot Subroto Rt. 03/01 Kel. Cimone Jaya, Kec.Karawaci, Kota Tangerang, Propinsi Banten, Tangerang, Banten",
+    "latitude": -6.184005,
+    "longitude": 106.618792,
+    "services": ""
+  },
+  {
+    "name": "NUSA DUA SILIGITA",
+    "address": "Nusa Dua Arcade, Jl. Siligita, Benoa, Kec. Kuta Sel, Kabupaten Badung, Bali 80361, Kab. Badung, Bali",
+    "latitude": -8.799399,
+    "longitude": 115.21767,
+    "services": ""
+  },
+  {
+    "name": "OIL CENTER JAKARTA",
+    "address": "JL. M. H THAMRIN KAV. 55, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.191535,
+    "longitude": 106.823546,
+    "services": ""
+  },
+  {
+    "name": "OVAL CIBADUYUT",
+    "address": "Jl. Cibaduyut No. 142. Bojongloa Kidul, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.956036,
+    "longitude": 107.59323,
+    "services": ""
+  },
+  {
+    "name": "PACIFIC MALL TEGAL",
+    "address": "JL. MAYJEN SUTOYO NO. 35 KOMPLEK PASIFIC MALL - TEGAL 82113, Tegal, Jawa Tengah",
+    "latitude": -6.869677,
+    "longitude": 109.128812,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "PADANG SIDEMPUAN",
+    "address": "JL. MERDEKA KOMPLEK CITY WALK EX. KODIM, Padangsidempuan, Sumatera Utara",
+    "latitude": 1.375809,
+    "longitude": 99.272651,
+    "services": ""
+  }
+]

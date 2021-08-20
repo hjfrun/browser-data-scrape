@@ -1,0 +1,46 @@
+[
+  {
+    "name": "HAYAM WURUK 2",
+    "address": "JL. HAYAM WURUK NO.103, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.153206,
+    "longitude": 106.817904,
+    "services": []
+  },
+  {
+    "name": "HOLYWOOD JUNCTION",
+    "address": "Jl. H.Usmar Ismail, Mekarmukti, Cikarang Utara, Bekasi, Jawa Barat 17530, Kab. Bekasi, Jawa Barat",
+    "latitude": -6.292917,
+    "longitude": 107.171178,
+    "services": []
+  },
+  {
+    "name": "HUB KUALANAMU",
+    "address": "Jl By Pass Kualanamu, Batang Kuis, Kab. Deli Serdang, Sumatera Utara, Kab. Deli Serdang, Sumatera Utara",
+    "latitude": 3.598903,
+    "longitude": 98.831033,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HYPERMART PURI INDAH",
+    "address": "JL. PURI INDAH SAMPING KANTOR  WALIKOTA JAKARTA BARAT, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.185839,
+    "longitude": 106.739697,
+    "services": []
+  },
+  {
+    "name": "INTERNATIONAL PLAZA (IP) PALEMBANG",
+    "address": "JL.JEND.SUDIRMAN 147, Palembang, Sumatera Selatan",
+    "latitude": -2.983964,
+    "longitude": 104.757967,
+    "services": []
+  },
+  {
+    "name": "ISTANA PLAZA",
+    "address": "Jl. Pasirkaliki 121-123 Bandung 40173, Bandung, Jawa Barat",
+    "latitude": -6.905728,
+    "longitude": 107.596977,
+    "services": []
+  }
+]

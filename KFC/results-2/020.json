@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX HARTONO MALL",
+    "address": "Jl Raya Ringroad Utara,  Kaliwaru, Condong Catur, Depok, Kab. Sleman, DI Yogyakarta",
+    "latitude": -7.75962,
+    "longitude": 110.398873,
+    "services": ""
+  },
+  {
+    "name": "BOX JOGJA WALK",
+    "address": "Sahid J-Walk Lt. GF 28.                                                   Jl. Babarsari Caturtunggal, Kec. Depok, Kab. Sleman, DIY, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.779556,
+    "longitude": 110.413694,
+    "services": ""
+  },
+  {
+    "name": "BOX JUANDA CILACAP",
+    "address": "Jl. Ir. H. Juanda, Amiranom, Kebon Manis, Cilacap Utara, Kabupaten Cilacap, Jawa Tengah 53224, Kab. Cilacap, Jawa Tengah",
+    "latitude": -7.694028,
+    "longitude": 109.026276,
+    "services": ""
+  },
+  {
+    "name": "BOX KERTAPATI PALEMBANG",
+    "address": "PT. Ali Kertapati, Jl. Wahid Hasyim No. 9, RT 007/02  Seberang Ulu 1 Palembang, Sumatera Selatan 30255, Palembang, Sumatera Selatan",
+    "latitude": -3.013735,
+    "longitude": 104.755795,
+    "services": ""
+  },
+  {
+    "name": "BOX LAGOON AVENUE",
+    "address": "Jl KH Noer Ali no 3, Pekayon Jaya, Bekasi Selatan, Bekasi, Jawa Barat",
+    "latitude": -6.25185,
+    "longitude": 106.978984,
+    "services": ""
+  },
+  {
+    "name": "BOX LIPPO LUBUK LINGGAU",
+    "address": "Jl Yos Sudarso, Taba Jemekeh, Lubuk Linggau Timur, Lubuk Linggau, Sumatera Selatan",
+    "latitude": -3.287728,
+    "longitude": 102.877701,
+    "services": ""
+  }
+]

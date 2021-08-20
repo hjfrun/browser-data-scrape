@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX SUNEAST BANYUWANGI",
+    "address": "Jl Diponegoro no 11, Genteng, Banyuwangi, Kab. Banyuwangi, Jawa Timur",
+    "latitude": -8.36414,
+    "longitude": 1,
+    "services": ""
+  },
+  {
+    "name": "BOX SUNGAI JAWI",
+    "address": "Jl. H. Rais A. Rachman, Sungai Jawi Dalam, Pontianak Barat, Pontianak, Kalimantan Barat 78244, Pontianak, Kalimantan Barat",
+    "latitude": -0.019758,
+    "longitude": 109.323999,
+    "services": ""
+  },
+  {
+    "name": "BOX THAMRIN CITY",
+    "address": "Thamrin City Lt. GF Unit BT/LD20 – 21, Jl Thamrin Boulevard, Kebon Melati, Jakarta, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.194778,
+    "longitude": 106.817833,
+    "services": ""
+  },
+  {
+    "name": "BOX THE HIVE CAWANG",
+    "address": "Jl DI Panjaitan Kav 34 Cawang, Kel Cipinang, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.244701,
+    "longitude": 106.875404,
+    "services": ""
+  },
+  {
+    "name": "BOX TIDAR MAGELANG",
+    "address": "Jl. Jend. Gatot Soebroto, Karet, Bulurejo, Kec. Mertoyudan, Magelang, Jawa Tengah, Kabupaten Magelang, Jawa Tengah",
+    "latitude": -7.506065,
+    "longitude": 110.204332,
+    "services": ""
+  },
+  {
+    "name": "BOX TJ MART BANGKA",
+    "address": "Teman Jaya Mart, Jalan Solihin GP no 27, Asam, Rangkui, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.142536,
+    "longitude": 106.099789,
+    "services": ""
+  }
+]

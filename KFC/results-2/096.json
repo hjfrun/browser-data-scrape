@@ -1,0 +1,44 @@
+[
+  {
+    "name": "RAMAYANA KARAWANG",
+    "address": "JL. TUPAREV RAYA KARAWANG - JAWA BARAT, Kab. Karawang, Jawa Barat",
+    "latitude": -6.308465,
+    "longitude": 107.306831,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA KUDUS",
+    "address": "JL. SIMPANG 7 RAMAYANA MALL LT. 1 DEMAAN - KUDUS, Kudus, Jawa Tengah",
+    "latitude": -6.80797,
+    "longitude": 110.842355,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA MEDAN",
+    "address": "JL.  SISINGAMANGARAJA MEDAN TELADAN MAL RAYAMANA, Medan, Sumatera Utara",
+    "latitude": 3.565677,
+    "longitude": 98.692612,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA PALEMBANG",
+    "address": "KOMPLEK ILIR PERMAI, Palembang, Sumatera Selatan",
+    "latitude": -2.983284,
+    "longitude": 104.751173,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA PANGKALAN KERINCI",
+    "address": "JL. LINTASAN TIMUR GEDUNG RAMAYANA PANGKALAN KERINCI - RIAU, Kab. Pelalawan, Riau",
+    "latitude": 0.408288,
+    "longitude": 101.857973,
+    "services": ""
+  },
+  {
+    "name": "RAMAYANA PONTIANAK",
+    "address": "JL. TANJUNG PURA NO. 300 A, Pontianak, Kalimantan Barat",
+    "latitude": -0.03709,
+    "longitude": 109.346983,
+    "services": ""
+  }
+]

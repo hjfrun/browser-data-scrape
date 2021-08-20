@@ -1,0 +1,46 @@
+[
+  {
+    "name": "TUGU PUNCAK",
+    "address": "JL.RAYA PUNCAK, Kab. Bogor, Jawa Barat",
+    "latitude": -6.68746,
+    "longitude": 106.958723,
+    "services": []
+  },
+  {
+    "name": "TUKAD PAKERISAN",
+    "address": "Jl. Tukad Taman Sari, Panjer, Denpasar Sel., Kota Denpasar, Bali 80225, Denpasar, Bali",
+    "latitude": -8.68444,
+    "longitude": 115.225997,
+    "services": [
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "TUNJUNGAN PLAZA III",
+    "address": "JL. BASUKI RAHMAD NO. 08 - 12, Surabaya, Jawa Timur",
+    "latitude": -7.263347,
+    "longitude": 112.740606,
+    "services": []
+  },
+  {
+    "name": "UGM MIROTA YOGYAKARTA",
+    "address": "JL. SIMANJUNTAK NO. 73, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.775871,
+    "longitude": 110.374651,
+    "services": []
+  },
+  {
+    "name": "UJUNG BERUNG",
+    "address": "JL. RAYA UJUNG BERUNG NO. 194, Bandung, Jawa Barat",
+    "latitude": -6.915455,
+    "longitude": 107.703842,
+    "services": []
+  },
+  {
+    "name": "UNGARAN",
+    "address": "Jl. Diponegoro No. 280, Kel. Genuk , Kec. Ungaran Barat , Kab. Semarang, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.146541,
+    "longitude": 110.4074,
+    "services": []
+  }
+]

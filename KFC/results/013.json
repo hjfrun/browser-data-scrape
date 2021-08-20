@@ -1,0 +1,48 @@
+[
+  {
+    "name": "BINTARO 9",
+    "address": "Jl. Raya Bintaro Sektor IX Kav BJ/06. Pondok Aren - Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.280056,
+    "longitude": 106.715694,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "BINTARO ANNEX",
+    "address": "Area Foodwalk / Blok Annex - 6B. pLaza Bintaro Jaya, Jl. Bintaro Utama III, Bintaro Jaya Sektor 3A, Tangerang 15225. Telp. 735-4888/021-735 3003, Tangerang Selatan, Banten",
+    "latitude": -6.272943,
+    "longitude": 106.742009,
+    "services": []
+  },
+  {
+    "name": "BINTARO PLAZA",
+    "address": "BINTARO PLAZA SEKTOR 3, BINTARO JAYA, Tangerang Selatan, Banten",
+    "latitude": -6.272558,
+    "longitude": 106.74199,
+    "services": []
+  },
+  {
+    "name": "BINTARO SATOE",
+    "address": "JL.BINTARO  UTAMA  NO. 1, BINTARO JAYA, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.270996,
+    "longitude": 106.757515,
+    "services": []
+  },
+  {
+    "name": "BITUNG MANADO",
+    "address": "Jl. Wolter Monginsidi (Jl. Poros)  Kelurahan Girian Weru dua, Kecamatan Girian, Bitung - Sulawesi Utara, Bitung, Sulawesi Utara",
+    "latitude": 1.440344,
+    "longitude": 125.129863,
+    "services": []
+  },
+  {
+    "name": "BLOK M PLAZA",
+    "address": "JL. BULUNGAN NO.76, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245002,
+    "longitude": 106.797587,
+    "services": []
+  }
+]

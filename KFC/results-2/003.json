@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AIRMADIDI",
+    "address": "Airmadidi. Kec Airmadidi, Kab. Minahasa Utara. Sulawesi Utara, Kab. Minahasa Utara, Sulawesi Utara",
+    "latitude": 1.420592,
+    "longitude": 124.986556,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "AIRPORT HUB",
+    "address": "Jl. Hesein Sastranegara (Tol Airport ) , Kel. Benda , Kec. Benda , Tangerang, Tangerang, Banten",
+    "latitude": -6.113569,
+    "longitude": 106.685983,
+    "services": ""
+  },
+  {
+    "name": "ALAM SUTERA",
+    "address": "Jl. Boulevard Alam Sutera Kav. A. Kel. Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.238299,
+    "longitude": 106.659607,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "ALAMANDA KARANG SATRIA",
+    "address": "Jl Raya Karang Satria, Karang Satria, Tambun Utara, Bekasi, Jawa Barat",
+    "latitude": -6.224006,
+    "longitude": 107.041881,
+    "services": ""
+  },
+  {
+    "name": "ALFA LATTA AMBON",
+    "address": "Jl. Wolter monginsidi ,  Desa Latta, Kec. Teluk Ambon Baguala, Kotamadya Ambon, Kec. Maluku, Ambon, Maluku",
+    "latitude": -3.653368,
+    "longitude": 128.226739,
+    "services": ""
+  },
+  {
+    "name": "AMBACANG PADANG",
+    "address": "JL.BUNDA KANDUANG NO.14-16 AMBACANG PLAZA, Padang, Sumatera Barat",
+    "latitude": -0.953254,
+    "longitude": 100.35963,
+    "services": ""
+  }
+]

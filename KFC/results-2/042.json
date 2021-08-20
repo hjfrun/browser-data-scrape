@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CITIMALL LAHAT",
+    "address": "Jl. Lintas Tengah Sumatera, Manggul, Kec. Lahat, Kabupaten Lahat, Sumatera Selatan 30961, Kab. Lahat, Sumatera Selatan",
+    "latitude": -3.781978,
+    "longitude": 103.565233,
+    "services": ""
+  },
+  {
+    "name": "CITRA GARDEN 6",
+    "address": "Perum Citra 6 Blok L7 Citra Garden City, Jakarta Barat, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.128858,
+    "longitude": 106.714588,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "CITRA GARDEN II",
+    "address": "JL. CITRA 2 BLOK D.J 1/1 -2 CITRA GARDEN CITY, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.142642,
+    "longitude": 106.707218,
+    "services": ""
+  },
+  {
+    "name": "CITRA MALL KLENDER",
+    "address": "JL. I  GUSTI NGURAH RAI - KLENDER, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.213929,
+    "longitude": 106.902794,
+    "services": ""
+  },
+  {
+    "name": "CITRA RAYA CIKUPA",
+    "address": "CITRA RAYA BOULEVARD BLOK A 07 NO. 1 CIKUPA - TANGERANG, Kab. Tangerang, Banten",
+    "latitude": -6.231189,
+    "longitude": 106.520495,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "CITRALAKE SAWANGAN",
+    "address": "Jl. Raya Bojongsari, Kedaung, Kec. Bojongsari, Kota Depok, Jawa Barat 16516, Depok, Jawa Barat",
+    "latitude": -6.381871,
+    "longitude": 106.746766,
+    "services": "KFC Drive Thru"
+  }
+]

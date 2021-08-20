@@ -1,0 +1,44 @@
+[
+  {
+    "name": "DOWNTOWN JUNGLELAND",
+    "address": "Taman Rekreasi Jungleland , Desa Karang Tengah , Kec. Babakan Madang, Kabupaten Bogor, Kab. Bogor, Jawa Barat",
+    "latitude": -6.574322,
+    "longitude": 106.890911,
+    "services": ""
+  },
+  {
+    "name": "DP MALL SEMARANG",
+    "address": "JL. PEMUDA NO. 150, Semarang, Jawa Tengah",
+    "latitude": -6.982141,
+    "longitude": 110.412997,
+    "services": ""
+  },
+  {
+    "name": "DRAMAGA CANTIK BOGOR",
+    "address": "Jl. Dramaga Cantik, Dramaga, Kec. Dramaga, Bogor, Jawa Barat 16680, Bogor, Jawa Barat",
+    "latitude": -6.568727,
+    "longitude": 106.738089,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "DUTA GARDEN",
+    "address": "Jl. Husein Sastranegara, Jurumudi, Benda, Tangerang, Banten 15124, Tangerang, Banten",
+    "latitude": -6.142719,
+    "longitude": 106.682426,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "DUTA MALL BANJARMASIN",
+    "address": "JL. AHMAD YANI KM.2 KOMPLEK DUTA MALL, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.32256,
+    "longitude": 114.603252,
+    "services": ""
+  },
+  {
+    "name": "EMPORIUM PLUIT",
+    "address": "JL. RAYA PLUIT SELATAN KEL. PENJARINGAN - JAKUT, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.127616,
+    "longitude": 106.790442,
+    "services": ""
+  }
+]

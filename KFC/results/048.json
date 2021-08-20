@@ -1,0 +1,46 @@
+[
+  {
+    "name": "EPICENTRUM LOMBOK",
+    "address": "Jl. Sriwijaya No. 333 Kel. Punia , Lombok Epicentrum Mall, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.594818,
+    "longitude": 116.10454,
+    "services": []
+  },
+  {
+    "name": "EXPRESS DC MALL BATAM",
+    "address": "Diamond City Mall Ground Floor, JL. Duyung, Sei Jodoh, Sungai Jodoh, Kec. Batu Ampar, Kota Batam, Kepulauan Riau 29444, Batam, Kepulauan Riau",
+    "latitude": 1.1415338,
+    "longitude": 104.0031113,
+    "services": []
+  },
+  {
+    "name": "FESTIVAL CITYLINK",
+    "address": "Jl. Peta No. 241 Bandung - 40232, Bandung, Jawa Barat",
+    "latitude": -6.929471,
+    "longitude": 107.586289,
+    "services": []
+  },
+  {
+    "name": "FLOBAMORA MALL KUPANG",
+    "address": "JL. W.J LALAMENTIK OEBUFU, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.173433,
+    "longitude": 123.613106,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "FOOD AVENUE LOTTE KUNINGAN",
+    "address": "Lotte Shopping Avenue Lt. 4 , Ciputra world Jakarta, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.223765,
+    "longitude": 106.822672,
+    "services": []
+  },
+  {
+    "name": "FOODPOINT MALIOBORO",
+    "address": "Jl Malioboro Yogyakarta, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.793023,
+    "longitude": 110.366069,
+    "services": []
+  }
+]

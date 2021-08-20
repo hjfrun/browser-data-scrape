@@ -1,0 +1,49 @@
+[
+  {
+    "name": "SOLO PARAGON",
+    "address": "Solo Paragon Mall. Jl. Yosodipuro No. 133. Surakarta, Surakarta, Jawa Tengah",
+    "latitude": -7.563009,
+    "longitude": 110.810404,
+    "services": []
+  },
+  {
+    "name": "SOLO SQUARE",
+    "address": "JL. SLAMET RIYADI NO. 451 - 455, Surakarta, Jawa Tengah",
+    "latitude": -7.561148,
+    "longitude": 110.788381,
+    "services": []
+  },
+  {
+    "name": "SPBU MARELAN",
+    "address": "Jl.Platina Raya, Titi Papan Marelan, Medan Deli, Sumatera Utara , Medan, Sumatera Utara",
+    "latitude": 3.689226,
+    "longitude": 98.659414,
+    "services": []
+  },
+  {
+    "name": "SPBU PADANG",
+    "address": "JL. KHATIB SULAEMAN ( AREA SPBU ), Padang, Sumatera Barat",
+    "latitude": -0.910104,
+    "longitude": 100.354065,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SPBU SUDIRMAN BANGKA",
+    "address": "Jl. Jend Sudirman, Kel Selindung Baru, Kec Gabek, Pangkal Pinang, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.098629,
+    "longitude": 106.111601,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "SRI RATU MADIUN",
+    "address": "JL. PAHLAWAN NO. 47, Madiun, Jawa Timur",
+    "latitude": -7.626945,
+    "longitude": 111.520438,
+    "services": []
+  }
+]

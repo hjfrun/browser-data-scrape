@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HARLIN SOLO",
+    "address": "Ruko Harlin Malangjiwan, Jl. Adisumarmo, Colomadu, Kab. Karanganyar, Jawa Tengah, Kab. Karanganyar, Jawa Tengah",
+    "latitude": -7.539298,
+    "longitude": 110.745627,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HARMONI CEGER",
+    "address": "Jl. Ceger Raya Rt. 02 / 01 kel. Jurang Mangu Timur, Kec. Pondok Aren Kota, Tangerang Selatan, Tangerang Selatan, Banten",
+    "latitude": -6.262945,
+    "longitude": 106.734897,
+    "services": []
+  },
+  {
+    "name": "HARTONO MALL SOLO BARU",
+    "address": "Hartono Mall, Unit GF - B01, Ground Floor, Jl Solo Baru RT 005/ RW 005 Madegondo Sukoharjo Jawa Tengah, Kab. Sukoharjo, Jawa Tengah",
+    "latitude": -7.601095,
+    "longitude": 110.814519,
+    "services": []
+  },
+  {
+    "name": "HARVEST CITY",
+    "address": "Jl. Harvest City Boulevard, Cileungsi Kidul, Kec. Cileungsi, Bogor, Jawa Barat 16820, Bogor, Jawa Barat",
+    "latitude": -6.408381,
+    "longitude": 106.984376,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HASAN BASRI SAMARINDA",
+    "address": "JL Hasan Basri, Sungai Pinang, Samarinda, Kalimantan Timur, Samarinda, Kalimantan Timur",
+    "latitude": -0.480212,
+    "longitude": 117.153021,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "HASANUDDIN UJUNG PANDANG",
+    "address": "JL.HASANUDIN 16, Makassar, Sulawesi Selatan",
+    "latitude": -5.138332,
+    "longitude": 119.408769,
+    "services": []
+  }
+]

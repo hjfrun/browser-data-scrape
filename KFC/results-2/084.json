@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PANAM PEKANBARU",
+    "address": "Jl. R  Subrantas Panam, Pekanbaru, Pekanbaru, Riau",
+    "latitude": 0.463871,
+    "longitude": 101.399444,
+    "services": ""
+  },
+  {
+    "name": "PANBIL MALL BATAM",
+    "address": "JL. A. YANI,  MUKA KUNING KOMPLEX KOMERSIAL PANBIL, Batam, Kepulauan Riau",
+    "latitude": 1.071695,
+    "longitude": 104.023922,
+    "services": ""
+  },
+  {
+    "name": "PANCOR",
+    "address": "Jl. TGH Zainudin Abd. Majid, Pancor , Lombok Timur - NTB, Kab. Lombok Timur, Nusa Tenggara Barat",
+    "latitude": -8.645771,
+    "longitude": 116.51929,
+    "services": ""
+  },
+  {
+    "name": "PANDANARAN SEMARANG",
+    "address": "JL.PANDANARAN 78, Semarang, Jawa Tengah",
+    "latitude": -6.987193,
+    "longitude": 110.417177,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "PANGKAL PINANG PLAZA",
+    "address": "JL. SUREMAN ARIEF NO. 44 PANGKAL PINANG - BANGKA, Pangkal Pinang, Bangka Belitung",
+    "latitude": -2.127719,
+    "longitude": 106.1165,
+    "services": ""
+  },
+  {
+    "name": "PANGKALAN BUN",
+    "address": "Jl Iskandar, Arut Selatan, Pangkalan Bun, Kab. Kotawaringin Barat, Kalimantan Tengah, Kab. Kotawaringin Barat, Kalimantan Tengah",
+    "latitude": -2.709986,
+    "longitude": 111.651299,
+    "services": ""
+  }
+]

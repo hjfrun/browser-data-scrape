@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX ECO PLAZA CITRA RAYA",
+    "address": "Jl Ecopolis Avenue blok VE no 7-9, Mekar Bakti, Panongan, Kab. Tangerang, Banten",
+    "latitude": -6.250014,
+    "longitude": 106.525017,
+    "services": []
+  },
+  {
+    "name": "BOX ERAMART SAMARINDA",
+    "address": "Jl. Cipto Mangunkusumo, Simpang Tiga, Kec. Loa Janan Ilir, Kota Samarinda, Kalimantan Timur 75131, Samarinda, Kalimantan Timur",
+    "latitude": -0.572281,
+    "longitude": 117.08754,
+    "services": []
+  },
+  {
+    "name": "BOX FERRY BATAM CENTER",
+    "address": "Terminal Ferry International Batam Centre Point teluk tering  - Nongsa Batam 29400, Batam, Kepulauan Riau",
+    "latitude": 1.130674,
+    "longitude": 104.055288,
+    "services": []
+  },
+  {
+    "name": "BOX GAYA KEDUNGMUNDU",
+    "address": "Jl. Kedungmundu No.233, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273, Kab. Semarang, Jawa Tengah",
+    "latitude": -7.023971,
+    "longitude": 110.459522,
+    "services": []
+  },
+  {
+    "name": "BOX GEDUNG BIRU BALIKPAPAN",
+    "address": "Jl Soekarno Hatta, Batu Ampar, Balikpapan Utara, Balikpapan, Kalimantan Timur",
+    "latitude": -1.21868,
+    "longitude": 116.849924,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT BANJARMASIN",
+    "address": "Jl Ahmad Yani Km 6,2 Kertak Hanyar, Kab Banjar, Banjarmasin, Kalimantan Selatan",
+    "latitude": -3.352087,
+    "longitude": 114.626791,
+    "services": []
+  }
+]

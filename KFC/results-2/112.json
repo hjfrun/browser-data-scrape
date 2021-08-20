@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SUNGAI RAYA",
+    "address": "Jl. Sei Raya Dalam, Kec Sungai raya, Kab, Kubu Raya. Pontianak, Kab. Kubu Raya, Kalimantan Barat",
+    "latitude": -0.077895,
+    "longitude": 109.356636,
+    "services": ""
+  },
+  {
+    "name": "SUNTER GREEN LAKE",
+    "address": "Jl. Danau sunter selatan, kel. Sunter agung, Kec. Tanjung Priok. Jakarta Utara, Jakarta Utara, DKI Jakarta",
+    "latitude": -6.145503,
+    "longitude": 106.876091,
+    "services": ""
+  },
+  {
+    "name": "SUNTER MALL",
+    "address": "JL. DANAU SUNTER UTARA (SUNTER MALL), Jakarta Utara, DKI Jakarta",
+    "latitude": -6.138027,
+    "longitude": 106.871012,
+    "services": ""
+  },
+  {
+    "name": "SUPER MAL PAKUWON",
+    "address": "JL. PUNCAK INDAH LONTAR NO. 2, Kota Surabaya, Jawa Timur",
+    "latitude": -7.29029,
+    "longitude": 112.675183,
+    "services": ""
+  },
+  {
+    "name": "SURYA SUMANTRI BANDUNG",
+    "address": "Jl. Suryasumantri 62Rt.001/05 Sukawarna - Sukajadi - Kota Bandung, Bandung, Jawa Barat",
+    "latitude": -6.887366,
+    "longitude": 107.58107,
+    "services": ""
+  },
+  {
+    "name": "SUTOYO TEGAL",
+    "address": "Jl. Mayjend Sutoyo No. 42,  Pekauman, Kec. Tegal Barat, Tegal, Jawa Tengah, Tegal, Jawa Tengah",
+    "latitude": -6.869169,
+    "longitude": 109.130187,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  }
+]

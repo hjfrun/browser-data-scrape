@@ -1,0 +1,47 @@
+[
+  {
+    "name": "PGC CILILITAN",
+    "address": "JL. MAYJEN SUTOYO NO. 76 CILILITAN - KRAMAT JATI, Jakarta Timur, DKI Jakarta",
+    "latitude": -6.262374,
+    "longitude": 106.865373,
+    "services": []
+  },
+  {
+    "name": "PINRANG",
+    "address": "Jl. Poros pare-pare -Pinrang , Watang Sawitto, Kab. Pinrang, Sulawesi Selatan, Kab. Pinrang, Sulawesi Selatan",
+    "latitude": -3.809969,
+    "longitude": 119.652078,
+    "services": []
+  },
+  {
+    "name": "PLAJU PALEMBANG",
+    "address": "Jl.A.yani Kel.  9-10 Ulu Kec.seberang  ulu I,  Palembang - Sumsel, Palembang, Sumatera Selatan",
+    "latitude": -2.994262,
+    "longitude": 104.779922,
+    "services": [
+      "KFC Coffee",
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "PLAZA ANDALAS PADANG",
+    "address": "JL. PEMUDA KOMP. PLAZA ANDALAS LT. I, Padang, Sumatera Barat",
+    "latitude": -0.949978,
+    "longitude": 100.355738,
+    "services": []
+  },
+  {
+    "name": "PLAZA ASIA TASIKMALAYA",
+    "address": "JL. HZ MUSTOFA NO. 326, Tasikmalaya, Jawa Barat",
+    "latitude": -7.342253,
+    "longitude": 108.217287,
+    "services": []
+  },
+  {
+    "name": "PLAZA BANGKINANG",
+    "address": "Jl. Sisingamangaraja Komplek Plaza Bangkinang, Kab. Kampar , Riau",
+    "latitude": 0.339931,
+    "longitude": 101.024918,
+    "services": []
+  }
+]

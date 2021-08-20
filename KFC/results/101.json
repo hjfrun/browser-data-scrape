@@ -1,0 +1,51 @@
+[
+  {
+    "name": "RS MITRA PLUMBON",
+    "address": "Jl. Raya Plumbon Km 11,  Palimanan, Kab.Cirebon, Jawa Barat, Kab.Cirebon, Jawa Barat",
+    "latitude": -6.701344,
+    "longitude": 108.481332,
+    "services": []
+  },
+  {
+    "name": "RTA MILONO PALANGKARAYA",
+    "address": "Jl. RTA . Milono , Trans Kalimantan, Pahandut, Palangkaraya, Palangkaraya, Kalimantan Tengah",
+    "latitude": -2.222252,
+    "longitude": 113.919943,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "RUMAH TIGA AMBON",
+    "address": "Jl M. Putuhena Rumah Tiga Ambon, Ambon, Maluku",
+    "latitude": -3.657598,
+    "longitude": 128.183824,
+    "services": [
+      "KFC Drive Thru",
+      "KFC Coffee"
+    ]
+  },
+  {
+    "name": "RUMBAI PEKANBARU",
+    "address": "Jl. Rumbai , Kelurahan Meranti Pandak / Rumbai, Kecamatan Rumbai, Pekanbaru - Riau, Pekanbaru, Riau",
+    "latitude": 0.567631,
+    "longitude": 101.430205,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SADANG SQUARE PURWAKARTA",
+    "address": "JL. VETERAN NO. 242, Kab. Purwakarta, Jawa Barat",
+    "latitude": -6.508927,
+    "longitude": 107.461495,
+    "services": []
+  },
+  {
+    "name": "SADIA BIMA",
+    "address": "Jl. Sultan Hassanudin No.20 Sarae Bima, Bima, Nusa Tenggara Barat",
+    "latitude": -8.452243,
+    "longitude": 118.726988,
+    "services": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PRATAMA BEKASI",
+    "address": "JL.IR.H.JUANDA NO.151, Bekasi, Jawa Barat",
+    "latitude": -6.247416,
+    "longitude": 107.011162,
+    "services": ""
+  },
+  {
+    "name": "PRIMA MALL JAMBI",
+    "address": "JL. JEND. SUDIRMAN NO. 90, Jambi, Jambi",
+    "latitude": -1.623057,
+    "longitude": 103.630873,
+    "services": ""
+  },
+  {
+    "name": "PRINGSEWU LAMPUNG",
+    "address": "JL. AHMAD YANI NO. 27 B PRINGSEWU - BANDAR LAMPUNG, Bandar Lampung, Lampung",
+    "latitude": -5.356797,
+    "longitude": 104.984644,
+    "services": ""
+  },
+  {
+    "name": "PROBOLINGGO",
+    "address": "JL. SUROYO NO. 1 PROBOLINGGO, Probolinggo, Jawa Timur",
+    "latitude": -7.753475,
+    "longitude": 113.214868,
+    "services": "KFC Drive Thru"
+  },
+  {
+    "name": "PURBALINGGA",
+    "address": "Jl. MT Haryono Kav 5. Kab. Purbalingga, Jawa Tengah, Kab.Purbalingga, Jawa Tengah",
+    "latitude": -7.388225,
+    "longitude": 109.355306,
+    "services": ""
+  },
+  {
+    "name": "PURI INDAH MALL",
+    "address": "JL. PURI AGUNG, PURI INDAH, Jakarta Barat, DKI Jakarta",
+    "latitude": -6.188387,
+    "longitude": 106.734313,
+    "services": ""
+  }
+]

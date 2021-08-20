@@ -1,0 +1,48 @@
+[
+  {
+    "name": "SILIWANGI KUNINGAN",
+    "address": "Jl. Siliwangi No 45, Kab.Kuningan. Jawa Barat, Kab. Kuningan, Jawa Barat",
+    "latitude": -6.975079,
+    "longitude": 108.484433,
+    "services": []
+  },
+  {
+    "name": "SIMPANG BANDARA PALEMBANG",
+    "address": "Ruko Bandara Mas Palembang.Jl. Simpang 4 hook Soekarno Hatta - Kol. Burlian, Tanjung Api - Api, No. 1, 2, dan 3, Palembang - Sumatera Selatan, Palembang, Sumatera Selatan",
+    "latitude": -2.923545,
+    "longitude": 104.710833,
+    "services": []
+  },
+  {
+    "name": "SIMPANG CILEGON",
+    "address": "PERTOKOAN BINTANG JL. RAYA MERAK SIMPANG TIGA - CILEGON, Cilegon, Banten",
+    "latitude": -6.012626,
+    "longitude": 106.044351,
+    "services": []
+  },
+  {
+    "name": "SIMPANG ENAM BALI",
+    "address": "Jl. Teuku Umar Gg. Pluto Simpang 6 Bali, Denpasar, Bali",
+    "latitude": -8.676223,
+    "longitude": 1,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SIMPANG MATARAM MEDAN",
+    "address": "JL.GAJAH MADA 14 MATARAM, Medan, Sumatera Utara",
+    "latitude": 3.584639,
+    "longitude": 98.664248,
+    "services": [
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SIMPANG SUTOMO MEDAN",
+    "address": "JL.PERINTIS KEMERDEKAAN, Medan, Sumatera Utara",
+    "latitude": 3.598398,
+    "longitude": 98.681222,
+    "services": []
+  }
+]

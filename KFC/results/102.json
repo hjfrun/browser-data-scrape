@@ -1,0 +1,54 @@
+[
+  {
+    "name": "SAGA ABEPURA",
+    "address": "JL. RAYA SENTANI ABEPURA SAGA MALL LT. 2 - JAYAPURA, Jayapura, Papua ",
+    "latitude": -2.610654,
+    "longitude": 140.665572,
+    "services": []
+  },
+  {
+    "name": "SAGA SORONG",
+    "address": "JL. AHMAD YANI KOMPLEX RUKO KUDA LAUT - SORONG, Sorong, Papua Barat",
+    "latitude": -0.875919,
+    "longitude": 131.256759,
+    "services": []
+  },
+  {
+    "name": "SALATIGA",
+    "address": "JL.DIPONEGORO NO.35, Salatiga, Jawa Tengah",
+    "latitude": -7.322481,
+    "longitude": 110.501293,
+    "services": [
+      "KFC A.M"
+    ]
+  },
+  {
+    "name": "SALEMBA JAKARTA",
+    "address": "Jl. Salemba Raya No. 29, Rt. 001/06, Kel. Paseban, Kec. Senen , JakPus, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.194752,
+    "longitude": 106.850088,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  },
+  {
+    "name": "SALLO MALL SENGKANG",
+    "address": "Jl. Parenregi, Sengkang - Kab. Wajo. Sulawesi Selatan, Kab. Wajo, Sulawesi Selatan",
+    "latitude": -4.122136,
+    "longitude": 120.02733,
+    "services": []
+  },
+  {
+    "name": "SAM RATULANGI MAKASSAR",
+    "address": "Jl. SAM RATULANGI NO. 15, Makassar, Sulawesi Selatan",
+    "latitude": -5.151203,
+    "longitude": 119.416362,
+    "services": [
+      "KFC A.M",
+      "KFC Coffee",
+      "KFC Drive Thru"
+    ]
+  }
+]

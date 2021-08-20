@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AHMAD YANI MAKASSAR",
+    "address": "JL. AHMAD YANI NO. 23 - 25 BLOK B 5 - B 6, Makassar, Sulawesi Selatan",
+    "latitude": -5.132727,
+    "longitude": 119.410053,
+    "services": "KFC A.M"
+  },
+  {
+    "name": "AHMAD YANI PADANG",
+    "address": "JL. PATTIMURA NO. 23, Padang, Sumatera Barat",
+    "latitude": -0.943025,
+    "longitude": 100.357658,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "AHMAD YANI PONTIANAK",
+    "address": "JL. AHMAD YANI 24 - PONTIANAK, Pontianak, Kalimantan Barat",
+    "latitude": -0.039114,
+    "longitude": 109.336255,
+    "services": "KFC Drive Thru,KFC Coffee"
+  },
+  {
+    "name": "AHMAD YANI SURABAYA",
+    "address": "JL. AHMAD YANI 76 - 86, Surabaya, Jawa Timur",
+    "latitude": -7.319361,
+    "longitude": 112.732494,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "AIR PACAH PADANG",
+    "address": "Jl. Maransi, Air Pacah, Kec. Koto Tangah, Kota Padang, Sumatera Barat 25586, Padang, Sumatera Barat",
+    "latitude": -0.872102,
+    "longitude": 100.382795,
+    "services": "KFC Drive Thru,KFC Coffee,KFC A.M"
+  },
+  {
+    "name": "AIRLANGGA SQUARE LOMBOK",
+    "address": "JL. AIRLANGGA - GOMONG MATARAM, Mataram, Nusa Tenggara Barat",
+    "latitude": -8.588002,
+    "longitude": 116.100534,
+    "services": ""
+  }
+]

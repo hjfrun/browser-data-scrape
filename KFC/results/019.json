@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX GIANT PALEM SEMI TANGERANG",
+    "address": "Jalan Palem Raja Raya, Bencongan Indah, Kelapa Dua, Panunggangan Bar., Cibodas, Kota Tangerang, Banten 15116, Kota Tangerang, Banten",
+    "latitude": -6.219806,
+    "longitude": 106.615528,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT PETTARANI MAKASSAR",
+    "address": "Jl Andi Pangeran Pettarani Kel Sinri Jala Kec Ranakukang, Makassar, Sulawesi Selatan",
+    "latitude": -5.13805,
+    "longitude": 119.439358,
+    "services": []
+  },
+  {
+    "name": "BOX GIANT SAWOJAJAR",
+    "address": "Jl Danau Toba, Lesanpuro, Kedungkandang, Malang, Jawa Timur",
+    "latitude": -7.981631,
+    "longitude": 112.654635,
+    "services": []
+  },
+  {
+    "name": "BOX GRIYA YOGYA KARAWANG",
+    "address": "Jl. Kertabumi 44, Karawang Kulon, Kec. Karawang Bar., Kabupaten Karawang, Jawa Barat 41311, Kab. Karawang, Jawa Barat",
+    "latitude": -6.30379,
+    "longitude": 107.292727,
+    "services": []
+  },
+  {
+    "name": "BOX GRIYA YOGYA SUMBERSARI",
+    "address": "Komplek Sumber Sari Indah Blok T no 1-3, Jl Soekarno Hatta, Babakan Ciparay, Bandung, Jawa Barat",
+    "latitude": -6.932143,
+    "longitude": 107.576245,
+    "services": []
+  },
+  {
+    "name": "BOX HARBOUR BAY BATAM",
+    "address": "Jl. Duyung, Sungai Jodoh, Batu Ampar, Kota Batam, Kepulauan Riau 29444, Batam, Kepulauan Riau",
+    "latitude": 1.154667,
+    "longitude": 104.001856,
+    "services": []
+  }
+]

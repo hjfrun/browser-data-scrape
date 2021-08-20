@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX PAJUS JAMIN GINTING",
+    "address": "Jl Jamin Ginting No 134, Pajak Karona USU, Kota Medan, Sumatera Utara",
+    "latitude": 3.56058,
+    "longitude": 98.661905,
+    "services": ""
+  },
+  {
+    "name": "BOX PANJANG LAMPUNG",
+    "address": "Ruko Panjang 3, Jl. Yos Sudarso No.255, Panjang Utara, Panjang, Kota Bandar Lampung, Lampung 35243, Bandar Lampung, Lampung",
+    "latitude": -5.475758,
+    "longitude": 105.322405,
+    "services": ""
+  },
+  {
+    "name": "BOX PASAR JUMAT",
+    "address": "Jl. Lebak bulus 1 No.25, RT.9/RW.7, Lb. Bulus, Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.289078,
+    "longitude": 106.773192,
+    "services": ""
+  },
+  {
+    "name": "BOX PASAR PROYEK TRADE CENTER",
+    "address": "Jl Ir H. Djuanda, Margahayu, Bekasi Timur, Bekasi, Jawa Barat",
+    "latitude": -6.241009,
+    "longitude": 107.003298,
+    "services": ""
+  },
+  {
+    "name": "BOX PELABUHAN MERAK",
+    "address": "Dermaga Eksekutif Pelabuhan Merak lantai 1, Jl Pelabuhan Merak, Cilegon, Banten, Cilegon, Banten",
+    "latitude": -5.93498,
+    "longitude": 106.000225,
+    "services": ""
+  },
+  {
+    "name": "BOX PELABUHAN TARAKAN",
+    "address": "Jl Yos Sudarso no 11, Sebengkok, Tarakan Tengah, Tarakan, Kalimantan Utara",
+    "latitude": 3.292209,
+    "longitude": 117.588912,
+    "services": ""
+  }
+]

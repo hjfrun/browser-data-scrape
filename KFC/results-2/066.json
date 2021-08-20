@@ -1,0 +1,44 @@
+[
+  {
+    "name": "LA TERRACE",
+    "address": "JL. LENTENG AGUNG RAYA RT. 003/06 KEL. SRENSENG SAWAH. KEC JAGAKARSA JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.344896,
+    "longitude": 106.833711,
+    "services": "KFC A.M,KFC Coffee,KFC Drive Thru"
+  },
+  {
+    "name": "LAGRANDE MERDEKA",
+    "address": "LaGrande Tamansari Apartment, Jl. Merdeka No. 25 – 29, Sumur Bandung, Bandung, Jawa Barat, Bandung, Jawa Barat",
+    "latitude": -6.909136,
+    "longitude": 107.610569,
+    "services": ""
+  },
+  {
+    "name": "LAMNYONG ACEH",
+    "address": "JL. TEUKU NYAK ARIF NO. 17 DARUSSALAM, Banda Aceh, Aceh",
+    "latitude": 5.576218,
+    "longitude": 95.355455,
+    "services": ""
+  },
+  {
+    "name": "LAMONGAN PLAZA",
+    "address": "Plaza Lamongan, JL. Panglima Sudirman, Lamongan, Kab. Lamongan, Jawa Timur",
+    "latitude": -7.113192,
+    "longitude": 112.420003,
+    "services": ""
+  },
+  {
+    "name": "LAMPUNG SQUARE",
+    "address": "Jl. Zaenal Abidin Pagar Alam, Kel. Rajabasa, Kec. Rajabasa, Lampung, Bandar Lampung, Lampung",
+    "latitude": -5.371077,
+    "longitude": 105.237541,
+    "services": ""
+  },
+  {
+    "name": "LEMABANG PALEMBANG",
+    "address": "Jl.Yos Sudarso no.9 Lemabang Palembang, Palembang, Sumatera Selatan",
+    "latitude": -2.974284,
+    "longitude": 104.783326,
+    "services": ""
+  }
+]

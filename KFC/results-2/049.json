@@ -1,0 +1,44 @@
+[
+  {
+    "name": "FRANS SEDA KUPANG",
+    "address": "Jl. Fransseda RT. 21/07 Kel. Oesapa Barat, Kec. Kelapa Lima, Kupang, Kupang, Nusa Tenggara Timur",
+    "latitude": -10.156002,
+    "longitude": 123.631044,
+    "services": "KFC Coffee"
+  },
+  {
+    "name": "GAJAH MADA PLAZA",
+    "address": "JL.GAJAH MADA PLAZA, Jakarta Pusat, DKI Jakarta",
+    "latitude": -6.160379,
+    "longitude": 106.818846,
+    "services": ""
+  },
+  {
+    "name": "GALAXY PLAZA SURABAYA",
+    "address": "JL.DARMA HUSADA TIMUR NO.37, Surabaya, Jawa Timur",
+    "latitude": -7.275661,
+    "longitude": 112.782093,
+    "services": ""
+  },
+  {
+    "name": "GALLERIA YOGYAKARTA",
+    "address": "JL.JEND.SUDIRMAN NO.99-101, Yogyakarta, DI Yogyakarta",
+    "latitude": -7.782867,
+    "longitude": 110.379031,
+    "services": ""
+  },
+  {
+    "name": "GANDARIA CITY",
+    "address": "JL. GANDARIA RT.12 RW.04 KEL. KEBAYORAN LAMA UTARA KEBAYORAN LAMA - JAKARTA SELATAN, Jakarta Selatan, DKI Jakarta",
+    "latitude": -6.245013,
+    "longitude": 106.782952,
+    "services": ""
+  },
+  {
+    "name": "GARUT PLAZA",
+    "address": "Ramayana Garut. Lt. Dasar No. Unit R-GF.D. Jl. Guntur, Kel. Pakuwon, Kec. Garut Kota, Garut, Kab. Garut, Jawa Barat",
+    "latitude": -7.211483,
+    "longitude": 107.901833,
+    "services": ""
+  }
+]

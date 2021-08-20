@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BOX RAMAYANA PEKALONGAN",
+    "address": "Jl Dr Sutomo, Noyontaan, Pekalongan Timur, Pekalongan, Jawa Tengah",
+    "latitude": -6.9015,
+    "longitude": 109.682156,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA SALATIGA",
+    "address": "Jl Pemuda no 1, Sidorejo, Salatiga, Jawa Tengah",
+    "latitude": -7.324917,
+    "longitude": 110.505432,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA SIANTAR",
+    "address": "Jln. Sutomo, Dwikora, Siantar Barat, Kota Pematang Siantar, Pematang Siantar, Sumatera Utara",
+    "latitude": 2.960266,
+    "longitude": 99.073566,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA TAJUR",
+    "address": "Jl. Raya Tajur RT.02/RW.02, Sindangsari, Bogor, Muarasari, Bogor Selatan, Kota Bogor, Jawa Barat 16137, Bogor, Jawa Barat",
+    "latitude": -6.643978,
+    "longitude": 106.838796,
+    "services": ""
+  },
+  {
+    "name": "BOX RAMAYANA TEBING TINGGI",
+    "address": "Jl Jenderal Sudirman, Deli, Tanjung Marulak Hilir, Tebing Tinggi, Sumatera Utara",
+    "latitude": 3.344739,
+    "longitude": 99.16606,
+    "services": ""
+  },
+  {
+    "name": "BOX RED CORNER 1A SOEKARNO HATTA",
+    "address": "BANDARA INTERNATIONAL SOEKARNO HATTA TERM. 1A, Tangerang, Banten",
+    "latitude": -6.129667,
+    "longitude": 106.657694,
+    "services": ""
+  }
+]
