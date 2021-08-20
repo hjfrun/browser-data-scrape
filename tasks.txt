@@ -1,5 +1,3 @@
-Hi Jianfeng – it’s good to meet.
- 
 I’ve attached a sample list of 5 companies.
  
 I need to scrape the branch/store location data. My priority is the below data (if available), but I’m ok to scrape all the available location related data.
@@ -8,9 +6,6 @@ Latitude
 Longitude
 Store_address
 Store_type
-
-Thanks
-Ben
 
 
 Company Sector Website
