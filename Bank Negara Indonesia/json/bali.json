@@ -1,0 +1,408 @@
+[
+  {
+    "location": "BEACHWALK",
+    "address": "MALL BEACHWALK LT.2 JL. PANTAI KUTA - KUTA - BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361)7839495"
+  },
+  {
+    "location": "CANGGU",
+    "address": "JL. RAYA CANGGU-BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361)9164433"
+  },
+  {
+    "location": "DALUNG",
+    "address": "JL. RAYA PADANG LUWIH BR. TEGAL JAYA, DALUNG, KAB. BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361)9004532"
+  },
+  {
+    "location": "DEWI SARTIKA RENON",
+    "address": "JL. DEWI SARTIKA NO. 90 A-B KEL. KUTA, KAB. BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 764158, 764159"
+  },
+  {
+    "location": "DIGITAL BRANCH BANDARA NGURAH RAI",
+    "address": "TERMINAL DOMESTIK BANDARA NGURAH RAI, JL. BY PASS NGURAH RAI, KEC. KUTA, KAB. BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361)8496967"
+  },
+  {
+    "location": "JIMBARAN",
+    "address": "RUKO ULUWATU SQUARE,JL.RAYA ULUWATU,JIMBARAN",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361)9151567"
+  },
+  {
+    "location": "KAPAL",
+    "address": "JL. RAYA KAPAL, MENGWI, BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 7421843, 7421822"
+  },
+  {
+    "location": "KEROBOKAN",
+    "address": "JL. RAYA KEROBOKAN NO. 24, KAB. BADUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 731186"
+  },
+  {
+    "location": "NUSA DUA",
+    "address": "RUKO NUSA DUA INDAH BLOCK B DAN C JL. BY PASS NGURAH RAI, KEL. BENOA, KEC. KUTA SELATAN, KAB. BADUNG, NUSA DUA",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 4773320"
+  },
+  {
+    "location": "NUSA DUA BEACH HOTEL",
+    "address": "KOMP. NUSA DUA BEACH HOTEL, KAWASAN WISATA NUSA DUA, KUTA - BALI",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 771288"
+  },
+  {
+    "location": "SIMPANG SIUR D/H . TERMINAL CARGO BANDARA NGURAH RAI",
+    "address": "JL. BY PASS NGURAH RAI NO. 2003, SIMPANG SIUR, KUTA - BANDUNG",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 764997"
+  },
+  {
+    "location": "SUNSET ROAD",
+    "address": "JL. SUNSET ROAD (BARAT) NO. 48 RUKO E-F, KUTA, BADUNG BALI",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 737927"
+  },
+  {
+    "location": "UNIVERSITAS UDAYANA",
+    "address": "KAMPUS UNIVERSITAS UDAYANA, GEDUNG WIDYA SABHA AREA PARKIR, JL. RAYA KAMPUS UDAYANA BUKIT JIMBARAN",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "WESTIN HOTELS AND RESORT D/H SHERATON NUSA INDAH",
+    "address": "KAWASAN WISATA NUSA DUA , KUTA - BALI",
+    "regencyORcity": "KAB. BADUNG",
+    "province": "BALI",
+    "phone": "(0361) 771284"
+  },
+  {
+    "location": "BANGLI",
+    "address": "JL. BRIGJEN NGURAH RAI NO. 99X, BANGLI, BALI",
+    "regencyORcity": "KAB. BANGLI",
+    "province": "BALI",
+    "phone": "(0366) 92159"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. NGURAH RAI NO. 48 SINGARAJA",
+    "regencyORcity": "KAB. BULELENG",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "SERIRIT",
+    "address": "JL.GAJAH MADA NO.15 SERIRIT, BALI",
+    "regencyORcity": "KAB. BULELENG",
+    "province": "BALI",
+    "phone": "(0362) 93226"
+  },
+  {
+    "location": "SINGARAJA",
+    "address": "JL. NGURAH RAI NO. 48 SINGARAJA",
+    "regencyORcity": "KAB. BULELENG",
+    "province": "BALI",
+    "phone": "(0362) 22648, 22340, 24347, 25356, 25357, 25672, 25673"
+  },
+  {
+    "location": "SURAPATI",
+    "address": "JL SURAPATI NO 52A KEL. KAMPUNG BARU, KEC. BULELENG, KAB. BULELENG",
+    "regencyORcity": "KAB. BULELENG",
+    "province": "BALI",
+    "phone": "(0362) 26222"
+  },
+  {
+    "location": "CELUK SUKAWATI D/H SUKAWATI",
+    "address": "JL. RAYA CELUK-SUKAWATI, KECAMATAN SUKAWATI",
+    "regencyORcity": "KAB. GIANYAR",
+    "province": "BALI",
+    "phone": "(0361) 8403331"
+  },
+  {
+    "location": "GIANYAR",
+    "address": "JL. BY PASS DHARMA GIRI, DESA BURUAN, KEC. BLAHBATUH, KAB. GIANYAR",
+    "regencyORcity": "KAB. GIANYAR",
+    "province": "BALI",
+    "phone": "(0361) 945596"
+  },
+  {
+    "location": "UBUD",
+    "address": "JL. RAYA ANDONG TEGALALANG-GIANYAR",
+    "regencyORcity": "KAB. GIANYAR",
+    "province": "BALI",
+    "phone": "(0361) 978747"
+  },
+  {
+    "location": "NEGARA",
+    "address": "JL. SUDIRMAN NO.20 NEGARA, BALI",
+    "regencyORcity": "KAB. JEMBRANA",
+    "province": "BALI",
+    "phone": "(0365) 24489-24490"
+  },
+  {
+    "location": "AMLAPURA",
+    "address": "JL. AHMAD YANI NO 75 X AMLAPURA",
+    "regencyORcity": "KAB. KARANGASEM",
+    "province": "BALI",
+    "phone": "(0363) 21133"
+  },
+  {
+    "location": "KLUNGKUNG",
+    "address": "JL. PUPUTAN NO.2 KLUNGKUNG",
+    "regencyORcity": "KAB. KLUNGKUNG",
+    "province": "BALI",
+    "phone": "(0366) 21822"
+  },
+  {
+    "location": "BAJERA",
+    "address": "RUKO BAJERA JL. NGURAH RAI - DENPASAR",
+    "regencyORcity": "KAB. TABANAN",
+    "province": "BALI",
+    "phone": "(0361) 8943701"
+  },
+  {
+    "location": "BATURITI",
+    "address": "JL. RAYA PACUNG, KEC. BATURITI, KAB. TABANAN (DEPAN HOTEL ROYAL TULIP)",
+    "regencyORcity": "KAB. TABANAN",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "TABANAN",
+    "address": "JL. BYPASS NO.9, KEDIRI - TABANAN",
+    "regencyORcity": "KAB. TABANAN",
+    "province": "BALI",
+    "phone": "(0361) 810204"
+  },
+  {
+    "location": "TABANAN KOTA",
+    "address": "JL. PAHLAWAN NO.38 TABANAN",
+    "regencyORcity": "KAB. TABANAN",
+    "province": "BALI",
+    "phone": "(0361)810151"
+  },
+  {
+    "location": "BANDARA NGURAH RAI",
+    "address": "JL.I GUSTI NGURAH RAI TUBAN, BALI, BANDARA UDARA NGURAH RAI.",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 753075, 753074, 751011"
+  },
+  {
+    "location": "DENPASAR",
+    "address": "JL. GATOT SUBROTO BARAT NO. 351 DENPASAR BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 9006078"
+  },
+  {
+    "location": "DIPONEGORO",
+    "address": "JL. DIPONEGORO NO. 100 KOMPLEK PERTOKOAN DIPONEGORO BLOK A5 & A6 DENPASAR BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 221334"
+  },
+  {
+    "location": "GAJAH MADA D/H GATOT SUBROTO BARAT",
+    "address": "JL. GAJAH MADA NO. 30 DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 227321"
+  },
+  {
+    "location": "GATOT SUBROTO",
+    "address": "JL.GATOT SUBROTO NO.79 RUKO NO. 13 DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 418326"
+  },
+  {
+    "location": "HAYAM WURUK D/H PT JAMSOSTEK DENPASAR",
+    "address": "JL HAYAM WURUK NO.98 DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 7837070"
+  },
+  {
+    "location": "IMAM BONJOL RENON",
+    "address": "JL. IMAM BONJOL NO. 466 B, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 7421844"
+  },
+  {
+    "location": "KAMBOJA",
+    "address": "JL.KAMBOJA NO.5, DENPASAR , BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 238346"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.RAYA PUPUTAN RENON NO.27, RENON, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.RAYA PUPUTAN RENON NO.27, RENON, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL.GAJAH MADA NO.30, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "LEGIAN",
+    "address": "JL.LEGIAN NO.359 KUTA, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 751914, 753721, 753939, 753521 , 753438 , 753526"
+  },
+  {
+    "location": "MAHENDRADATA",
+    "address": "JL. MAHENDRADATA, KOTA DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361)7424012"
+  },
+  {
+    "location": "MOH. YAMIN D/H EMERALD RENON",
+    "address": "JL. PROF. MOCH. YAMIN NO.18/106 X",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "-"
+  },
+  {
+    "location": "PANJER D/H GRAND BALI BEACH",
+    "address": "JL. TUKAD PAKERISAN, NO.98 DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 281295"
+  },
+  {
+    "location": "PB SUDIRMAN",
+    "address": "JL. PB SUDIRMAN DENPASAR BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 246063"
+  },
+  {
+    "location": "PELINDO BENOA",
+    "address": "AREA PELABUHAN BENOA, DESA PEDUNGAN, KEC. DENPASAR SELATAN, KOTA DENPASAR - BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 4481487"
+  },
+  {
+    "location": "PP BPJS TK DENPASAR",
+    "address": "JL. HAYAM WURUK KOTA DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 233622"
+  },
+  {
+    "location": "RENON",
+    "address": "JL.RAYA PUPUTAN RENON NO.27, RENON, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 246752, 246755, 263314, 246068"
+  },
+  {
+    "location": "RSU SANGLAH",
+    "address": "JL. P.ALOR NO. 33, DENPASAR,KOMPLEK RSU SANGLAH",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 257392"
+  },
+  {
+    "location": "SANUR",
+    "address": "JL. BY PASS NGURAH RAI, SANUR, KOTA DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 9224024"
+  },
+  {
+    "location": "SANUR BALIMOON",
+    "address": "JL. DANAU TOBA NO.15 SANUR, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 282590,"
+  },
+  {
+    "location": "SANUR BEACH HOTEL",
+    "address": "JL. TALANGSARI, SANUR - BALI, KOMP. SANUR BEACH HOTEL.",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 281295"
+  },
+  {
+    "location": "SESETAN",
+    "address": "JL. RAYA SESETAN - DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 7809606"
+  },
+  {
+    "location": "TEUKU UMAR",
+    "address": "JL. TEUKU UMAR NO.200 DENPASAR, PERTOKOAN AGUNG RAYA BLOK 21 & 22",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 246946"
+  },
+  {
+    "location": "TEUKU UMAR BARAT",
+    "address": "JL. TEUKU UMAR BARAT NO.12, KEC. DENPASAR BARAT, KOTA DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361)9152234"
+  },
+  {
+    "location": "TEUKU UMAR TIMUR",
+    "address": "JL. TEUKU UMAR, KOTA DENPASAR, BALI",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361)-223342"
+  },
+  {
+    "location": "W.R. SUPRATMAN",
+    "address": "JL.WR SUPRATMAN DENPASAR (RUKO MILIK BPK. JOSIE SUGIARTO DAN IBU T. TITIEN SEPTIANA)",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 467567"
+  },
+  {
+    "location": "WILAYAH 08 - DENPASAR",
+    "address": "JL. RAYA PUPUTAN RENON NO. 27 - LT II, RENON, DENPASAR",
+    "regencyORcity": "KOTA DENPASAR",
+    "province": "BALI",
+    "phone": "(0361) 263304, 263305, 263308, 244426, 246069, 246070, 262144"
+  }
+]

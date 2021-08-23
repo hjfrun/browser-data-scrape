@@ -1,0 +1,289 @@
+[
+  {
+    "location": "BALANGAN",
+    "address": "JL. A. YANI KM 01, KEL. BATU PRING, KEC. PARINGIN SELATAN, KAB. BALANGAN, KALIMANTAN SELATAN",
+    "regencyORcity": "KAB. BALANGAN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0526)2028481"
+  },
+  {
+    "location": "A. YANI KM 8",
+    "address": "JL. JENDRAL AHMAD YANI KM,8 BANJARMASIN, KAB. BANJAR",
+    "regencyORcity": "KAB. BANJAR",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4283734"
+  },
+  {
+    "location": "DARUSSALAM",
+    "address": "JL. A. YANI KM 41, KEL. PESAYANGAN UTARA, KEC. MARTAPURA, KAB. BANJAR",
+    "regencyORcity": "KAB. BANJAR",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4721787"
+  },
+  {
+    "location": "MARTAPURA",
+    "address": "JL. JEND. A.YANI NO. 6 KM.40, MARTAPURA",
+    "regencyORcity": "KAB. BANJAR",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4721065"
+  },
+  {
+    "location": "MARABAHAN",
+    "address": "JL.BASUKI RAHMAT NO.50, MARABAHAN",
+    "regencyORcity": "KAB. BARITO KUALA",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4799508, 4799095"
+  },
+  {
+    "location": "KANDANGAN",
+    "address": "JL. LETJEND SOEPRAPTO NO. 1 KANDANGAN",
+    "regencyORcity": "KAB. HULU SUNGAI SELATAN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0517) 22306"
+  },
+  {
+    "location": "BARABAI",
+    "address": "JL. BRIGJEND. H. HASAN BASRI - PUSAT PERBELANJAAN MURAKATA LT.II - BARABAI",
+    "regencyORcity": "KAB. HULU SUNGAI TENGAH",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0517) 41271, 41463, 43718, 42368"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. BRIGJEND. H. HASAN BASRI - PUSAT PERBELANJAAN MURAKATA LT.II - BARABAI",
+    "regencyORcity": "KAB. HULU SUNGAI TENGAH",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "AMUNTAI",
+    "address": "JL. PANGERAN ANTASARI RT 01 KEL. ANTASARI, KEC. AMUNTAI TENGAH, KAB. HULU SUNGAI UTARA",
+    "regencyORcity": "KAB. HULU SUNGAI UTARA",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0527) 61305"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE NON ATM",
+    "address": "JL.PATTIMURA NO.4, KOTABARU",
+    "regencyORcity": "KAB. KOTA BARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KOTABARU P. LAUT",
+    "address": "JL.PATTIMURA NO.4, KOTABARU",
+    "regencyORcity": "KAB. KOTA BARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0518) 21077, 23046, 23054"
+  },
+  {
+    "location": "SERONGGA",
+    "address": "JL. ACHMAD YANI KM 27 RT 13 DUSUN 3 SERONGGA DESA TEGAL REJO, KEC PLUMPANG HILIR, KAB. KOTABARU",
+    "regencyORcity": "KAB. KOTA BARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0518)7703929"
+  },
+  {
+    "location": "KELUA",
+    "address": "JALAN PASAR KELUA KELURAHAN PULAU KECAMATAN KELUA KABUPATEN TABALONG",
+    "regencyORcity": "KAB. TABALONG",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "081351199755"
+  },
+  {
+    "location": "TANJUNG",
+    "address": "JL. A.YANI KM 6/MABU'UN RAYA BLOK CNO. 21 RT 05 KEC. MURUNG PUDAK, KAB. TABALONG",
+    "regencyORcity": "KAB. TABALONG",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0526) 2022184"
+  },
+  {
+    "location": "BATU LICIN",
+    "address": "JL.RAYA BATULICIN NO. 170, KEL. KAMPUNG BARU, KEC.SIMPANG EMPAT, KAB. TANAH BUMBU",
+    "regencyORcity": "KAB. TANAH BUMBU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0518) 70074, 71109"
+  },
+  {
+    "location": "PAGATAN",
+    "address": "JL. HM BADRI, KEL. PASAR BARU, KEC. KUSAN HILIR,KAB. TANAH BUMBU, KALSEL",
+    "regencyORcity": "KAB. TANAH BUMBU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0518)38446"
+  },
+  {
+    "location": "SUNGAI DANAU",
+    "address": "JL. PROPINSI KM.166 RT 27 SUNGAI DANAU KEC. SATUI KAB. TANAH BUMBU",
+    "regencyORcity": "KAB. TANAH BUMBU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0512) 61192"
+  },
+  {
+    "location": "ASAM ASAM",
+    "address": "JL. A. YANI KM 121, DESA ASAM-ASAM TANAH LAUT",
+    "regencyORcity": "KAB. TANAH LAUT",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0512)63260"
+  },
+  {
+    "location": "PELAIHARI",
+    "address": "JL.KEMAKMURAN NO.5, PELAIHARI",
+    "regencyORcity": "KAB. TANAH LAUT",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0512) 21736"
+  },
+  {
+    "location": "BINUANG",
+    "address": "JL. A YANI RT 17 RW 06 KEL. BINUANG,KEC. BINUANG,KAB. TAPIN",
+    "regencyORcity": "KAB. TAPIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0517)36446"
+  },
+  {
+    "location": "RANTAU D/H . NAGARA",
+    "address": "JL. BRIGJEND H. HASAN BASRI RT 001 RW 002, KEL. RANGDA MALINGKUNG, KEC.TAPIN UTARA,KAB.TAPIN",
+    "regencyORcity": "KAB. TAPIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0517) 51841"
+  },
+  {
+    "location": "BANJAR BARU",
+    "address": "JL. JEND. A. YANI NO. 21-23 BANJARBARU",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4772547, 4772204, 4772546, 4777046"
+  },
+  {
+    "location": "CEMPAKA",
+    "address": "JL. MISTAR COKROKUSUMO, KEL. SUNGAI BESAR, BANJARBARU SELATAN, KOTA BANJARBARU, KALSEL",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4785463"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JEND. A. YANI NO. 21-23 BANJARBARU",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "LANDASAN ULIN",
+    "address": "JL. A. YANI KM.23,5 LANDASAN ULIN, KOTA BANJARBARU",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511)4705097"
+  },
+  {
+    "location": "PP IMIGRASI BANJAR BARU",
+    "address": "JL. A. YANI KM 22 LANDASAN ULIN BANJARBARU KALIMANTAN SELATAN",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0512)63260"
+  },
+  {
+    "location": "PP RSUD BANJARBARU",
+    "address": "RSUD BANJARBARU, JL. TRIKORA NO. 115, RT,39 RW,001",
+    "regencyORcity": "KOTA BANJARBARU",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4772547, 4772204, 4772546, 4777046"
+  },
+  {
+    "location": "A YANI BANJARMASIN",
+    "address": "JL.A.YANI KM.4,5 NO. 401 BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 3254455, 3270085"
+  },
+  {
+    "location": "A. YANI KM. 1 D/H A. YANI KM. 2",
+    "address": "JL. JEND. A. YANI KM 1 BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 3254214"
+  },
+  {
+    "location": "BANJARMASIN",
+    "address": "JL. HASANUDDIN, KOTA BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4367046, 3354521 - 26 - 32, 3353130"
+  },
+  {
+    "location": "KAMPUNG MELAYU",
+    "address": "JL. KAMPUNG MELAYU DARAT, BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511)3273478"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL. HASANUDDIN, KOTA BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "P. ANTASARI BANJARMASIN",
+    "address": "JL.LAMBUNG MANGKURAT NO.30, BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4368223, 3354508, 3355726, 3355727, 3358146, 3360831, 3365046, 3350381 Phoneplus beban Div. OPR (0511) 3365883, 3365886, 3365887, 3365890, 3359999, 3365889, 3365884,"
+  },
+  {
+    "location": "PASARBARU, BMS",
+    "address": "JL.PASAR BARU NO.37, BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 4368692, 4368224"
+  },
+  {
+    "location": "PELINDO III BANJARMASIN",
+    "address": "JL BARITO HILIR TRISAKTI NO.6 BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511)4423380"
+  },
+  {
+    "location": "PP STMIK INDONESIA BANJARMASIN",
+    "address": "JL. PANGERAN HIDAYATULLAH, SUNGAI JINGAH, KOTA BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "SENTRA ANTASARI",
+    "address": "JL. PANGERAN ANTASARI , KOTA BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511)3273617"
+  },
+  {
+    "location": "SULTAN ADAM",
+    "address": "JL. SULTAN ADAM NO.8, KOTA BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 33043-06/10"
+  },
+  {
+    "location": "SUTOYO S",
+    "address": "JL. SUTOYO S RT 18, BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511)3354722"
+  },
+  {
+    "location": "UNLAM",
+    "address": "JL.HASAN BASRI KOMP. UNIV. LAMPUNG MANGKURAT KAYU TANGI BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 3305165, 3305042"
+  },
+  {
+    "location": "WILAYAH 09 - BANJARMASIN",
+    "address": "JL. LAMBUNG MANGKURAT NO. 30 - BANJARMASIN",
+    "regencyORcity": "KOTA BANJARMASIN",
+    "province": "KALIMANTAN SELATAN",
+    "phone": "(0511) 3353689, 3357063, 3357064, 3357065, 3357066 (0511) 3354576, 3354618, 4366337, 3250852, 3364246, 3353689, 3362036, 3350968, 3365111, 4367346 (0511) 3365111"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "location": "MANNA",
+    "address": "JL. JEND. SUDIRMAN NO. 165, MANNA - BENGKULU SELATAN",
+    "regencyORcity": "KAB. BENGKULU SELATAN",
+    "province": "BENGKULU",
+    "phone": "(0739) 21886"
+  },
+  {
+    "location": "ARGAMAKMUR",
+    "address": "JL. SUTAN SYAHRIL NO. 84 - ARGAMAKMUR",
+    "regencyORcity": "KAB. BENGKULU UTARA",
+    "province": "BENGKULU",
+    "phone": "(0737) 21777, 21888"
+  },
+  {
+    "location": "KETAHUN",
+    "address": "JL. WIJAYA KUSUMAH PASAR D1 DESA GIRI KENCANA KETAHUN, KOTA BENGKULU",
+    "regencyORcity": "KAB. BENGKULU UTARA",
+    "province": "BENGKULU",
+    "phone": "(0737)7524231"
+  },
+  {
+    "location": "BINTUHAN",
+    "address": "JL. MERDEKA BARAT, KEC. BINTUHAN, KAB. KAUR",
+    "regencyORcity": "KAB. KAUR",
+    "province": "BENGKULU",
+    "phone": "(0739) 2010102"
+  },
+  {
+    "location": "KEPAHIANG",
+    "address": "JL LINTAS KEPAHIANG CURUP NO 14 KEC KEPAHIANG",
+    "regencyORcity": "KAB. KEPAHIANG",
+    "province": "BENGKULU",
+    "phone": "(0732) 392246"
+  },
+  {
+    "location": "PENARIK",
+    "address": "SIMPANG SP I, KEC. PENARIK, KAB. MUKOMUKO",
+    "regencyORcity": "KAB. MUKOMUKO",
+    "province": "BENGKULU",
+    "phone": "(0737) 71072"
+  },
+  {
+    "location": "CURUP",
+    "address": "JL. MERDEKA NO. 75-76 KELURAHAN PASAR BARU, CURUP - BENGKULU.",
+    "regencyORcity": "KAB. REJANG LEBONG",
+    "province": "BENGKULU",
+    "phone": "(0732) 23320"
+  },
+  {
+    "location": "SELUMA",
+    "address": "JL. LINTAS BENGKULU, KEC. SELUMA, KAB. SELUMA",
+    "regencyORcity": "KAB. SELUMA",
+    "province": "BENGKULU",
+    "phone": "(0736) 7391382"
+  },
+  {
+    "location": "BENGKULU",
+    "address": "JL. S. PARMAN NO. 34 - BENGKULU",
+    "regencyORcity": "KOTA BENGKULU",
+    "province": "BENGKULU",
+    "phone": "(0736) 23145-46-47-48-49"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. S. PARMAN NO. 34 - BENGKULU",
+    "regencyORcity": "KOTA BENGKULU",
+    "province": "BENGKULU",
+    "phone": "-"
+  },
+  {
+    "location": "PAGAR DEWA",
+    "address": "JL. RE MARTADINATA NO. 2 RT 5 RW 2 , PAGAR DEWA, BENGKULU",
+    "regencyORcity": "KOTA BENGKULU",
+    "province": "BENGKULU",
+    "phone": "(0736) 5512221"
+  },
+  {
+    "location": "PASAR PANORAMA",
+    "address": "JL. SEMANGKA NO. 45 RT.16/5 PASAR PANORAMA LINGKAR TIMUR",
+    "regencyORcity": "KOTA BENGKULU",
+    "province": "BENGKULU",
+    "phone": "(0736) 21661"
+  },
+  {
+    "location": "UNIVERSITAS BENGKULU",
+    "address": "JL. WR SUPRATMAN, KANDANG LIMUN, GEDUNG SERBAGUNA UNIV. BENGKULU, KEC. MUARA BANGKAHULU, KOTA BENGKULU",
+    "regencyORcity": "KOTA BENGKULU",
+    "province": "BENGKULU",
+    "phone": "(0736) 7321353"
+  }
+]

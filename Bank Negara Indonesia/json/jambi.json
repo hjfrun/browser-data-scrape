@@ -1,0 +1,191 @@
+[
+  {
+    "location": "MUARA BULIAN",
+    "address": "JL. JEND. SUDIRMAN NO. 51 KEC. MUARA BULIAN, KOTA MUARA BULIAN, KAB. BATANGHARI, PROVINSI JAMBI",
+    "regencyORcity": "KAB. BATANGHARI",
+    "province": "JAMBI",
+    "phone": "(0743)23346"
+  },
+  {
+    "location": "JUJUHAN",
+    "address": "JL. LINTAS SUMATERA KM.51 KEC. JUJUHAN KAB. BUNGO",
+    "regencyORcity": "KAB. BUNGO",
+    "province": "JAMBI",
+    "phone": "(0747) 7330046-7330047"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. TAYIB RH KOMPLEK PLAZA SERUNAI P37-P39 MUARA BUNGO",
+    "regencyORcity": "KAB. BUNGO",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "KUAMANG KUNING",
+    "address": "JL. BATANG HARI PASAR SPA KM.0 KUAMANG KUNING, KAB. BUNGO",
+    "regencyORcity": "KAB. BUNGO",
+    "province": "JAMBI",
+    "phone": "(0747) 7326126"
+  },
+  {
+    "location": "MUARA BUNGO",
+    "address": "JL. TAYIB RH KOMPLEK PLAZA SERUNAI P37-P39 MUARA BUNGO",
+    "regencyORcity": "KAB. BUNGO",
+    "province": "JAMBI",
+    "phone": "(0747) 21153, 21746, 21747"
+  },
+  {
+    "location": "KAYU ARO",
+    "address": "JL. RAYAN KERSIK TUO NO.6 KEC. KAYU ARO, KAB. KERINCI.",
+    "regencyORcity": "KAB. KERINCI",
+    "province": "JAMBI",
+    "phone": "(0748)357046"
+  },
+  {
+    "location": "BANGKO",
+    "address": "JL. JEND. SUDIRMAN NO. 46 BANGKO",
+    "regencyORcity": "KAB. MERANGIN",
+    "province": "JAMBI",
+    "phone": "(0746) 21835, 22046, 21167"
+  },
+  {
+    "location": "HITAM ULU",
+    "address": "PASAR MUARA DELANG RT. 001 RW. 007, DESA MUARA DELANG, KEC. TABIR SELATAN, KAB. MERANGIN",
+    "regencyORcity": "KAB. MERANGIN",
+    "province": "JAMBI",
+    "phone": "08127418848"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 46 BANGKO",
+    "regencyORcity": "KAB. MERANGIN",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "SENGETI",
+    "address": "JL. LINTAS TIMUR SENGETI RT. 08 KEL. SENGETI KEC. SEKERNAN KAB. MUARO JAMBI",
+    "regencyORcity": "KAB. MUARO JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741) 3051608"
+  },
+  {
+    "location": "SAROLANGUN",
+    "address": "JL. LINTAS SUMATERA NO.14 - SAROLANGUN",
+    "regencyORcity": "KAB. SAROLANGUN",
+    "province": "JAMBI",
+    "phone": "(0745) 91900"
+  },
+  {
+    "location": "SINGKUT",
+    "address": "JL. LINTAS SUMATERA, KEL. BUKIT TIGA,KEC. SINGKUT, KAB. SAROLANGUN",
+    "regencyORcity": "KAB. SAROLANGUN",
+    "province": "JAMBI",
+    "phone": "(0745) 92124"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. MERDEKA NO. 45, KUALA TUNGKAL",
+    "regencyORcity": "KAB. TANJUNG JABUNG BARAT",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "KUALA TUNGKAL",
+    "address": "JL. MERDEKA NO. 45, KUALA TUNGKAL",
+    "regencyORcity": "KAB. TANJUNG JABUNG BARAT",
+    "province": "JAMBI",
+    "phone": "(0742) 21946, 22085, 21546, 21132"
+  },
+  {
+    "location": "MUARA SABAK",
+    "address": "JL. IMAM BONJOL RT. 01 RW. 01 KEL. TALANG BABAT, KEC. MUARA SABAK, TANJUNG JABUNG TIMUR",
+    "regencyORcity": "KAB. TANJUNG JABUNG TIMUR",
+    "province": "JAMBI",
+    "phone": "(0742) 21132"
+  },
+  {
+    "location": "RIMBO BUJANG",
+    "address": "JL. PAHLAWAN NO.46 KEL. WIROTHO AGUNG KEC. RIMBO BUJANG KAB.TEBO",
+    "regencyORcity": "KAB. TEBO",
+    "province": "JAMBI",
+    "phone": "(0747) 431897, 431898"
+  },
+  {
+    "location": "ABADI",
+    "address": "JL. SUMANTRI BROJONEGORO NO. 363-365, KOTA JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741) 34582"
+  },
+  {
+    "location": "ABUNJANI D/H PATTIMURA",
+    "address": "JL. PATTIMURA KEL. KENALI BESAR, JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(074)1669446"
+  },
+  {
+    "location": "JAMBI",
+    "address": "JL. DR. SUTOMO NO. 20 - JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741) 20013-14, 22(061) 22281, 22668, 25013, 34949, 27946, 7075501"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. DR. SUTOMO NO. 20 - JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "PP UNIVERSITAS BATANGHARI (UNBARI) JAMBI",
+    "address": "JL. LETKOL SLAMET RIYADI RT 09 KELURAHAN SUNGAI PUTRI KECAMATAN DANAU TELUK KOTA JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "SELINCAH D/H ANGSO DUO",
+    "address": "JL. SENTOT ALI BASA NO.91-92 KEL. PAYO SELINCAH KEC. JAMBI TIMUR, KOTA JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741)24446"
+  },
+  {
+    "location": "SIMPANG SIPIN",
+    "address": "JL. PATTIMURA RT.01 KEC. KOTA BARU/ALAM",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741) 670146"
+  },
+  {
+    "location": "TALANG BANJAR",
+    "address": "JL. ORANG KAYO PINGAI NO. 77-78 KEL. TALANG BANJAR, JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741)7554855"
+  },
+  {
+    "location": "THE HOK",
+    "address": "JL. JENDERAL SUDIRMAN NO. 66 RT.05 KELURAHAN TAMBAK SARI KECAMATAN JAMBI SELATAN KODYA JAMBI",
+    "regencyORcity": "KOTA JAMBI",
+    "province": "JAMBI",
+    "phone": "(0741) 7554446"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE NON ATM",
+    "address": "JL. ACHMAD YANI NO. 16 - SUNGAI PENUH",
+    "regencyORcity": "KOTA SUNGAI PENUH",
+    "province": "JAMBI",
+    "phone": "-"
+  },
+  {
+    "location": "SUNGAI PENUH",
+    "address": "JL. ACHMAD YANI NO. 16 - SUNGAI PENUH",
+    "regencyORcity": "KOTA SUNGAI PENUH",
+    "province": "JAMBI",
+    "phone": "(0748) 23146, 23246, 23346, 21180"
+  }
+]

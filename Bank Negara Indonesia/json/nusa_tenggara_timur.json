@@ -1,0 +1,198 @@
+[
+  {
+    "location": "KALABAHI",
+    "address": "JL. JEND. SUDIRMAN NO.100 KEL. KALABAHI TENGAH, KEC. TELUK MUTIARA, KAB. ALOR",
+    "regencyORcity": "KAB. ALOR",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0386) 21518 , 21520"
+  },
+  {
+    "location": "ATAMBUA",
+    "address": "JL.PRAMUKA NO.6 ATAMBUA, TIMOR",
+    "regencyORcity": "KAB. BELU",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0389) 21730 , 21448"
+  },
+  {
+    "location": "ENDE",
+    "address": "JL. GATOT SUBROTO NO. 5 KEL. MAUTAPAGA KEC. ENDE TIMUR",
+    "regencyORcity": "KAB. ENDE",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0381) 22941"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. KELIMUTU NO.11 KAB. ENDE",
+    "regencyORcity": "KAB. ENDE",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "-"
+  },
+  {
+    "location": "LARANTUKA",
+    "address": "JL. NIAGA, LARANTUKA, FLORES TIMUR",
+    "regencyORcity": "KAB. FLORES TIMUR",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0383) 21623 - 21580"
+  },
+  {
+    "location": "WAIWERANG",
+    "address": "JL.SURYA MANDALA NO. 3 WAIWERANG, ADONARA TIMUR, FLORES TIMUR",
+    "regencyORcity": "KAB. FLORES TIMUR",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0383) 24063"
+  },
+  {
+    "location": "KUPANG TIMUR",
+    "address": "JL. TIMOR RAYA, KEL. BEBAU, KEC. KUPANG TIMUR, KAB. KUPANG - NTT",
+    "regencyORcity": "KAB. KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 8589214"
+  },
+  {
+    "location": "LEWOLEBA",
+    "address": "JL. TRANS LEMBATA RT 11 RW 4 LEWOLEBA, KAB. LEMBATA",
+    "regencyORcity": "KAB. LEMBATA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0383) 41446"
+  },
+  {
+    "location": "BETUN",
+    "address": "JL. RAYA BETUN, MALAKA TENGAH, KAB.MALAKA-NTT",
+    "regencyORcity": "KAB. MALAKA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0389) 2511395"
+  },
+  {
+    "location": "RUTENG",
+    "address": "JL. KARTINI NO.6 RUTENG, FLORES",
+    "regencyORcity": "KAB. MANGGARAI",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0385) 21620 - 21350"
+  },
+  {
+    "location": "LABUAN BAJO",
+    "address": "JL. SOEKARNO HATTA - LABUAN BAJO NO. 46, FLORES, KOMODO, NTT",
+    "regencyORcity": "KAB. MANGGARAI BARAT",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0385) 41046"
+  },
+  {
+    "location": "BORONG",
+    "address": "JL. LINTAS RUTENG-BAJAWA, NORONG, KAB. MANGGARAI TIMUR",
+    "regencyORcity": "KAB. MANGGARAI TIMUR",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "081339877171"
+  },
+  {
+    "location": "MBAY",
+    "address": "JL. BENDUNGAN SUTAMI, KEC. AESESA, KOTA MBAY, KAB. NAGEKEO",
+    "regencyORcity": "KAB. NAGEKEO",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "081246631551"
+  },
+  {
+    "location": "BAJAWA",
+    "address": "JL.PIERRE TENDEAN NO.12 BAJAWA, FLORES",
+    "regencyORcity": "KAB. NGADA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0384) 21567 - 21569"
+  },
+  {
+    "location": "ROTE NDAO",
+    "address": "JL. BUSALANGGA, KEL. MOKDALE, KEC. LOBALAIN, KAB. ROTE NDAO - NTT",
+    "regencyORcity": "KAB. ROTE NDAO",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 8589214"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE NON ATM",
+    "address": "JL. GAJAH MADA NO. 87 KELURAHAN MADAWAT, KECAMATAN ALOK, KABUPATEN SIKKA, NUSA TENGGARA TIMUR",
+    "regencyORcity": "KAB. SIKKA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "-"
+  },
+  {
+    "location": "MAUMERE",
+    "address": "JL. GAJAH MADA NO. 87 KELURAHAN MADAWAT, KECAMATAN ALOK, KABUPATEN SIKKA, NUSA TENGGARA TIMUR",
+    "regencyORcity": "KAB. SIKKA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0382) 21971 -21972-21227-22031 -22033-22032"
+  },
+  {
+    "location": "WAIKABUBAK",
+    "address": "JL. BHAYANGKARA NO.48 KEL. KOMERDA, KEC. KOTA WAIKABUBAK, KAB. SUMBA BARAT",
+    "regencyORcity": "KAB. SUMBA BARAT",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0387) 21540, 21529"
+  },
+  {
+    "location": "WAITABULA",
+    "address": "JL. RAYA WETABULA, KOTA TAMBOLAKA, KAB. SUMBA BARAT DAYA",
+    "regencyORcity": "KAB. SUMBA BARAT DAYA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0381)6164422"
+  },
+  {
+    "location": "WAINGAPU",
+    "address": "JL. AHMAD YANI KEL. KAMALA PUTIH KEC. KOTA WAINGAPU KAB. SUMBA TIMUR NUSA TENGGARA TIMUR",
+    "regencyORcity": "KAB. SUMBA TIMUR",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0387) 62146"
+  },
+  {
+    "location": "SOE",
+    "address": "JL.DIPONEGORO NO.50 SOE, TIMOR",
+    "regencyORcity": "KAB. TIMOR TENGAH SELATAN",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0388) 21539 , 21540"
+  },
+  {
+    "location": "KEFAMENANU D/H KLN KEWAPANTE (TUTUP)",
+    "address": "JL. EL TARI KELURAHAN KEFA SELATAN, KECAMATAN KOTA KEFAMENANU, KABUPATEN TIMOR TENGAH UTARA",
+    "regencyORcity": "KAB. TIMOR TENGAH UTARA",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0388) 2332266"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL.SUMATERA NO.33, KUPANG, P. TIMOR",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "-"
+  },
+  {
+    "location": "KUANINO",
+    "address": "JL. JEND. SUDIRMAN-KUANINO, KOTA KUPANG",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380)823046"
+  },
+  {
+    "location": "KUPANG",
+    "address": "JL.SUMATERA NO.33, KUPANG, P. TIMOR",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 824316, 824318, 824306, 824307, 824213, 832046, 833046, 833045, 832146"
+  },
+  {
+    "location": "OESAPA",
+    "address": "JL. TIMOR RAYA KM.9, KOTA KUPANG",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 881030"
+  },
+  {
+    "location": "OESAPA SELATAN DH/UNIV. NUSA CENDANA",
+    "address": "JL. PIET A TALLO, KEL. OESAPA SELATAN, KEC. KELAPA LIMA, KOTA KUPANG",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 881146"
+  },
+  {
+    "location": "PELINDO TENAU",
+    "address": "JL. YOS SUDARSO NO.23 KEL. ALAK, KEC. ALAK, KOTA KUPANG - NTT",
+    "regencyORcity": "KOTA KUPANG",
+    "province": "NUSA TENGGARA TIMUR",
+    "phone": "(0380) 890165"
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "location": "KISARAN",
+    "address": "JL. HOS COKROAMINOTO NO, 77-79 KISARAN",
+    "regencyORcity": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0623) 44204, 345729"
+  },
+  {
+    "location": "PP BPJS KETENAGAKERJAAN KISARAN",
+    "address": "KANTOR BPJS KETENAGAKERJAAN JL. SISINGAMANGARAJA NO. 460 KEL. SEI RENGAS, KEC. KISARAN BARAT, KOTA KISARAN 21221",
+    "regencyORcity": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0623) 43992"
+  },
+  {
+    "location": "SEI PIRING D/H A YANI",
+    "address": "JL. LINTAS SUMATERA UTARA, DESA SEI PIRING",
+    "regencyORcity": "KAB. ASAHAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0623) 355246"
+  },
+  {
+    "location": "INDRAPURA",
+    "address": "JL. JEND. SUDIRMAN NO. 310 - INDRAPURA",
+    "regencyORcity": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 31622"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. SMELTER SITE - KUALA TANJUNG - ASAHAN",
+    "regencyORcity": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "KUALA TANJUNG",
+    "address": "JL. SMELTER SITE - KUALA TANJUNG - ASAHAN",
+    "regencyORcity": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 31109, 31006, 31143, 31824"
+  },
+  {
+    "location": "LIMA PULUH",
+    "address": "JALAN LINTAS SUMATERA NO. 50, KEC. LIMA PULUH, KAB. BATUBARA, SUMATERA UTARA",
+    "regencyORcity": "KAB. BATU BARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 7296949"
+  },
+  {
+    "location": "SIDIKALANG",
+    "address": "JL. JEND AHMAD YANI NO.114-116, KEL. BATANG BERUH, KEC. SIDIKALANG, KAB. DAIRI",
+    "regencyORcity": "KAB. DAIRI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0627)22146"
+  },
+  {
+    "location": "CEMARA ASRI",
+    "address": "KOMPLEKS CEMARA ASRI BLOK A NO.6-8 KEC. PERCUT SEI TUAN, KAB. DELI SERDANG,",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6626377"
+  },
+  {
+    "location": "DELI TUA",
+    "address": "JL. BESAR DELITUA NO. 8 - 9 KM 11, DELI TUA, KAB. DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7032896"
+  },
+  {
+    "location": "DISKI",
+    "address": "JL. MEDAN - BINJAI KM 12,5, KEL. PUJI MULYO, KEC. SUNGGAL, KAB. DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8441733"
+  },
+  {
+    "location": "GALANG",
+    "address": "JL. PERINTIS KEMERDEKAAN KEL. GALANG, KEC. GALANG, KAB. DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "081375438007"
+  },
+  {
+    "location": "GRAHA HELVETIA",
+    "address": "JL. KAPTEN SUMARSONO NO. A6-A7, HELVETIA",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8455995"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. PULAU LAUT NO. 2 MABAR - DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "KAWASAN INDUSTRI MEDAN",
+    "address": "JL. PULAU LAUT NO. 2 MABAR - DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6871382, 6871384, 6871386, 6871385, 6871134, 6871496, 6871501"
+  },
+  {
+    "location": "KUALANAMU",
+    "address": "BANKING AREA LANTAI 1 BANDARA KUALANAMU, KAB. DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)88880526"
+  },
+  {
+    "location": "LUBUK PAKAM",
+    "address": "JL. DR. SUTOMO NO. 7 H-I - LUBUK PAKAM",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)7953674"
+  },
+  {
+    "location": "PP JAMSOSTEK TANJUNG MORAWA",
+    "address": "JL. RAYA MEDAN-TANJUNG MORAWA KM 14,5",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)7941709"
+  },
+  {
+    "location": "TANJUNG MORAWA",
+    "address": "JL. MEDAN - TANJUNG MORAWA KM. 15,5 NO. 10-11 - TANJUNG MORAWA - MEDAN",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7946996"
+  },
+  {
+    "location": "TEMBUNG",
+    "address": "JL. BESAR TEMBUNG NO.12 B-C, KAB. DELI SERDANG",
+    "regencyORcity": "KAB. DELI SERDANG",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)75065060"
+  },
+  {
+    "location": "DOLOK SANGGUL",
+    "address": "JL. MERDEKA, DOLOK SANGGUL",
+    "regencyORcity": "KAB. HUMBANG HASUNDUTAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0633) 31946"
+  },
+  {
+    "location": "BERASTAGI",
+    "address": "JL. VETERAN NO. 109 - BERASTAGI",
+    "regencyORcity": "KAB. KARO",
+    "province": "SUMATERA UTARA",
+    "phone": "(0628) 92075"
+  },
+  {
+    "location": "KABANJAHE",
+    "address": "JL. VETERAN NO. 31, KABANJAHE",
+    "regencyORcity": "KAB. KARO",
+    "province": "SUMATERA UTARA",
+    "phone": "(0628) 20515, (0628) 21046, (0628) 21193, (0628) 20069, (0628) 21846, (0628) 21577, (0628) 7003246"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. VETERAN NO. 31, KABANJAHE",
+    "regencyORcity": "KAB. KARO",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR KABANJAHE",
+    "address": "JL. KAPTEN UPAH TENDI SEBAYANG NO. 41 KABANJAHE",
+    "regencyORcity": "KAB. KARO",
+    "province": "SUMATERA UTARA",
+    "phone": "(0628) 21577"
+  },
+  {
+    "location": "AEK NABARA",
+    "address": "JL. AHMAD YANI, KAB. LABUHAN BATU",
+    "regencyORcity": "KAB. LABUHAN BATU",
+    "province": "SUMATERA UTARA",
+    "phone": "(0624) 2790166"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. A. YANI NO. 62 - RANTAU PRAPAT KAB. LABUHAN BATU",
+    "regencyORcity": "KAB. LABUHAN BATU",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "RANTAU PRAPAT",
+    "address": "JL. JEND. A. YANI NO. 62 - RANTAU PRAPAT KAB. LABUHAN BATU",
+    "regencyORcity": "KAB. LABUHAN BATU",
+    "province": "SUMATERA UTARA",
+    "phone": "(0624) 23897, 24332, 23232"
+  },
+  {
+    "location": "CIKAMPAK",
+    "address": "JL. JEND. SUDIRMAN CIKAMPAK, KEC. TORGAMBA, KAB. LABUHAN BATU SELATAN",
+    "regencyORcity": "KAB. LABUHAN BATU SELATAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0624)491041"
+  },
+  {
+    "location": "KOTA PINANG",
+    "address": "JL. JEND. SUDIRMAN NO. 2A KOTA PINANG",
+    "regencyORcity": "KAB. LABUHAN BATU SELATAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0624) 496836, 496837"
+  },
+  {
+    "location": "AEK KANOPAN",
+    "address": "JL.JEND.SUDIRMAN NO. 164 AEK KANOPAN KAB. LABUHAN BARU",
+    "regencyORcity": "KAB. LABUHANBATU UTARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0624) 92320"
+  },
+  {
+    "location": "PANGKALAN BRANDAN",
+    "address": "JL. THAMRIN, KAB. LANGKAT",
+    "regencyORcity": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "phone": "(0620) 3419811"
+  },
+  {
+    "location": "STABAT",
+    "address": "JL. KH. ZAINUL ARIFIN NO. 1B-C, STABAT",
+    "regencyORcity": "KAB. LANGKAT",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8912969"
+  },
+  {
+    "location": "PANYABUNGAN",
+    "address": "JL. WILLEM ISKANDAR NO. 173 - PENYAMBUNGAN KAB.MANDAILING - NATAL",
+    "regencyORcity": "KAB. MANDAILING NATAL",
+    "province": "SUMATERA UTARA",
+    "phone": "(0636) 20636, 20789"
+  },
+  {
+    "location": "TELUK DALAM",
+    "address": "JL. DIPONEGORO NO.47 TELUK DALAM KAB. NIAS SELATAN",
+    "regencyORcity": "KAB. NIAS SELATAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0630) 7321402"
+  },
+  {
+    "location": "SIBUHUAN",
+    "address": "JL. KI HAJAR DEWANTARA, SIBUHUAN KAB. PADANG LAWAS",
+    "regencyORcity": "KAB. PADANG LAWAS",
+    "province": "SUMATERA UTARA",
+    "phone": "(0636) 421846-421346"
+  },
+  {
+    "location": "GUNUNG TUA",
+    "address": "JL. SISINGAMANGARAJA LK.1, KEL. PASAR GUNUNG TUA, GUNUNG TUA, KAB. PADANG LAWAS UTARA",
+    "regencyORcity": "KAB. PADANG LAWAS UTARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0635)510046"
+  },
+  {
+    "location": "PANGURURAN",
+    "address": "JL. LETKOL LIBERTY MALAU, SUMATERA UTARA",
+    "regencyORcity": "KAB. SAMOSIR",
+    "province": "SUMATERA UTARA",
+    "phone": "0626-20046"
+  },
+  {
+    "location": "DOLOK MASIHUL",
+    "address": "JL. PERJUANGAN KEL. PEKAN DOLOK MASIHUL KEC. DOLOK MASIHUL KAB. SERDANG BEDAGAI",
+    "regencyORcity": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0621) 24546"
+  },
+  {
+    "location": "PERBAUNGAN",
+    "address": "JL. SERDANG NO. 54 - 56, PERBAUNGAN, KAB. SERDANG BEDAGAI",
+    "regencyORcity": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)7991122"
+  },
+  {
+    "location": "SEI RAMPAH",
+    "address": "JL. JEND. SUDIRMAN NO. A-1 / A-2 SEI RAMPAH",
+    "regencyORcity": "KAB. SERDANG BEDAGAI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0621) 41061"
+  },
+  {
+    "location": "PARAPAT",
+    "address": "JL. SISINGAMANGARAJA, KAB. SIMALUNGGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PERDAGANGAN",
+    "address": "JL. SISINGAMANGARAJA NO. 58 C - PERDAGANGAN, SIMALUNGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 96905"
+  },
+  {
+    "location": "RAYA",
+    "address": "GRIYA HAPOLTAKAN KAV 1-10, JL. SUTOMO, KAB. SIMALUNGGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 7233051"
+  },
+  {
+    "location": "SARIBUDOLOK",
+    "address": "JL. SUTOMO , KAB. SIMALUNGGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "SEI MANGKEI",
+    "address": "KAWASAN INDUSTRI SEI MANGKEI GEDUNG DRYPORT, JL. UTAMA, KAB. SIMALUNGGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "SERBELAWAN",
+    "address": "JL. MERDEKA NO.46 ,KEL. SER BELAWAN, KEC. DOLOK BATU NANGGAR, KAB. SIMALUNGUN",
+    "regencyORcity": "KAB. SIMALUNGUN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622)64164"
+  },
+  {
+    "location": "BATANG TORU",
+    "address": "JL. MERDEKA KELURAHAN WEK II, KEC. BATANG TORU, KAB. TAPANULI SELATAN",
+    "regencyORcity": "KAB. TAPANULI SELATAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0634) 370342, 370323"
+  },
+  {
+    "location": "PANDAN",
+    "address": "JL. LINTAS PADANG SIDEMPUAN – SIBOLGA NO. 51-52 KECAMATAN PANDAN, KABUPATEN TAPANULI TENGAH",
+    "regencyORcity": "KAB. TAPANULI TENGAH",
+    "province": "SUMATERA UTARA",
+    "phone": "(0631)371446"
+  },
+  {
+    "location": "SIBORONG-BORONG",
+    "address": "JL. SM RAJA SIBORONG-BORONG, KAB. TAPANULI UTARA",
+    "regencyORcity": "KAB. TAPANULI UTARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0633) 2340141"
+  },
+  {
+    "location": "TARUTUNG",
+    "address": "JL. SISINGAMANGARAJA NO. 82 - TARUTUNG",
+    "regencyORcity": "KAB. TAPANULI UTARA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0632) 21878"
+  },
+  {
+    "location": "BALIGE",
+    "address": "JL. PATUAN NAGARI NO. 101 - BALIGE",
+    "regencyORcity": "KAB. TOBA SAMOSIR",
+    "province": "SUMATERA UTARA",
+    "phone": "(0632) - 21101,21146,21455,21466,21890,322753"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PATUAN NAGARI NO. 101 - BALIGE",
+    "regencyORcity": "KAB. TOBA SAMOSIR",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PORSEA D/H SISINGAMANGARAJA",
+    "address": "JL. SISINGAMANGARAJA NO. 111 BALIGE , KABUPATEN TOBASA",
+    "regencyORcity": "KAB. TOBA SAMOSIR",
+    "province": "SUMATERA UTARA",
+    "phone": "(0633) 21292"
+  },
+  {
+    "location": "BINJAI",
+    "address": "JL. SUKARNO HATTA NO. 17-19 BINJAI",
+    "regencyORcity": "KOTA BINJAI",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8824372, 8828532"
+  },
+  {
+    "location": "GUNUNG SITOLI",
+    "address": "JL. IMAM BONJOL NO. 40 - GUNUNG SITOLI - PULAU NIAS",
+    "regencyORcity": "KOTA GUNUNG SITOLI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0639) 21946, 22946, 22023,22945"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. IMAM BONJOL NO. 40 - GUNUNG SITOLI - PULAU NIAS",
+    "regencyORcity": "KOTA GUNUNG SITOLI",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "AH NASUTION",
+    "address": "JL. AH NASUTION KOMPLEKS AATC MEGA RESIDEN BLOK A RUKO NO 1-2 MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)7882284"
+  },
+  {
+    "location": "AKSARA",
+    "address": "JL. AKSARA NO. 142-A, MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7321892, 7344295"
+  },
+  {
+    "location": "AR HAKIM",
+    "address": "JL. AR. HAKIM NO. 131 KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7354446"
+  },
+  {
+    "location": "BELAWAN",
+    "address": "JL. SUMATERA NO. 112 - BELAWAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6941072, 6940728, 6941966"
+  },
+  {
+    "location": "BIRO REKTOR USU",
+    "address": "JL. DR. T. MANSUR NO. 9 KAMPUS USU - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8223670"
+  },
+  {
+    "location": "BUMI SEROJA INDAH",
+    "address": "JL.GAGAK HITAM NO. 27-28 KEC. MEDAN SUNGGAL, KODYA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8465983"
+  },
+  {
+    "location": "CITRA GARDEN DH. PADANG BULAN",
+    "address": "JL. JAMN GINTING, KOMPLEKS PERUMAHAN CITRA GARDEN BLOK A5 NO.1-2 KEL. TITI RANTE, MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8225636"
+  },
+  {
+    "location": "DIGITAL BRANCH MEDAN FAIR",
+    "address": "PLAZA MEDAN FAIR, JL. GATOT SUBROTO NO. 30, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "GAPERTA",
+    "address": "JL TEUKU AMIR HAMZAH BLOK A1 KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 80026233"
+  },
+  {
+    "location": "GATOT SUBROTO MEDAN",
+    "address": "JL. JEND. GATOT SUBROTO NO. 14-15,GOLDEN TRADE CENTRE, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4560044"
+  },
+  {
+    "location": "HM. YAMIN DH/ SUKARAMAI",
+    "address": "JL. HM YAMIN NO. 7-8 KEL. SIDODADI KEC. MEDAN AREA, SUMATERA UTARA",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4511146"
+  },
+  {
+    "location": "JALAN SUTOMO MEDAN",
+    "address": "JL. DR. SUTOMO NO.313-315 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4561946, 4566285, 4555145, 4555065"
+  },
+  {
+    "location": "JL ASIA",
+    "address": "JL.ASIA NO. 264 B-C, MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7355521"
+  },
+  {
+    "location": "JL ISKANDAR MUDA",
+    "address": "JL. ISKANDAR MUDA NO. 95 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4510221"
+  },
+  {
+    "location": "JL KATAMSO",
+    "address": "JL. BRIGJEN. KATAMSO, NO. 24 H-I MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7880243"
+  },
+  {
+    "location": "JUANDA D/H SUDIRMAN",
+    "address": "JL. JUANDA NO. 17 KEL. JATI, KEC. MEDAN MAIMUN, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)4510750"
+  },
+  {
+    "location": "KARYA D/H GABION D/H UTPK GABION",
+    "address": "JL. KARYA NO. 178 E & F, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8084038"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL. PEMUDA NO. 12 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "GEDUNG UNIT MANAJEMEN MUTU (UMM) UNIVERSITAS SUMATERA UTARA JL. UNIVERSITAS NO.40 MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "KESAWAN",
+    "address": "JL. JEND. A. YANI NO. 72 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4157622, 4156055 Mikro, 4520067 RO, 4519892 Koperasi"
+  },
+  {
+    "location": "KRAKATAU MEDAN",
+    "address": "JL. KRAKATAU NO. 51 C-D KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6614512"
+  },
+  {
+    "location": "MARELAN",
+    "address": "JL. MARELAN RAYA PASAR II LK XIX KEL. RENGAS PULAU, KEC. MEDAN MARELAN, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)685356"
+  },
+  {
+    "location": "MEDAN",
+    "address": "JL. PEMUDA NO. 12 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4538166 (9 lines), 4516339, 4579576, 4564608, 4155585, 4564606,4565856, 4155586,4510447, 4152945, 4152296, 4523794, 4521246, 4520750, 4517514, 4565019, 4567603, 4536391, 4521496,"
+  },
+  {
+    "location": "PASAR BARU",
+    "address": "JL. BOGOR NO.97 SIMPANG JL SURAKARTA, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4150284"
+  },
+  {
+    "location": "PASAR PETISAH",
+    "address": "JL. NIBUNG UTAMA, MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)4145585"
+  },
+  {
+    "location": "PASAR SENTRAL",
+    "address": "JL. PUSAT PASAR KOMPLEKS PERTOKOAN PASAR SENTRAL, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)4571946"
+  },
+  {
+    "location": "PASAR SETIA BUDI",
+    "address": "JL. SETIABUDI,KEL. TANJUNGREJO,KEC. MEDAN SUNGGAL-MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)8217685"
+  },
+  {
+    "location": "PETISAH",
+    "address": "JL. NIBUNG RAYA NO. 1-3, KEL. PETISAH TENGAH, KEC. MEDAN PETISAH, MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4514609, 4514612"
+  },
+  {
+    "location": "PLAZA MEDAN FAIR",
+    "address": "KOMPLEK PLAZA MEDAN FAIR LT. 1 NO. 21-23 JL. JEND. GATOT SUBROTO MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4140946"
+  },
+  {
+    "location": "PLN PIKITRING",
+    "address": "JL. DR. CIPTO NO. 12 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4544151"
+  },
+  {
+    "location": "PP RS USU MEDAN",
+    "address": "RS USU MEDAN, JL. DR T. MANSUR NO.9 KAMPUS USU MEDAN, KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PT TELKOM DIVRE I SUMATERA",
+    "address": "GEDUNG GRAHA MERAH PUTIH LANTAI 1, JL. PUTRI HIJAU NO.1 KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4103418"
+  },
+  {
+    "location": "SETIABUDI D/H UNIKA ST THOMAS",
+    "address": "JL. SETIABUDI PASAR III 238 A-B MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061)8200701"
+  },
+  {
+    "location": "SIMALINGKAR",
+    "address": "JL. JAMIN GINTING KM. 10 NO. 125 SIMPANG PERUMNAS SIMALINGKAR NO.3 MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 88360124"
+  },
+  {
+    "location": "SIMPANG LIMUN",
+    "address": "JL. SISINGAMANGARAJA NO. 18, SIMPANG LIMUN - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7880241"
+  },
+  {
+    "location": "SISINGAMANGARAJA",
+    "address": "JL. SISINGAMANGARAJA NO. 4-D - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 7340213"
+  },
+  {
+    "location": "STASIUN KERETA API MEDAN",
+    "address": "JL. STASIUN NO.1 KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6626377"
+  },
+  {
+    "location": "SUMATERA",
+    "address": "JL. SUMATERA NO. 74 KEL. PANDAU HULU I, KEC. MEDAN KOTA KOTA MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 42003146"
+  },
+  {
+    "location": "SUNGGAL",
+    "address": "JL. GATOT SUBROTO (D/H BINJAI) KM 8,5 NO. 18 D MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8451487"
+  },
+  {
+    "location": "TOMANG ELOK DH/ SEI SIKAMBING",
+    "address": "JL. GATOT SUBROTO NO. 63 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8465073"
+  },
+  {
+    "location": "UNIMED",
+    "address": "JL. WILLEM ISKANDAR, PASAR V, MEDAN, GEDUNG SERBA GUNA UNIVERSITAS NEGERI MEDAN (UNIMED)",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 77804466"
+  },
+  {
+    "location": "UNIVERSITAS SUMATERA UTARA MEDAN",
+    "address": "GEDUNG UNIT MANAJEMEN MUTU (UMM) UNIVERSITAS SUMATERA UTARA JL. UNIVERSITAS NO.40 MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 8219033, 8211180, 8217180, 8215230, 8210240, 8210242, 8223612, 8223613, 8221548, 8221549, LL3265"
+  },
+  {
+    "location": "WILAYAH 01 - MEDAN",
+    "address": "JL. PEMUDA NO. 12, LANTAI IV MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 4567110, 4567002, 4567104, 456106, 4567063, 4568062, 4568061, 4568059"
+  },
+  {
+    "location": "YOS SUDARSO",
+    "address": "JL. KOMODOR LAUT YOS SUDARSO NO. 141 - MEDAN",
+    "regencyORcity": "KOTA MEDAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(061) 6634653, 6634656"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE NON ATM",
+    "address": "JL. PATRICE LUMUMBA I NO. 55 - PADANG SIDEMPUAN",
+    "regencyORcity": "KOTA PADANG SIDEMPUAN",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PADANG SIDEMPUAN",
+    "address": "JL. PATRICE LUMUMBA I NO. 55 - PADANG SIDEMPUAN",
+    "regencyORcity": "KOTA PADANG SIDEMPUAN",
+    "province": "SUMATERA UTARA",
+    "phone": "(0634) 21167, 21375, 24918 , 21853"
+  },
+  {
+    "location": "HORAS",
+    "address": "JL. SUTOMO NO. 126 PEMATANG SIANTAR",
+    "regencyORcity": "KOTA PEMATANG SIANTAR",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 431222"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. MERDEKA NO. 31, PEMATANG SIANTAR",
+    "regencyORcity": "KOTA PEMATANG SIANTAR",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "PEMATANGSIANTAR",
+    "address": "JL. MERDEKA NO. 31, PEMATANG SIANTAR",
+    "regencyORcity": "KOTA PEMATANG SIANTAR",
+    "province": "SUMATERA UTARA",
+    "phone": "(0622) 22946, 21051, 22552, 22975"
+  },
+  {
+    "location": "PP JAMSOSTEK PEMATANG SIANTAR",
+    "address": "JL. SAKTI LUBIS NO. 5 PEMATANG SIANTAR",
+    "regencyORcity": "KOTA PEMATANG SIANTAR",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. LETJEN. S. PARMAN NO. 34 - SIBOLGA",
+    "regencyORcity": "KOTA SIBOLGA",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "SIBOLGA",
+    "address": "JL. LETJEN. S. PARMAN NO. 34 - SIBOLGA",
+    "regencyORcity": "KOTA SIBOLGA",
+    "province": "SUMATERA UTARA",
+    "phone": "(0631) 21525, 22724, 23982, 22804, 22433"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. GEREJA NO. 20 TANJUNG BALAI ASAHAN",
+    "regencyORcity": "KOTA TANJUNG BALAI",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "TANJUNG BALAI ASAHAN",
+    "address": "JL. GEREJA NO. 20 TANJUNG BALAI ASAHAN",
+    "regencyORcity": "KOTA TANJUNG BALAI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0623) 92068,92082, 595946, 595446,94502,596000,596003"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. DR. SUTOMO NO. 32 - TEBING TINGGI",
+    "regencyORcity": "KOTA TEBING TINGGI",
+    "province": "SUMATERA UTARA",
+    "phone": "-"
+  },
+  {
+    "location": "TEBING TINGGI",
+    "address": "JL. DR. SUTOMO NO. 32 - TEBING TINGGI",
+    "regencyORcity": "KOTA TEBING TINGGI",
+    "province": "SUMATERA UTARA",
+    "phone": "(0621) 24546,23050, 21662,22080"
+  }
+]

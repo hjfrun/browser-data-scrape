@@ -1,0 +1,65 @@
+[
+  {
+    "location": "MAJENE",
+    "address": "JL.JEND SUDIRMAN NO. 51 KAB.MAJENE PROVINSI SULAWESI BARAT",
+    "regencyORcity": "KAB. MAJENE",
+    "province": "SULAWESI BARAT",
+    "phone": "(0422) 21556"
+  },
+  {
+    "location": "MAMASA",
+    "address": "JL. POROS ASANGO, KAB. MAMASA",
+    "regencyORcity": "KAB. MAMASA",
+    "province": "SULAWESI BARAT",
+    "phone": "(0428) 2841346"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. URIP SUMOHARJO NO. 125 MAMUJU SULBAR",
+    "regencyORcity": "KAB. MAMUJU",
+    "province": "SULAWESI BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "MAMUJU",
+    "address": "JL. URIP SUMOHARJO NO. 125 MAMUJU SULBAR",
+    "regencyORcity": "KAB. MAMUJU",
+    "province": "SULAWESI BARAT",
+    "phone": "(0426) 21505,22659,22505"
+  },
+  {
+    "location": "TOPOYO",
+    "address": "JL. POROS MAMUJU-TOPOYO, KAB. MAMUJU",
+    "regencyORcity": "KAB. MAMUJU TENGAH",
+    "province": "SULAWESI BARAT",
+    "phone": "082191291946"
+  },
+  {
+    "location": "PASANG KAYU",
+    "address": "JL. POROS MAMUJU, PALU, PASANG KAYU, KAB. MAUJU UTARA",
+    "regencyORcity": "KAB. MAMUJU UTARA",
+    "province": "SULAWESI BARAT",
+    "phone": "082193787846"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.JEND.A.YANI NO.233, POLEWALI",
+    "regencyORcity": "KAB. POLEWALI MANDAR",
+    "province": "SULAWESI BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "POLEWALI",
+    "address": "JL.JEND.A.YANI NO.233, POLEWALI",
+    "regencyORcity": "KAB. POLEWALI MANDAR",
+    "province": "SULAWESI BARAT",
+    "phone": "(0428) 21046, 21246, 21712, 21946, 23148, 23150, 21037, 21187"
+  },
+  {
+    "location": "WONOMULYO",
+    "address": "JL.JEND.SUDIRMAN (POROS POLEWALI - MAJENE), KAB, POLEWALI, SULAWESI BARAT",
+    "regencyORcity": "KAB. POLEWALI MANDAR",
+    "province": "SULAWESI BARAT",
+    "phone": "(0428) 51046, 51946"
+  }
+]

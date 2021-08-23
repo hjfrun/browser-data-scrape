@@ -1,0 +1,359 @@
+[
+  {
+    "location": "BANTUL",
+    "address": "JL. RAYA BANTUL, KAB. BANTUL",
+    "regencyORcity": "KAB. BANTUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)367811,367812"
+  },
+  {
+    "location": "IMOGIRI TIMUR",
+    "address": "JL. IMOGIRI TIMUR KM 6,5, KAB. BANTUL",
+    "regencyORcity": "KAB. BANTUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 282202"
+  },
+  {
+    "location": "PIYUNGAN",
+    "address": "JL. RAYA WONOSARI KM 10,5 SITIMULYO PIYUNGAN, KAB. BANTUL",
+    "regencyORcity": "KAB. BANTUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 4353337"
+  },
+  {
+    "location": "PP RSPAU DR. S. HARDJOLUKITO",
+    "address": "JL JANTI BLOK O LANUD ADISUCIPTO BANGUNTAPAN",
+    "regencyORcity": "KAB. BANTUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 376287"
+  },
+  {
+    "location": "PP STTKD",
+    "address": "JL. PARANGTRITIS KM 4,5 BANTUL",
+    "regencyORcity": "KAB. BANTUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 450088"
+  },
+  {
+    "location": "WONOSARI",
+    "address": "JL.BRIGJEN.KATAMSO NO.72, KAB. GUNUNG KIDUL, DAERAH ISTIMEWA YOGYAKARTA",
+    "regencyORcity": "KAB. GUNUNG KIDUL",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)391700,391800"
+  },
+  {
+    "location": "SENTOLO",
+    "address": "JL. WATES KM 17, KAB. KULON PROGO",
+    "regencyORcity": "KAB. KULON PROGO",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "TEMON",
+    "address": "JL. WATES - PURWOREJO KM 9, TEMON, KAB. KULON PROGO",
+    "regencyORcity": "KAB. KULON PROGO",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "081931736807"
+  },
+  {
+    "location": "WATES",
+    "address": "JL.BRIGJEND KATAMSO NO.67 WATES KULONPROGO-YOGYAKARTA",
+    "regencyORcity": "KAB. KULON PROGO",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)773869"
+  },
+  {
+    "location": "AMBARUKMO YOGYAKARTA",
+    "address": "JL. LAKSDA ADISUCIPTO KM.8,1, MAGUWOHARJO",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)488352"
+  },
+  {
+    "location": "DIGITAL BRANCH HARTONO MALL",
+    "address": "HARTONO MALL LANTAI 1 NO. 18, JL. RING ROAD UTARA, KAB. SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "GAMPING",
+    "address": "JL. RAYA WATES KM. 5, KABUPATEN SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 4545606"
+  },
+  {
+    "location": "JL. GODEAN",
+    "address": "JL. GODEAN KM 5,5 BANYURADEN, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)583557,583556,626427"
+  },
+  {
+    "location": "JL. MAGELANG",
+    "address": "JL. MAGELANG KM. 5,6 MLATI,SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)623573"
+  },
+  {
+    "location": "KALASAN",
+    "address": "JL. SOLO KM. 10 SOROGENEN, PURWOMANTANI, KALASAN, SLEMAN, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)487538"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.PERSATUAN BULAKSUMUR CATURTUNGGAL, DEPOK-SLEMAN, YGY",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PALAGAN",
+    "address": "JL. PALAGAN TENTARA PELAJAR KM 7,2 SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)2830604"
+  },
+  {
+    "location": "PASAR KOLOMBO",
+    "address": "JL.KALIURANG KM.7,3 NO.37, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)885409,881108"
+  },
+  {
+    "location": "PP ATMAJAYA",
+    "address": "JL.BABARSARI NO.44 SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP FAK. MIPA UGM",
+    "address": "JL. KALIURANG KM.4,5 DEPOK,KAB. SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP FAKULTAS TEKNIK UGM",
+    "address": "JL. GRAFIKA NO. 2 SINDUADI, MLATI, SLEMAN, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP FKG UGM",
+    "address": "JL. DENTAL NO.01 SINDUADI,MLATI,SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)550710"
+  },
+  {
+    "location": "PP FKH UGM",
+    "address": "JL. FAUNA NO,2 KARANG MALANG, DEPOK, SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP UIN SUNAN KALIJAGA",
+    "address": "JL. LAKSDA ADISUCIPTO, CATUR TUNGGAL, DEPOK, SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "SIDOLUHUR",
+    "address": "JL. GODEAN KM 10,1, SIDOAGUNG, GODEAN, SLEMAN, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 2821314"
+  },
+  {
+    "location": "SLEMAN",
+    "address": "JL.PEMUDA NO.9 SLEMAN, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)869100"
+  },
+  {
+    "location": "TAJEM",
+    "address": "JL. RAYA TAJEM SARIREJO, MAGUWOHARJO DEPOK - SLEMAN",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 881173"
+  },
+  {
+    "location": "UGM YOGYAKARTA",
+    "address": "BULAKSUMUR BLOK H NO.24, YOGYAKARTA",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)561137,561017"
+  },
+  {
+    "location": "UNIV. GAJAH MADA YOGYAKARTA",
+    "address": "JL.PERSATUAN BULAKSUMUR CATURTUNGGAL, DEPOK-SLEMAN, YGY",
+    "regencyORcity": "KAB. SLEMAN",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)561016,511546"
+  },
+  {
+    "location": "ADISUCIPTO",
+    "address": "JL.ADISUCIPTO NO.137, YOGYA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)582815, 564902"
+  },
+  {
+    "location": "BERINGHARJO",
+    "address": "JL. JEND A YANI 46 KEL. NGUPASAN, KEC. GONDOMANAN, KOTAMADYA YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 589545"
+  },
+  {
+    "location": "HOS COKROAMINOTO",
+    "address": "JL. HOS COKROAMINOTO NO. 66, KOTA YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)619701"
+  },
+  {
+    "location": "JL. DIPONEGORO D/H DIPONEGORO D/H PRIMAGAMA",
+    "address": "JL.DIPONEGORO NO. 84/90 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)523263,623263"
+  },
+  {
+    "location": "JL. PARANGTRITIS D/H. STIE KERJASAMA",
+    "address": "JL. PARANGTRITIS NO. 127, KEC. MANTRIJERON KOTA YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)375211"
+  },
+  {
+    "location": "JL. SUTOYO D/H KK GEDUNG KEUANGAN NEGARA D/H PBB",
+    "address": "JL. MAYJEND SUTOYO NO. 67 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)371829"
+  },
+  {
+    "location": "JOGJATRONIK",
+    "address": "JL. BRIGJEN KATAMSO NO. 75-77 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 420046"
+  },
+  {
+    "location": "K.H. A. DAHLAN",
+    "address": "JL.KH.A.DAHLAN NO.73, YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)380159,380147"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.TRIKORA NO.1 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "KOTAGEDE",
+    "address": "JL. TEGALGENDU NO. 22 - YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)384179"
+  },
+  {
+    "location": "PASCA SARJANA UGM D/H PASCA SARJANA UGM",
+    "address": "JL. TEKNIKA UTARA, YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(00274)544968"
+  },
+  {
+    "location": "PP FK UGM",
+    "address": "GEDUNG FAKULTAS KEDOKTERAN UGM, SLEMAN",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP KANTOR PUSAT TATA USAHA (KPTU) UNIV.GAJAH MADA.",
+    "address": "JL. BHINNEKA TUNGGAL IKA, SLEMAN",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP UNIVERSITAS SARJANA WIYATA",
+    "address": "JL. KUSUMANEGARA 157 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "PP UPN",
+    "address": "JL. SWK 104 LINGKAR UTARA,CONDONGCATUR,SLEMAN, KOTA YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "-"
+  },
+  {
+    "location": "SARJANA WIYATA D/H KUSUMANEGARA",
+    "address": "JL.KUSUMANEGARA NO. 121 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)553146, 553147"
+  },
+  {
+    "location": "SUDIRMAN YOGYAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 63 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 557413"
+  },
+  {
+    "location": "UNIV. KRISTEN DUTA WACANA (UKDW) D/H UNIKA DUTA WACANA YGY",
+    "address": "JL.DR.WAHIDIN NO.5-7 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)519274"
+  },
+  {
+    "location": "UNIV. NEGERI YOGYAKARTA",
+    "address": "JL. GEJAYAN SLEMAN, YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274) 580026"
+  },
+  {
+    "location": "UPN VETERAN",
+    "address": "JL.SWK 104 LINGKAR LUAR UTARA, CONDONGCATUR - 55283",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)485646"
+  },
+  {
+    "location": "WILAYAH 17 - YOGYAKARTA",
+    "address": "JL.TRIKORA NO.1 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)376287"
+  },
+  {
+    "location": "YOGYAKARTA",
+    "address": "JL.TRIKORA NO.1 YOGYAKARTA",
+    "regencyORcity": "KOTA YOGYAKARTA",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA",
+    "phone": "(0274)376287,385906"
+  }
+]

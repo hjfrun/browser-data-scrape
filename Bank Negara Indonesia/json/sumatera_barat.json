@@ -1,0 +1,324 @@
+[
+  {
+    "location": "LUBUK BASUNG",
+    "address": "JL. GAJAH MADA NO. 443, LUBUK BASUNG, KAB. AGAM",
+    "regencyORcity": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752)877946"
+  },
+  {
+    "location": "PADANG LUAR",
+    "address": "JL. RAYA BUKITTINGGI - PADANG KM. 4 PASAR PADANG LUAR KAB. AGAM",
+    "regencyORcity": "KAB. AGAM",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752)7839250"
+  },
+  {
+    "location": "KOTOBARU",
+    "address": "JL. RAYA LINTAS SUMATERA, KOTO BARU - KAB. DAMASRAYA",
+    "regencyORcity": "KAB. DHARMASRAYA",
+    "province": "SUMATERA BARAT",
+    "phone": "(0754) 71200"
+  },
+  {
+    "location": "MENTAWAI",
+    "address": "JL. RAYA TUAPEJAT KM. 15 DESA TUAPEJAT KEC. SIPORA UTARA, KAB. MENTAWAI, SUMATERA BARAT",
+    "regencyORcity": "KAB. KEPULAUAN MENTAWAI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0759) 3211146"
+  },
+  {
+    "location": "DANGUNG DANGUNG",
+    "address": "JL. TAN MALAKA, PASAR DANGUNG DANGUNG",
+    "regencyORcity": "KAB. LIMA PULUH KOTA",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752)748946"
+  },
+  {
+    "location": "LUBUK ALUNG",
+    "address": "JL. KORONG PASAR MUDIK NAGARI LUBUK ALUNG, KAB. PADANG PARIAMAN, SUMATERA BARAT",
+    "regencyORcity": "KAB. PADANG PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 96346"
+  },
+  {
+    "location": "LUBUK SIKAPING",
+    "address": "JL. SUDIRMAN, NAGARI DURIAN, KEC. LUBUK SIKAPING, KAB. PASAMAN, SUMATERA BARAT",
+    "regencyORcity": "KAB. PASAMAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0753) 20666"
+  },
+  {
+    "location": "SIMPANG EMPAT PASAMAN",
+    "address": "JL. RAYA SIMPANG EMPAT PASAMAN KELURAHAN LINGKUANG AUA, KECAMATAN PASAMAN, KABUPATEN PASAMAN BARAT",
+    "regencyORcity": "KAB. PASAMAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0753) 65081, 65744"
+  },
+  {
+    "location": "UJUNG GADING PASAMAN",
+    "address": "JL. FLORES NAGARI UJUNG GADING JORONG KUAMANG, KAB. PASAMAN BARAT",
+    "regencyORcity": "KAB. PASAMAN BARAT",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PAINAN",
+    "address": "JL. H. ILYAS YAKUB NO. 38 PAINAN, KAB.PESISIR SELATAN",
+    "regencyORcity": "KAB. PESISIR SELATAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0756)21046"
+  },
+  {
+    "location": "MUARO SIJUNJUNG",
+    "address": "JL. JEND. SUDIRMAN, JORONG SUBARANG OMBAK NAGARI MUARO, KEC. SIJUNJUNG, KAB. SIJUNJUNG, SUMATERA BARAT",
+    "regencyORcity": "KAB. SAWAHLUNTO/SIJUNJUNG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0754) 2200071"
+  },
+  {
+    "location": "ALAHAN PANJANG",
+    "address": "JL. GAJAH MADA NO. 31 JOR. ALAHAN PANJANG, NAG. ALAHAN PANJANG, KEC. LUBUK GUMANTI, KAB. SOLOK, SUMATERA BARAT",
+    "regencyORcity": "KAB. SOLOK",
+    "province": "SUMATERA BARAT",
+    "phone": "(0755) 22815"
+  },
+  {
+    "location": "PADANG ARO",
+    "address": "JL. LINTAS JR. PADANG ARO SUNGAI PENUH NAG. LUBUK GADANG, KEC. SANGIR, KAB. SOLOK SELATAN, SUMATERA BARAT",
+    "regencyORcity": "KAB. SOLOK SELATAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0755) 22815"
+  },
+  {
+    "location": "BATUSANGKAR",
+    "address": "JL. SOEKARNO HATTA NO. 3 - BATUSANGKAR, PAYAKUMBUH",
+    "regencyORcity": "KAB. TANAH DATAR",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 72846, 72847, 72788"
+  },
+  {
+    "location": "AUR KUNING",
+    "address": "JL. PARAK KUBANG I NO. 76 TAROK DIPO KEC. GUGUK PANJANG KOTA BUKITTINGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 642946"
+  },
+  {
+    "location": "BUKITTINGGI",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 15 - BUKITTINGGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 35494, 21565, 22578"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 15 - BUKITTINGGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR ATAS",
+    "address": "JL. MINANGKABAU NO. 71 BUKITTINGGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752)626565"
+  },
+  {
+    "location": "PP IAIN BUKITTINGGI",
+    "address": "JL. RAYA GURUN AUR KUBANG PUTIH, KAB. AGAM, BUKITTINGGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 33136"
+  },
+  {
+    "location": "SIMPANG AUR",
+    "address": "JL DIPONEGORO NO.2 KEL. TAROK DIPO, KEC. GUGUK PANJANG, KOTA BUKITTINGGI",
+    "regencyORcity": "KOTA BUKITTINGGI",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752)624750"
+  },
+  {
+    "location": "AIR TAWAR DH UNIV. NEGERI PADANG",
+    "address": "KOMPLEK IKIP JL. AIR TAWAR - PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 41752, 57225"
+  },
+  {
+    "location": "BANDAR BUAT D/H TELUK BAYUR",
+    "address": "JL. RAYA PADANG-INDARUNG RIMBO DATAR NO.31-32 BANDAR BUAT PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 71777"
+  },
+  {
+    "location": "BY PASS PADANG",
+    "address": "JL. BY PASS KM 06 KOTA PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751)779400"
+  },
+  {
+    "location": "DOBI",
+    "address": "JL. DOBI NO. 1 PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 31952,34439, 39606, 30450"
+  },
+  {
+    "location": "HATTA",
+    "address": "JL. DR. MOH. HATTA, PASAR BARU, KEC. PAUH, KOTA PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 71260, 72620"
+  },
+  {
+    "location": "JALAN AHMAD YANI PADANG",
+    "address": "JL. JEND. A. YANI NO. 18 - PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 22660, 33037"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. PROKLAMASI NO. 45 PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 2 MESIN ATM)",
+    "address": "JL. PROKLAMASI NO. 45 PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PADANG",
+    "address": "JL. PROKLAMASI NO. 45 PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 31946, 31948"
+  },
+  {
+    "location": "PASAR RAYA PADANG",
+    "address": "JL. PASAR RAYA, PASAR BERTINGKAT FASE IV LANTAI II - PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 812597, 812598"
+  },
+  {
+    "location": "PP PELINDO II",
+    "address": "JL. SEMARANG 3, ULAK KARANG,",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751)61646"
+  },
+  {
+    "location": "PP RSUP DR. M. JAMIL PADANG",
+    "address": "JL. PERINTIS KEMERDEKAAN PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 31942"
+  },
+  {
+    "location": "PP SEMEN PADANG",
+    "address": "-",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PP UNIV.BUNG HATTA",
+    "address": "KAMPUS I JL SUMATERA , ULAKARANG PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 31942"
+  },
+  {
+    "location": "PP UNIVERSITAS ANDALAS",
+    "address": "GEDUNG PERPUSTAKAAN UNIVERSITAS ANDALAS, LIMAU MANIS, PADANG, SUMATERA BARAT",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 31946, 31948"
+  },
+  {
+    "location": "SITEBA D/H UNIV. BUNG HATTA",
+    "address": "JL. S. PARMAN NO. 236-I - PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 446960, 446962"
+  },
+  {
+    "location": "UNIV. ANDALAS D/H PASAR BARU PADANG DH. UNIV. ANDALAS",
+    "address": "GEDUNG ULP LAMA KPRI REKTORAT UNIVERSITAS ANDALAS, JL. LIMAU MANIS, KOTA PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "VETERAN PADANG",
+    "address": "JL. VETERAN NO. 10 KOTA PADANG",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0781)38546"
+  },
+  {
+    "location": "WILAYAH 02 - PADANG",
+    "address": "JL. DOBI NO. 1 LT. 3 PADANG.",
+    "regencyORcity": "KOTA PADANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 890005, 890008"
+  },
+  {
+    "location": "PADANG PANJANG",
+    "address": "JL. SOEKARNO HATTA NO. 12 - 14.",
+    "regencyORcity": "KOTA PADANG PANJANG",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 83746"
+  },
+  {
+    "location": "PARIAMAN",
+    "address": "JL. DIPONEGORO NO. 14 - PARIAMAN",
+    "regencyORcity": "KOTA PARIAMAN",
+    "province": "SUMATERA BARAT",
+    "phone": "(0751) 91346, 92646"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. SOEKARNO HATTA NO.86 PAYAHKUMBUH",
+    "regencyORcity": "KOTA PAYAKUMBUH",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PAYAKUMBUH",
+    "address": "JL. SOEKARNO HATTA NO.86 PAYAHKUMBUH",
+    "regencyORcity": "KOTA PAYAKUMBUH",
+    "province": "SUMATERA BARAT",
+    "phone": "(0752) 92945, 92928, 94853, 92805"
+  },
+  {
+    "location": "SAWAH LUNTO",
+    "address": "JL. A. YANI KOMPLEK PASAR REMAJA, KEL. PASAR, KEC. LEMBAH SEGAR, KOTA SAWAHLUNTO",
+    "regencyORcity": "KOTA SAWAHLUNTO",
+    "province": "SUMATERA BARAT",
+    "phone": "(0754) 61588"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. KH. AHMAD DAHLAN NO. 99 KELURAHAN PASAR PANDAN AIR MATI, KECAMATAN TANJUNG HARAPAN, KOTA SOLOK",
+    "regencyORcity": "KOTA SOLOK",
+    "province": "SUMATERA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "SOLOK",
+    "address": "JL. KH. AHMAD DAHLAN NO. 99 KELURAHAN PASAR PANDAN AIR MATI, KECAMATAN TANJUNG HARAPAN, KOTA SOLOK",
+    "regencyORcity": "KOTA SOLOK",
+    "province": "SUMATERA BARAT",
+    "phone": "(0755) 22815, 22816, 324846"
+  }
+]

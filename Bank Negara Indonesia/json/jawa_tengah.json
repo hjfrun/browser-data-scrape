@@ -1,0 +1,1458 @@
+[
+  {
+    "location": "BANJARNEGARA",
+    "address": "JL. DIPAYUDA NO. 7-8 - BANJARNEGARA",
+    "regencyORcity": "KAB. BANJARNEGARA",
+    "province": "JAWA TENGAH",
+    "phone": "(0286) 592475"
+  },
+  {
+    "location": "KLAMPOK",
+    "address": "JL. RAYA BANJARNEGARA BANYUMAS, DESA PURWOREJO RT 02 RW 04, KAB. BANJARNEGARA",
+    "regencyORcity": "KAB. BANJARNEGARA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PP INDONESIA POWER",
+    "address": "JL. RAYA BANYUMAS 8, KAB BANJARNEGARA",
+    "regencyORcity": "KAB. BANJARNEGARA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "AJIBARANG",
+    "address": "JL. RAYA PANCASAN NO.33 AJIBARANG, KAB. BANYUMAS",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)571223"
+  },
+  {
+    "location": "DUKUHWALUH D/H UNIV. MUHAMMADIYAH PURWOKERTO",
+    "address": "JL. SENOPATI NO.38, DS. DUKUH WALUH KEC.KEMBARAN KAB. BANYUMAS, JAWA TENGAH",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)6572324"
+  },
+  {
+    "location": "KARANGLEWAS",
+    "address": "RAYA KARANGLEWAS – AJIBARANG, KEC. KARANGLEWAS, KAB. BANYUMAS, JAWA TENGAH",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "0281-7773477"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. JEND. SUDIRMAN NO. 137 - PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "OVERSTE ISDIMAN D/H RS ELISABETH",
+    "address": "JL. OVERSTE ISDIMAN, KOTA PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281) 6574957"
+  },
+  {
+    "location": "PASAR WAGE",
+    "address": "JL. JEND. SUDIRMAN NO.846 - PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)637831,633323"
+  },
+  {
+    "location": "PP JAMSOSTEK PURWOKERTO",
+    "address": "JL. LET. JEND. S. PARMAN NO. 80 PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)642481"
+  },
+  {
+    "location": "PURWOKERTO",
+    "address": "JL. JEND. SUDIRMAN NO. 137 - PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)637505,635620,638217,6381808,635348,636180"
+  },
+  {
+    "location": "SOKARAJA",
+    "address": "JL. JEND. SUDIRMAN NO. 131 SOKARAJA",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)694065"
+  },
+  {
+    "location": "SUMPIUH",
+    "address": "JL. RAYA SUMPIUH NO. 185 KAB. BANYUMAS",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(028) 662389"
+  },
+  {
+    "location": "UNSOED",
+    "address": "JL. PROF. HR. BUNYAMIN NO. 129 - PURWOKERTO",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281) 631354, 631355"
+  },
+  {
+    "location": "WANGON",
+    "address": "JL. RAYA UTARA NO. 57 BANYUMAS",
+    "regencyORcity": "KAB. BANYUMAS",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)6849050"
+  },
+  {
+    "location": "BANDAR",
+    "address": "JL. RAYA BANDAR NO. 45, KAB. BATANG",
+    "regencyORcity": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0285) 4416176"
+  },
+  {
+    "location": "BATANG",
+    "address": "JL. JEND. SUDIRMAN NO. 266 BATANG",
+    "regencyORcity": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0285)392228,391464,391310"
+  },
+  {
+    "location": "LIMPUNG",
+    "address": "JL. RAYA LIMPUNG - BANYUPUTIH KM.01 KEC. LIMPUNG KABUPATEN BATANG",
+    "regencyORcity": "KAB. BATANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0285) 4468846"
+  },
+  {
+    "location": "BLORA",
+    "address": "JL A YANI NO.15A - BLORA",
+    "regencyORcity": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "phone": "(0296) 532505"
+  },
+  {
+    "location": "CEPU",
+    "address": "JL. PEMUDA NO. 76 - CEPU",
+    "regencyORcity": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "phone": "(0296)421656,421902,423610"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PEMUDA NO. 76 - CEPU",
+    "regencyORcity": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "RANDUBLATUNG",
+    "address": "JL. RONGGOLAWE WULUNG NO.85,RANDUBLATUNG",
+    "regencyORcity": "KAB. BLORA",
+    "province": "JAWA TENGAH",
+    "phone": "(0296)811016"
+  },
+  {
+    "location": "ADI SOEMARMO",
+    "address": "JL. ADI SOEMARMO, NGESREP, NGEMPLAK, BOYOLALI, JAWA TENGAH",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "0271-8591171"
+  },
+  {
+    "location": "AMPEL",
+    "address": "JL. RAYA SOLO - SEMARANG NO. 07 AMPEL, BOYOLALI",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "(0276) 3288033"
+  },
+  {
+    "location": "BOYOLALI",
+    "address": "JL.PANDANARAN NO.154 B KEL. PULISEN, KEC. BOYOLAI, KAB. BOYOLALI",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "(0276)321972,321973"
+  },
+  {
+    "location": "KARANG GEDE",
+    "address": "JL. PRAWIRO DIGDOYO, KAB. BOYOLALI",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.PANDANARAN NO.154 B KEL. PULISEN, KEC. BOYOLAI, KAB. BOYOLALI",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PEMKAB BOYOLALI",
+    "address": "KOMPLEK PERKANTORAN TERPADU KABUPATEN BOYOLALI, JL. MERDEKA TIMUR, KAB. BOYOLALI",
+    "regencyORcity": "KAB. BOYOLALI",
+    "province": "JAWA TENGAH",
+    "phone": "(0276) 3280185"
+  },
+  {
+    "location": "BREBES",
+    "address": "JL. A. YANI NO. 112, BREBES",
+    "regencyORcity": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "phone": "(0283)672779"
+  },
+  {
+    "location": "BUMIAYU",
+    "address": "JL. DIPONEGORO NO. 448 KALIARENG, BUMIAYU",
+    "regencyORcity": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "phone": "(0289)430661,430662"
+  },
+  {
+    "location": "KETANGGUNGAN",
+    "address": "JL. DIPONEGORO NO.141 KETANGGUNGAN DS.DUKUH TENGAH KEC.KETANGGUNGAN, KAB. BREBES",
+    "regencyORcity": "KAB. BREBES",
+    "province": "JAWA TENGAH",
+    "phone": "(0285)881846"
+  },
+  {
+    "location": "ADIPALA",
+    "address": "JL. A. YANI ADIPALA, CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282) 5264053"
+  },
+  {
+    "location": "CILACAP",
+    "address": "JL. JEND. A. YANI NO. 32 - CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282) 521946 hunting ke 534221,533967,533284,5353285, 534205, 520455"
+  },
+  {
+    "location": "GATOT SUBROTO CILACAP",
+    "address": "JL. JEND. GATOT SUBROTO NO. 132, KAB. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282)5227146"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. A. YANI NO. 32 - CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAWUNGANTEN",
+    "address": "JL. RAYA KAWUNGANTEN- CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0280)5260500"
+  },
+  {
+    "location": "KROYA",
+    "address": "JL. JEND. SUDIRMAN NO. 36, KROYA - CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282)492152"
+  },
+  {
+    "location": "MAJENANG",
+    "address": "JL. DIPONEGORO NO.24, MAJENANG - CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0280)622099"
+  },
+  {
+    "location": "MT HARYONO",
+    "address": "JL. M.T. HARYONO LOMANIS, KAB. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282) 531457"
+  },
+  {
+    "location": "PP JAMSOSTEK CILACAP",
+    "address": "JL. MT HARYONO NO. 18. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)642481"
+  },
+  {
+    "location": "PP PERTAMINA RU IV CILACAP",
+    "address": "GEDUNG PERTAMINA JL. MT HARYONO",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "085657976767"
+  },
+  {
+    "location": "PP RS APRILIA",
+    "address": "JL. JEND. GATOT SUBROTO NO.95 KAB. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "085647892222"
+  },
+  {
+    "location": "SAMPANG",
+    "address": "JL. RAYA TUGU BARAT NO. 1 KAB. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0282)697236"
+  },
+  {
+    "location": "SIDAREJA",
+    "address": "JL. YOS SUDARSO NO. 40 KAB. CILACAP",
+    "regencyORcity": "KAB. CILACAP",
+    "province": "JAWA TENGAH",
+    "phone": "(0280) 523461"
+  },
+  {
+    "location": "DEMAK",
+    "address": "JL.SULTAN PATAH NO.11, DEMAK",
+    "regencyORcity": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)685946,685646"
+  },
+  {
+    "location": "MRANGGEN",
+    "address": "JL. BANDUNGREJO, MRANGGEN, KABUPATEN DEMAK",
+    "regencyORcity": "KAB. DEMAK",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 6773256"
+  },
+  {
+    "location": "GUBUG",
+    "address": "JL. M.T. HARYONO NO. 9 RT 001 RW 008, DESA GUBUG, GROBOGAN",
+    "regencyORcity": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "phone": "(0292) 5137007"
+  },
+  {
+    "location": "PURWODADI",
+    "address": "JL.LETJEN.SUPRAPTO NO.128, PURWODADI",
+    "regencyORcity": "KAB. GROBOGAN",
+    "province": "JAWA TENGAH",
+    "phone": "(0292)421206,422580,422581"
+  },
+  {
+    "location": "BANGSRI",
+    "address": "JL. RAYA BANGSRI RT 72 RW 18 BANGSRI - JEPARA",
+    "regencyORcity": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)772067"
+  },
+  {
+    "location": "JEPARA",
+    "address": "JL. PEMUDA NO. 11-A - JEPARA",
+    "regencyORcity": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)591346"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PEMUDA NO. 11-A - JEPARA",
+    "regencyORcity": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "MARGOYOSO",
+    "address": "JL. RAYA GOTRI NO. 40 DS. MARGOYOSO RT 01/02 , KEC. KALINYAMATAN, KAB. JEPARA",
+    "regencyORcity": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)755782"
+  },
+  {
+    "location": "PLTU TANJUNG JATI B",
+    "address": "KAWASAN PROYEK PLTU TANJUNG JATI B JEPARA",
+    "regencyORcity": "KAB. JEPARA",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)7730676"
+  },
+  {
+    "location": "JATEN",
+    "address": "JL. LAWU NO. 115 . KEC. JATEN, KEL. JATEN, KAB. KARANG ANYAR",
+    "regencyORcity": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "phone": "(0271) 7881234"
+  },
+  {
+    "location": "KARANGANYAR",
+    "address": "JL. LAWU NO 396 KARANGANYAR",
+    "regencyORcity": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)495266"
+  },
+  {
+    "location": "PALUR",
+    "address": "JL. RAYA PALUR, NGRINGO, JATEN, KARANGANYAR",
+    "regencyORcity": "KAB. KARANGANYAR",
+    "province": "JAWA TENGAH",
+    "phone": "(0271) 821386, 821387"
+  },
+  {
+    "location": "GOMBONG",
+    "address": "JL. YOS SUDARSO NO. 419, GOMBONG - KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0287)471109,472746"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. PAHLAWAN NO. 140 - KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KEBUMEN",
+    "address": "JL. PAHLAWAN NO. 140 - KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0287)381446,381541"
+  },
+  {
+    "location": "PANJER",
+    "address": "JL. RAYA KUTOARJO NO. 92, KAB. KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "085227441617"
+  },
+  {
+    "location": "PETANAHAN",
+    "address": "JL. RAYA PETANAHAN (GG. TUMBAKERIS) RT 002 RW 003 PETANAHAN, KAB. KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0287) 3873346"
+  },
+  {
+    "location": "PREMBUN",
+    "address": "JL. RAYA NO. 153, PREMBUN - KEBUMEN",
+    "regencyORcity": "KAB. KEBUMEN",
+    "province": "JAWA TENGAH",
+    "phone": "(028) 662389"
+  },
+  {
+    "location": "BOJA",
+    "address": "JL. PEMUDA NO.141 BOJA, KAB. KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0294)571333"
+  },
+  {
+    "location": "KALIWUNGU D/H TEXMACO",
+    "address": "JL. RAYA TIMUR NO. 92B KEL. KUTOHARJO,KEC. KALIWUNGU,KAB. KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0294) 385321"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PEMUDA NO. 15 A, KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KENDAL",
+    "address": "JL. PEMUDA NO. 15 A, KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0294)381195,382501"
+  },
+  {
+    "location": "PEGANDON",
+    "address": "JL.RAYA PEGANDON-PATEMON SUNAN ABINAWA NO.91",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "0294 3686570"
+  },
+  {
+    "location": "PP BPJS TK KENDAL",
+    "address": "JL RAYA SOEKARNO HATTA NO.311 KEC. KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0294) 3690180"
+  },
+  {
+    "location": "SUKOREJO",
+    "address": "JL. RAYA SUKOREJO - PARAKAN, KEC. SUKOREJO, KAB. KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "08156548324"
+  },
+  {
+    "location": "WELERI",
+    "address": "JL. RAYA UTAMA NO.250 WELERI, KENDAL",
+    "regencyORcity": "KAB. KENDAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0294)641148"
+  },
+  {
+    "location": "DELANGGU",
+    "address": "JL. RAYA DELANGGU NO. 66, DELANGGU - KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0272)555577"
+  },
+  {
+    "location": "JATINOM",
+    "address": "JL. RAYA JATINOM, KAB. KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PEMUDA SELATAN NO. 49, - KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KLATEN",
+    "address": "JL. PEMUDA SELATAN NO. 49, - KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0272)322807,322808, 322809, 322895, 320403"
+  },
+  {
+    "location": "KLATEN KOTA",
+    "address": "JL. PEMUDA TENGAH NO.35 KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0272)324246"
+  },
+  {
+    "location": "PEDAN",
+    "address": "JL. RAYA TIMUR PASAR PEDAN, KLATEN KALANGAN,RT.03 RW.01, SOBAYAN PEDAN, KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0272) 898058"
+  },
+  {
+    "location": "PRAMBANAN",
+    "address": "JL. RAYA JOGJA-SOLO KM.17 TLOGO, PRAMBANAN, KLATEN",
+    "regencyORcity": "KAB. KLATEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0274)496613"
+  },
+  {
+    "location": "JEKULO",
+    "address": "JL. RAYA KUDUS - PATI, DESA JEKULO, KECAMATAN JEKULO, KAB. KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "(0291) 4246430"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JEND. A. YANI NO. 55 - KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KUDUS",
+    "address": "JL. JEND. A. YANI NO. 55 - KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)431668,431981"
+  },
+  {
+    "location": "PASAR KLIWON",
+    "address": "JL. JEND.SUDIRMAN, KEL. NGANGGUK, KEC. KOTA, KAB. KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "(0291)2912746"
+  },
+  {
+    "location": "PR SUKUN",
+    "address": "DESA GONDOSARI, KEC. GOBOG, KAB. KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "(0291) 433339"
+  },
+  {
+    "location": "PRAMBATAN",
+    "address": "JL. KUDUS - JEPARA, DESA PRAMBATAN, KEC. KALIWUNGU, KAB. KUDUS",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "(0291) 4101946"
+  },
+  {
+    "location": "UNDAAN",
+    "address": "JL. RAYA KUDUS PURWODADI KM 15",
+    "regencyORcity": "KAB. KUDUS",
+    "province": "JAWA TENGAH",
+    "phone": "0291 2912845"
+  },
+  {
+    "location": "GRABAG",
+    "address": "JL. KYAI SIRAJ, KEC. GRABAG, KAB. MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293) 3148346"
+  },
+  {
+    "location": "METROSQUARE",
+    "address": "RUKO METRO SQUARE F. 27-28 JL. MAYJEND BAMBANG SOEGENG MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293) 3218046"
+  },
+  {
+    "location": "MUNGKID",
+    "address": "JL. LETJEN. TUKIYAT, RT I/RW 3 LINGKUNGAN NGENTAK 1, SAWITAN, MUNGKID, MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)788240"
+  },
+  {
+    "location": "MUNTILAN",
+    "address": "JL. PEMUDA NO. 3B, MUNTILAN - MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)587070,587816"
+  },
+  {
+    "location": "REJOWINANGUN",
+    "address": "JL. JEND. SUDIRMAN NO.44 MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)369382"
+  },
+  {
+    "location": "TANJUNG",
+    "address": "RUKO C GRAND TANJUNG, JL. MAGELANG - PURWOREJO, KAB. MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "TARUNA NUSANTARA",
+    "address": "JL. KYAI SIRAJ, KEC. GRABAG, KAB. MAGELANG",
+    "regencyORcity": "KAB. MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293) 3148346"
+  },
+  {
+    "location": "GABUS",
+    "address": "JL. RAYA PATI - GABUS KM 11 RT 002/002 KECAMATAN GABUS, KABUPATEN PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 4199019"
+  },
+  {
+    "location": "JUWANA",
+    "address": "JL. P. SUDIRMAN RUKO PLASA NO.10- JUWANA-PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295)472233"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PANGLIMA SUDIRMAN NO. 55 - PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "NGEMPLAK",
+    "address": "JL.RAYA PATI - TAYU KM.18 RT 03 RW 01 DESA NGEMPLAK KIDUL, KEC. MARGOYOSO, KAB. PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 4150746"
+  },
+  {
+    "location": "PATI",
+    "address": "JL. PANGLIMA SUDIRMAN NO. 55 - PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 381335,381227,381117, 382934, 384515"
+  },
+  {
+    "location": "SUKOLILO",
+    "address": "JL. RAYA PATI-PURWODADI KM. 27 SUKOLILO, PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 4101376"
+  },
+  {
+    "location": "TAYU",
+    "address": "JL. PANGLIMA SUDIRMAN NO. 70 TAYU, KAB. PATI",
+    "regencyORcity": "KAB. PATI",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 4590003"
+  },
+  {
+    "location": "KEDUNGWUNI",
+    "address": "JL. PAESAN UTARA NO. 64 RT 002/RW 004, KEC. KEDUNGWUNI, KAB. PEKALONGAN.",
+    "regencyORcity": "KAB. PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "WIRADESA",
+    "address": "PUSAT PERDAGANGAN WIRAMALL, JL. A. YANI NO. 27 WIRADESA, PEKALONGAN",
+    "regencyORcity": "KAB. PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "phone": "(0285) 411946"
+  },
+  {
+    "location": "COMAL",
+    "address": "JL. AHMAD YANI NO.14 COMAL, KAB. PEMALANG",
+    "regencyORcity": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0258)-4475810"
+  },
+  {
+    "location": "PEMALANG",
+    "address": "JL.JEND.SUDIRMAN NO.9 PEMALANG",
+    "regencyORcity": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0284)321712"
+  },
+  {
+    "location": "RANDUDONGKAL",
+    "address": "JL. JENDRAL SUDIRMAN, KEL. RANDUDONGKAL, KEC. RANDUDONGKAL, KAB. PEMALANG",
+    "regencyORcity": "KAB. PEMALANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0284) 3287211"
+  },
+  {
+    "location": "BOBOTSARI D/H KK BOBOT SARI",
+    "address": "JL. KOL. SUGIRI NO. 61 BOBOTSARI PURBALINGGA",
+    "regencyORcity": "KAB. PURBALINGGA",
+    "province": "JAWA TENGAH",
+    "phone": "(0281)758326"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. ONJE NO. 2 - PURBALINGGA",
+    "regencyORcity": "KAB. PURBALINGGA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PURBALINGGA",
+    "address": "JL. ONJE NO. 2 - PURBALINGGA",
+    "regencyORcity": "KAB. PURBALINGGA",
+    "province": "JAWA TENGAH",
+    "phone": "(0281) 891061, 891232, 891231, 891233, 891461"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.JEND.A.YANI NO.253, PURWOREJO",
+    "regencyORcity": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KUTOARJO",
+    "address": "JL.DIPONEGORO NO.156, KUTOARJO",
+    "regencyORcity": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0275)642077"
+  },
+  {
+    "location": "PURWOREJO",
+    "address": "JL.JEND.A.YANI NO.253, PURWOREJO",
+    "regencyORcity": "KAB. PURWOREJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0275)321088,321196, 324933,325447,325448"
+  },
+  {
+    "location": "LASEM",
+    "address": "JL. UNTUNG SUROPATI NO. 73 KARANGTURI, KEC. LASEM, KAB. REMBANG",
+    "regencyORcity": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 531055"
+  },
+  {
+    "location": "REMBANG",
+    "address": "JL. PEMUDA NO.51 REMBANG",
+    "regencyORcity": "KAB. REMBANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0295) 692740,692330"
+  },
+  {
+    "location": "AMBARAWA",
+    "address": "JL JEND. SUDIRMAN NO. 27 A AMBARAWA D/H JL.JEND.SUDIRMAN NO.68, AMBARAWA",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0298)591855"
+  },
+  {
+    "location": "BANDUNGAN",
+    "address": "JL. TIRTOMOYO, KAB. SEMARANG",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KARANGJATI",
+    "address": "JL. RAYA UNGARAN-BAWEN KM 26 DESA TEGALSARI, KEL BERGAS LOR, KEC. BERGAS, KAB. SEMARANG",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0298) 523542"
+  },
+  {
+    "location": "PP PT. JAMSOSTEK UNGARAN",
+    "address": "PT. JAMSOSTEK (PERSERO) UNGARAN, JL. RAYA SOEKARNO HATTA NO. 10 UNGARAN, KABUPATEN SEMARANG.",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "SURUH",
+    "address": "JL. RAYA SURUH SALATIGA KM 1 RT 001 RW 001, KEL. SURUH, KEC. SURUH, KAB. SEMARANG",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0298) 317268"
+  },
+  {
+    "location": "UNGARAN",
+    "address": "JL. DIPONEGORO NO 242, UNGARAN",
+    "regencyORcity": "KAB. SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)6923346,6923446"
+  },
+  {
+    "location": "GEMOLONG",
+    "address": "JL. GATOT SUBROTO, DKH SIDOMULYO, DS. NGEMBATPADAS, KEC. GEMOLONG, KAB. SRAGEN",
+    "regencyORcity": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)8500925"
+  },
+  {
+    "location": "SRAGEN",
+    "address": "JL. SUKOWATI NO. 131, SRAGEN, KOMPL. ATRIUM",
+    "regencyORcity": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)892544,890019"
+  },
+  {
+    "location": "SUKOWATI",
+    "address": "JL. RAYA SUKOWATI NO. 422, KAB. SRAGEN",
+    "regencyORcity": "KAB. SRAGEN",
+    "province": "JAWA TENGAH",
+    "phone": "(0272)324246"
+  },
+  {
+    "location": "GENTAN",
+    "address": "JL. RAYA SONGGOLANGIT, GENTAN, BAKI, KAB. SUKOHARJO, JAWA TENGAH",
+    "regencyORcity": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "phone": "02717463308"
+  },
+  {
+    "location": "KARTASURA",
+    "address": "JL. AHMAD YANI NO. 81 TEGALSARI LOR RT. 01 RW. 04, KEL. KARTASURA, KEC. KARTASURA, KAB. SUKOHARJO",
+    "regencyORcity": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)780064"
+  },
+  {
+    "location": "SOLO BARU",
+    "address": "JL. RAYA SOLO PERMAI HC-02 - SUKOHARJO, KOMP. RUKO SOLO BARU",
+    "regencyORcity": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0271) 621574,624890"
+  },
+  {
+    "location": "SUKOHARJO",
+    "address": "JL.JEND.SUDIRMAN NO.77, SUKOHARJO",
+    "regencyORcity": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)593123,593155"
+  },
+  {
+    "location": "UNIV. MUHAMMADIYAH D/H KK. UNIV.MUHAMMADIYAH",
+    "address": "JL. GARUDA MAS NO.17 RT 03 RW 03, PABELAN, KARTASURA, SUKOHARJO",
+    "regencyORcity": "KAB. SUKOHARJO",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)727036,727046"
+  },
+  {
+    "location": "BANJARAN D/H SAPURAN (KCU WONOSOBO)",
+    "address": "JL. RAYA UTARA NO. 21 BANJARAN KEC. ADIWERNA KAB. TEGAL",
+    "regencyORcity": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283) 443618"
+  },
+  {
+    "location": "JATIBARANG",
+    "address": "JL. RAYA BARAT, DS. JATIBARANG KIDUL, KEC. JATIBARANG",
+    "regencyORcity": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283) 4514733"
+  },
+  {
+    "location": "MARGASARI",
+    "address": "JL. RAYA MARGASARI, KEL. KARANGDAWA, KEC. MARGASARI, KAB. TEGAL",
+    "regencyORcity": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0284) 4690049"
+  },
+  {
+    "location": "SLAWI",
+    "address": "JL.JEND.SUDIRMAN NO.32 A-B, SLAWI",
+    "regencyORcity": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283)492061"
+  },
+  {
+    "location": "SURADADI",
+    "address": "JL. RAYA TEGAL PEMALANG RT 01 / RW 07 SURADADI",
+    "regencyORcity": "KAB. TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "081901084646"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.LETJEN.SUPRAPTO NO.11-A, TEMANGGUNG",
+    "regencyORcity": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "NGADIREJO",
+    "address": "DESA PATIREJO, JL. RAYA NGADIREJO-PARAKAN, NGADIREJO, KAB. TEMANGGUNG",
+    "regencyORcity": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293) 5921746"
+  },
+  {
+    "location": "PARAKAN",
+    "address": "JL. DIPONEGORO NO.147 PARAKAN, KAB. TEMANGGUNG",
+    "regencyORcity": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)596020"
+  },
+  {
+    "location": "TEMANGGUNG",
+    "address": "JL.LETJEN.SUPRAPTO NO.11-A, TEMANGGUNG",
+    "regencyORcity": "KAB. TEMANGGUNG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)491197,491464"
+  },
+  {
+    "location": "BATURETNO",
+    "address": "JL. RAYA BATURETNO - PACITAN, BATURETNO, WONOGIRI",
+    "regencyORcity": "KAB. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "phone": "(0273)462323,462117,3302223"
+  },
+  {
+    "location": "JATISRONO",
+    "address": "JL. RAYA PURWANTORO-WONOGIRI KM 26, JATSRONO, WONOGIRI",
+    "regencyORcity": "KAB. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "phone": "(0273)411763,411766"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.JEND.A.YANI NO.222, WONOGIRI",
+    "regencyORcity": "KAB. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "WONOGIRI",
+    "address": "JL.JEND.A.YANI NO.222, WONOGIRI",
+    "regencyORcity": "KAB. WONOGIRI",
+    "province": "JAWA TENGAH",
+    "phone": "(0273)321453,321454,321316, 322459,323740,323865"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.A.YANI NO.102, WONOSOBO",
+    "regencyORcity": "KAB. WONOSOBO",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KERTEK",
+    "address": "JL.SINDORO SUMBING KM 0,3 CAMPURSARI KERTEK, KEL. KERTEK, KEC. KERTEK, KAB. WONOSOBO",
+    "regencyORcity": "KAB. WONOSOBO",
+    "province": "JAWA TENGAH",
+    "phone": "(0286)329017"
+  },
+  {
+    "location": "WONOSOBO",
+    "address": "JL.A.YANI NO.102, WONOSOBO",
+    "regencyORcity": "KAB. WONOSOBO",
+    "province": "JAWA TENGAH",
+    "phone": "(0286)321130,321140, 321419, 324982"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. PAHLAWAN NO. 1 - MAGELANG",
+    "regencyORcity": "KOTA MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "MAGELANG",
+    "address": "JL. PAHLAWAN NO. 1 - MAGELANG",
+    "regencyORcity": "KOTA MAGELANG",
+    "province": "JAWA TENGAH",
+    "phone": "(0293)362961,362575"
+  },
+  {
+    "location": "BUARAN",
+    "address": "JL. URIP SUMOHARJO 171, PRINGLANGU, PEKALONGAN BARAT, KOTA PEKALONGAN",
+    "regencyORcity": "KOTA PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "phone": "(0285) 4460454"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. IMAM BONJOL NO. 59 - PEKALONGAN",
+    "regencyORcity": "KOTA PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PEKALONGAN",
+    "address": "JL. IMAM BONJOL NO. 59 - PEKALONGAN",
+    "regencyORcity": "KOTA PEKALONGAN",
+    "province": "JAWA TENGAH",
+    "phone": "(0285)423045,423046"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.JEND.SUDIRMAN NO.3, SALATIGA",
+    "regencyORcity": "KOTA SALATIGA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "SALATIGA",
+    "address": "JL.JEND.SUDIRMAN NO.3, SALATIGA",
+    "regencyORcity": "KOTA SALATIGA",
+    "province": "JAWA TENGAH",
+    "phone": "(0298)323150, 316628, 321251, 323145, 323148, 323857, 321601"
+  },
+  {
+    "location": "UNIV. KRISTEN SATYA WACANA",
+    "address": "JL.DIPONEGORO NO.52-60, SALATIGA",
+    "regencyORcity": "KOTA SALATIGA",
+    "province": "JAWA TENGAH",
+    "phone": "(0298)312819"
+  },
+  {
+    "location": "BANDARA AHMAD YANI",
+    "address": "BANDARA AHMAD YANI SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)33044695"
+  },
+  {
+    "location": "BANYUMANIK",
+    "address": "JL. JATI RAYA G/1 KELURAHAN SRONDOL WETAN, KEC. BANYUMANIK, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8455938"
+  },
+  {
+    "location": "BPJSTK MAJAPAHIT",
+    "address": "JL. BRIGJEND SUDIARTO NO. 4 KEC PEDURUNGAN",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 76747997"
+  },
+  {
+    "location": "BSB",
+    "address": "RUKO TAMAN NIAGA F6 BSB, JL. RAYA SEMARANG YOGYAKARTA KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 76674167"
+  },
+  {
+    "location": "CANDI",
+    "address": "JL. SULTAN AGUNG NO.104-106 KAV.15 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 33044693, 33044694"
+  },
+  {
+    "location": "DR. CIPTO SEMARANG",
+    "address": "JL. DR. CIPTO 128 KEL.REJOSARI KEC. SEMARANG TIMUR KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8440345"
+  },
+  {
+    "location": "EMERALD SEMARANG",
+    "address": "JL. AHMAD YANI NO. 163 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8414220"
+  },
+  {
+    "location": "GAJAH",
+    "address": "JL. GAJAH NO.8 SEMARANG, KAWASAN PERTOKOAN GAJAH",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)6715349"
+  },
+  {
+    "location": "GAYAMSARI",
+    "address": "JL. MAJAPAHIT NO. 376 KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 700173"
+  },
+  {
+    "location": "JALAN PEMUDA SEMARANG D/H PANDANARAN",
+    "address": "JL. PANDARAN NO. 21 - SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)8450479, 8450481"
+  },
+  {
+    "location": "JOMBLANG",
+    "address": "JL. SRIWIJAYA NO.73 C, KELURAHAN CANDI, KECAMATAN CANDISARI, KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)8451779,8451780"
+  },
+  {
+    "location": "KARANGAYU",
+    "address": "JL. JEND. SUDIRMAN NO. 195 - SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)7605502,7604476"
+  },
+  {
+    "location": "KARANGTURI",
+    "address": "JL. MT HARYONO NO.525 KEC. SEMARANG TENGAH, KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 455938"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.LETJEN.MT.HARYONO NO.16, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.LETJEN.MT.HARYONO NO.16, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 195 - SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.IMAM BARDJO SH NO.1, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KEDUNGMUNDU",
+    "address": "JL. KEDUNG MUNDU RAYA NO. B1 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 6773256"
+  },
+  {
+    "location": "KRANGGAN",
+    "address": "JL. GANG PINGGIR NO. 26C, KRANGGAN, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 355762"
+  },
+  {
+    "location": "MANYARAN",
+    "address": "JL. ABDULRAHMAN SALEH NO.199 A KEL. KEMBANGARUM KEC. SEMARANG BARAT",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 76432242"
+  },
+  {
+    "location": "MAYJEND SUTOYO D/H GAJAHMADA",
+    "address": "JL. MAYJEND SUTOYO NO 09 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 76443370"
+  },
+  {
+    "location": "NGALIYAN D/H.KRAPYAK",
+    "address": "RUKO NGALIYAN SQUARE JL. PROF HAMKA NO.17 KAV. 15 NGALIYAN, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 33045656"
+  },
+  {
+    "location": "PAMULARSIH",
+    "address": "JL. PAMULARSIH RAYA NO 99, KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)76670262"
+  },
+  {
+    "location": "PANDANARAN",
+    "address": "JL. PANDANARAN NO.88 KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)8446946"
+  },
+  {
+    "location": "PERTAMINA MOR IV",
+    "address": "JL. PEMUDA NO. 114, KEL. SEKAYU, KEC. SEMARANG TENGAH , KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PERUMPEL III",
+    "address": "JL.COASTER NO.10, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)3564533,3564534"
+  },
+  {
+    "location": "PLN DISTRIBUSI JATENG DAN DIY DH. PAYMENT POINT PLN JATENG DAN DIY",
+    "address": "GEDUNG PLN DISTRIBUSI JATENG & DIY JL. TEUKU UMAR NO.47 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8503310"
+  },
+  {
+    "location": "POLTEK ILMU PELAYARAN SEMARANG",
+    "address": "JL. SINGOSARI 2A SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)8311527"
+  },
+  {
+    "location": "PP DAOP IV PT.KAI",
+    "address": "JL. MH THAMRIN NO.3 SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PP POLRESTABES SEMARANG",
+    "address": "JL. DR. SUTOMO IV NO 19 BARUSARI, SEMARANG SELATAN",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PP PT BPJS KESEHATAN",
+    "address": "JL. SULTAN AGUNG NO. 144, KOTA SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)3515573"
+  },
+  {
+    "location": "PURI ANJASMORO",
+    "address": "JL. PURI ANJASMORO BLOK E-1 NO.20 C SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 7625653"
+  },
+  {
+    "location": "SEMARANG",
+    "address": "JL.LETJEN.MT.HARYONO NO.16, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 3515573 - 576"
+  },
+  {
+    "location": "SRONDOL",
+    "address": "JL. SETIABUDI NO. 117 BLOK A1,SRONDOL WETAN, BANUMANIK, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024)7461702"
+  },
+  {
+    "location": "TEMBALANG",
+    "address": "JL.BANYUPUTIH TEMBALANG, SEMARANG - 50275, KAMPUS UNDIP",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 70765688"
+  },
+  {
+    "location": "UNIV. DIPONEGORO SEMARANG",
+    "address": "JL.IMAM BARDJO SH NO.1, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8413533, 8316410, 8313500, 8453114, 8443044, 8317160, 8454518, 8318824, 8452865, 8452866, 8452265, 8454888, 8313072, 8319999, 8310398, 8310399, 8310199, 8310397, 8452201, 8452264, 8453115, 8314380, 8454517"
+  },
+  {
+    "location": "UNIV. NEGERI SEMARANG D/H IKIP NEGERI",
+    "address": "KAMPUS UNNES JL. SEKARAN GUNUNG PATI, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 8508040"
+  },
+  {
+    "location": "UNIVERSITAS SEMARANG D/H KK UNIV. SEMARANG",
+    "address": "KAMPUS II USM JL. RAYA SUKARNO HATTA",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 6703855"
+  },
+  {
+    "location": "WILAYAH 05 - SEMARANG",
+    "address": "JL. LETJEN. MT. HARYONO NO. 16, SEMARANG",
+    "regencyORcity": "KOTA SEMARANG",
+    "province": "JAWA TENGAH",
+    "phone": "(024) 3556747, 3556746, 3515580, 3544540, 3543007"
+  },
+  {
+    "location": "BPJS TK SURAKARTA",
+    "address": "JL. BHAYANGKARA NO.62, LAWEYAN, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271) 644371"
+  },
+  {
+    "location": "KAMPUS UNS",
+    "address": "JL.IR.SUTAMI NO.36-A, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)651178,651189"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. SLAMET RIYADI NO. 348 - SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.ARIFIN NO.2, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "KK ADI SUCIPTO D/H BANDARA ADI SUMARMO",
+    "address": "JL. ADI SUCIPTO 113, JAJAR, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)720987"
+  },
+  {
+    "location": "MOJOSONGO",
+    "address": "JL. TANGKUBAN PERAHU, MOJOSONGO, JEBRES, KOTA SURAKARTA, JAWA TENGAH",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "0271-8591171"
+  },
+  {
+    "location": "NUSUKAN",
+    "address": "JL. KAPTEN PIERE TENDEAN, KOTA SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)718970, 719741, 738235"
+  },
+  {
+    "location": "PASAR KLEWER",
+    "address": "JL. K.H. HASYIM ASHARI NO. 63 - SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)636292,662567"
+  },
+  {
+    "location": "PASAR LEGI",
+    "address": "JL. LETJEN. S. PARMAN NO. 26 - SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271) 651733,634062"
+  },
+  {
+    "location": "PP UNISRI",
+    "address": "JL. SUMPAH PEMUDA NO.18 KADIPIRO",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PP UNIVERSITAS SAHID SURAKARTA",
+    "address": "JL. ADI SUCIPTO, KOTA SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "RSI KUSTATI",
+    "address": "JL. KAPTEN MULYADI NO.343 PASAR KLIWON-SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)648803,668288,"
+  },
+  {
+    "location": "SLAMET RIYADI SOLO D/H PSR. KLEWER",
+    "address": "JL. SLAMET RIYADI NO. 348 - SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)732983, 732984, 732981 -88,732985"
+  },
+  {
+    "location": "SURAKARTA",
+    "address": "JL.ARIFIN NO.2, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)644371,645046"
+  },
+  {
+    "location": "UNIV SEBELAS MARET",
+    "address": "JL. IR. SUTAMI NO. 76, SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)647648,651194"
+  },
+  {
+    "location": "VETERAN",
+    "address": "JL. VETERAN NO. 206, KOTA SURAKARTA",
+    "regencyORcity": "KOTA SURAKARTA",
+    "province": "JAWA TENGAH",
+    "phone": "(0271)630534"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.MAYJEN.SUTOYO NO.50, TEGAL",
+    "regencyORcity": "KOTA TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR PAGI TEGAL",
+    "address": "JL. AHMAD YANI, TEGAL",
+    "regencyORcity": "KOTA TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283) 4532886"
+  },
+  {
+    "location": "PP BPJS KETENAGAKERJAAN",
+    "address": "JL. MT HARYONO NO.7 TEGALSARI TEGAL BARAT",
+    "regencyORcity": "KOTA TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283) 341545"
+  },
+  {
+    "location": "TEGAL",
+    "address": "JL.MAYJEN.SUTOYO NO.50, TEGAL",
+    "regencyORcity": "KOTA TEGAL",
+    "province": "JAWA TENGAH",
+    "phone": "(0283)353334,351283,356520, 350013,324974, 324976,324975,356762, 354065,354066"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "location": "BOMBANA",
+    "address": "JL. YOS SUDARSO, KEC. RUMBIA, KAB. BOMBANA",
+    "regencyORcity": "KAB. BOMBANA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "081341074949"
+  },
+  {
+    "location": "PASAR WAJO",
+    "address": "JL. PROTOKOL , KEC. PASAR WAJO, KAB. BUTON",
+    "regencyORcity": "KAB. BUTON",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0402) 2810446"
+  },
+  {
+    "location": "BATAUGA",
+    "address": "JL. GAJAH MADA KEL. LAKAMBAU, KEC. BATAUGA, KAB. BUTON SELATAN",
+    "regencyORcity": "KAB. BUTON SELATAN",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "LOMBE",
+    "address": "JL. JEND. SUDIRMAN KEL. BOMBONWULU, KEC. GU, KAB. BUTON TENGAH",
+    "regencyORcity": "KAB. BUTON TENGAH",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "EREKE",
+    "address": "JL. PERKANTORAN SAREA, KAB. BUTON UTARA",
+    "regencyORcity": "KAB. BUTON UTARA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "0811407348"
+  },
+  {
+    "location": "KOLAKA",
+    "address": "JL. REPELITA NO.27, KOLAKA",
+    "regencyORcity": "KAB. KOLAKA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0405) 21400"
+  },
+  {
+    "location": "POMALAA",
+    "address": "JL. PROTOKOL POMALAA, KEL. DAWI-DAWI, POMALAA",
+    "regencyORcity": "KAB. KOLAKA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0405) 2310909"
+  },
+  {
+    "location": "KOLAKA TIMUR",
+    "address": "JL. HADI SUWANDA KEC.LADONGI KAB.KOLAKA TIMUR",
+    "regencyORcity": "KAB. KOLAKA TIMUR",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "KOLAKA UTARA",
+    "address": "JL. POROS MESJID RAYA, DESA PATOWANUA, KEC. LASUSUA, KAB. KOLAKA UTARA",
+    "regencyORcity": "KAB. KOLAKA UTARA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0405) 2330581"
+  },
+  {
+    "location": "UNAHA",
+    "address": "JL. SAPATI NO. 66 - UNAHA - KENDARI",
+    "regencyORcity": "KAB. KONAWE",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0408) 2422656"
+  },
+  {
+    "location": "KONAWE SELATAN",
+    "address": "JL. ABDULLAH SILONDAE, DESA NGAPAAHA, KEC. TINANGGEA, KAB. KONAWE SELATAN",
+    "regencyORcity": "KAB. KONAWE SELATAN",
+    "province": "SULAWESI TENGGARA",
+    "phone": "082194723696"
+  },
+  {
+    "location": "KONAWE UTARA",
+    "address": "JL, POROS TRANS SULAWESI NO. 186 KEL.WANGGUDU , KEC.ASERA , KAB.KONAWE UTARA",
+    "regencyORcity": "KAB. KONAWE UTARA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "082333316846"
+  },
+  {
+    "location": "RAHA",
+    "address": "JL.SUKOWATI NO.69, RAHA",
+    "regencyORcity": "KAB. MUNA",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0403) 22146"
+  },
+  {
+    "location": "WAKATOBI",
+    "address": "JL. A. YANI.,KEC. MANDATI, KAB. WAKTOBI",
+    "regencyORcity": "KAB. WAKATOBI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0404)21346"
+  },
+  {
+    "location": "BAU-BAU",
+    "address": "JL.KAPTEN TENDEAN NO.2, BAU-BAU",
+    "regencyORcity": "KOTA BAU BAU",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0402) 2821422, 2821747, 2821746, 2826144"
+  },
+  {
+    "location": "BETOAMBARI",
+    "address": "JL. BETOAMBARI NO 66, KEL. WAMEO, KEC. BATUPOARO, KOTA BAU BAU",
+    "regencyORcity": "KOTA BAU BAU",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.KAPTEN TENDEAN NO.2, BAU-BAU",
+    "regencyORcity": "KOTA BAU BAU",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "ANDUONOHU",
+    "address": "JL. MT HARYONO , ANDUONOHU, KOTA KENDARI",
+    "regencyORcity": "KOTA KENDARI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0401)3196955"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.DR.MOH.HATTA NO.69, KENDARI",
+    "regencyORcity": "KOTA KENDARI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "-"
+  },
+  {
+    "location": "KENDARI",
+    "address": "JL.DR.MOH.HATTA NO.69, KENDARI",
+    "regencyORcity": "KOTA KENDARI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0401) 321277, 321946, 321535, 322212, 322746, 326290, 326280"
+  },
+  {
+    "location": "LEPO LEPO",
+    "address": "JL. DI PANJAITAN, KEL. LEPO LEPO, KEC. BARUGA, KOTA KENDARI",
+    "regencyORcity": "KOTA KENDARI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0401) 3196622"
+  },
+  {
+    "location": "MANDONGA",
+    "address": "JL. DR. SAM RATULANGI NO. 10 MANDONGA, KOTA KENDARI",
+    "regencyORcity": "KOTA KENDARI",
+    "province": "SULAWESI TENGGARA",
+    "phone": "(0401) 326946"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "location": "SUNGAI LIAT",
+    "address": "JL. JEND. SUDIRMAN KOMPLEK RUKO PERMATA INDAH BLOK 1-3 SUNGAI LIAT",
+    "regencyORcity": "KAB. BANGKA",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0730) 92346, 92736"
+  },
+  {
+    "location": "MUNTOK",
+    "address": "JL. MS RAHMAN NO.212, KEC. MUNTOK,KAB. BANGKA BARAT",
+    "regencyORcity": "KAB. BANGKA BARAT",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0716)21059"
+  },
+  {
+    "location": "TOBOALI",
+    "address": "JL. SUDIRMAN, TOBOALI, KAB. BANGKA SELATAN",
+    "regencyORcity": "KAB. BANGKA SELATAN",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0718)41946"
+  },
+  {
+    "location": "KOBA",
+    "address": "JL. KENANGA NO.12 KOBA, KAB. BANGKA TENGAH",
+    "regencyORcity": "KAB. BANGKA TENGAH",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0718)61113"
+  },
+  {
+    "location": "TANJUNG PANDAN",
+    "address": "JL. MERDEKA NO. 11 - TANJUNG PANDAN",
+    "regencyORcity": "KAB. BELITUNG",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0719) 22472"
+  },
+  {
+    "location": "MANGGAR",
+    "address": "JL. JENDRAL SUDIRMAN NO. 120, MANGGAR, PANGKAL PINANG, KAB. BELITUNG TIMUR",
+    "regencyORcity": "KAB. BELITUNG TIMUR",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0719) 9225151"
+  },
+  {
+    "location": "BANGKA TRADE CENTRE",
+    "address": "KOMPLEK PERTOKOAN BANGKA TRADE CENTRE, JL. MS RACHMAN, PANGKAL PINANG",
+    "regencyORcity": "KOTA PANGKAL PINANG",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0717)4255037"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. JEND. SUDIRMAN NO. 120 - PANGKAL PINANG",
+    "regencyORcity": "KOTA PANGKAL PINANG",
+    "province": "BANGKA BELITUNG",
+    "phone": "-"
+  },
+  {
+    "location": "PANGKAL PINANG",
+    "address": "JL. JEND. SUDIRMAN NO. 120 - PANGKAL PINANG",
+    "regencyORcity": "KOTA PANGKAL PINANG",
+    "province": "BANGKA BELITUNG",
+    "phone": "(0717) 431946, 421845, 421846"
+  }
+]

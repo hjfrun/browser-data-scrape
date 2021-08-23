@@ -1,0 +1,1766 @@
+[
+  {
+    "location": "BALEENDAH",
+    "address": "JL. ADIPATI AGUNG NO. 49 RT 07/01 BALE ENDAH KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5945710, 5940269"
+  },
+  {
+    "location": "BANJARAN D/H PANGALENGAN",
+    "address": "JL. RAYA KAMASAN NO. 269 - BANJARAN - KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5949346"
+  },
+  {
+    "location": "CIBADUYUT",
+    "address": "JL. KOPO PERMAI II BLOK A NO. 1B KEL. CANGKUANG KULON, KEC. DAYEUH KOLOT, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "CICALENGKA",
+    "address": "JL. RAYA BARAT NO. 293, CICALENGKA, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7948846"
+  },
+  {
+    "location": "CINUNUK",
+    "address": "PERTOKOAN JALAN RAYA CINUNUK NO.199 CILEUNYI, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)7817045"
+  },
+  {
+    "location": "CIPARAY",
+    "address": "JL. RAYA LASWI NO. 582, CIPARAY",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 84221010"
+  },
+  {
+    "location": "CIWIDEY",
+    "address": "JL RAYA CIWIDEY KAMPUNG WARUNG, DS TENJOLAYA, KEC. PASIR JAMBU, KAB BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 85920946"
+  },
+  {
+    "location": "DAYEUH KOLOT",
+    "address": "JL. RAYA BOJONGSOANG KEC DAYEUH KOLOT",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6652456"
+  },
+  {
+    "location": "DEPRIMATERA",
+    "address": "JL. RAYA SAPAN GEDEBAGE RT/RW 01/01, TEGAL LUAR, BOJONGSOANG, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 87308072"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. RAYA LASWI NO. 215 - MAJALAYA",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KOPO KETAPANG",
+    "address": "JL. TERUSAN KOPO KETAPANG KM 11, KEL. PANGAUBAN, KEC. PACET, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5893346"
+  },
+  {
+    "location": "MAJALAYA",
+    "address": "JL. RAYA LASWI NO. 215 - MAJALAYA",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5950058,-5950588-5950249-5952857-5956740-5951508-5957907"
+  },
+  {
+    "location": "PP TELKOM UNIVERSITY",
+    "address": "JL TELEKOMUNIKASI NO1, SUKAPURA, DAYEUHKOLOT",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "022-87521540"
+  },
+  {
+    "location": "RANCAEKEK",
+    "address": "JL. RAYA RANCAEKEK NO.68 KP. TALUN, DESA JELEGONG, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7791025 - 7791026"
+  },
+  {
+    "location": "SOREANG",
+    "address": "JL. RAYA SOREANG - BANJARAN - NO. 447 - SOREANG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5893856-5897241 -5896055"
+  },
+  {
+    "location": "TAMAN KOPO INDAH",
+    "address": "KOMPLEK PERTOKOAN TAMAN KOPO INDAH, JL. TAMAN KOPO INDAH I BLOK K & L ,KOPO SAYATI,MARGAHAYU, KAB. BANDUNG",
+    "regencyORcity": "KAB. BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)5425246"
+  },
+  {
+    "location": "BATUJAJAR",
+    "address": "JL. RAYA BATUJAJAR NO.232 RT/RW 03/02, DESA GALANGGANG, KEC. BATUJAJAR, KAB. BANDUNG BARAT",
+    "regencyORcity": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "phone": "(022)86861946/ 86861472"
+  },
+  {
+    "location": "LEMBANG",
+    "address": "JL. RAYA LEMBANG NO.434 - LEMBANG, KAB.BANDUNG",
+    "regencyORcity": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2785345 -2788001"
+  },
+  {
+    "location": "PADALARANG",
+    "address": "JL. RAYA PADALARANG NO. 463 J, PADALARANG KAB. BANDUNG BARAT",
+    "regencyORcity": "KAB. BANDUNG BARAT",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6814071"
+  },
+  {
+    "location": "CIBITUNG",
+    "address": "RUKO CIBITUNG BUSINESS PARK, JL. HASANUDIN,CIBITUNG, KAB. BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)88391450"
+  },
+  {
+    "location": "CIKARANG",
+    "address": "JLYOS SUDARSO NO.8 CIKARANG, BEKASI - JAWA BARAT",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8900052"
+  },
+  {
+    "location": "CIKARANG BARU",
+    "address": "JL HOLLYWOOD BOULEVARD BLOK B6 NO.1",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 89845674"
+  },
+  {
+    "location": "CIKARANG CENTRAL CITY D/H PASAR SENTRAL CIKARANG",
+    "address": "RUKO CIKARANG CENTRAL CITY, JL. RAYA CIKARANG CIBARUSAH KM.10 NO. 88",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 89903731"
+  },
+  {
+    "location": "DELTA MAS D/H SAKURA PARK",
+    "address": "RUKO THE ICON CITY BLOK B1 DELTA MAS, JL. BOULEVARD KOTA DELTA MAS NO. 189, DESA JAYAMUKTI, CIKARANG PUSAT, KAB. BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 22156166"
+  },
+  {
+    "location": "GRAND WISATA D/H JATIMULYA",
+    "address": "GRAND WISATA RUKO BOULEVARD AA 12 NO. 30, MUSTIKA JAYA, TAMBUN SELATAN, BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 85504101"
+  },
+  {
+    "location": "JABABEKA",
+    "address": "JL. JABABEKA RAYA KAV. A1 B, DESA PASIR GOMBONG, KECAMATAN CIKARANG UTARA, KABUPATEN BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8934966, 8936411"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JABABEKA RAYA KAV. A1 B, DESA PASIR GOMBONG, KECAMATAN CIKARANG UTARA, KABUPATEN BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "LIPPO CIKARANG",
+    "address": "RUKO ROBSON BLOK C NO 19 JL. M.H. THAMRIN",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 89901862"
+  },
+  {
+    "location": "MM 2100",
+    "address": "JALAN KAWASAN INDUSTRI MM2100 INDUSTRIAL TOWN BFIE, CIBITUNG, BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 89983809"
+  },
+  {
+    "location": "MUTIARA GADING",
+    "address": "RUKO PERUM. VILLA MUTIARA GADING II BLOK D.01 KAV. NO.10, KARANG SATRIA, KAB. BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88344961"
+  },
+  {
+    "location": "RE MARTADINATA D/H SENTRA GROSIR CIKARANG",
+    "address": "JL. RE. MARTADINATA NO 10 C CIKARANG KOTA, KEC. CIKARANG UTARA, KAB.BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "TAMBUN",
+    "address": "JL. SULTAN HASANUDIN BLOK 2 DAN 3, TAMBUN SELATAN, KAB. BEKASI",
+    "regencyORcity": "KAB. BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88325217"
+  },
+  {
+    "location": "BOJONG GEDE",
+    "address": "RUKO JALAN PASAR BARU, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "CIBINONG",
+    "address": "JL. RAYA CIBINONG NO. 600 A, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8759905, 87916642"
+  },
+  {
+    "location": "CIBINONG CITY CENTER",
+    "address": "RUKO CIBINONG CITY CENTER BLOK A NO. 31, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "CILEUNGSI D/H LEUWILIANG",
+    "address": "JL. NAROGONG RAYA RUKO PERUM GRIYA KENARI MAS BLOK A1 NO. 8-9 CILEUNGSI BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8230217"
+  },
+  {
+    "location": "CIOMAS",
+    "address": "RUKO GRAND CIOMAS, JL. RAYA CIOMAS KRETEG NO. 20 RT/02 RW/01, KEL. CIOMAS, KEC. CIOMAS, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 7582649"
+  },
+  {
+    "location": "CISARUA",
+    "address": "JL. RAYA PUNCAK NO. 1 RT 4/3 KEC. CISARUA, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8251977"
+  },
+  {
+    "location": "CITEUREUP",
+    "address": "JL MAYOR OKING KAV.36-37 KEC.CITEUREUP BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 87905906"
+  },
+  {
+    "location": "GUNUNG PUTRI",
+    "address": "PERUM GRIYA BUKIT JAYA BLOK AA.11 NO.21 KEL. TLAJUNG, KEC. GUNUNG PUTRI, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 86862741"
+  },
+  {
+    "location": "IPB DERMAGA",
+    "address": "JL. RAYA BOGOR-JASINGA DARMAGA, BOGOR KAMPUS IPB DARMAGA",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8621383, 8629604, 8629606"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. RAYA CIBINONG NO. 600 A, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KOTA WISATA",
+    "address": "PERUMAHAN KOTA WISATA RUKO SENTRA EROPA BLOK G NO. 5-6 KEL. NAGREK KEC. GUNUNG PUTRI, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 84934842, 84934857"
+  },
+  {
+    "location": "LEUWILIANG",
+    "address": "RUKO JL. RAYA LEUWILIANG, KEC. LEUWILIANG, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8640625"
+  },
+  {
+    "location": "MAYOR OKING",
+    "address": "JL. MAYOR OKING RAYA NO. 112, CIRIMEKAR, CIBINONG KAB.BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 87916998"
+  },
+  {
+    "location": "SENTUL CITY",
+    "address": "PASAR BERSIH SENTUL CITY BLOK A-8, KAWASAN CBD - BABAKAN MADANG, KAB. BOGOR",
+    "regencyORcity": "KAB. BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(021) 87954134"
+  },
+  {
+    "location": "BANJARSARI",
+    "address": "JL. RAYA BANJARSARI NO.153 KAB. CIAMIS",
+    "regencyORcity": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "phone": "(0265)653050"
+  },
+  {
+    "location": "CIAMIS",
+    "address": "JL. JEND. SUDIRMAN NO. 47 - CIAMIS",
+    "regencyORcity": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 771857-771378-771165-777631 -777700-777717"
+  },
+  {
+    "location": "KAWALI",
+    "address": "JL. KAUM KAWALI, KAB. CIAMIS",
+    "regencyORcity": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "phone": "0265-7510129"
+  },
+  {
+    "location": "SINGAPARNA",
+    "address": "JL. RAYA TIMUR NO. 52 SINGAPARNA, KAB. TASIKMALAYA, JAWA BARAT",
+    "regencyORcity": "KAB. CIAMIS",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 453977 - 453975"
+  },
+  {
+    "location": "CIANJUR",
+    "address": "JL. DR. MUWARDI NO. 3 - CIANJUR",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "(0263) 262370-261658-261561 -272636-262562-263372-266125-266976-267281 -273434-266046-266446"
+  },
+  {
+    "location": "CIPANAS",
+    "address": "JL. RAYA CIPANAS DS SINDANGLAYA KEC CIPANAS",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "(0263) 513877"
+  },
+  {
+    "location": "CIRANJANG",
+    "address": "JL. RAYA CIRANJANG KAMPUNG KAUM NO.79-81 RT 01 RW 04 CIRANJANG, CIANJUR",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "(0263) 323431, 322860"
+  },
+  {
+    "location": "HOS COKROAMINOTO",
+    "address": "JL. HOS COKROAMINOTO NO. 72-74, KAB. CIANJUR",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "0263-2914748"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. DR. MUWARDI NO. 3 - CIANJUR",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "TANGGEUNG",
+    "address": "JL. RAYA TANGGEUNG RT 01 RW 03 DESA TANGGEUNG, KEC. TANGGEUNG, KAB. CIANJUR",
+    "regencyORcity": "KAB. CIANJUR",
+    "province": "JAWA BARAT",
+    "phone": "(0263) 363646"
+  },
+  {
+    "location": "ARJAWINANGUN",
+    "address": "JL. RAYA BY PASS NO. 6 ARJAWINANGUN",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 358470, 359247"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. YOS SUDARSO NO. 3 - CIREBON",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "LOSARI",
+    "address": "JL. SOEKARNO HATTA NO. 77 LOSARI, KAB.CIREBON",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 832196, 832200"
+  },
+  {
+    "location": "SINDANG LAUT",
+    "address": "JL. CIPEUJEUH WETAN NO.33 SINDANG LAUT, KAB. CIREBON",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231)636542"
+  },
+  {
+    "location": "SUMBER",
+    "address": "JL. DEWI SARTIKA NO. 1 , KEC. SUMBER KAB. CIREBON",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 8820338"
+  },
+  {
+    "location": "TUPAREV",
+    "address": "JL. TUPAREV NO.109A KEC. KEDAWUNG, KAB. CIREBON",
+    "regencyORcity": "KAB. CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231)8332352"
+  },
+  {
+    "location": "CIKAJANG",
+    "address": "JL. RAYA CIKAJANG NO. 215/73 KEC. CIKAJANG, KAB. GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262) 576208"
+  },
+  {
+    "location": "CILEDUG",
+    "address": "JL. CILEDUG NO. 229 RT 02/RW 12 KEL. KOTA KULON, KEC. GARUT KOTA, KAB. GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262) 2800046"
+  },
+  {
+    "location": "GARUT",
+    "address": "JL. JEND. A. YANI NO. 57 - GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262) 233946 - 232312 - 232680"
+  },
+  {
+    "location": "KADUNGORA",
+    "address": "JL RAYA KADUNGORA NO. 142, TALAGASARI, KAB. GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262)457027"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JEND. A. YANI NO. 57 - GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "LIMBANGAN",
+    "address": "JL. RAYA LIMBANGAN TENGAH, KAB, GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262)439278"
+  },
+  {
+    "location": "PAMENGPEUK",
+    "address": "JL. BLOK CIGODEG, KAB. GARUT",
+    "regencyORcity": "KAB. GARUT",
+    "province": "JAWA BARAT",
+    "phone": "(0262) 2816046"
+  },
+  {
+    "location": "HAURGEULIS",
+    "address": "JL. JEND. SUDIRMAN, HAURGEULIS",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "INDRAMAYU",
+    "address": "JL. JEND. SUDIRMAN NO. 49 - INDRAMAYU",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "(0234) 272646-274434-271861 -272946"
+  },
+  {
+    "location": "JATIBARANG",
+    "address": "JL. MAYOR DASUKI NO. 126 JATIBARANG",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "(0234) 351051"
+  },
+  {
+    "location": "KARANGAMPEL",
+    "address": "JL. RAYA KARANGAMPEL, KEC KARANGAMPEL, KAB. INDRAMAYU",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "(0234)487100"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 49 - INDRAMAYU",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PATROL",
+    "address": "JL. RAYA PATROL NO. 10 KECAMATAN PATROL KABUPATEN INDRAMAYU",
+    "regencyORcity": "KAB. INDRAMAYU",
+    "province": "JAWA BARAT",
+    "phone": "(0234)5613246"
+  },
+  {
+    "location": "CIKAMPEK",
+    "address": "JL.JEND.A.YANI, CIKAMPEK JAWA BARAT",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0264) 316046, 316146, 316247, 304214, 304215, 304234, 311312, 313476"
+  },
+  {
+    "location": "GALUH MAS",
+    "address": "RUKO GRAND PLAZA GALUH MAS NO.28-29 JL. GALUH MAS, KAB. KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)8456797"
+  },
+  {
+    "location": "GRAND TARUMA",
+    "address": "RUKO DHARMAWANGSA 1 BLOK A BLOK 8 AA, TELUKJAMBE TIMUR, KABUPATEN KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267) 8640129"
+  },
+  {
+    "location": "KARAWANG",
+    "address": "JL.TUPAREV NO.301, KEL, NAGASARI, KEC. KARAWANG BARAT, KAB. KARAWANG, JAWA BARAT",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267) 402700, 402546, 404433, 404764, 404765, 404432, 408346, 415172, 414473, 414442"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.TUPAREV NO.301, KEL, NAGASARI, KEC. KARAWANG BARAT, KAB. KARAWANG, JAWA BARAT",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAWASAN INDUSTRI SURYA CIPTA",
+    "address": "GEDUNG KAWASAN INDUSTRI SURYA CIPTA, KAB. KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)8610329"
+  },
+  {
+    "location": "KIIC",
+    "address": "SENTRA KIIC, JL PERMATA RAYA LOT C-A1 KARAWANG BARAT",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)8643511"
+  },
+  {
+    "location": "KOSAMBI D/H. TELAGA SARI KRWG",
+    "address": "JL. RAYA KOSAMBI NO.24 DESA DUREN, KEC. KLARI, KAB. KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267) 436664"
+  },
+  {
+    "location": "PASAR CIKAMPEK",
+    "address": "JL. TERMINAL BUS NO.09 CIKAMPEK",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0264) 8385321"
+  },
+  {
+    "location": "PP JAMSOSTEK KARAWANG",
+    "address": "GEDUNG BANK TATA CABANG KARAWANG JL. TUPAREV NO. 399 KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)411439"
+  },
+  {
+    "location": "RENGASDENGKLOK",
+    "address": "JL. RAYA RENGASDENGKLOK NO.158 DSN BLOK KRATON RDK KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267) 483273"
+  },
+  {
+    "location": "SUROTOKUNTO",
+    "address": "JL. SUROTOKUNTO NO. 52 RAWAGABUS POST, KARAWANG TIMUR",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)8454885"
+  },
+  {
+    "location": "TELAGASARI",
+    "address": "DUSUN KRAJAN I RT 03 RW 01, DESA TELAGASARI, KEC. TELAGASARI, KEC. TELAGASARI, KAB. KARAWANG",
+    "regencyORcity": "KAB. KARAWANG",
+    "province": "JAWA BARAT",
+    "phone": "(0267)8621539"
+  },
+  {
+    "location": "CILIMUS",
+    "address": "JL. RAYA CILIMUS NO. 15 CARACAS, KEC. CILIMUS, KAB. KUNINGAN",
+    "regencyORcity": "KAB. KUNINGAN",
+    "province": "JAWA BARAT",
+    "phone": "(0232) 8617907"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 5 - KUNINGAN",
+    "regencyORcity": "KAB. KUNINGAN",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KUNINGAN",
+    "address": "JL. JEND. SUDIRMAN NO. 5 - KUNINGAN",
+    "regencyORcity": "KAB. KUNINGAN",
+    "province": "JAWA BARAT",
+    "phone": "(0232)871789, 871864, 871940, 873532 **)"
+  },
+  {
+    "location": "PP UNIVERSITAS KUNINGAN",
+    "address": "KAMPUS UNIVERSITAS KUNINGAN, JL. CUT NYAK DIEN NO. 36A, KEL. CIJOHO, KUNINGAN",
+    "regencyORcity": "KAB. KUNINGAN",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "BIJB KERTAJATI",
+    "address": "BIJB KERTAJATI LANTAI 1 BLOK JAWURA KERTAJATI",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "(0232) 871789"
+  },
+  {
+    "location": "CIKIJING",
+    "address": "JL. KH. ABDUL FATAH NO.5 KECAMATAN CIKIJING, KAB. MAJALENGKA",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "(0233) 318361"
+  },
+  {
+    "location": "JATIWANGI",
+    "address": "JL. RAYA CIBOLERANG, KEC. JATIWANGI, KAB. MAJALENGKA",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "(0233)881846"
+  },
+  {
+    "location": "KADIPATEN",
+    "address": "JL. RAYA TIMUR NO. 1 KADIPATEN, KAB. MAJALENGKA",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "(0233) 8666093"
+  },
+  {
+    "location": "MAJALENGKA",
+    "address": "JL. KH ABDUL HALIM NO. 176 MAJALENGKA",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "(0233) 282148"
+  },
+  {
+    "location": "PP RSUD MAJALENGKA",
+    "address": "JL. KESEHATAN NO. 77",
+    "regencyORcity": "KAB. MAJALENGKA",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PANGANDARAN",
+    "address": "JL. MERDEKA NO. 144 - PANGANDARAN",
+    "regencyORcity": "KAB. PANGANDARAN",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 639700"
+  },
+  {
+    "location": "BUKIT INDAH CITY",
+    "address": "SENTRA NIAGA KANTO TAHAP II BLOK A II/ NO. 29, KAWASAN KOTA BUKIT INDAH, KAB. PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "(0264) 8642051, 8642302, 8642066, 8642182"
+  },
+  {
+    "location": "CIKOPO",
+    "address": "PASAR INDUK CIKOPO, KAB. PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "085216018600"
+  },
+  {
+    "location": "JATILUHUR",
+    "address": "JL. PRAMUKA, KEMBANG KUNING RT 019 RW 007, JATILUHUR, PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "(0264)8225870"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 3 - PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PLERED",
+    "address": "JL. RAYA WARUNG KANDANG, PLERED - PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "(0264) 271108, 271109"
+  },
+  {
+    "location": "PP JAMSOSTEK PURWAKARTA",
+    "address": "JLN TERUSAN IBRAHIM SINGADILAGA PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PURWAKARTA",
+    "address": "JL. JEND. SUDIRMAN NO. 3 - PURWAKARTA",
+    "regencyORcity": "KAB. PURWAKARTA",
+    "province": "JAWA BARAT",
+    "phone": "(0264) 200746, 200846, 201646, 202346, 200159, 206511, 204316"
+  },
+  {
+    "location": "CIPEUNDEUY",
+    "address": "JL. RAYA CIPEUNDEUY RT 04/02 KEC. CIPENDEUY KAB. SUBANG",
+    "regencyORcity": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "phone": "(0260) 411526"
+  },
+  {
+    "location": "KALIJATI",
+    "address": "JL. RAYA KALIJATI NO.227 KEC. KALIJATI KAB.SUBANG",
+    "regencyORcity": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "phone": "(0260) 461387"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. OTTO ISKANDARDINATA NO. 93 - SUBANG",
+    "regencyORcity": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PAMANUKAN",
+    "address": "JL. ION MARTASASMITA NO.32 , KEL. RANCASARI - PAMANUKAN - SUBANG",
+    "regencyORcity": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "phone": "(0260) 553779 - 554422"
+  },
+  {
+    "location": "SUBANG",
+    "address": "JL. OTTO ISKANDARDINATA NO. 93 - SUBANG",
+    "regencyORcity": "KAB. SUBANG",
+    "province": "JAWA BARAT",
+    "phone": "(0260) 411526-411527-420352"
+  },
+  {
+    "location": "CIBADAK",
+    "address": "JL. SILIWANGI NO. 146 KEC. CIBADAK, SUKABUMI",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "(0266) 536121 - 535999"
+  },
+  {
+    "location": "CICURUG",
+    "address": "JL. SILIWANGI NO. 287 CICURUG, SUKABUMI",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "(0266) 733222"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. RE. MARTADINATA NO. 63-65 - SUKABUMI D/H JL. A YANI NO. 125 SUKABUMI",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PALABUHAN RATU",
+    "address": "GEDUNG RATU PLAZA LT.1 JL. SILIWANGI RT 03/12 PELABUHAN RATU, KAB. SUKABUMI",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "(0266) 434546"
+  },
+  {
+    "location": "PANGLESERAN",
+    "address": "JL. PELABUHAN 2 KM 9",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "02666328312"
+  },
+  {
+    "location": "SURADE",
+    "address": "JL. RAYA SURADE, KAB. SUKABUMI",
+    "regencyORcity": "KAB. SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "JATINANGOR",
+    "address": "GEDUNG KOMUNITAS KAMPUS UNPAD JL. RAYA BANDUNG - SUMEDANG KM 21 JATINANGOR, KAB. SUMEDANG",
+    "regencyORcity": "KAB. SUMEDANG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7798946"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. PRABU GEUSAN ULUN NO. 113 - SUMEDANG",
+    "regencyORcity": "KAB. SUMEDANG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "SUMEDANG",
+    "address": "JL. PRABU GEUSAN ULUN NO. 113 - SUMEDANG",
+    "regencyORcity": "KAB. SUMEDANG",
+    "province": "JAWA BARAT",
+    "phone": "(0261) 201867-204487-205336-203230-2700646"
+  },
+  {
+    "location": "TANJUNGSARI",
+    "address": "JL. RAYA TANJUNGSARI NO.276 DESA TANJUNGSARI, KEC. TANJUNGSARI, KAB. SUMEDANG",
+    "regencyORcity": "KAB. SUMEDANG",
+    "province": "JAWA BARAT",
+    "phone": "(022)7914123"
+  },
+  {
+    "location": "CIAWI D/H UNIV.SILIWANGI TASIKMALAYA",
+    "address": "KOMPLEK RUKO AL RASYDU,JL. PERJUANGAN,CIAWI,TASIKMALAYA",
+    "regencyORcity": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 454954"
+  },
+  {
+    "location": "KARANGNUNGGAL",
+    "address": "JL. RAYA KARANGNUNGGAL, KAB. TASIKMALAYA",
+    "regencyORcity": "KAB. TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "0265-7580840"
+  },
+  {
+    "location": "A.YANI BANDUNG",
+    "address": "JL. JEND. A. YANI. NO. 797 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7204811 sd. 7204813 - 7212209-7271424-7272751 -7211721"
+  },
+  {
+    "location": "ANTAPANI",
+    "address": "JL. TERUSAN JAKARTA NO.79 ANTAPANI, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7219177"
+  },
+  {
+    "location": "ARCAMANIK",
+    "address": "ARCAMANIK ENDAH NO. 50D BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "ASTANA ANYAR",
+    "address": "JL. ASTANA ANYAR NO.50 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)6070162"
+  },
+  {
+    "location": "BANDUNG",
+    "address": "JL. ASIA AFRIKA NO. 119 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 439270, 4205840, 4233316, 4233658,4230119"
+  },
+  {
+    "location": "BATUNUNGGAL",
+    "address": "JL.RAYA WAAS KAV.6/7 KEC.BANDUNG KIDUL",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "022 87311782"
+  },
+  {
+    "location": "BUAH BATU D/H PLN SOEKARNO HATTA",
+    "address": "JL. BUAH BATU NO. 189-D - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7320268, 7913370, 7313371"
+  },
+  {
+    "location": "CICADAS",
+    "address": "JL. JEND. A. YANI NO. 479 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7274032, 7274033 - 7273618"
+  },
+  {
+    "location": "CIHAMPELAS",
+    "address": "JL. CIHAMPELAS NO. 105 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2032689"
+  },
+  {
+    "location": "CIJERAH",
+    "address": "JL. CIJERAH NO. 176, KEL. CIJERAH, KEC. BANDUNG KULON, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6075053, 6007186, 70817046"
+  },
+  {
+    "location": "CIPADUNG D/H JATOS",
+    "address": "RUKO TRITAN POINT, JL. AH NASUTION B5 NO. 8, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)87920036"
+  },
+  {
+    "location": "CIUMBULEUIT",
+    "address": "JL. CIUMBULEUIT NO. 95A, KEL. CIDADAP, KEC. HEGARMANAH, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 82602732"
+  },
+  {
+    "location": "CIWASTRA",
+    "address": "JL. MUSTIKA HEGAR REGENCY RUKO TIMUR NO 1, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 87771014"
+  },
+  {
+    "location": "DAGO",
+    "address": "JL. IR. H. DJUANDA NO. 43A - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4261121"
+  },
+  {
+    "location": "DIGITAL BRANCH 23 PASKAL",
+    "address": "23 PASKAL MALL, JL. PASIR KALIKI NO. 23, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "GANESHA",
+    "address": "JL. GANESHA NO. 10 KAMPUS ITB BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2508760"
+  },
+  {
+    "location": "GATOT SUBROTO BANDUNG",
+    "address": "JL. GATOT SOEBROTO NO.175 KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7305557"
+  },
+  {
+    "location": "ITENAS",
+    "address": "JL. K.H. HASAN MUSTOPA NO. 23 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7202578"
+  },
+  {
+    "location": "JAPATI",
+    "address": "JL. JAPATI NO.1 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7106516"
+  },
+  {
+    "location": "JL. BRAGA D/H CIKAPUNDUNG",
+    "address": "JL. BRAGA NO. 23 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4237686"
+  },
+  {
+    "location": "JL. PERINTIS KEMERDEKAAN BDG",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 3 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4215007,4201860, 4234420,4237668,4238329, 4240538,4240433,4240536, 4234870,4201726,4219441, 4219442,4215013"
+  },
+  {
+    "location": "JL. PUNGKUR D/H DEWI SARTIKA",
+    "address": "JL. PUNGKUR NO. 52-54",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5211178, 5210918"
+  },
+  {
+    "location": "JL. SUPRATMAN",
+    "address": "JL. SUPRATMAN NO. 62 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7271769"
+  },
+  {
+    "location": "JL.JEND.SUDIRMAN BANDUNG",
+    "address": "JL. JEND. SUDIRMAN NO. 331 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6032078, 6030269, 6039245, 6022277, 6032034, 6022323, 6006801, 6004589, 6046257, 6039246, 6047420, 6047253, 6022288"
+  },
+  {
+    "location": "JL.RIAU D/H JL. SUMBAWA D/H LEMBONG",
+    "address": "JL. RIAU NO.115 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4216517"
+  },
+  {
+    "location": "JL.SOEKARNO-HATTA D/H GEDE BAGE BANDUNG",
+    "address": "JL. SOEKARNO HATTA NO.918E BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 87307734, 7506518"
+  },
+  {
+    "location": "KARAPITAN",
+    "address": "JALAN KARAPITAN NO.120 KELURAHAN CIKAWAO KECAMATAN LENGKONG, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 20532735"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 3 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL. ASIA AFRIKA NO. 119 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 3 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. TAMANSARI NO. 80 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KIARACONDONG",
+    "address": "JL. KIARACONDONG NO. 418 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 7321274, 7321267-7319636"
+  },
+  {
+    "location": "KOMPL LIPI - ITB",
+    "address": "JL. CISITU NO. 21/154 D - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2530219-2530218"
+  },
+  {
+    "location": "KOPO MAS",
+    "address": "JL. KOPO CIRANGRANG NO. 618 - BANDUNG, RUKO KOPO MAS BLOK 8 M",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5436877, 5430587"
+  },
+  {
+    "location": "MOCH. TOHA DH/CARINGIN",
+    "address": "JL. MOCH. TOHA NO.305 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)5222375"
+  },
+  {
+    "location": "PAJAJARAN",
+    "address": "JL. PAJAJARAN NO. 135 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6011939"
+  },
+  {
+    "location": "PASAR BARU",
+    "address": "JL. OTTO ISKANDARDINATA NO. 91 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4209904"
+  },
+  {
+    "location": "PASTEUR",
+    "address": "JL. IR. DJUNJUNAN NO.194 KEC. SUKAJADI",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2021668"
+  },
+  {
+    "location": "PERGURUAN TINGGI BANDUNG",
+    "address": "JL. TAMANSARI NO. 80 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2504491 sd. 2504494 -2504497"
+  },
+  {
+    "location": "POSINDO",
+    "address": "JL. BANDA NO. 30 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4218993-4201835-4201973"
+  },
+  {
+    "location": "PP ITB JATINANGOR",
+    "address": "JL. WINAYA MUKTI NO. 1 JATINANGOR",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 92141889, 085659609556"
+  },
+  {
+    "location": "PP RS HASAN SADIKIN",
+    "address": "GEDUNG DIAGNOSTIC AND CARDIAC CENTRE RS HASAN SADIKIN BANDUNG, JL PASTEUR NO 38 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PT. INTI",
+    "address": "JL. M. TOHA NO. 77 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5221336"
+  },
+  {
+    "location": "RAJAWALI BANDUNG",
+    "address": "JL. RAJAWALI BARAT NO.83A KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)6006800"
+  },
+  {
+    "location": "RS. IMMANUEL BANDUNG",
+    "address": "GED. STIK IMMANUEL, RS. IMMANUEL JL. KOPO NO. 161 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 5209774"
+  },
+  {
+    "location": "SETIABUDHI",
+    "address": "JL. SETIABUDHI NO.188, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2012320"
+  },
+  {
+    "location": "SETRASARI DH/ POLITEKNIK ITB",
+    "address": "JL. PROF. DRG. SURYA SUMANTRI NO.8B, KEL. SUKAWARNA, KEC. SUKAJADI, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2004884"
+  },
+  {
+    "location": "STASIUN KA BANDUNG",
+    "address": "JL. KEBON KAWUNG NO.22 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4203072"
+  },
+  {
+    "location": "SUKAJADI",
+    "address": "JL. SUKAJADI NO. 1 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2037907"
+  },
+  {
+    "location": "SUMBERSARI",
+    "address": "JL. SOEKARNO-HATTA RW03 RW 02, KEC. SUMBER SARI, KOTA BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)60794444"
+  },
+  {
+    "location": "UJUNG BERUNG",
+    "address": "JL. A.H. NASUTION NO. 89/91 UJUNG BERUNG BANDUNG.",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022)7800211"
+  },
+  {
+    "location": "UNIKOM D/H K.KAS R.S. ST. BORROMEUS",
+    "address": "JL. DIPATI UKUR NO. 114-116 BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2531997"
+  },
+  {
+    "location": "UNIV. MARANATHA D/H KK UNIV. MARANATHA",
+    "address": "JL. PROF.DRG. SURYASUMANTRI NO. 65, BANDUNG, GRAHA WIDYA MARANATHA UKM, KAMPUS UNIV.MARANATHA",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2007746"
+  },
+  {
+    "location": "UNIV. PADJAJARAN",
+    "address": "JL. DIPATIUKUR NO. 35 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2505848, 2503742, 2504662"
+  },
+  {
+    "location": "UNIV. PENDIDIKAN INDONESIA",
+    "address": "JL. DR. SETIABUDI NO. 229 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2012517-2012123-2014124-2006946-2006996-2018770"
+  },
+  {
+    "location": "WILAYAH 04 - BANDUNG",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 3 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 4240431 -4240534-4240457--4203813-4207891 -4240537-4240539-"
+  },
+  {
+    "location": "YDPP TELKOM",
+    "address": "JL. SURAPATI NO 51 - BANDUNG",
+    "regencyORcity": "KOTA BANDUNG",
+    "province": "JAWA BARAT",
+    "phone": "(022) 2501442"
+  },
+  {
+    "location": "BANJAR",
+    "address": "JL. LETJEN SUWARTO NO. 93 - BANJAR",
+    "regencyORcity": "KOTA BANJAR",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 741204, 744401, 744402"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. LETJEN SUWARTO NO. 93 - BANJAR",
+    "regencyORcity": "KOTA BANJAR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "BANTAR GEBANG",
+    "address": "JL. RAYA SILIWANGI NO.3 RT 03 RW 1, BANTAR GEBANG. KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)82610653"
+  },
+  {
+    "location": "BEKASI",
+    "address": "JL. A. YANI NO. 15 BEKASI JAWA BARAT",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88951946 (Hunting)"
+  },
+  {
+    "location": "BINTARA",
+    "address": "RUKO BINTARA BISNIS CENTER, JL. BINTARA RAYA, BEKASI BARAT, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)88965317"
+  },
+  {
+    "location": "BOULEVAR HIJAU",
+    "address": "RUKO BOULEVAR HIJAU BLOK C2 NO. 01B & 01A MEDAN SATRIA, KOTABEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88875552"
+  },
+  {
+    "location": "BULAK KAPAL",
+    "address": "JL. IR. H. JUANDA KOMP.JUANDA ELOK NO. 8 BULAK KAPAL, BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8802617"
+  },
+  {
+    "location": "CITRAGRAND",
+    "address": "JL. ALTERNATIF CIBUBUR KM 4, JATIKARYA, JATISAMPURNA, KODYA BEKASI, RUKO CITRA GRAND BLOK R2 NO. 1-2",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 84592716"
+  },
+  {
+    "location": "GRAND GALAXY",
+    "address": "JL. PULAU RIBUNG BLOK AR NO.32 TAMAN GALAXY, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)29088374"
+  },
+  {
+    "location": "GRAND MALL BEKASI",
+    "address": "AREA RUKO BLOK B NO.3 GRAND MALL BEKASI, JL. JEND. SUDIRMAN, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)88955481"
+  },
+  {
+    "location": "HARAPAN INDAH",
+    "address": "RUKO SENTRA NIAGA BULEVAR HIJAU BLOK A NO. 20, KEL. PEJUANG,KEC.MEDAN STARIA, KODYA BEKASI - JABAR",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)8871858"
+  },
+  {
+    "location": "JATI MAKMUR",
+    "address": "RUKO JATIMAKMUR RESIDENCE, JL. RAYA JATIMAKMUR NO. A.16, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)84979621"
+  },
+  {
+    "location": "JATIASIH",
+    "address": "RUKO JATI ASIH NO. 5-6 JL. RAYA BEKASI - PONDOK GEDE KEL. JATI RASA KEC. JATIASIH, KODYA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 82430358"
+  },
+  {
+    "location": "JATIBENING",
+    "address": "JL. CAMAN RAYA NO. 129 JATIBENING, PONDOK GEDE, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)84901924"
+  },
+  {
+    "location": "JATIWARINGIN",
+    "address": "JL. JATIWARINGIN RAYA NO. 20 PONDOK GEDE BEKASI.",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)84995601"
+  },
+  {
+    "location": "JUANDA D/H COMMERCIAL CENTRE",
+    "address": "JL. IR. H. JUANDA NO. 104 C, MARGAHAYU, BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8811946"
+  },
+  {
+    "location": "KALIMAS",
+    "address": "JL. CHAIRIL ANWAR - BEKASI TIMUR, RUKO KALIMAS BLOK C 7 DAN C 8.",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88353677"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. A. YANI NO. 15 BEKASI JAWA BARAT",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. A. YANI NO. 15 BEKASI JAWA BARAT",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KEMANG PRATAMA",
+    "address": "RUKO BLOK MM 21 D-E, KEMANG PRATAMA, BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 82425868"
+  },
+  {
+    "location": "PONDOK GEDE",
+    "address": "JL. JATIWARINGIN, BEKASI, KOMP.PONDOK GEDE PLAZA BLOK H NO. 1-2 BEKASI.",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8472075, 8473021"
+  },
+  {
+    "location": "PONDOK UNGU (EX. KRANJI)",
+    "address": "JL.RAYA SULTAN AGUNG KM.27 PONDOK UNGU BEKASI, RUKO MALL HARAPAN NO. 16.",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 88963559"
+  },
+  {
+    "location": "PP BUNDA HATI KUDUS",
+    "address": "SEKOLAH BUNDA HATI KUDUS, JL TRANSYOGI KM6 KOTA",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PP JAMSOSTEK BEKASI",
+    "address": "JL. PRAMUKA NO.29 KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)8843909"
+  },
+  {
+    "location": "RAWA LUMBU DH/ PLN RAWA SEMUT",
+    "address": "JL. PRAMUKA RAYA NO. 79 RT.001/RW.017 KEL. PENGASINAN, KEC. BEKASI TIMUR",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "021- 82437672"
+  },
+  {
+    "location": "RAYA HANKAM D/H PLAZA PONDOK GEDE",
+    "address": "JL. RAYA HANKAM, RT.003 / RW.008",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)84938363"
+  },
+  {
+    "location": "SUMARECON BEKASI DH/BEKASI SQUARE",
+    "address": "KOMPLEK SINPASA COMMERCIAL SUMARECON BLOK SA NO.21. JL. BOULEVARD SELATAN SUMARECON. KEL. MARGAMULYA, KEC. BEKASI UTARA, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)29450593"
+  },
+  {
+    "location": "SUMBER ARTA KALIMALANG",
+    "address": "JLN.RAYA KH NOER ALIE (JLN. KALIMALANG SUMBER ARTA), KEL. BINTARA, KEC.BEKASI BARAT, KODYA BEKASI - JAWA BARATRUKO NO. A 3-4.",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)8651288"
+  },
+  {
+    "location": "TAMAN GALAXY",
+    "address": "JL. GALAXI RAYA NO.7A JAKASAMPURNA BEKASI - JAWA BARAT",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8203128"
+  },
+  {
+    "location": "TRANSYOGI CIBUBUR",
+    "address": "PERTOKOAN KRANGGAN PERMAI BLOK BL, RT/RW. 17/01, KEL.JAKA SAMPURNA, KEC.JAKA SAMPURNA, BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021) 8456963"
+  },
+  {
+    "location": "UNIVERSITAS MERCUBUANA D/H JATI MURNI D/H KRANGGAN",
+    "address": "JL. KRANGGAN NO 6",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)84597827"
+  },
+  {
+    "location": "WISMA ASRI",
+    "address": "JL. RAYA PEJUANGAN, TELUK PUCUNG, KOTA BEKASI",
+    "regencyORcity": "KOTA BEKASI",
+    "province": "JAWA BARAT",
+    "phone": "(021)88956493"
+  },
+  {
+    "location": "BARANANGSIANG DH/ PLAZA EKALOKASARI",
+    "address": "JL. PAJAJARAN NO.78-J, RT 005 RW 004, KEL. BARANANGSIANG, KEC. BOGOR TIMUR, KOTA BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8374318"
+  },
+  {
+    "location": "BOGOR",
+    "address": "JL. IR. H.JUANDA NO. 52, BOGOR , JAWA BARAT",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8311446"
+  },
+  {
+    "location": "CILUAR",
+    "address": "JL. RAYA KS TUBUN 317 SIMPANG POMAD, KEL CIPARIGI, KAB. BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8651071"
+  },
+  {
+    "location": "CIMANGGU",
+    "address": "JALAN SOLEH ISKANDAR NOMOR 476 E-F, RT 03- RW 09",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "0251-7543064"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. IR. H.JUANDA NO. 52, BOGOR , JAWA BARAT",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PAJAJARAN D/H IPB BARANGSIANG",
+    "address": "JL.RAYA PAJAJARAN NO.20, BOGOR - JAWA BARAT",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8313055, 8324630"
+  },
+  {
+    "location": "PASAR ANYAR",
+    "address": "JL. RAYA SAWO JAJAR NO.6 PASAR ANYAR, BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8337238"
+  },
+  {
+    "location": "PASAR MERDEKA",
+    "address": "JL MERDEKA NO.84 BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8322819"
+  },
+  {
+    "location": "SUDIRMAN BOGOR",
+    "address": "JL. JENDRAL SUDIRMAN NO. 29 & 31, KEL. PABATON, KEC. BOGOR TENGAH, KOTA BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8334385"
+  },
+  {
+    "location": "SURYA KENCANA",
+    "address": "JL. SURYA KENCANA NO.260A KOTA BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8320822"
+  },
+  {
+    "location": "TAJUR",
+    "address": "JL. RAYA TAJUR NO. 57 K - BOGOR - 16720",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251)8339749, 371939, 391086"
+  },
+  {
+    "location": "UNIVERSITAS PAKUAN",
+    "address": "UNIVERSITAS PAKUAN, JL. PAKUAN, PO BOX 452, KEC. BOGOR TENGAH, KOTA BOGOR, JAWA BARAT",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8366662"
+  },
+  {
+    "location": "WARUNG JAMBU BOGOR",
+    "address": "JL. RAYA CILUAR NO. 143 - BOGOR",
+    "regencyORcity": "KOTA BOGOR",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8359803"
+  },
+  {
+    "location": "CIMAHI",
+    "address": "JL. RAYA CIBABAT NO. 98- CIMAHI",
+    "regencyORcity": "KOTA CIMAHI",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6633228, 6630077, 6631177, 6634444, 6633229, 6633230"
+  },
+  {
+    "location": "POJOK CIMAHI",
+    "address": "JL. AMIR MACHMUD RT/RW 01/04, KEL. SETIAMANAH, KEC. CIMAHI TENGAH, KOTA CIMAHI",
+    "regencyORcity": "KOTA CIMAHI",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6647330, 6647101"
+  },
+  {
+    "location": "UNJANI",
+    "address": "JL. TERUSAN JENDERAL SUDIRMAN KELURAHAN CIBEBER, KEC. CIMAHI SELATAN, KOTA CIMAHI",
+    "regencyORcity": "KOTA CIMAHI",
+    "province": "JAWA BARAT",
+    "phone": "(022) 6645599"
+  },
+  {
+    "location": "CIREBON",
+    "address": "JL. YOS SUDARSO NO. 3 - CIREBON",
+    "regencyORcity": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 232182, 230741, 205947, 205945 **)"
+  },
+  {
+    "location": "GRAGE MALL",
+    "address": "JL. TENTARA PELAJAR NO. 1, PUSAT PERBELANJAAN CIREBON",
+    "regencyORcity": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 242665"
+  },
+  {
+    "location": "HARJAMUKTI",
+    "address": "JL. CIREMAI RAYA NO. 65 A PERUMNAS, KOTA CIREBON",
+    "regencyORcity": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231)8492773"
+  },
+  {
+    "location": "PEKALIPAN",
+    "address": "JL. PEKALIPAN NO.123 KOTA CIREBON",
+    "regencyORcity": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231)236866"
+  },
+  {
+    "location": "TEGALWANGI D/H PLERED D/H SUMBER",
+    "address": "JL. RAYA TEGALWANGI NO. 19 B",
+    "regencyORcity": "KOTA CIREBON",
+    "province": "JAWA BARAT",
+    "phone": "(0231) 322700, 322600"
+  },
+  {
+    "location": "CISALAK",
+    "address": "RUKO PASAR CISALAK JL RAYA BOGOR KM 31 RT 01 RW 06,KEL.CISALAK,KEC. CIMANGGIS, KOTA DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021)87712779"
+  },
+  {
+    "location": "DEPOK MAHARAJA",
+    "address": "RUKO BU SYIFA, JL. RAYA SAWANGAN, MAMPANG, PANCORAN MAS, DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 77205071"
+  },
+  {
+    "location": "DEPOK TIMUR",
+    "address": "JL. PROKLAMASI BLOK A NO. 13-14, SUKMAJAYA, DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 77831946"
+  },
+  {
+    "location": "GRIYA DEPOK ASRI - DEPOK II",
+    "address": "JL.TOLE ISKANDAR, DEPOK, DEPOK GRIYA ASRI BLOK 1/21.",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 77826450, 7710385,77827608"
+  },
+  {
+    "location": "KELAPA DUA",
+    "address": "JL.AKSES UI KAMPUNG KELAPA DUA KEL. PASIR GUNUN G SELATAN KEC.CIMANGGIS KAB.BOGOR, KOMP.ASRAMA BRIMOB, BRIMKOPPOL KORPS BRIMOB KESATRIAN AMJI ATAK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 87715402. 87715403, 70240993"
+  },
+  {
+    "location": "MARGONDA",
+    "address": "JL. MARGONDA RAYA NO. 48 KEL.KEMIRI MUKA KEC.BEJI DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021)7776980,7520282,77204070,7774302,77211448,72211449,77202471,77212367,77215431,77215432"
+  },
+  {
+    "location": "NUSANTARA - DEPOK I",
+    "address": "JL. ARIEF RAHMAN HAKIM NO. 63 BEJI - DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 7776082, 7776682, 77202472"
+  },
+  {
+    "location": "PARUNG",
+    "address": "JL. RAYA PARUNG NO. 15, KEL. DUREN MEKAR, KEC. BOJONGSARI",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(0251) 8603293"
+  },
+  {
+    "location": "PESONA KHAYANGAN",
+    "address": "JL. MARGONDA RAYA RT 1 RW 11, KEMIRI MUKA, DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021)77205198"
+  },
+  {
+    "location": "PONDOK CINA D/H R.S. SENTRA MEDIKA",
+    "address": "JL. MARGONDA RAYA NO. 47 A PONDOK CINA, BEIJI, DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 87744004-05, 78849524, 78849543"
+  },
+  {
+    "location": "UI DEPOK",
+    "address": "GEDUNG PERPUSTAKAAN PUSAT UNIVERSITAS INDONESIA, PONDOK CINA, KOTA DEPOK",
+    "regencyORcity": "KOTA DEPOK",
+    "province": "JAWA BARAT",
+    "phone": "(021) 7270040, 7863572-73, 7764734-35, 78880429-31"
+  },
+  {
+    "location": "CIWANGI",
+    "address": "JL. JEND. A. YANI NO. 125 - SUKABUMI",
+    "regencyORcity": "KOTA SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "(0266) 226888 - 217218"
+  },
+  {
+    "location": "SUKABUMI",
+    "address": "JL. RE. MARTADINATA NO. 63-65 - SUKABUMI D/H JL. A YANI NO. 125 SUKABUMI",
+    "regencyORcity": "KOTA SUKABUMI",
+    "province": "JAWA BARAT",
+    "phone": "(0266) 221146-222921 -211955-222960-224703-243700"
+  },
+  {
+    "location": "CIKURUBUK",
+    "address": "JL. ARDIWINANGUN KOMP. RUKO & TOKO MUTIARA CIKURUBUK, KOTA TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265)347483"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. H.Z. MUSTOFA NO. 110 - TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "PP JAMSOSTEK TASIKMALAYA",
+    "address": "JL. RE MARTADINATA NO. 260 TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 327987"
+  },
+  {
+    "location": "SUTISNA SENJAYA",
+    "address": "JL. SUTISNA SENJAYA, KOTA TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 7297777"
+  },
+  {
+    "location": "TASIKMALAYA",
+    "address": "JL. H.Z. MUSTOFA NO. 110 - TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 330946, 330407, 330408"
+  },
+  {
+    "location": "UNIVERSITAS SILIWANGI",
+    "address": "JL. SILIWANGI NO. 24 TASIKMALAYA",
+    "regencyORcity": "KOTA TASIKMALAYA",
+    "province": "JAWA BARAT",
+    "phone": "(0265) 335073"
+  }
+]

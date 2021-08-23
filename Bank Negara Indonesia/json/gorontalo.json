@@ -1,0 +1,58 @@
+[
+  {
+    "location": "TILAMUTA",
+    "address": "JL. HUSIN DJ. RAHMAN NO. 3, KAB. BOALEMO",
+    "regencyORcity": "KAB. BOALEMO",
+    "province": "GORONTALO",
+    "phone": "0823 4788 9146"
+  },
+  {
+    "location": "LIMBOTO",
+    "address": "JL. K.H. WAHID HASYIM KEL. KAYUBULAN KEC. LIMBOTO",
+    "regencyORcity": "KAB. GORONTALO",
+    "province": "GORONTALO",
+    "phone": "(0435) 881592"
+  },
+  {
+    "location": "TELAGA",
+    "address": "JL. RAYA LIMBOTO, KEL. TELAGA, KEC. LIMBOTO, KAB. GORONTALO",
+    "regencyORcity": "KAB. GORONTALO",
+    "province": "GORONTALO",
+    "phone": "(0435)838212"
+  },
+  {
+    "location": "KWANDANG",
+    "address": "JL. KUSNOSDANUPUD JO NO. 45, KAB. GOROTALO UTARA",
+    "regencyORcity": "KAB. GORONTALO UTARA",
+    "province": "GORONTALO",
+    "phone": "(0442) 3110110"
+  },
+  {
+    "location": "MARISA GORONTALO",
+    "address": "JL. TRANS SULAWESI KEC. MARISA, KAB. POHUWATO-GORONTALO",
+    "regencyORcity": "KAB. POHUWATO",
+    "province": "GORONTALO",
+    "phone": "(0443) 210276"
+  },
+  {
+    "location": "GORONTALO",
+    "address": "JL. JEND. A. YANI NO. 32 KEL. IPILO - GORONTALO",
+    "regencyORcity": "KOTA GORONTALO",
+    "province": "GORONTALO",
+    "phone": "(0435) 822046, 824476"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. JEND. A. YANI NO. 32 KEL. IPILO - GORONTALO",
+    "regencyORcity": "KOTA GORONTALO",
+    "province": "GORONTALO",
+    "phone": "-"
+  },
+  {
+    "location": "SUDIRMAN GORONTALO D/H IKIP GORONTALO",
+    "address": "JL. JENDRAL SUDIRMAN (SAMPING RRI KOTA GORONTALO)",
+    "regencyORcity": "KOTA GORONTALO",
+    "province": "GORONTALO",
+    "phone": "(0435) 825373"
+  }
+]

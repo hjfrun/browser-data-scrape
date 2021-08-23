@@ -1,0 +1,114 @@
+[
+  {
+    "location": "NAMLEA",
+    "address": "JL. AHMAD YANI, DESA NAMLEA. KEC. NAMLEA, KAB. BURU",
+    "regencyORcity": "KAB. BURU",
+    "province": "MALUKU",
+    "phone": "(0913)21346"
+  },
+  {
+    "location": "BURU SELATAN",
+    "address": "JL. BARU NAMROLE, KAB, BURU SELATAN",
+    "regencyORcity": "KAB. BURU SELATAN",
+    "province": "MALUKU",
+    "phone": "-"
+  },
+  {
+    "location": "KEPULAUAN ARU",
+    "address": "JL. ALI MURTOPO, DOBO, KEL. SIWALIMA, KEC. PULAU-PULAU ARU, KAB. KEPULAUAN ARU, PROPINSI ARU",
+    "regencyORcity": "KAB. KEPULAUAN ARU",
+    "province": "MALUKU",
+    "phone": "0811470593"
+  },
+  {
+    "location": "MASOHI",
+    "address": "JL. ABD. SOULISSA, MASOHI, KAB. MALUKU TENGAH",
+    "regencyORcity": "KAB. MALUKU TENGAH",
+    "province": "MALUKU",
+    "phone": "(0914)21414"
+  },
+  {
+    "location": "MALUKU TENGGARA",
+    "address": "JL. PASAR BARU LANGGUR, KEI LANGGUR, KAB. MALUKU TENGGARA, PROPINSI MALUKU 97611",
+    "regencyORcity": "KAB. MALUKU TENGGARA",
+    "province": "MALUKU",
+    "phone": "(0916) 2520067"
+  },
+  {
+    "location": "PP KANTOR BUPATI MTB",
+    "address": "JL. IR. SOEKARNO HATTA",
+    "regencyORcity": "KAB. MALUKU TENGGARA BARAT",
+    "province": "MALUKU",
+    "phone": "(0918) 21354"
+  },
+  {
+    "location": "SAUMLAKI",
+    "address": "SAUMLAKI TOWN SQUARE (SATOS), JL. BHINEKA SAUMLAKI, MALUKU",
+    "regencyORcity": "KAB. MALUKU TENGGARA BARAT",
+    "province": "MALUKU",
+    "phone": "(0918)21746"
+  },
+  {
+    "location": "SERAM BAGIAN BARAT",
+    "address": "JL. TUKIRIN GEMBA, DESA WAIMITAL, KEC. KAIRATU, KAB. SERAM BAGIAN BARAT, PROPINSI MALUKU 97554",
+    "regencyORcity": "KAB. SERAM BAGIAN BARAT",
+    "province": "MALUKU",
+    "phone": "081343010241"
+  },
+  {
+    "location": "SERAM BAGIAN TIMUR",
+    "address": "PT. PROTOKOL KOTA BULA, KAB. SERAM BAGIAN TIMUR, PROPINSI MALUKU 97566",
+    "regencyORcity": "KAB. SERAM BAGIAN TIMUR",
+    "province": "MALUKU",
+    "phone": "(0915) 21115"
+  },
+  {
+    "location": "AMBON",
+    "address": "JL. SAID PARINTAH NO. 12 - AMBON",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "(0911) 352604, 352605, 352614, 353474, 352967, 353589, 353593, 356087, 310017"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. SAID PARINTAH NO. 12 - AMBON",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR MARDIKA",
+    "address": "PASAR MARDIKA BLOK F, JL. PASAR MARDIKA, KOTA AMBON",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "(0911) 348894"
+  },
+  {
+    "location": "PASSO",
+    "address": "JL WOLTER MONGINSIDI KEC. TELUK AMBON BAGUALA",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "(0911) 362346"
+  },
+  {
+    "location": "UNIVERSITAS PATTIMURA",
+    "address": "UNIVERSITAS PATTIMURA, JL. IR. PUTUHENA, POKA, AMBON",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "(0911) 3825165"
+  },
+  {
+    "location": "WAIHAONG",
+    "address": "JL. SULTAN BABULAH, KEC. NUSANIWE, KOTA AMBON",
+    "regencyORcity": "KOTA AMBON",
+    "province": "MALUKU",
+    "phone": "(0911) 314404"
+  },
+  {
+    "location": "TUAL",
+    "address": "JL. DR. LEIMENA NO. 10, TUAL, MALUKU TENGGARA",
+    "regencyORcity": "KOTA TUAL",
+    "province": "MALUKU",
+    "phone": "(0916) 22612"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "location": "PASAR BETUNG",
+    "address": "JL. RAYA PALEMBANG-BETUNG KM.67, KEC. BETUNG - KAB BANYUASIN",
+    "regencyORcity": "KAB. BANYUASIN",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 893600"
+  },
+  {
+    "location": "EMPAT LAWANG",
+    "address": "JL. LINTAS SUMATERA, KEL. TALANG BANYU, KEC. TEBING TINGGI, KAB. EMPAT LAWANG SUMATERA SELATAN",
+    "regencyORcity": "KAB. EMPAT LAWANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0702) 7320170"
+  },
+  {
+    "location": "LAHAT",
+    "address": "JL. MAYOR RUSLAN II NO. 1 LAHAT",
+    "regencyORcity": "KAB. LAHAT",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0731) 325025"
+  },
+  {
+    "location": "MUARA ENIM",
+    "address": "JL. JENDERAL SUDIRMAN NO. 59A-E KECAMATAN MUARA ENIM KABUPATEN LEMATANG ILIR OGAN TENGAH",
+    "regencyORcity": "KAB. LEMATANG ILIR OGAN TENGAH",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0734) 424746"
+  },
+  {
+    "location": "TANJUNG ENIM",
+    "address": "JL. A. YANI (DH. LINGGA RAYA) NO. 2, TANJUNG ENIM",
+    "regencyORcity": "KAB. LEMATANG ILIR OGAN TENGAH",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0734) 454645, 454646, 454632"
+  },
+  {
+    "location": "PP BPJS BETUNG",
+    "address": "JL. PALEMBANG-JAMBI KM 68 DESA SIDOMPU, KEC. BETUNG, KAB. BANYUASIN",
+    "regencyORcity": "KAB. MUSI BANYUASIN",
+    "province": "SUMATERA SELATAN",
+    "phone": "0711-5613344"
+  },
+  {
+    "location": "SEKAYU",
+    "address": "JL. KOL WAHID UDIN NO. 11, KAB. MUSI BANYUASIN",
+    "regencyORcity": "KAB. MUSI BANYUASIN",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0714) 3330055"
+  },
+  {
+    "location": "SUNGAI LILIN",
+    "address": "JL. PALEMBANG - JAMBI KM 111 SUNGAU LILIN RT 04/04 KEL. SUNGAI LILIN, KEC. SUNGAI LILIN, KAB. MUSI BANYUANGIN",
+    "regencyORcity": "KAB. MUSI BANYUASIN",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0714) 321352"
+  },
+  {
+    "location": "MUSI RAWAS D/H TUGUMULYO",
+    "address": "JL. JEND. SUDIRMAN DESA F TRIKOYO, KEC TUGUMULYO, KAB. MUSI RAWAS",
+    "regencyORcity": "KAB. MUSI RAWAS",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0733)371197"
+  },
+  {
+    "location": "MUARA RUPIT",
+    "address": "JL. LINTAS SUMATERA RT. 001 RW. 001, DESA MUARA RUPIT, KECAMATAN RUPIT, KABUPATEN MUSI RAWAS UTARA",
+    "regencyORcity": "KAB. MUSI RAWAS UTARA",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "UNSRI INDRALAYA",
+    "address": "JL. RAYA PALEMBANG - PRABUMULIH, LINGKUNGAN KAMPUS UNSRI INDRALAYA",
+    "regencyORcity": "KAB. OGAN ILIR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 581009"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. LETNAN MUCHTAR SALEH NO. 194 - KAYU AGUNG",
+    "regencyORcity": "KAB. OGAN KOMERING ILIR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0712) 321757, 323340"
+  },
+  {
+    "location": "KAYU AGUNG",
+    "address": "JL. LETNAN MUCHTAR SALEH NO. 194 - KAYU AGUNG",
+    "regencyORcity": "KAB. OGAN KOMERING ILIR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0712) 321757, 323340"
+  },
+  {
+    "location": "TUGUMULYO",
+    "address": "JL. LINTAS TIMUR PASAR TUGUMULYO",
+    "regencyORcity": "KAB. OGAN KOMERING ILIR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0712) 331258"
+  },
+  {
+    "location": "BATURAJA",
+    "address": "JL. SERSAN ZAKARIA NO. 462 - BATURAJA",
+    "regencyORcity": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0735) 325592, 323146"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. SERSAN ZAKARIA NO. 462 - BATURAJA",
+    "regencyORcity": "KAB. OGAN KOMERING ULU",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "MUARA DUA",
+    "address": "JL. JEND.SUDIRMAN NO.11 KEL. PASAR MUARA DUA, KEC.MUARA DUA, KAB. OGAN KOMERING ULU",
+    "regencyORcity": "KAB. OGAN KOMERING ULU SELATAN",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0735) 591088"
+  },
+  {
+    "location": "BELITANG",
+    "address": "JL. PASAR BARU 146, GUMAWANG BK 10, KEC. BELITANG, KAB. OGAN KOMERING ULU TIMUR",
+    "regencyORcity": "KAB. OGAN KOMERING ULU TIMUR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0735)450446,452246"
+  },
+  {
+    "location": "MARTAPURA",
+    "address": "JL. MERDEKA, MARTAPURA KAB. OKU TIMUR",
+    "regencyORcity": "KAB. OGAN KOMERING ULU TIMUR",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0735)481046,481146"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. YOS SUDARSO NO. 288 - LUBUK LINGGAU",
+    "regencyORcity": "KOTA LUBUKLINGGAU",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "LUBUK LINGGAU",
+    "address": "JL. YOS SUDARSO NO. 288 - LUBUK LINGGAU",
+    "regencyORcity": "KOTA LUBUKLINGGAU",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0733) 320961 -62-64-65"
+  },
+  {
+    "location": "SIMPANG PERIUK",
+    "address": "JL. HM SUHARTO RT 06 SIMPANG PRIUK KEC. LUBUKLINGGAU SELATAN II, KOTA LUBUKLINGGAU",
+    "regencyORcity": "KOTA LUBUKLINGGAU",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0733)451529"
+  },
+  {
+    "location": "PAGAR ALAM",
+    "address": "JL. TRIP YUNUS NO.58 RT 002 RW 001 KEL. BANGUN JAYA, KEC. PAGAR ALAM UTARA, KOTA PAGAR ALAM",
+    "regencyORcity": "KOTA PAGAR ALAM",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0730) 622646"
+  },
+  {
+    "location": "BAYUNG LENCIR",
+    "address": "JL. PALEMBANG JAMBI KM 204",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "BOOM BARU PALEMBANG",
+    "address": "JL. PERINTIS KEMERDEKAAN NO. 168 A - B KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 711296, 713328, 715146 -47"
+  },
+  {
+    "location": "DEMANG LEBAR DAUN",
+    "address": "JL. DEMANG LEBAR DAUN NO. 6 KEL. LOROK PAKJO, ILIR BARAT I, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "0711-5733491"
+  },
+  {
+    "location": "DEMPO",
+    "address": "JL. LINGKARAN I DEMPO LUAR NO.451 RT09 RW02 KELURAHAN 15 ILIR KECAMATAN ILIR TIMUR II PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 368714"
+  },
+  {
+    "location": "JEMBATAN AMPERA PALEMBANG",
+    "address": "JL. MESJID LAMA NO. 61 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 360390, 356897, 350913, 352886, 356917"
+  },
+  {
+    "location": "JL. A. YANI",
+    "address": "JL. JENDRAL AHMAD YANI NO. 19 RT/RW 14/04, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 511444, 512610"
+  },
+  {
+    "location": "KALIDONI",
+    "address": "JL. ABDUL ROZAK RUKO NO. 188 - 189 KALIDONI, PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 714657"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JEND. SUDIRMAN NO. 142 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL. JEND. SUDIRMAN NO. 132 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KENTEN",
+    "address": "JL. R.SUKAMTO NO. 5,6,7 PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 378611"
+  },
+  {
+    "location": "KENTEN LAUT",
+    "address": "JL. NAJAMUDIN NO. 126/9&10 RT. 05 RW. 03 KEL. SUKAMAJU KEC. SAKO KOTA PALEMBANG, SUMATERA SELATAN",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "0711-5618808"
+  },
+  {
+    "location": "KERTAPATI",
+    "address": "JL. WAHID HASYIM, KERTAPATI, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)518050"
+  },
+  {
+    "location": "KM - 12 SUKAJADI",
+    "address": "JL RAYA PALEMBANG BETUNG KM-12 RUKO NO. 21 SUKAJADI, PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 431617"
+  },
+  {
+    "location": "KM 9",
+    "address": "JL. KOL. H. BURLIAN KM.9 NO.5-6 KEL. KEBUN BUNGA, KEC. SUKARAMI, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 7923446"
+  },
+  {
+    "location": "KOMPERTA",
+    "address": "JL. ANTARA EX GEDUNG ANEX KAMAR NO. 7 KOMP.PERTAMINA (KOMPERTA) PLAJU",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 595569, 5955570"
+  },
+  {
+    "location": "LEMABANG",
+    "address": "JL. RE.MARTADINATA NO. 8-9 KELURAHAN 2 ILIR KECAMATAN ILIR TIMUR II PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 713617"
+  },
+  {
+    "location": "LORONG BASAH",
+    "address": "JL. TENGKURUK PERMAI BLOK D/LORONG BASAH NO,8616 KEC. ILIR TIMUR 1 PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)316404, 316403"
+  },
+  {
+    "location": "MP MANGKUNEGARA",
+    "address": "JL. MP. MANGKUNEGARA, RUKO KENTEN, KEL. BUKIT SANGKAL, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 7923346"
+  },
+  {
+    "location": "MUSI II",
+    "address": "JL. LETJEN ALAMSYAH NO. 345, RATU PERWIRA NEGARA, KEL. KARANG JAYA, KEC. GANDUS, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "0711-5560953"
+  },
+  {
+    "location": "MUSI PALEMBANG",
+    "address": "JL. JEND. SUDIRMAN NO. 132 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 361967, 361970, 369410, 320114"
+  },
+  {
+    "location": "OPI MALL",
+    "address": "JL. HM BASTARI, OPI MALL JAKABARING, BLOK D1-D2, KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)5704041"
+  },
+  {
+    "location": "PAL - LIMA",
+    "address": "JL. KOL.H. BURLIAN NO. 173 KM. 5, GEDUNG PT. ASURANSI WAHANA TATA",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 421277"
+  },
+  {
+    "location": "PALEMBANG",
+    "address": "JL. JEND. SUDIRMAN NO. 142 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 354974, 312749, 313532, 313214, 354497, 350973, PABX 312422-23-24, 312758, 312748, 313316"
+  },
+  {
+    "location": "PALEMBANG SQUARE",
+    "address": "PALEMBANG SQUARE MALL UNIT KANTO (KANTOR TOKO) R39 & R50 JL. ANGKATAN 45/POM IX - PALEMBANG.",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 380301"
+  },
+  {
+    "location": "PASAR 16 ILIR",
+    "address": "JL. PASAR 16 ILIR NO. 97- PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 352366"
+  },
+  {
+    "location": "PIM LETKOL ISKANDAR",
+    "address": "JL. LETKOL ISKANDAR NO.570 RT II A RW 03 24 ILIR PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 376034"
+  },
+  {
+    "location": "PLAJU",
+    "address": "JL. DI PANJAITAN NO.73-74 SIMPANG KAYU AGUNG, PLAJU PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 540434"
+  },
+  {
+    "location": "PP LAYANAN TERPADU",
+    "address": "JL. GUBERNUR H. A. BASTARI 15 ULU",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PP SEMEN BATURAJA",
+    "address": "JL. SUNAN, KEMANG AGUNG, KERTAPATI, PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PP UNIVERSITAS BINA DHARMA",
+    "address": "JL. AHMAD YANI NO.3 PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PUSRI",
+    "address": "JL. MAYOR ZEN NO. 50 KEL. SUNGAI SELINCAH KEC. KALIDONI KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "082185110102"
+  },
+  {
+    "location": "RAJAWALI PALEMBANG",
+    "address": "JL. RAJAWALI NO.1174C PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)312867"
+  },
+  {
+    "location": "SAKO",
+    "address": "JL. TERMINAL, PERUMNAS SAKO, KOMP. RUKO MULTI WAHANA NO.8 PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)810002"
+  },
+  {
+    "location": "SAYANGAN",
+    "address": "JL. SAYANGAN KELURAHAN 17 ILIR, KEC. ILIR TIMUR I PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711)368715"
+  },
+  {
+    "location": "TANJUNG API-API",
+    "address": "JL. TANJUNG API-API RT. 45 RW. 10 KEL. KEBUN BUNGA KEC. SUKARAMI KOTA PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 5613344"
+  },
+  {
+    "location": "UNSRI",
+    "address": "GEDUNG PASCA SARJANA UNSRI, JL. SRIJAYA NEGARA NO. 72 RT. 33 RW. 11, NUKIT LAMA IB-1 PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 354314, 367146, 580019"
+  },
+  {
+    "location": "WILAYAH 03 - PALEMBANG",
+    "address": "JL. JEND. SUDIRMAN NO. 132 - PALEMBANG",
+    "regencyORcity": "KOTA PALEMBANG",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0711) 361961 -62-63-65, 321046, 314546, 317560, 319646, 320646"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. JEND. SUDIRMAN NO. 46 KEL. MUARA DUA KEC. PRABUMULIH TIMUR, KOTA PRABUMULIH 31111",
+    "regencyORcity": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR PRABUMULIH",
+    "address": "JL. JEND. SUDIRMAN, KEC. PRABUMULIH BARAT",
+    "regencyORcity": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0713)322054"
+  },
+  {
+    "location": "PRABUMULIH",
+    "address": "JL. JEND. SUDIRMAN NO. 46 KEL. MUARA DUA KEC. PRABUMULIH TIMUR, KOTA PRABUMULIH 31111",
+    "regencyORcity": "KOTA PRABUMULIH",
+    "province": "SUMATERA SELATAN",
+    "phone": "(0713) 322054, 323507"
+  }
+]

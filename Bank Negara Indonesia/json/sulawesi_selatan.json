@@ -1,0 +1,597 @@
+[
+  {
+    "location": "BANTAENG",
+    "address": "JL.RAYA LANTO NO.17, BANTAENG",
+    "regencyORcity": "KAB. BANTAENG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0413) 21853"
+  },
+  {
+    "location": "BARRU",
+    "address": "JL.PASAR SENTRAL, BARRU",
+    "regencyORcity": "KAB. BARRU",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0427) 21446"
+  },
+  {
+    "location": "BONE",
+    "address": "JL.LETJEN A,YANI NO. 10 WATAMPONE, KEC. TANETE RIATTANG BARAT, BONE, SULSEL",
+    "regencyORcity": "KAB. BONE",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0481) 21906"
+  },
+  {
+    "location": "BONE TRADE CENTRE",
+    "address": "RUKO BTC JL. KH AGUS SALIM, KAB. BONE",
+    "regencyORcity": "KAB. BONE",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0481)26046"
+  },
+  {
+    "location": "MARE",
+    "address": "JL. POROS WATAMPONE – SINJAI, KEC. MARE, KAB. BONE",
+    "regencyORcity": "KAB. BONE",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PALATTAE",
+    "address": "JL. A PAGE PALATTAE, KAB. BONE",
+    "regencyORcity": "KAB. BONE",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "BULUKUMBA",
+    "address": "JL. SAM RATULANGI NO. 1 BULUKUMBA",
+    "regencyORcity": "KAB. BULUKUMBA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0413) 81775, 81776, 82697, 82698, 85207"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL. SAM RATULANGI NO. 1 BULUKUMBA",
+    "regencyORcity": "KAB. BULUKUMBA",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "ENREKANG",
+    "address": "JL.SULTAN HASANUDDIN NO.1, ENREKANG",
+    "regencyORcity": "KAB. ENREKANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0420) 21446"
+  },
+  {
+    "location": "PASAR SUDU",
+    "address": "JL. POROS PARE-PARE SUDU, KAB. ENREKANG",
+    "regencyORcity": "KAB. ENREKANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "GOWA",
+    "address": "JL.ANDI MALLOMBASSANG NO.16, GOWA",
+    "regencyORcity": "KAB. GOWA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 883607"
+  },
+  {
+    "location": "HERTASNING MAKASSAR",
+    "address": "JL. TUN ABDUL RAZAK, KAB. GOWA",
+    "regencyORcity": "KAB. GOWA",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "SULTAN HASANUDDIN",
+    "address": "JL. SULTAN HASANUDDIN, KEC. SUNGGUMINASA, KOTA GOWA, SULAWESI SELATAN",
+    "regencyORcity": "KAB. GOWA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 887288"
+  },
+  {
+    "location": "UIN ALAUDDIN",
+    "address": "KAMPUS 2 UIN ALAUDDIN MAKASSAR, JL. SULTAN ALAUDDIN NO. 36, SAMATA SUNGGUMINASA, KAB. GOWA SULAWESI SELATAN",
+    "regencyORcity": "KAB. GOWA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 855877"
+  },
+  {
+    "location": "JENEPONTO",
+    "address": "JL.PAHLAWAN NO.16, JENEPONTO",
+    "regencyORcity": "KAB. JENEPONTO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0419) 21467"
+  },
+  {
+    "location": "SELAYAR",
+    "address": "JL. KH. HAYYUNG NO. 132, KEL. BENTENG, KAB. KEPULAUAN SELAYAR",
+    "regencyORcity": "KAB. KEPULAUAN SELAYAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "BELOPA",
+    "address": "JL. TOPOKANO. 52, BELOPA, KAB. LUWU",
+    "regencyORcity": "KAB. LUWU",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0471) 3314461"
+  },
+  {
+    "location": "MALILI D/H PASAR SENTRAL PALOPO",
+    "address": "JL. DR. RATULANGI NO.4 MALILI-LUWU TIMUR",
+    "regencyORcity": "KAB. LUWU TIMUR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0471) 325932"
+  },
+  {
+    "location": "SOROWAKO",
+    "address": "JL.INCOIRO NO.19 SOROWAKO, KAB. LUWU TIMUR",
+    "regencyORcity": "KAB. LUWU TIMUR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0475) 321656"
+  },
+  {
+    "location": "TOMONI",
+    "address": "JL. TRANS SULAWESI, TOMONI, KAB. LUWU TIMUR",
+    "regencyORcity": "KAB. LUWU TIMUR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0473) 25147"
+  },
+  {
+    "location": "BONE-BONE",
+    "address": "JL. POROS SULAWESI BONE-BONE, KAB. LUWU UTARA",
+    "regencyORcity": "KAB. LUWU UTARA",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "MASAMBA / LUWU",
+    "address": "JL. H. LAPPA NO. 22 MASAMBA",
+    "regencyORcity": "KAB. LUWU UTARA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0473) 21046"
+  },
+  {
+    "location": "BANDARA HASANUDDIN (MANDAI)",
+    "address": "BANDARA HASANUDDIN, U.PANDANG",
+    "regencyORcity": "KAB. MAROS",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 553822, 3656040"
+  },
+  {
+    "location": "MAROS",
+    "address": "JL.DR.RATULANGI NO.9-11, MAROS",
+    "regencyORcity": "KAB. MAROS",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 371957"
+  },
+  {
+    "location": "PANGKEP",
+    "address": "JL.KEMAKMURAN NO.76-78, PANGKEP",
+    "regencyORcity": "KAB. PANGKAJENE KEPULAUAN",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0410) 21721"
+  },
+  {
+    "location": "PP POLITANI PANGKEP D/H PP BPJS MAKASSAR",
+    "address": "JL. POROS MAKASSAR-PAREPARE KM 83.",
+    "regencyORcity": "KAB. PANGKAJENE KEPULAUAN",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "TONASA",
+    "address": "LANTAI 1 GEDUNG TONASA II PANGKEP KAB. PANGKEP",
+    "regencyORcity": "KAB. PANGKAJENE KEPULAUAN",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 810240"
+  },
+  {
+    "location": "PEKKABATA D/H PASAR SENTRAL PINRANG",
+    "address": "JL. POROS PINRANG - POLMAN",
+    "regencyORcity": "KAB. PINRANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421)923346"
+  },
+  {
+    "location": "PINRANG",
+    "address": "JL. JEND. SUDIRMAN NO. 98 PINRANG",
+    "regencyORcity": "KAB. PINRANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 922169"
+  },
+  {
+    "location": "PP RSUD NENE MALOMO",
+    "address": "JL. WOLTER MONGINSIDI NO.2-4, KAB. SIDENRENG",
+    "regencyORcity": "KAB. SIDENRENG RAPPANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 91493"
+  },
+  {
+    "location": "RAPPANG",
+    "address": "JL. SULTAN HASANUDDIN - RAPPANG",
+    "regencyORcity": "KAB. SIDENRENG RAPPANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 94946"
+  },
+  {
+    "location": "SIDRAP",
+    "address": "JL.JEND.SUDIRMAN NO. 129 PANGKAJENE, SIDRAP",
+    "regencyORcity": "KAB. SIDENRENG RAPPANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 91707"
+  },
+  {
+    "location": "TANRU TEDONG SIDRAP",
+    "address": "JL.A.CAMMING NO.9-11 TANRUTEDONG KAB.SIDRAP",
+    "regencyORcity": "KAB. SIDENRENG RAPPANG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 721711"
+  },
+  {
+    "location": "SINJAI",
+    "address": "JL. PERSATUAN RAYA NO. 2 SINJAI, KAB. SINJAI",
+    "regencyORcity": "KAB. SINJAI",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0482) 21760"
+  },
+  {
+    "location": "PP UMPAR",
+    "address": "JL. JEND AHMAD YANI KM 6, KAB. SOREANG",
+    "regencyORcity": "KAB. SOPPENG",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "SOPENG/CABENGE",
+    "address": "JL.PAHLAWAN NO.150, CABENGE",
+    "regencyORcity": "KAB. SOPPENG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0484) 421858"
+  },
+  {
+    "location": "WATANSOPENG",
+    "address": "JL.KALINO NO.2 WATANSOPENG",
+    "regencyORcity": "KAB. SOPPENG",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0484) 21097, 21058"
+  },
+  {
+    "location": "TAKALAR",
+    "address": "JL. JEND. A. YANI TAKALAR (JEND. SUDIRMAN NO. 3 TAKALAR)",
+    "regencyORcity": "KAB. TAKALAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0418) 324446"
+  },
+  {
+    "location": "MAKALE",
+    "address": "GEDUNG KAMPUS 1 UKI TORAJA JL. SUDIRMAN NO. 9 MAKALE",
+    "regencyORcity": "KAB. TANA TORAJA",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PP RS ELIM",
+    "address": "JL. A. YANI NO 68 RANTEPAO",
+    "regencyORcity": "KAB. TORAJA UTARA",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "TANA TORAJA",
+    "address": "JL. DIPONEGORO NO. 25, RANTEPAO, TATOR, SULAWESI SELATAN",
+    "regencyORcity": "KAB. TORAJA UTARA",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0423) 23416, 23416"
+  },
+  {
+    "location": "ATAPANGE",
+    "address": "JL. PUANGRIMAGGALATUNG",
+    "regencyORcity": "KAB. WAJO",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL. JEND. SUDIRMAN NO. 1, SENGKANG",
+    "regencyORcity": "KAB. WAJO",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR SENTRAL",
+    "address": "JL. MALINGKAN, SENGKANG",
+    "regencyORcity": "KAB. WAJO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0485) 323172"
+  },
+  {
+    "location": "SENGKANG",
+    "address": "JL. JEND. SUDIRMAN NO. 1, SENGKANG",
+    "regencyORcity": "KAB. WAJO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0485) 21060, 21061, 21062, 21890, 324146, 324391"
+  },
+  {
+    "location": "WAJO / SIWA",
+    "address": "JL.ANDI JAJA NO. 228 SIWA, KEC. PITUMPANUA, KAB.WAJO",
+    "regencyORcity": "KAB. WAJO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0472) 321046"
+  },
+  {
+    "location": "ANTANG",
+    "address": "JL. RAYA ANTANG RUKO BEVERLY HILLS NO. 3A KOTA MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 495996"
+  },
+  {
+    "location": "AP. PETTARANI D/H IKIP U. PANDANG (UNIVERSITAS NEGERI MAKASAR)",
+    "address": "JL. AP PETTARANI, KEL.TAMAMAUNG. KEC. PANAKKUKANG, KOTA MAKASAR 90222",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 868710"
+  },
+  {
+    "location": "ARIEF RATE DH. SAM RATULANGI DH. MARI MALL",
+    "address": "JL. ARIEF RATE NO. 5 KOTA MAKASSAR, PROPINSI SULAWESI SELATAN",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 834446, 834464, 334301"
+  },
+  {
+    "location": "BARAYA",
+    "address": "JL.SUNU KOMP.UNHAS BARAYA, U.PANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 433758"
+  },
+  {
+    "location": "BOULEVARD",
+    "address": "JL. BOULEVARD NO.8-9, PANAKKUKANG, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 430153"
+  },
+  {
+    "location": "BUMI TAMALANREA PERMAI",
+    "address": "JL. TAMANLAREA RAYA (POROS BTP) BLOK AB, KOTA MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 581017 "
+  },
+  {
+    "location": "DAENG TATA",
+    "address": "JL. DAENG TATA, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 862666"
+  },
+  {
+    "location": "DIGITAL BRANCH NIPAH MALL",
+    "address": "NIPAH MALL LG FLOOR UNIT LG 021 JL. URIP SUMOHARJO KEC. PANAKKUKANG, KOTA MAKASAR, SULAWESI SELATAN",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 3626806"
+  },
+  {
+    "location": "GUNUNG SARI D/H PARAMOUNT",
+    "address": "JL. SULTAN ALAUDDIN NO 4, KEL. GUNUNG SARI, KEC. RAPPOCINI",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.JEND.SUDIRMAN NO.1, UJUNGPANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH EXPANDABLE DENGAN 1 ATM)",
+    "address": "JL.JEND.SUDIRMAN NO.1, UJUNGPANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH) 4 WHEEL DRIVE DGN ATM",
+    "address": "JL.CENDRAWASIH NO.153-155, U.PANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "MAKASSAR",
+    "address": "JL.JEND.SUDIRMAN NO.1, UJUNGPANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 3629609, 3611646, 3624776, 3617926, 3616924, 3632271, 3620474, 3617489, 3615065, 3619561, 3622261, 3623127, 3629287, 3629306, 3622699"
+  },
+  {
+    "location": "MATTOANGIN",
+    "address": "JL. KAKATUA NO 59 B - C, KOTA MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 855877, 875357, 875893"
+  },
+  {
+    "location": "MENARA BOSOWA",
+    "address": "GEDUNG MENARA BOSOWA LT. DASAR, JL. JENDERAL SUDIRMAN NO.5 MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411)3666838"
+  },
+  {
+    "location": "NEW MAKASSAR MALL D/H METRO TANJUNG BUNGA",
+    "address": "JL. KYAI H. AGUS SALIM",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 3000443"
+  },
+  {
+    "location": "PANAKUKANG MAS",
+    "address": "KOMP.RUKO MIRAH II JL.PENGAYOMAN NO.11, U.PANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 450652"
+  },
+  {
+    "location": "PASAR BUTUNG",
+    "address": "JL. BUTUNG, RUKO PUSAT GROSIR PASAR BUTUNG, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 314726"
+  },
+  {
+    "location": "PELABUHAN PETI KEMAS",
+    "address": "JL. NUSANTARA NO.329 KEL. MAMPU, KEC. WAJO, KOTA MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 3626806"
+  },
+  {
+    "location": "PERINTIS KEMERDEKAAN MAKASSAR",
+    "address": "HOTEL DALTON JL PERINTIS KEMERDEKAAN KM 16 NO. 2 MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 4830045"
+  },
+  {
+    "location": "PIPO MALL",
+    "address": "PIPO MALL JL. METRO TANJUNG BUNGA NO. 02, KOTA MAKASSAR.",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PP FAKULTAS TEKNIK UNHAS",
+    "address": "KAMPUS FAK TEKNIK UNHAS JL POROS MALINO GOWA",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PP NITRO D/H PP KEMENKUMHAM MAKASSAR",
+    "address": "JL. PROF. ABDURRAHMAN BASALAMAH NO. 101",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 871160"
+  },
+  {
+    "location": "PURI KENCANA D/H FAJAR NITRO",
+    "address": "JL.PERINTIS KEMERDEKAAN, MAKASSAR , KOMPLEKS RUKO PURI KENCANA SARI BLOK AB.001,",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 590289"
+  },
+  {
+    "location": "PUSAT NIAGA DAYA",
+    "address": "JL. KAPASA RAYA NO. 39 MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 511876"
+  },
+  {
+    "location": "SOMBAOPU",
+    "address": "JL.ALI MALAKA NO.147, U.PANDANG",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 332615"
+  },
+  {
+    "location": "SUDIANG",
+    "address": "JL. PERINTIS KEMERDEKAAN KM 19 SUDIANG, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 55299"
+  },
+  {
+    "location": "UNHAS TAMALANREA",
+    "address": "JL.PINTU 2 KAMPUS UNHAS TAMALANREA, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 587146, 586813, 585492, 585964"
+  },
+  {
+    "location": "UNIVERSITAS NEGERI MAKASSAR D/H TELKOM DIVRE VII",
+    "address": "JALAN A. P. PETTARANI, KEL. TIDUNG, KEC. RAPPOCINI, KOTA MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "0811469519"
+  },
+  {
+    "location": "VETERAN",
+    "address": "JL. VETERAN UTARA NO.91D MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 336462"
+  },
+  {
+    "location": "VETERAN SELATAN",
+    "address": "JL. VETERAN SELATAN NO.239, MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 874779"
+  },
+  {
+    "location": "WILAYAH 07 - MAKASSAR",
+    "address": "JL. JEND. SUDIRMAN NO. 1 - MAKASSAR",
+    "regencyORcity": "KOTA MAKASSAR",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0411) 3620355, 3621926, 3620356, 3629003, 3630654, 3623204, 3610594, 3610593, 3621946, 3617488, 3616710, 3628918"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.JEND.SUDIRMAN NO.11, PALOPO",
+    "regencyORcity": "KOTA PALOPO",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PALOPO",
+    "address": "JL.JEND.SUDIRMAN NO.11, PALOPO",
+    "regencyORcity": "KOTA PALOPO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0471) 23153, 22746, 22497, 326302"
+  },
+  {
+    "location": "PP PELAYANAN TERPADU SATU ATAP",
+    "address": "JL. KH M HASYIM NO. 5, KOTA PALOPO",
+    "regencyORcity": "KOTA PALOPO",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "SAM RATULANGI",
+    "address": "JL. DR SAM RATULANGI, KOTA PALOPO",
+    "regencyORcity": "KOTA PALOPO",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0471) 23354"
+  },
+  {
+    "location": "JL. JENDRAL SUDIRMAN D/H PASAR LAKESSI",
+    "address": "JL. JENDRAL SUDIMAN, KOTA PARE-PARE",
+    "regencyORcity": "KOTA PARE-PARE",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421)23357"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL VETERAN NO. 41 PARE-PARE",
+    "regencyORcity": "KOTA PARE-PARE",
+    "province": "SULAWESI SELATAN",
+    "phone": "-"
+  },
+  {
+    "location": "PARE-PARE",
+    "address": "JL VETERAN NO. 41 PARE-PARE",
+    "regencyORcity": "KOTA PARE-PARE",
+    "province": "SULAWESI SELATAN",
+    "phone": "(0421) 21325, 21326, 21229, 22946, 28590, 23842, 24370, 24370, 24369"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "location": "RABA",
+    "address": "JL. SOEKARNO-HATTA, BIMA, NTB",
+    "regencyORcity": "KAB. BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374)646990"
+  },
+  {
+    "location": "SAPE",
+    "address": "JL. RAYA PELABUHAN SAPE RT 07 RW 04, DESA NARU, DEPAN SMPN 1 SAPE, KEC. SAPE, KAB. BIMA",
+    "regencyORcity": "KAB. BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374) 71110"
+  },
+  {
+    "location": "SILA",
+    "address": "JL. LINTAS SUMBAWA - BIMA, KEC. BELO, KAB. BIMA",
+    "regencyORcity": "KAB. BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374) 51646"
+  },
+  {
+    "location": "WOHA",
+    "address": "JL RAYA TENTE, KEC. WOHA, KAB. BIMA",
+    "regencyORcity": "KAB. BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374)81119"
+  },
+  {
+    "location": "DOMPU",
+    "address": "JL. KARTINI 11 KEL. POTU KEC. DOMPU KAB. DOMPU",
+    "regencyORcity": "KAB. DOMPU",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374) 21143"
+  },
+  {
+    "location": "GERUNG",
+    "address": "JL.A.YANI,POHDANA GERUNG,KAB.LOMBOK BARAT-NTB",
+    "regencyORcity": "KAB. LOMBOK BARAT",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 672697"
+  },
+  {
+    "location": "NARMADA",
+    "address": "JL. RAYA NARMADA, KAB. LOMBOK BARAT",
+    "regencyORcity": "KAB. LOMBOK BARAT",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "BANDARA INTERNASIONAL LOMBOK",
+    "address": "JL BY PASS TANAK AWU - PRAYA, KEC. PUJUT, KABUPATEN LOMBOK TENGAH",
+    "regencyORcity": "KAB. LOMBOK TENGAH",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370)6157131"
+  },
+  {
+    "location": "PRAYA",
+    "address": "JL.JEND.SUDIRMAN NO. 49-51 PRAYA, LOMBOK TENGAH",
+    "regencyORcity": "KAB. LOMBOK TENGAH",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 54912"
+  },
+  {
+    "location": "MASBAGIK D/H MANDALIKA",
+    "address": "JL. RAYA PAOK MOTONG, KAB. LOMBOK TIMUR",
+    "regencyORcity": "KAB. LOMBOK TIMUR",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 673730"
+  },
+  {
+    "location": "SELONG",
+    "address": "JL. TGH. ZAINUDDIN ABDUL MAJID,SELONG, LOMBOK TIMUR",
+    "regencyORcity": "KAB. LOMBOK TIMUR",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0376) 21550, 21333"
+  },
+  {
+    "location": "SEMBALUN",
+    "address": "JL. RAYA SEMBALUN LAWANG, KEC. SEMBALUN, KAB. LOMBOK TIMUR - NTB",
+    "regencyORcity": "KAB. LOMBOK TIMUR",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "SENGGIGI BEACH HOTEL",
+    "address": "JL.RAYA SENGGIGI (KOMPLEK SENGGIGI SUPERMARKET) SENGGIGI, LOMBOK TIMUR",
+    "regencyORcity": "KAB. LOMBOK TIMUR",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 6199998"
+  },
+  {
+    "location": "TANJUNG",
+    "address": "JL. RAYA TANJUNG KARANG TARUNA, KEC. TANJUNG, KAB. LOMBOK UTARA",
+    "regencyORcity": "KAB. LOMBOK UTARA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370)6210296"
+  },
+  {
+    "location": "ALAS",
+    "address": "JL. PAHLAWAN NO. 9 KEC. ALAS KAB. SUMBAWA",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0372) 91605, 91743"
+  },
+  {
+    "location": "GARUDA",
+    "address": "JL. GARUDA, KEL. LEMPEH, KEC. SUMBAWA, KAB. SUMBAWA",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. KARTINI NO.10, SUMBAWA BESAR - NTB",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "LUNYUK",
+    "address": "JL. SULTAN ZAINUDIN NO. 30, KAB. SUMBAWA",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "MALUK",
+    "address": "JL. RAYA MALUK NO. 45, DUSUN MALUK, KEC.JEREWEH, SUMBAWA BESAR - NTB",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0372) 635146, 635278, 635716"
+  },
+  {
+    "location": "PLAMPANG",
+    "address": "JL. RAYA LINTAS SUMBAWA - BIMA, KEC. PLAMPANG, KAB. SUMBAWA",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0371) 24946, 24966"
+  },
+  {
+    "location": "SUMBAWA BESAR",
+    "address": "JL. KARTINI NO.10, SUMBAWA BESAR - NTB",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0371) 21786, 22395, 22746, 24146, 24121, 22946, 23560, 625122, 625446, 626640, 626655"
+  },
+  {
+    "location": "TOWN SITE",
+    "address": "KEC. PEMBANTU SEKONGKANG, JEREWEH, SUMBAWA BESAR",
+    "regencyORcity": "KAB. SUMBAWA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0372) 635288"
+  },
+  {
+    "location": "TALIWANG",
+    "address": "JL. UNDRU, TALIWANG, SUMBAWA BARAT",
+    "regencyORcity": "KAB. SUMBAWA BARAT",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0372) 81309, 81446"
+  },
+  {
+    "location": "BIMA",
+    "address": "JALAN SULTAN HASANUDDIN NO. 4 KOTA BIMA D/H JL SULTAN SALAHUDDIN, BIMA (RELOKASI SEMENTARA) KOMPLEK SULTAN SQUARE.",
+    "regencyORcity": "KOTA BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0374) 42356, 43021 (HUNTING)"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JALAN SULTAN HASANUDDIN NO. 4 KOTA BIMA D/H JL SULTAN SALAHUDDIN, BIMA (RELOKASI SEMENTARA) KOMPLEK SULTAN SQUARE.",
+    "regencyORcity": "KOTA BIMA",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "AIRLANGGA D/H UNIV. MATARAM",
+    "address": "JL AIRLANGGA MATARAM, AIRLANGGA SQUARE RUKO NO. 6-7.",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 639387"
+  },
+  {
+    "location": "CAKRANEGARA",
+    "address": "JL.PEJANGGIK NO.24A, CAKRANEGARA",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 637655"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. GAJAH MADA NO. 87 KELURAHAN MADAWAT, KECAMATAN ALOK, KABUPATEN SIKKA, NUSA TENGGARA TIMUR",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL. GAJAH MADA NO. 87 KELURAHAN MADAWAT, KECAMATAN ALOK, KABUPATEN SIKKA, NUSA TENGGARA TIMUR",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "-"
+  },
+  {
+    "location": "KEBON ROEK",
+    "address": "JL. ADISUCIPTO AMPENAN UTARA, AMPENAN, MATARAM",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370)624548"
+  },
+  {
+    "location": "LABUHAN LOMBOK",
+    "address": "JL.RAYA LABUHAN LOMBOK, KAB.LOMBOK TIMUR-NTB",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "087765096775, 08123771813"
+  },
+  {
+    "location": "MATARAM",
+    "address": "JL.LANGKO NO.64 MATARAM, LOMBOK BARAT",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 631046, 636046, 634260, 637822"
+  },
+  {
+    "location": "SANDUBAYA",
+    "address": "JL. SANDUBAYA NO.68A KELURAHAN BERTAIS, KEC. SANDUBAYA, MATARAM",
+    "regencyORcity": "KOTA MATARAM",
+    "province": "NUSA TENGGARA BARAT",
+    "phone": "(0370) 672697"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "location": "MALINGPING",
+    "address": "JL. RAYA SAKETI MALINGPING RT 01/01 KM. 1 KP. PASIR HAUR, KEL. MALINGPING UTARA, KEC. MALINGPING, KAB. LEBAK, PROVINSI BANTEN",
+    "regencyORcity": "KAB. LEBAK",
+    "province": "BANTEN",
+    "phone": "(0252) 5605811"
+  },
+  {
+    "location": "RANGKASBITUNG",
+    "address": "JL.R.T.HARDIWINANGUN NO. 55, RANGKASBITUNG",
+    "regencyORcity": "KAB. LEBAK",
+    "province": "BANTEN",
+    "phone": "(0252) 201046, 201146, 201646, 201955"
+  },
+  {
+    "location": "LABUAN",
+    "address": "JL. JEND.SUDIRMAN NO. 51 RT.01/09, DESA LABUAN, KECAMATAN LABUAN, KABUPATEN PANDEGLANG, BANTEN",
+    "regencyORcity": "KAB. PANDEGLANG",
+    "province": "BANTEN",
+    "phone": "(0253) 803333"
+  },
+  {
+    "location": "PANDEGLANG",
+    "address": "JL.A.YANI NO.3, PANDEGLANG - BANTEN",
+    "regencyORcity": "KAB. PANDEGLANG",
+    "province": "BANTEN",
+    "phone": "(0253) 201912, 201353"
+  },
+  {
+    "location": "CIKANDE",
+    "address": "RUKO MODERN, KOMPLEK RUKO KAWASAN INDUSTRI MODERN, JL. RAYA JAKARTA-SERANG, CIKANDE, KAB. SERANG",
+    "regencyORcity": "KAB. SERANG",
+    "province": "BANTEN",
+    "phone": "(0254)406446"
+  },
+  {
+    "location": "KRAGILAN D/H. TAMBAK (OR CIKANDE)",
+    "address": "JL. RAYA SERANG-JAKARTA KM. 74 NO.4-5 KEC. KRAGILAN, SERANG, BANTEN",
+    "regencyORcity": "KAB. SERANG",
+    "province": "BANTEN",
+    "phone": "(0254) 284694"
+  },
+  {
+    "location": "PASAR ANYER",
+    "address": "JL. RAYA ANYER SIRIH, DESA ANYER KEC. ANYER",
+    "regencyORcity": "KAB. SERANG",
+    "province": "BANTEN",
+    "phone": "(0254) 7961692"
+  },
+  {
+    "location": "BALARAJA",
+    "address": "JL.RAYA SERANG KM.22 DS.KAWIDARAN, BALARAJA, TRG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5954660"
+  },
+  {
+    "location": "CIKUPA",
+    "address": "JL.RAYA SERANG KM.14,5 NO. 29-30, CIKUPA, TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5960444, 59403111"
+  },
+  {
+    "location": "CITRA RAYA",
+    "address": "RUKO MARDI GRASS BLOK KG01 NO. 16-17 , KAB TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)29321050"
+  },
+  {
+    "location": "CURUG",
+    "address": "RUKO GITA NO. 9 JL. RAYA PLP CURUG, KAB. TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "GAJAH TUNGGAL",
+    "address": "JL.RAYA GAJAH TUNGGAL, JATEKE TRG, KOMP. INDUSTRI PT.GAJAH TUNGGAL",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5900480, 5903958"
+  },
+  {
+    "location": "PASAR MUTIARA KARAWACI D/H BOROBUDUR",
+    "address": "JL. RAYA BOROBUDUR BLOK M NO.29-30, KEL. BENCONGAN, KEC. KELAPA DUA, KAB. TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)55663164"
+  },
+  {
+    "location": "RS SILOAM KARAWACI",
+    "address": "RS SILOAM KARAWACI, JL SILOAM NO.6 LIPPO KARAWACI, TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 54213955"
+  },
+  {
+    "location": "TERMINAL III BANDARA SOEKARNO - HATTA",
+    "address": "TERMINAL III LT. DASAR KEDATANGAN BANDARA UDARA INTERNASIONAL SOEKARNO - HATTA, CENGKARENG, TANGERANG",
+    "regencyORcity": "KAB. TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 29963046"
+  },
+  {
+    "location": "CILEGON",
+    "address": "JL.S.A. TIRTAYASA NO. 25, CILEGON",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254) 391208, 391209, 376266, 376302, 386176, 386178, 388660, 392152, 393566, 397272"
+  },
+  {
+    "location": "CILEGON CENTER MALL",
+    "address": "CILEGON CENTER MALL LG-07 JL AHMAD YANI KM 3",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254) 7816656"
+  },
+  {
+    "location": "CILEGON CITY SQUARE",
+    "address": "RUKO CILEGON CITY SQUARE BLOK A 5, JL. JEND A. YANI NO.1, PONDOK CILEGON INDAH, KOTA CILEGON",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254) 377501"
+  },
+  {
+    "location": "KRAKATAU POSCO",
+    "address": "GEDUNG HEAD QUARTER KRAKATAU POSCO LT. 2, JL AFRIKA NO.2 KAWASAN INDUSTRI KRKATAU STEEL, CILEGON, BANTEN",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254)369467"
+  },
+  {
+    "location": "MERAK",
+    "address": "JL. RE MARTADINATA LINK - SUKAJADI",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254) 571211"
+  },
+  {
+    "location": "PT KRAKATAU STEEL",
+    "address": "AREA HUMAN CAPITAL & EDUCATION CENTRE , PT. KRAKATAU STEEL, JL. INDUSTRI NO.5 CILEGON, SERANG",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254) 390911"
+  },
+  {
+    "location": "UBP SURALAYA",
+    "address": "AREA PARKIR GEDUNG ADB PLTU SURALAYA",
+    "regencyORcity": "KOTA CILEGON",
+    "province": "BANTEN",
+    "phone": "(0254)8494092"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.VETERAN NO.49, SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH TANPA MESIN ATM)",
+    "address": "JL.VETERAN NO.49, SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "PASAR RAU",
+    "address": "JL. KHA LATIEF, PASAR RAU, KOTA SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "(0254) 229844"
+  },
+  {
+    "location": "SERANG",
+    "address": "JL.VETERAN NO.49, SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "(0254) 200278, 200729, 200327, 201184, 202377, 205260, 210870, 210871, 216659, 221288,"
+  },
+  {
+    "location": "SERANG CITY",
+    "address": "RUKO SERANG CITY NO.7, JL. RAYA SERANG-CILEGON KM.4 NO. 8, KOTA SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "(0254)8482748"
+  },
+  {
+    "location": "UNTIRTA",
+    "address": "UNIVERSITAS SULTAN AGUNG TIRTAYASA, JL. RAYA JAKARTA KM 4, PAKUPATAN, KOTA SERANG",
+    "regencyORcity": "KOTA SERANG",
+    "province": "BANTEN",
+    "phone": "(0254) 280953"
+  },
+  {
+    "location": "BUMI SERPONG DAMAI",
+    "address": "GEDUNG BNI BSD LANTAI 1 DAN 3 JL. PAHLAWAN SERIBU KAV. SUNBURST LOT 1-5 LENGKONG GUDANG BSD CITY, KOTA TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "CARGO AREA",
+    "address": "KAWASAN CARGO AREA GEDUNG B BEA CUKAI / SH-1 BANDARA SOEKARNO - HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5503779"
+  },
+  {
+    "location": "CILEDUG",
+    "address": "JL. RADEN PATAH NO. 10, KOTA TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 73445944"
+  },
+  {
+    "location": "CIMONE CITI MALL",
+    "address": "CIMONE MALL GF A9 CIMONE, KOTA TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5588427"
+  },
+  {
+    "location": "CIMONE INDAH",
+    "address": "JL. BERINGIN RAYA BLOK 42 NO.90 A-B, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55771088, 5530789"
+  },
+  {
+    "location": "CIPONDOH",
+    "address": "JL. HASYIM ASHARI, CIPONDOH, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55701410"
+  },
+  {
+    "location": "DUTA GARDENIA",
+    "address": "RUKO GARDENIA B12 JURUMUDI TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5409363"
+  },
+  {
+    "location": "GEDUNG GARUDA BSH",
+    "address": "GEDUNG GARUDA BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 29963046"
+  },
+  {
+    "location": "GMF BANDARA S-HATTA",
+    "address": "GEDUNG SERBAGUNA GARUDA MAINTENANCE FACILITY (GMF), BANDARA SOEKARNO HATTA CENGKARENG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5508741"
+  },
+  {
+    "location": "IMAM BONJOL TANGERANG",
+    "address": "JL. IMAM BONJOL NO.71 KARAWACHI-TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55790919"
+  },
+  {
+    "location": "KARANG TENGAH",
+    "address": "RUKO BUMI PERMATA INDAH BLOK R1/21, KARANG TENGAH, KOTA TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)73442579/80"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.DAAN MOGOT NO.2-4, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "KAS MOBIL (BNI O-BRANCH 1 MESIN ATM)",
+    "address": "JL.DAAN MOGOT NO.2-4, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "KI SAMAUN",
+    "address": "JL. KIASNAWI NO.62 PASAR LAMA, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55791349"
+  },
+  {
+    "location": "KREO",
+    "address": "JL. HOS COKROAMINOTO, KREO, KEC. LARANGAN, KOTA TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)73880999"
+  },
+  {
+    "location": "KUTABUMI",
+    "address": "RUKO TAMAN KUTABUMI, BLOK B-18, NO.7-8, KEC. PASAR KEMIS, KAB. TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "021-59712635"
+  },
+  {
+    "location": "LARANGAN",
+    "address": "JL. CILEDUG RAYA NO. 1 EX GEDUNG PSR.SWALAYAN TOMANG TOL KEL.LARANGAN UTARA, KEC.CILEDUG. TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 7304676-7304677"
+  },
+  {
+    "location": "LIPPO KARAWACI",
+    "address": "PST. PERTOKOAN PINANGSIA BLOK L N0.1 KARAWACI",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5512501, 5516433"
+  },
+  {
+    "location": "MODERN LAND",
+    "address": "JL. HARTONO BOULEVARD BLOK R NO. 47 MODERN LAND,TANGERANG - JABAR",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5528957"
+  },
+  {
+    "location": "PALEM SEMI D/H BENTON JUNCTION",
+    "address": "PARASEL RUKO MADRID XI NO 10 & 11, PANUNGGANGAN BARAT, CIBODAS, TANGERANG, BANTEN",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55785090"
+  },
+  {
+    "location": "PASAR BARU TANGERANG DH/ TKI SELAPAJANG BANDARA",
+    "address": "JL. MOCHAMMAD TOHA NO.8G, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5517837"
+  },
+  {
+    "location": "PORIS INDAH",
+    "address": "RUKO PORIS PARADISE BLOK B11 NO,12, CIPONDOH, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55701365"
+  },
+  {
+    "location": "PP GARUDA EKSPOR",
+    "address": "GEDUNG 501 CARGO AREA BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5507225"
+  },
+  {
+    "location": "PP GARUDA IMPOR",
+    "address": "GEDUNG 505 BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5507318"
+  },
+  {
+    "location": "PP GARUDA RUSH HANDLING",
+    "address": "GEDUNG 530 CARGO AREA PO BOX 1200 BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5502239 ext. 4620"
+  },
+  {
+    "location": "PP INCOMING DOMESTIK",
+    "address": "GEDUNG POS LOGISTIK BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5500130/5507225"
+  },
+  {
+    "location": "PP JASA EKSPOR",
+    "address": "GEDUNG 530 CARGO AREA, BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5507272 ext. 259"
+  },
+  {
+    "location": "PP JASA IMPORT",
+    "address": "GEDUNG 521 CARGO AREA, BANDARA SOEKARNO HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)5507272 ext. 141"
+  },
+  {
+    "location": "SRIWIJAYA AIR",
+    "address": "GEDUNG KANTOR PUSAT SRIWIJAYA AIR LT. 1, KAWASAN CENGKARENG, BUSINESS CITY, JL. ATANG SENJAYA, NO. 21, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "TANGERANG",
+    "address": "JL.DAAN MOGOT NO.2-4, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55771946 - 55791078 -55791079 - 55799666 -5522452 - 5522453 - 55799281 - 55799282 - 55793082 - 5581929 -55791913 - 55791970 - 55791966 -55791977 - 55791946 - 55791919 -55791969 - 55791926 - 55796260"
+  },
+  {
+    "location": "TANGERANG CITY",
+    "address": "RUKO SKANDINAVIA BLOK H NO.3, JL. SUDIRMAN NO.1 KELURAHAN BABAKAN, KECAMATAN TANGERANG, KOTA TANGERANG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021)55782346"
+  },
+  {
+    "location": "TERMINAL B BANDARA S-H *)",
+    "address": "TERMINAL B KEBERANGKATAN BANDARA S HATTA, CENGKARENG",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5507446"
+  },
+  {
+    "location": "TERMINAL F BANDARA S-H *)",
+    "address": "TERMINAL F BANDARA S HATTA, CENGKARENG - 19101",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 5506505"
+  },
+  {
+    "location": "WISMA NIAGA SOEWARNA",
+    "address": "WISMA NIAGA SOEWARNA BLOK E LOT 1 & 2 LT. I SUITE H, BAND. SOEKARNO-HATTA",
+    "regencyORcity": "KOTA TANGERANG",
+    "province": "BANTEN",
+    "phone": "(021) 55911946"
+  },
+  {
+    "location": "AEON MALL",
+    "address": "JL. BSD RAYA UTAMA, PAGEDANGAN TANGERANG BANTEN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 29168091"
+  },
+  {
+    "location": "ALAM SUTERA",
+    "address": "RUKO JALUR SUTERA KAV.29D NO.15 TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021)70171556"
+  },
+  {
+    "location": "BINTARO ARCADE",
+    "address": "RUKO KEBAYORAN ARCADE I BLOK KA/C3-51, BINTARO,KOTA TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021)7456591/74870867"
+  },
+  {
+    "location": "BINTARO I",
+    "address": "JL. SEKTOR IIIA BLOK D NO. 48 PONDOK AREN, TANGERANG, RUKO BINTARO",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 7375140"
+  },
+  {
+    "location": "CIPUTAT",
+    "address": "JL. DEWI SARTIKA CIPUTAT 46C , TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 74711891"
+  },
+  {
+    "location": "CIRENDEU",
+    "address": "JL.CIRENDEU RAYA NO. 29 C - D, CIRENDEU, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 7441086"
+  },
+  {
+    "location": "GADING SERPONG",
+    "address": "JL.BOULEVARD GADING SERPONG BLOK ALEXANDRIETE-3 NO.1-2,CURUG,TANGERANG, KOMP.PERUMAHAN GADING SERPONG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 54212215"
+  },
+  {
+    "location": "GOLDEN VIENNA",
+    "address": "RUKO GOLDEN VIENNA NO.10 BUMI SERPONG DAMAI, TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021)75790178"
+  },
+  {
+    "location": "GRAHA RAYA BINTARO",
+    "address": "RUKO VENICE ARCADE JE/15 GRAHA RAYA BINTARO, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 53140025"
+  },
+  {
+    "location": "MENTENG BINTARO D/H PASAR MODERN BINTARO JAYA D/H BINTARO TRADE CENTRE",
+    "address": "RUKO HOOK SENTRA MENTENG BINTARO BLOK MN NO. 27, PONDOK AREN, TANGERANG SELATAN.",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 7455656"
+  },
+  {
+    "location": "PAHLAWAN SERIBU DH/ VILLA MELATI MAS",
+    "address": "JL. PAHLAWAN SERIBU RUKO BSD SEKTOR VII BLOK RK NO. 11, TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021)5371229"
+  },
+  {
+    "location": "PAMULANG",
+    "address": "RUKO PAMULANG BLOK SH15 NO.8 PAMULANG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 27598519"
+  },
+  {
+    "location": "PASAR MODERN BSD",
+    "address": "RUKO MADRID I BLOK C NO. 1 & 2 JL. LETNAN SUTOPO BSD CITY TANGERANG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021)53160444"
+  },
+  {
+    "location": "PONDOK AREN",
+    "address": "RUKO PONDOK AREN, JL CEGER RAYA NO.8 PONDOK KARYA, PONDOK AREN, TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 7353263"
+  },
+  {
+    "location": "PONDOK CABE",
+    "address": "RUKO KAMPUS POLITEKNIK SWADHARMA JL RAYA PONDOK CABE NO.36 KOTA TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 74704946"
+  },
+  {
+    "location": "SERPONG",
+    "address": "RUKO CASA DE LUCIA, JL. RAYA SERPONG, KOTA TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "-"
+  },
+  {
+    "location": "SUTERA NIAGA",
+    "address": "JL. SUTERA NIAGA I NO. 25, TANGERANG, KOMP. RUKO ALAM SUTERA.",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 5398755"
+  },
+  {
+    "location": "UNIV.ISLAM NEGERI SYARIF HIDAYATULLAH D/H IAIN CIPUTAT",
+    "address": "JL. IR. JUANDA NO. 95 CIPUTAT, TANGERANG",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 7342153"
+  },
+  {
+    "location": "WILAYAH 14 - JAKARTA BSD",
+    "address": "GEDUNG BNI BSD LANTAI 7 JL. PAHLAWAN SERIBU KAV. SUNBURST LOT 1-5 LENGKONG GUDANG BSD CITY, KOTA TANGERANG SELATAN",
+    "regencyORcity": "KOTA TANGERANG SELATAN",
+    "province": "BANTEN",
+    "phone": "(021) 80826860"
+  }
+]
