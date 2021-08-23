@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Pusat Pasar",
+    "address": "Jl. Pusat Pasar No. 94-95, Medan, SUMATERA UTARA, 20216",
+    "phone": "(061) 4531164"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Sei Rampah",
+    "address": "Jl. Negara No.88A Sei Rampah, Serdang Bedagai, SUMATERA UTARA, 20695",
+    "phone": "(0621) 41260"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Simpang Pos",
+    "address": "Jl. Jenderal Besar Abdul Haris Nasution No. 5 JK, Medan, SUMATERA UTARA, 20142",
+    "phone": "(061) 8211084"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Sisingamangaraja",
+    "address": "Jl. Sisingamangaraja No. 55 A-B, Medan, SUMATERA UTARA, 20217",
+    "phone": "(061) 7333981, 7333982, 7333984"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Sukaramai",
+    "address": "Wisma Kawasan Industri Medan Jl. Pulau Batam No. 1, Medan, SUMATERA UTARA, 20242",
+    "phone": "(061) 7321603, 7321624, 7357523"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Taman Setiabudi",
+    "address": "Perumahan Taman Setiabudi Indah Jl.Cactus Raya Blok K No. 36 G, Medan, SUMATERA UTARA, 20132",
+    "phone": "(061) 8200636, 8218183, 8221189"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Tanjung Morawa",
+    "address": "Komplek Perkebunan PTP Nusantara II (Persero) Tanjung Morawa, Deli Serdang, SUMATERA UTARA, 20362",
+    "phone": "(061) 7944866, 7944944"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Tanjung Pura",
+    "address": "Jl. Pemuda No.39 Tanjung Pura - Langkat, Kab. Langkat, SUMATERA UTARA,",
+    "phone": "(061) 8960640"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Universitas Sumatera Utara",
+    "address": "Kampus USU, Gelanggang Mahasiswa USU, Jl. Universitas No. 11, Medan, SUMATERA UTARA, 20155",
+    "phone": "(061) 8200361, 8210548"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Medan Zainul Arifin",
+    "address": "Jl. Imam Bonjol No. 16 D, Medan, SUMATERA UTARA, 20112",
+    "phone": "(061) 4538555"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Mempawah",
+    "address": "Jl. Gusti M. Taufik No.21 Mempawah, Pontianak, KALIMANTAN BARAT, 78912",
+    "phone": "(0561).6693116"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Mentok",
+    "address": "Jl. Yos Sudarso No. 1 / 78, Mentok, BANGKA BELITUNG, 33311",
+    "phone": "(0716) 21754, 21751"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Metro",
+    "address": "Jl. Jend. Sudirman No. 39 A, Metro, LAMPUNG, 34111",
+    "phone": "(0725) 41363"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Meulaboh",
+    "address": "Jl. National No. 112 Gampong Ujong Baroh, Meulaboh, NANGGROE ACEH DARUSSALAM, 23600",
+    "phone": "(0655) 7552231, 7552232, 7552233, 7552234, 7552234, 7552235"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Mojokerto",
+    "address": "Jl. Mojopahit No. 406, Mojokerto, JAWA TIMUR, 61321",
+    "phone": "(0321) 323086, 323870, 323871"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Mojosari",
+    "address": "Jl. Hayam Wuruk No. 35 C, Mojosari, Mojokerto, JAWA TIMUR, 61382",
+    "phone": "(0321) 594400, 594020"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Muara Bulian",
+    "address": "Jl. Gajah Mada No.9, Batang Hari, JAMBI, 36613",
+    "phone": "(0743) 21580, 22005"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Muara Enim",
+    "address": "Jl. Jenderal Sudirman No. 44, Muara Enim, SUMATERA SELATAN, 31315",
+    "phone": "(0734) 424148, 421363"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Muara Teweh",
+    "address": "Jl. Ahmad Yani No. 21, Muara Teweh, Barito Utara, KALIMANTAN TENGAH, 73811",
+    "phone": "(0519) 24673, 24676"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Muntilan",
+    "address": "Kompleks Ruko Muntilan Plaza Jl. Pemuda, Muntilan, JAWA TENGAH, 56414",
+    "phone": "(0293) 586066"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Natuna",
+    "address": "Jl. Datuk Kaya Wan Muhammad Benteng No. 96-98, Ranai, Natuna, KEPULAUAN RIAU, 29183",
+    "phone": "(0773) 31497, 31498, 31499"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ngabang",
+    "address": "Jl. Tugu Pahlawan No. 18 Ngabang Kab. Landak, Landak, KALIMANTAN BARAT, 78357",
+    "phone": "(0563) 21386"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Nganjuk",
+    "address": "Jl. Raya Ahmad Yani No. 207, Nganjuk, JAWA TIMUR, 64418",
+    "phone": "(0358) 331662, 331663"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Nunukan",
+    "address": "Jl. Tien Suharto Rt.15, Nunukan, Kab. Bulungan, KALIMANTAN TIMUR, 77182",
+    "phone": "(0556) 2025660, 2025661"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Nusa Dua",
+    "address": "Pertokoan Niaga Nusa Dua No.2-4, Jl. By Pass I Gusti Ngurah Rai, Nusa Dua, Badung, BALI, 80362",
+    "phone": "(0361) 772095 - 6, 778052"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padalarang",
+    "address": "Jl. Raya Padalarang No. 465 A, Padalarang, JAWA BARAT, 40553",
+    "phone": "(022) 6808214, 6808206"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Bagindo Aziz Chan Prioritas",
+    "address": "Jl. Bagindo Aziz Chan No. 21, Padang, SUMATERA BARAT, 25211",
+    "phone": "(0751) 32747, 28443"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Batusangkar",
+    "address": "Pertokoan Pertiwi Indah Jl. S. Parman No.7, Batusangkar, Tanah Datar, SUMATERA BARAT, 27213",
+    "phone": "(0752) 574293"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Belakang Olo",
+    "address": "Jl. Belakang Olo No. 63, Padang, SUMATERA BARAT, 25116",
+    "phone": "(0751) 32726, 32748"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Indarung",
+    "address": "Social Center PT Semen Padang, Padang, SUMATERA BARAT, 25237",
+    "phone": "(0751) 777618 - 19, 74304"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Koto Baru",
+    "address": "Jl. Lintas Sumatera, Nagari Koto Baru, Kab. Dharmasraya, SUMATERA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Muara",
+    "address": "Jl. Batang Arau No. 42, Padang, SUMATERA BARAT, 25215",
+    "phone": "(0751) 34872"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Siteba",
+    "address": "Jl. Gajah Mada Kel. Olo Nanggalo Kec. Nanggalo, Padang, SUMATERA BARAT, 25139",
+    "phone": "(0751) 444447"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Sudirman",
+    "address": "Jl. Sudirman No. 2A, Padang, SUMATERA BARAT, 25001",
+    "phone": "(0751) 26940, 28940, 33840"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Taman Melati",
+    "address": "Jl. Gereja No. 34 A, Padang, SUMATERA BARAT, 25118",
+    "phone": "(0751) 33338, 33339, 26162, 38340, 38341, 38342"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Padang Ujung Gading",
+    "address": "Jl. Flores Jorong Kuamang Kenagarian Ujung Gading, Pasaman Barat, SUMATERA BARAT, 26372",
+    "phone": "(0753) 470707"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palangkaraya Meranen",
+    "address": "Jl. Ds Bukit Sawit Kel Bukit Sawit, Kab Barito Utara, KALIMANTAN TENGAH,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Arga Makmur",
+    "address": "Jl. Ir. Sutami, Kel. Purwodadi, Kec. Kota Arga Makmur, Kab. Bengkulu Utara, BENGKULU,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang A. Rivai",
+    "address": "Jl. Kapten A. Rivai No. 39, Palembang, SUMATERA SELATAN, 30135",
+    "phone": "(0711) 313455, 311556"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Atmo",
+    "address": "Jl. Kolonel Atmo No.118, Palembang, SUMATERA SELATAN, 30125",
+    "phone": "(0711) 354144, 354245"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Batumarta",
+    "address": "Jl. Poros Batumarta II Desa Gotong Royong Kec. Lubuk Raja, Kab. Ogan Komering Ulu, SUMATERA SELATAN, 32152",
+    "phone": "(0735) 7328092"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Betung",
+    "address": "Jl. Raya Palembang Jambi RT.27/RW.06 Lingkungan III Kel. Rimba Asam Kec. Betung, Kab. Banyuasin, SUMATERA SELATAN, 30758",
+    "phone": "(0711) 893788"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Gedung Kanwil",
+    "address": "Jl. Kapten A. Rivai No. 1008, Palembang, SUMATERA SELATAN, 30137",
+    "phone": "(0711) 364008 - 12"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang KPPN",
+    "address": "Jl. Kapten A. Rivai No. 4, Palembang, SUMATERA SELATAN, 30135",
+    "phone": "(0711) 352661"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Manna",
+    "address": "Jl. Jend. Sudirman No.231, Kel. Pasar Mulia, Kec. Pasar Manna, Kab. Bengkulu Selatan, BENGKULU, 38518",
+    "phone": "(0739) 23084"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Martapura",
+    "address": "Jl. Diponegoro Kel. Pasar Martapura/Tanjung Aman Kec. Martapura, Kab. Ogan Komering Ulu, SUMATERA SELATAN, 32181",
+    "phone": "(0735) 481795"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Megang Sakti",
+    "address": "Desa Megang Sakti II Kec. Megang Sakti, Kab. Musi Rawas, SUMATERA SELATAN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Mesjid Lama",
+    "address": "Jl. Mesjid Lama No. 167-168 Pasar 16 Ilir, Palembang, SUMATERA SELATAN, 30125",
+    "phone": "(0711) 355057, 354756, 355058"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Muaradua",
+    "address": "Jl. Jend. Sudirman No.43 Pasar Ilir Kec. Muara Dua, Kab. OKU Selatan , SUMATERA SELATAN, 32152",
+    "phone": "(0735) 590203"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Pasar 16 Ilir",
+    "address": "Jl. Pasar 16 Ilir No. 165-167, Palembang, SUMATERA SELATAN, 30122",
+    "phone": "(0711) 322226"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Plaju",
+    "address": "Pertamina UEP III, Jl. Kurnia, Plaju, SUMATERA SELATAN, 20368",
+    "phone": "(0711) 540373, 595489, 542172"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Pusat Dagang",
+    "address": "Jl. T.P. Rustam Effendi No. 550, Palembang, SUMATERA SELATAN, 30125",
+    "phone": "(0711) 313767, 356436"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Pusri",
+    "address": "Jl. Mayor Zen No. 9, Gedung YDPK, Palembang, SUMATERA SELATAN, 30118",
+    "phone": "(0711) 711023"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang R.S.U",
+    "address": "Jl. Jend. Sudirman Km. 3,5, Palembang, SUMATERA SELATAN, 30126",
+    "phone": "(0711) 313498, 364020"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang R. Sukamto",
+    "address": "Jl. R. Soekamto No.55 A & 55 B, Simpang Patal, Palembang, SUMATERA SELATAN, 30114",
+    "phone": "(0711) 360808, 357823"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Sako Kenten",
+    "address": "Terminal Sako Kenten, Ruko K3 No.1, Sako Kenten, Palembang, SUMATERA SELATAN, 30762",
+    "phone": "(0711) 810771"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Sukajadi",
+    "address": "Jl. Raya Palembang - Betung Km.12-13,Sukajadi, Talang Kelapa, Banyuasin, SUMATERA SELATAN, 30761",
+    "phone": "(0711) 430199, 431859"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Tengkuruk",
+    "address": "Jl. Tengkuruk No. 115 Blok C 16 Ilir, Palembang, SUMATERA SELATAN, 30125",
+    "phone": "(0711) 367988, 367905, 368039"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Tugu Mulyo",
+    "address": "Jl. Lintas Timur - Kecamatan Lempuing, Kab. Ogan Komering Ilir , SUMATERA SELATAN, 30657",
+    "phone": "(0712) 331320"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palembang Veteran",
+    "address": "Jl. Veteran No. A-8, Palembang, SUMATERA SELATAN, 30113",
+    "phone": "(0711) 374004, 357472, 357496"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palu Hasanuddin",
+    "address": "Jl. Sultan Hasanuddin No. 35, Palu, SULAWESI TENGAH, 94112",
+    "phone": "(0451) 421580, 429180"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palu Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 88, Palu, SULAWESI TENGAH, 94223",
+    "phone": "(0451) 421482 - 84, 421480, 455706"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palu Pasangkayu",
+    "address": "Jl. Poros Trans Sulawesi Pasangkayu, Mamuju Utara, SULAWESI BARAT, 53192",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Palur",
+    "address": "Jl. Raya Palur No. 32, Jaten, Karanganyar, JAWA TENGAH, 57771",
+    "phone": "(0271) 827029"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pamanukan",
+    "address": "Jl. Ion Martasasmita No. 35, Pamanukan, Subang, JAWA BARAT, 41254",
+    "phone": "(0260) 554555"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pamekasan",
+    "address": "Jl. Pangeran Diponegoro No.151, Pamekasan, JAWA TIMUR, 69315",
+    "phone": "(0324) 331000, 330803, 330806"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pandaan",
+    "address": "Kompleks Pandaan Delta Permai A 18-19, Jl. Surabaya - Malang, Pandaan, JAWA TIMUR, 67156",
+    "phone": "(0343) 638444, 638585"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pangkalan Bun",
+    "address": "Jl. Udan Said No. 3, Pangakalan Bun, Pangkalan Bun, KALIMANTAN TENGAH, 74113",
+    "phone": "(0532) 24255, 24966, 35306, 27726"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pangkalan Kerinci",
+    "address": "Jl. Raya Lintas Timur, Pangkalan Kerinci, RIAU, 28381",
+    "phone": "(0761) 493696, 493719"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pangkalpinang Depati Amir",
+    "address": "Jl. Depati Amir No 45 A (d/h Jl. Mentok), Pangkalpinang, BANGKA BELITUNG, 33133",
+    "phone": "(0717) 436701, 434468"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pangkep",
+    "address": "Jl. Kubis No.1 Mappasaile Kec. Pangkajene, Pangkep, SULAWESI SELATAN, 90105",
+    "phone": "(0410) 2311841"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Panyabungan",
+    "address": "Jl. Willem Iskandar No. 105, Panyabungan, Mandailing Natal, SUMATERA UTARA, 22913",
+    "phone": "(0636) 20925 - 26"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Parakan",
+    "address": "Jl. Pahlawan No. 28, Parakan, Temanggung, JAWA TENGAH, 56254",
+    "phone": "(0293) 596471-73, 596598, 597227"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pare",
+    "address": "Jl. Panglima Besar Sudirman No. 43, Pare, Kediri, JAWA TIMUR, 64212",
+    "phone": "(0354) 398400"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Parigi",
+    "address": "Jl. Trans Sulawesi No. 117, Parigi, SULAWESI TENGAH, 94371",
+    "phone": "(0450) 22245 - 48"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Parit Tiga Jebus",
+    "address": "Jl. Air Kuang No. 2, Parit Tiga, Kec.Jebus, Bangka Barat, BANGKA BELITUNG, 33362",
+    "phone": "(0715) 351701, 351702"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pasaman",
+    "address": "Jl. Jend.Sudirman No.101, Pasaman Baru, Pasaman Barat, SUMATERA BARAT, 26366",
+    "phone": "(0753) 466534, 466535, 466536"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pasar Kahayan",
+    "address": "Jl. Cilik Riwut Km 1 No. 19 - 20, Palangkaraya, Palangkaraya, KALIMANTAN TENGAH, 73112",
+    "phone": "(0536) 3223451"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pasar Perluasan",
+    "address": "Jl. HOS Cokroaminoto No. 3B-3C, Pemarang Siantar, SUMATERA UTARA, 21138",
+    "phone": "(0624) 435666"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pasuruan",
+    "address": "Jl. Panglima Sudirman No. 11, Pasuruan, JAWA TIMUR, 67115",
+    "phone": "(0343) 420221, 426876, 428666, 416833"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pati",
+    "address": "Jl. Kol. Kusnandar Komplek Ruko Pasar Puri Blok 6-7, Pati, JAWA TENGAH, 59112",
+    "phone": "(0295) 385909, 385066, 385067"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Payakumbuh",
+    "address": "Jl. Jenderal Sudirman No. 14, Payakumbuh, SUMATERA BARAT, 26211",
+    "phone": "(0752) 796783 s/d 796786"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekalongan Hayam Wuruk",
+    "address": "Jl. Hayam Wuruk No. 5, Pekalongan, JAWA TENGAH, 51119",
+    "phone": "(0285) 422085"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekalongan Randudongkal",
+    "address": "Jl. Gatot Subroto No. 87 Randudongkal, Pemalang, Pemalang, JAWA TENGAH,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 85, Pekanbaru, RIAU, 28115",
+    "phone": "(0761) 24888"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Jalan Riau",
+    "address": "Jl. Riau No. 12 D-E, Pekanbaru, RIAU, 28292",
+    "phone": "(0761) 859381, 859580, 859581"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Kandis",
+    "address": "Jl. Lintas Pekanbaru - Duri Km.73 RT/RW 01/05, Kel. Simpang Belutu, Kec. Kandis, Kab. Siak, RIAU, 28886",
+    "phone": "(0761) 4803000"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Nangka",
+    "address": "Jl. Tuanku Tambusai No. 18 E-F, Pekanbaru, RIAU, 28282",
+    "phone": "(0761) 571610, 572517"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Panam",
+    "address": "Jl. HR Soebrantas Kav. 3 & 4, Panam, Pekanbaru, RIAU, 28294",
+    "phone": "(0761) 562322, 562323"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Rambah",
+    "address": "Jl. Tuanku Tambusai No.59 A. Kec. Rambah, Kota Pasir Pengaraian, Kab. Rokan Hulu, RIAU,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Sudirman Atas",
+    "address": "Jl. Jend. Sudirman No. 452, Pekanbaru, RIAU, 28115",
+    "phone": "(0761) 31021-5, 21464"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Sudirman Tengah",
+    "address": "Jl. Jend Sudirman No. 357, Pekanbaru, RIAU, 28113",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pekanbaru Tuanku Tambusai",
+    "address": "Komplek Lancang Kuning Square, Jl Tuanku Tambusai No. 144, Pekanbaru, RIAU, 28283",
+    "phone": "(0761) 859848, 859858"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pelabuhan Benoa",
+    "address": "Jl. Raya Pelabuhan Benoa, Denpasar, BALI, 80222",
+    "phone": "(0361) 723551"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pelaihari",
+    "address": "Jl. Ahmad Yani No. 17, Pelaihari, Tanah Laut, KALIMANTAN SELATAN, 70811",
+    "phone": "(0512) 22801, 22812, 22824, 22838"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pemalang",
+    "address": "Jl. Sudirman No. 59, Pemalang, JAWA TENGAH, 52313",
+    "phone": "(0284) 321647, 324707, 324880"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pemangkat",
+    "address": "Jl. M. Hambal No. 151 Pemangkat Kab Sambas, Sambas, KALIMANTAN BARAT, 79453",
+    "phone": "(0562) 244680"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pematangsiantar Lima Puluh / Indrapura",
+    "address": "Jl. Jend. Sudirman No. 59 Indrapura, Kec. Air Putih, Kab. Batubara, SUMATERA UTARA, 21256",
+    "phone": "(0622) 31730"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pematangsiantar Perdagangan",
+    "address": "Jl. SM Raja No.488 Perdagangan, Kab. Simalungun, SUMATERA UTARA, 21184",
+    "phone": "(0622) 96772"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pematangsiantar Serbelawan",
+    "address": "Jl. Merdeka No.5C, Serbelawan, Kec. Batu Nanggar, Kab. Simalungun, SUMATERA UTARA, 21155",
+    "phone": "(0622) 773031"
+  }
+]

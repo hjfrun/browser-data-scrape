@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KC",
+    "name": "Banjarmasin Lambung Mangkurat",
+    "address": "Jl. Lambung Mangkurat No. 3, Banjarmasin, KALIMANTAN SELATAN, 70111",
+    "phone": "(0511) 4368475, 4367812, 3365831"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Banyuwangi",
+    "address": "Jl. Dr. Wahidin Sudiro Husodo No. 2, Banyuwangi, JAWA TIMUR, 68411",
+    "phone": "(0333) 424674, 424815"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Batam Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 90, Batam, KEPULAUAN RIAU, 29432",
+    "phone": "(0778) 454444, 458137, 458280"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Baturaja",
+    "address": "Jl. Ahmad Yani No. 53, Baturaja Timur, Ogan Komering Ulu , SUMATERA SELATAN, 32111",
+    "phone": "(0735) 320688, 320687, 323010"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bekasi Juanda",
+    "address": "Jl. Ir. H. Juanda No. 155, Bekasi, JAWA BARAT, 17112",
+    "phone": "(021) 8813321, 8826128"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bengkulu S. Parman",
+    "address": "Jl. Letjend. S. Parman No. 183, Bengkulu, BENGKULU, 38223",
+    "phone": "(0736) 20016, 22138, 21244"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Biak",
+    "address": "Jl. Jend. Ahmad Yani No. 2, Biak, PAPUA, 98112",
+    "phone": "(0981) 22000, 21527"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bitung",
+    "address": "Jl. Xaverius Dotulong No. 29, Bitung, SULAWESI UTARA, 95514",
+    "phone": "(0438) 21022, 21166, 32626"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bogor Juanda",
+    "address": "Jl. Ir. H, Juanda No. 12, Bogor, JAWA BARAT, 16121",
+    "phone": "(0251) 8313644, 8320008, 8324836"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bontang",
+    "address": "Jl. Angkasa No. 1, Airport Road, Komp. PT Badak, Bontang, KALIMANTAN TIMUR, 75324",
+    "phone": "(0548) 21490, 21492"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bukittinggi",
+    "address": "Jl. Perintis Kemerdekaan No. 3, Bukittinggi, SUMATERA BARAT, 26111",
+    "phone": "(0752) 626401"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Cilacap",
+    "address": "Jl. Jend. Ahmad Yani No. 100, Cilacap, JAWA TENGAH, 53212",
+    "phone": "(0282) 533193, 533806"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Cilegon Anyer",
+    "address": "Jl. Raya Anyer No. 2, Cilegon, BANTEN, 42431",
+    "phone": "(0254) 391515"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Cirebon Yos Sudarso",
+    "address": "Jl. Yos Sudarso No. 11, Cirebon, JAWA BARAT, 45111",
+    "phone": "(0231) 205506 - 7, 234350-1, 206204"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Dawuan Cikampek",
+    "address": "Jl. Jend. Ahmad Yani No. 45, Dawuan, Cikampek, JAWA BARAT, 41373",
+    "phone": "(0264) 316140"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Denpasar Veteran",
+    "address": "Jl. Veteran No. 1, Denpasar, BALI, 80111",
+    "phone": "(0361) 226761 - 3"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Depok",
+    "address": "Jl. Margonda Raya No. 2, Depok, JAWA BARAT, 16432",
+    "phone": "(021) 7520569, 7760903"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Dumai Sudirman",
+    "address": "Jl. Jend. Sudirman No. 133 A, Dumai, RIAU, 28812",
+    "phone": "(0765) 31088"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Duri",
+    "address": "Jl. Hangtuah No. 289-292, Bengkalis, RIAU, 28884",
+    "phone": "(0765) 91170, 91171"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Fak Fak",
+    "address": "Jl. Izak Telussa No. 26, Fak-fak, PAPUA BARAT, 98601",
+    "phone": "(0956) 22119, 22120, 22124, 22480"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Gorontalo",
+    "address": "Jl. H. Nani Wartabone No. 28, Gorontalo, GORONTALO, 96112",
+    "phone": "(0435) 824131 - 34, 823551"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Cikini",
+    "address": "Jl. Cikini Raya No. 56, Jakarta Pusat, DKI JAKARTA, 10330",
+    "phone": "(021) 31931732"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Daan Mogot",
+    "address": "Jl. Daan Mogot, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 56961890"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Falatehan",
+    "address": "Jl. Falatehan I No.44, Jakarta Selatan, DKI JAKARTA, 12160",
+    "phone": "(021) 2700501 - 9, 2700444, 2700234"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Fatmawati",
+    "address": "Jl. R.S. Fatmawati No. 8, Cilandak, Jakarta Selatan, DKI JAKARTA, 12430",
+    "phone": "(021) 7504791"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Gambir",
+    "address": "Jl. Ir. H. Juanda No. 18, Jakarta Pusat, DKI JAKARTA, 10120",
+    "phone": "(021) 3864026, 3808367"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Green Ville",
+    "address": "Komplek Perumahan dan Perkantoran Green Ville Real Estate Blok BG No. 31-36, Jakarta Barat, DKI JAKARTA, 11510",
+    "phone": "(021) 5689044-46"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 61, Jakarta Pusat, DKI JAKARTA, 10310",
+    "phone": "(021) 2301555, 2301545"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Jatinegara Timur",
+    "address": "Jl. Jatinegara Timur No. 58, Jakarta Timur, DKI JAKARTA, 13310",
+    "phone": "(021) 2800033"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Jatiwaringin",
+    "address": "Jl. Raya Jatiwaringin No. 363, Pondok Gede, Bekasi, JAWA BARAT, 17411",
+    "phone": "(021) 8466850, 8465362"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Kebon Sirih",
+    "address": "Jl. Tanah Abang Timur No. 1-2, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 2311800"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Kota",
+    "address": "Jl. Lapangan Stasiun No. 2, Jakarta Barat, DKI JAKARTA, 11110",
+    "phone": "(021) 2600500, 2600506"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Kyai Tapa",
+    "address": "Jl. Kyai Tapa No. 99, Jakarta Barat, DKI JAKARTA, 11440",
+    "phone": "(021) 5634614"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Pasar Rebo",
+    "address": "Plaza PP, Jl. Letjend. T.B. Simatupang No. 57, Jakarta Timur, DKI JAKARTA, 13760",
+    "phone": "(021) 8408283"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Plaza Mandiri",
+    "address": "Jl. Jend. Gatot Subroto Kav. 36-38, Jakarta Selatan, DKI JAKARTA, 12190",
+    "phone": "(021) 5263553"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Pluit Selatan",
+    "address": "Jl. Raya Pluit Selatan No. 31-35, Jakarta Utara, DKI JAKARTA, 14450",
+    "phone": "(021) 6670909, 6670101"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Pondok Indah",
+    "address": "Jl. Metro Pondok Indah Kav.II UA No. 48-50, Jakarta Selatan, DKI JAKARTA, 12310",
+    "phone": "(021) 7507208 - 9, 7694982"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Pondok Kelapa",
+    "address": "Jl. Tarum Barat Km. 4,5, Kalimalang, Jakarta Timur, DKI JAKARTA, 13450",
+    "phone": "(021) 8645173"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Pulogadung",
+    "address": "Jl. Raya Bekasi Km. 21, Pulogadung, Jakarta Utara, DKI JAKARTA, 14250",
+    "phone": "(021) 4602877, 4602923"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Sudirman",
+    "address": "Plaza Bapindo, Jl. Jend. Sudirman Kav. 54-55, Jakarta Selatan, DKI JAKARTA, 12190",
+    "phone": "(021) 5266527"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Tanjungpriok Enggano",
+    "address": "Jl. Enggano No. 42, Jakarta Utara, DKI JAKARTA, 14310",
+    "phone": "(021) 43902536, 4351167, 4351169"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Tebet Supomo",
+    "address": "Jl. Prof. Dr. Supomo, SH No. 43, Tebet, Jakarta Selatan, DKI JAKARTA, 12180",
+    "phone": "(021) 83790218, 83790244, 83790249"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jakarta Thamrin",
+    "address": "Jl. Kebon Sirih No. 83, Jakarta Pusat, DKI JAKARTA, 10340",
+    "phone": "(021) 2302411 ext 302"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jambi Gatot Subroto",
+    "address": "Jl. Jend. Gatot Subroto No. 60 A, Jambi, JAMBI, 36138",
+    "phone": "(0741) 31581 - 2, 21412"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jayapura Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 35, Jayapura, PAPUA, 99111",
+    "phone": "(0967) 531028, 534186, 534189, 533919"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Jember Alun-Alun",
+    "address": "Jl. Jend. Ahmad Yani No. 3, Jember, JAWA TIMUR, 68118",
+    "phone": "(0331) 486671"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Karawang",
+    "address": "Jl. Jend. Ahmad Yani No. 4, By Pass, Kerawang, JAWA BARAT, 41314",
+    "phone": "(0267) 402353, 402679, 403127, 403761, 405960, 408724, 414943"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kediri",
+    "address": "Jl. Diponegoro No. 17, Kediri, JAWA TIMUR, 64123",
+    "phone": "(0354) 681396, 681430"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kendari Mesjid Agung",
+    "address": "Jl. H. Abdullah Silondae 45, Mondonga, Kendari, SULAWESI TENGGARA, 93111",
+    "phone": "(0401) 3121394, 3127708, 3122109"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kisaran",
+    "address": "Jl. Cokroaminoto No. 65, Kisaran, SUMATERA UTARA, 21215",
+    "phone": "(0623) 41855, 41375"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kotabumi",
+    "address": "Jl. Jenderal Sudirman No. 43, Kotabumi, LAMPUNG, 34516",
+    "phone": "(0724) 21392, 21539, 21611"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kotamobagu",
+    "address": "Jl. A. Yani No.51, Kotamobagu, SULAWESI UTARA, 95711",
+    "phone": "(0434) 22820, 21580, 24250"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kuala Kapuas",
+    "address": "Jl. Jend. Sudirman No. 32, Kuala Kapuas, KALIMANTAN TENGAH, 73513",
+    "phone": "(0513) 21132, 21695"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kudus",
+    "address": "Jl. Jend. Sudirman No. 164, Kudus, JAWA TENGAH, 59301",
+    "phone": "(0291) 438768, 432974"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Kupang Urip Sumoharjo",
+    "address": "Jl. Urip Sumoharjo No. 16, Kupang, NUSA TENGGARA TIMUR, 85229",
+    "phone": "(0380) 833216"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Langsa",
+    "address": "Jl. Jend. Ahmad Yani No. 20, Langsa, NANGGROE ACEH DARUSSALAM, 24416",
+    "phone": "(0641) 21023"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Lhokseumawe Merdeka",
+    "address": "Jl. Merdeka No. 135 C, Lhokseumawe, NANGGROE ACEH DARUSSALAM, 24301",
+    "phone": "(0645)40082, 42085"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Luwuk",
+    "address": "Jl. Jend. Ahmad Yani No. 132, Luwuk, SULAWESI TENGAH, 94711",
+    "phone": "(0461) 21143, 21144"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Madiun",
+    "address": "Jl. Pahlawan No. 29, Madiun, JAWA TIMUR, 63116",
+    "phone": "(0351) 462557, 451598"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Magelang",
+    "address": "Jl. Sudirman No. 26, Komplek Pertokoan Rejotumoto, Magelang, JAWA TENGAH, 56126",
+    "phone": "(0293) 364012, 366776"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Makassar Kartini",
+    "address": "Jl. R.A. Kartini No. 12-14, Makassar, SULAWESI SELATAN, 90111",
+    "phone": "(0411) 324095, 319424, 319441, 319443"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Malang Wahid Hasyim",
+    "address": "Jl. K.H. Wahid Hasyim No. 5-7, Malang, JAWA TIMUR, 65119",
+    "phone": "(0341) 364961 - 2"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Manado Dotulolong Lasut",
+    "address": "Jl. Dotulolong Lasut No. 15, Manado, SULAWESI UTARA, 95122",
+    "phone": "(0431) 866228, 863477, 863278"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Manokwari",
+    "address": "Jl. Yos Sudarso No. 61, Manokwari, PAPUA BARAT, 98311",
+    "phone": "(0986) 213567, 211102, 211103 - 04"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Mataram Cakranegara",
+    "address": "Jl. Pejanggik No. 20-22, Cakranegara, Mataram, NUSA TENGGARA BARAT, 83231",
+    "phone": "(0370) 631813, 636071"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Medan Balaikota",
+    "address": "Jl. Balaikota No. 8-10, Medan, SUMATERA UTARA, 20111",
+    "phone": "(061) 4524900, 4538380"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Medan Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 7, Medan, SUMATERA UTARA, 20112",
+    "phone": "(061) 4150600"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Merauke",
+    "address": "Jl. Raya Mandala No. 1, Merauke, PAPUA, 99613",
+    "phone": "(0971) 321333, 321128"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Muara Bungo",
+    "address": "Jl. Lintas Sumatra Km. 1 No. 64-66, Muara Bungo, JAMBI, 37212",
+    "phone": "(0747) 21188, 21138, 21140"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Nabire",
+    "address": "Jl. Pepera No. 19, Nabire, PAPUA, 98801",
+    "phone": "(0984) 21135, 21045, 21145"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Padang Lapangan Imam Bonjol",
+    "address": "Jl. Bagindo Aziz Chan No. 12, Padang, SUMATERA BARAT, 31505",
+    "phone": "(0751) 31501 - 2"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Padang Sidempuan",
+    "address": "Jl. Sudirman No. 30-32, Padang Sidempuan, SUMATERA UTARA, 22718",
+    "phone": "(0634) 21032"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Palangkaraya",
+    "address": "Jl. Jend. Ahmad Yani No. 70, Palangkaraya, KALIMANTAN TENGAH, 73111",
+    "phone": "(0536) 3222961, 3221378, 3221969, 3224313, 3239438, 3235104, 3222702, 3230544"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Palembang Arief",
+    "address": "Jl. Kapten A. Rivai No. 27, Palembang, SUMATERA SELATAN, 30129",
+    "phone": "(0711) 310952, 313020, 373271, 352346"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Palembang Sudirman",
+    "address": "Jl. Jend. Sudirman No. 419, Palembang, SUMATERA SELATAN, 30134",
+    "phone": "(0711) 311177, 358325"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Palopo",
+    "address": "Jl. Andi Djemma No. 123, Palopo, SULAWESI SELATAN, 91921",
+    "phone": "(0471) 21313, 23672, 23673"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Palu Sam Ratulangi",
+    "address": "Jl. Dr. Sam Ratulangi No. 60, Palu, SULAWESI TENGAH, 94111",
+    "phone": "(0451) 424971, 423975, 423942"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pangkalan Brandan",
+    "address": "Komplek Pertamina Sumbagut, Pangkalan Brandan, SUMATERA UTARA, 20857",
+    "phone": "(0620) 21000, 21490"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pangkalpinang",
+    "address": "Jl. Jend. Sudirman No. 7, Pangkalpinang, BANGKA BELITUNG, 33128",
+    "phone": "(0717) 432385"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pare Pare",
+    "address": "Jl. Andi Isa No. 5, Parepare, Sulawesi Selatan, 91114",
+    "phone": "(0421) 21046, 24339, 25339, 25439, 21339"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pekalongan Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 34, Pekalongan, JAWA TENGAH, 51111",
+    "phone": "(0285) 425131-33"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pekanbaru Sudirman Bawah",
+    "address": "Jl. Jend. Sudirman No. 140, Pekanbaru, RIAU, 28113",
+    "phone": "(0761) 31786, 32881, 32403, 32223"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pematangsiantar Sudirman",
+    "address": "Jl. Jend. Sudirman No. 14, Pematangsiantar, SUMATERA UTARA, 21117",
+    "phone": "(0622) 22035"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pomalaa",
+    "address": "Komplek Aneka Tambang, Jl. Ahmad Yani, Pomalaa, SULAWESI TENGGARA, 93562",
+    "phone": "(0405) 2310317, 2310824, 2310825, 2310560"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Pontianak Diponegoro",
+    "address": "Jl. Diponegoro No. 17, Pontianak, KALIMANTAN BARAT, 78123",
+    "phone": "(0561) 769769"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Probolinggo",
+    "address": "Jl. Suroyo No. 23, Probolinggo, JAWA TIMUR, 67211",
+    "phone": "(0335) 421205"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Purwokerto",
+    "address": "Jl. Jend. Sudirman No. 463, Purwokerto, JAWA TENGAH, 53114",
+    "phone": "(0281) 632222"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Rantau Prapat Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 2, Rantau Prapat, SUMATERA UTARA, 21415",
+    "phone": "(0624) 21434"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Rengat",
+    "address": "Jl. Jend. M.T. Haryono No. 11, Rengat, RIAU, 29319",
+    "phone": "(0769) 22070, 323357"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Samarinda Mulawarman",
+    "address": "Jl. Mulawarman No. 23, Samarinda, KALIMANTAN TIMUR, 75112",
+    "phone": "(0541) 742097, 741464, 741462, 741464, 749062"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Sambas",
+    "address": "Jl. Gusti Hamzah No. 123, Sambas, KALIMANTAN BARAT, 79462",
+    "phone": "(0562) 391208, 391543, 392567, 392675"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Sampit",
+    "address": "Jl. M.T. Haryono No. 81 A, Sampit, KALIMANTAN TENGAH, 74322",
+    "phone": "(0531) 21035"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Semarang Pahlawan",
+    "address": "Jl. Pahlawan No. 3, Semarang, JAWA TENGAH, 50241",
+    "phone": "(024) 8415362"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Semarang Pemuda",
+    "address": "Jl. Pemuda No. 73, Semarang, JAWA TENGAH, 50139",
+    "phone": "(024) 3514321"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Serang",
+    "address": "Jl. Diponegoro No. 8, Kab. Serang, BANTEN, 42111",
+    "phone": "(0254) 205379, 201260, 205380, 202570"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Serui",
+    "address": "Jl. Dr. Sam Ratulangi, Serui, PAPUA, 98212",
+    "phone": "(0983) 31535, 31536, 31537, 31782"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Sibolga",
+    "address": "Jl. Brigjend. Katamso No. 43, Sibolga, SUMATERA UTARA, 22522",
+    "phone": "(0631) 21376, 21591"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Singkawang",
+    "address": "Jl. Merdeka No. 20, Singkawang, KALIMANTAN BARAT, 79122",
+    "phone": "(0562) 631335, 631389, 637546"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Situbondo",
+    "address": "Jl. Jend. Ahmad Yani No. 102, Situbondo, JAWA TIMUR, 68311",
+    "phone": "(0338) 671853"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Solok",
+    "address": "Jl. K.H. Akhmad Dahlan, Solok, SUMATERA BARAT, 27322",
+    "phone": "(0755) 21123"
+  }
+]

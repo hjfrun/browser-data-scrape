@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Pematangsiantar Sutomo",
+    "address": "Jl. Sutomo No. 16, Pematangsiantar, SUMATERA UTARA, 21115",
+    "phone": "(0622) 21540, 21211"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Penajam Paser Utara",
+    "address": "Jl. Propinsi Km 18 Petung, Kab. Penajam Paser Utara, KALIMANTAN TIMUR, 76143",
+    "phone": "(0542) 427777 ext.210"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pinrang",
+    "address": "Jl. Durian No. 24 - 26, Pinrang, SULAWESI SELATAN, 91211",
+    "phone": "(0421) 921367, 922145"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Piyungan",
+    "address": "Jl. Raya Piyungan Km. 14. Piyungan - Bantul, Bantul, JAWA TENGAH, 55792",
+    "phone": "(0274) 4353320"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Polewali Mandar",
+    "address": "Jl. Jenderal Sudirman No. 132, Wonomulyo, Polewali Mandar, SULAWESI BARAT, 91352",
+    "phone": "(0428) 51985, 51987, 51988"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ponorogo",
+    "address": "Jl. Urip Sumoharjo No. 102, Ponorogo, JAWA TIMUR, 63411",
+    "phone": "(0352) 488909, 488910"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Achmad Yani",
+    "address": "Jl. Achmad Yani No. 3 - 3 A, Pontianak, KALIMANTAN BARAT, 78122",
+    "phone": "(0561) 765010"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Nanga Pinoh",
+    "address": "Jl. Juang Blok D No. 06 Kabupaten Melawi, Kab. Melawi, KALIMANTAN BARAT,",
+    "phone": "(0561).6693116"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Ngurah Rai",
+    "address": "Jl. I Gusti Ngurah Rai No. 2 , Humaera B, Pontianak, KALIMANTAN BARAT, 78117",
+    "phone": "(0561) 734247"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Sekadau",
+    "address": "Jl. Sekadau Sintang No. 66 Ds Mungguk Kec. Sekadau Hilir, Kab Sekadau, KALIMANTAN BARAT, 79582",
+    "phone": "(0561).6693116"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Siantan",
+    "address": "Jl. Khatulistiwa No. 1, Siantan, Pontianak, KALIMANTAN BARAT, 78243",
+    "phone": "(0561) 886192 - 93, 886308, 886507"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Sidas",
+    "address": "Jl. Sidas No. 2, Pontianak, KALIMANTAN BARAT, 78111",
+    "phone": "(0561) 734670, 747495"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pontianak Tanjungpura",
+    "address": "Jl. Tanjungpura No. 110, Pontianak, KALIMANTAN BARAT, 78117",
+    "phone": "(0561) 734464"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Poso",
+    "address": "Jl. Hasanuddin No. 13, Poso, Poso, SULAWESI TENGAH, 94616",
+    "phone": "(0452) 21367, 21467, 21567, 21704"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Prabumulih",
+    "address": "Pertamina UEP II, Jl. Pramuka, Prabumulih, SUMATERA SELATAN, 31122",
+    "phone": "(0713) 320868, 592670"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Prabumulih Sudirman",
+    "address": "Jl. Sudirman No. 117, Prabumulih, SUMATERA SELATAN, 31121",
+    "phone": "(0713) 326000, 326093, 326094"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Prafi Manokwari",
+    "address": "Jl. Merpati No.495 (Jl. Poros SP-TV) distrik Prafi, Papua Barat, Manokwari, PAPUA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Prambanan",
+    "address": "Jl. Raya No. 3B Prambanan, Klaten, JAWA TENGAH, 57434",
+    "phone": "(0274) 497352"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Praya",
+    "address": "Jl. Jend. Sudirman Kompleks Pertokoan C.3 - 4 Praya, Lombok Tengah, NUSA TENGGARA BARAT, 83511",
+    "phone": "(0370) 655090"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Pringsewu",
+    "address": "Jl. Ahmad Yani No. 18, Pringsewu, Tanggamus, LAMPUNG, 35373",
+    "phone": "(0729) 24452, 24453"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Probolinggo Kraksaan",
+    "address": "Jl. Panglima Sudirman No. 119, Kraksaan, Probolinggo, JAWA TIMUR, 67282",
+    "phone": "(0335) 844399"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Purbalingga",
+    "address": "Jl. Jenderal Sudirman No. 37, Purbalingga, JAWA TENGAH, 53312",
+    "phone": "(0281) 891192, 895555"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Purwakarta",
+    "address": "Jl. Sudirman No. 176, Purwakarta, JAWA BARAT, 41115",
+    "phone": "(0264) 201505"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Purwodadi",
+    "address": "Jl. R. Suprapto No. 97 A-B, Purwodadi, JAWA TENGAH, 58111",
+    "phone": "(0292) 425061"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Purworejo",
+    "address": "Jl. Kol. Sugiono No. 5, Purworejo, JAWA TENGAH, 54114",
+    "phone": "(0275) 325744, 325745"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Rangkasbitung",
+    "address": "Komplek Pertokoan Pasar Kota Rangkasbitung Blok B-1 No.1,Jl. Sunan Kalijaga, Rangkasbitung, Kab. Serang, BANTEN, 42311",
+    "phone": "(0252) 281611, 281612, 281613"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Rantau Prapat  M. Lubis",
+    "address": "Jl. Letkol. Martinus Lubis 11, Rantau Prapat, SUMATERA UTARA, 21412",
+    "phone": "(0624) 21712"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Rembang",
+    "address": "Jl. Diponegoro No. 79, Rembang, Rembang, JAWA TENGAH, 59217",
+    "phone": "(0295) 691599, 6998309"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Rimbo Bujang",
+    "address": "Jl. Pahlawan No. 86 - 88, Pasar Sarinah, Tebo, JAMBI,",
+    "phone": "(0747) 431600"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ruteng",
+    "address": "Jl. Waeces No. 20 Karot, Manggarai, Ruteng, NUSA TENGGARA TIMUR, 86511",
+    "phone": "(0385) 21880"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Salatiga",
+    "address": "Jl. Diponegoro No. 36, Salatiga, JAWA TENGAH, 50711",
+    "phone": "(0298) 321002, 324030"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda A. Yani",
+    "address": "Jl. Hasan Basri Blok A No. 1, Samarinda, KALIMANTAN TIMUR, 75117",
+    "phone": "(0541) 736514, 736587"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Irian",
+    "address": "Jl. Irian No. 16 C, Samarinda, KALIMANTAN TIMUR, 75111",
+    "phone": "(0541) 742066 - 67"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Kesuma Bangsa",
+    "address": "Jl. Kesuma Bangsa No. 76, Samarinda, KALIMANTAN TIMUR, 75121",
+    "phone": "(0541) 742549"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Loa Kulu",
+    "address": "Jl. H. Masdansi RT.07 No.24 Kel. Loa Kulu, Kab. Kartanegara, KALIMANTAN TIMUR, 75571",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Palaran",
+    "address": "Jl. Trikora RT.07 Kel. Rawa Makmur, Kec. Samarinda, Samarinda, KALIMANTAN TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Samboja",
+    "address": "Jl. Balikpapan-Handil II RT.01 No.64 Kel. Sungai Seluang, Kec. Samboja, Kab. Kartanegara, KALIMANTAN TIMUR, 75271",
+    "phone": "(0542) 7215426"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Sendawar",
+    "address": "Jl. Awang Long Senopati RT.08, Kp Barong Tongkok Kec. Barong Tongkok, Kab. Kutai Barat , KALIMANTAN TIMUR, 75776",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Sudirman",
+    "address": "Jl. Jend. Sudirman No. 9, Samarinda, KALIMANTAN TIMUR, 75111",
+    "phone": "(0541) 200836-7, 731531"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Samarinda Tanjung Selor",
+    "address": "Jl. Sengkawit  RT. 16/05 No. 2A Kel. Tanjung Selor Hilir, Kec. Tanjung Selor, Kab. Bulungan, KALIMANTAN TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sampang",
+    "address": "Jl. Tronojoyo No. 50, Sampang, JAWA TIMUR, 69211",
+    "phone": "(0323) 327065"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sangatta",
+    "address": "Jl. Yos Sudarso II No. 17 B-C, Sangatta, Kutai Timur, KALIMANTAN TIMUR, 75611",
+    "phone": "(0549) 25084, 25085"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sanggau",
+    "address": "Jl. Ahmad Yani No. 5-6, Sanggau, KALIMANTAN BARAT, 78153",
+    "phone": "(0564) 24651, 24652"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sangguminasa",
+    "address": "Kompleks Graha Satelit Blok 12 A, Jl. Sultan Hasanuddin, Gowa, SULAWESI SELATAN, 92111",
+    "phone": "(0411) 880736, 880740"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sarolangun",
+    "address": "Jl. Lintas Sumatera Km. 1, Sarolangun, JAMBI, 37381",
+    "phone": "(0745) 91318, 91546"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sawahlunto",
+    "address": "Komplek Saringan No. W 27,Jl. Soekarno Hatta, Sawahlunto, SUMATERA BARAT, 27421",
+    "phone": "(0754) 61144, 61146, 61477"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sekayu",
+    "address": "Petro Muba Building, Jl. Merdeka Lk. I, Sekayu, Musi Banyuasin, SUMATERA SELATAN, 30711",
+    "phone": "(0714) 322900, 322901, 322902"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Selong",
+    "address": "Jl. Jend Sudirman No. 69 - 70 Pancor - Selong, Lombok Timur, NUSA TENGGARA TIMUR, 83661",
+    "phone": "(0376) 21824, 21853, 23138, 22643"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Bandungan",
+    "address": "Jl. Gintungan No. 3, Bandungan, Semarang, JAWA TENGAH, 50665",
+    "phone": "(0298) 711059"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Bangkong Plaza",
+    "address": "Jl. M.T. Haryono No. 864-866, Komp. Bangkong Plaza B 4-6, Semarang, JAWA TENGAH, 50242",
+    "phone": "(024) 8312736"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Bringin",
+    "address": "Jl. Diponegoro Bringin, RT.06/01, Desa Bringin, Semarang, JAWA TENGAH, 50772",
+    "phone": "(0298) 3420618"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Candi Baru",
+    "address": "Jl. S. Parman No. 55 K, Ruko Sultan Agung, Semarang, JAWA TENGAH, 50232",
+    "phone": "(024) 8312141, 8442550, 8506155"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Gang Pinggir",
+    "address": "Jl. Gang Pinggir No. 13 A, Semarang, JAWA TENGAH, 50137",
+    "phone": "(024) 3510537, 3512929, 3551921"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Gedung Telkom",
+    "address": "Gedung PT Telkom (Persero), Jl. Pahlawan No. 10, Semarang, JAWA TENGAH, 50241",
+    "phone": "(024) 8442595, 8303005"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Kawasan Industri Candi",
+    "address": "Kawasan Industri Candi,Jl. Candi Raya Blok F1E No.1-2, Semarang, JAWA TENGAH, 50184",
+    "phone": "(024) 7612381, 7612385"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Kepodang",
+    "address": "Jl. Kepodang No. 32-34, Semarang, JAWA TENGAH, 50137",
+    "phone": "(024) 3544181"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Majapahit",
+    "address": "Kompleks Ruko Majapahit, Jl. Majapahit No. 339, Semarang, JAWA TENGAH, 50191",
+    "phone": "(024) 6725702, 6725704"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Mpu Tantular",
+    "address": "Jl. Mpu Tantular No. 19, Semarang, JAWA TENGAH, 50010",
+    "phone": "(024) 3544031-3"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang MT Haryono",
+    "address": "Jl. M.T. Haryono No. 419, Semarang, JAWA TENGAH, 50136",
+    "phone": "(024) 3586267, 3586268"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Ngaliyan",
+    "address": "Jl. Prof. Dr. Hamka No. 9 Ruko C,D,E Tugu, Semarang, JAWA TENGAH, 50189",
+    "phone": "(024) 7619378, 7614769"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Pandanaran",
+    "address": "Jl. Pandanaran No. 104, Semarang, JAWA TENGAH, 50134",
+    "phone": "(024) 8310325"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang R.S. Kariadi",
+    "address": "Jl. Dr. Sutomo No. 16, Semarang, JAWA TENGAH, 50231",
+    "phone": "(024) 8412503"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Srondol",
+    "address": "Jl. Setiabudi No. G 62 E & F, Semarang, JAWA TENGAH, 50263",
+    "phone": "(024) 7461192, 7461736, 7461737"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Sugiyopranoto",
+    "address": "Jl. Mgr. Sugiyopranoto No. 36 A-B, Semarang, JAWA TENGAH, 50246",
+    "phone": "(024) 3522790, 3522671, 3585783"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semarang Universitas Diponegoro",
+    "address": "Jl. Prof. Dr. Sudharto No. 9 B, Tembalang, Semarang, JAWA TENGAH, 50275",
+    "phone": "(024) 76480480, 76480484"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Semen Tonasa",
+    "address": "Komplek PT Semen Tonasa I, Kotak pos 114, Tonasa, SULAWESI SELATAN, 90662",
+    "phone": "(0411) 320672"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sengeti",
+    "address": "Jalan Lintas Timur Km.35,  Desa Sengeti, Muaro Jambi, Jambi, JAMBI, 36381",
+    "phone": "(0741) 51900"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sengkang",
+    "address": "Jl. Bau Mahmud No. 1, Sengkang, SULAWESI SELATAN, 90913",
+    "phone": "(0485) 324333, 324222"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Serang Cikande",
+    "address": "Kawasan Industri Modern Cikande, Komplek Ruko Modern Cikande Blok B No. 1,    Jl. Raya Cikande,, Kab. Serang, BANTEN, 42186",
+    "phone": "(0254) 404102, 404103, 404104"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Serang Pasar Lama",
+    "address": "Jl. Maulana Hasanuddin No. 57 B, Kab. Serang, BANTEN, 42112",
+    "phone": "(0254) 220404 s.d 6"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Siak Perawang",
+    "address": "Jl. Raya Perawang Km. 5, Siak, Siak, RIAU, 28772",
+    "phone": "(0761) 693426"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo",
+    "address": "Jl. Ahmad Yani No. 7, Sidoarjo, JAWA TIMUR, 61219",
+    "phone": "(031) 8921327"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo Candi",
+    "address": "Jl. Raya Candi No. 42, Sidoarjo, JAWA TIMUR, 61272",
+    "phone": "(031) 8940674, 8740694"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo Gateway",
+    "address": "Ruko Gateway Blok C-7, Waru, Sidoarjo, JAWA TIMUR, 61256",
+    "phone": "(031) 8557335, 8557402"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo Krian",
+    "address": "Jl. Raya Krian No. 47, Krian, Sidoarjo, JAWA TIMUR, 61262",
+    "phone": "(031) 8982375, 8982376, 8982377"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo Pahlawan",
+    "address": "Ruko Pondok Mutiara Indah Blok N-02, Jl. Pahlawan, Sidoarjo, JAWA TIMUR, 61213",
+    "phone": "(031) 8922634"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidoarjo Sepanjang",
+    "address": "Jl. Bebekan No. 23, Sepanjang, Sidoarjo, JAWA TIMUR, 61257",
+    "phone": "(031) 7860003, 7860005"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sidrap",
+    "address": "Jl. Calakkara No. 15 A, Kel. Pangkajene, Maritengae, Kab. Sidrap, SULAWESI SELATAN, 91612",
+    "phone": "(0421) 91470"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sigli",
+    "address": "Jl. Prof. DR. A. Majid Ibrahim No.16-18, Sigli, Kab. Pidie, NANGGROE ACEH DARUSSALAM, 24151",
+    "phone": "(0653) 7829589 - 591"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Singaraja",
+    "address": "Jl. Jend. Ahmad Yani No. 60, Singaraja, Buleleng, BALI, 81116",
+    "phone": "(0362) 25222"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sinjai",
+    "address": "Jl. Persatuan Raya No.57 Kel. Balanipah, Kec. Sinjai Utara, Sinjai, SULAWESI SELATAN, 92612",
+    "phone": "(0482) 21430"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sintang",
+    "address": "Jl. Mas Tirto Haryono, Sintang, KALIMANTAN BARAT, 78614",
+    "phone": "(0565) 24967, 24968, 24969"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Situbondo Besuki",
+    "address": "Jl. Niaga No. 65, Besuki Situbondo, Situbondo, JAWA TIMUR, 68356",
+    "phone": "(0338) 891570"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sleman",
+    "address": "Jl. Raya Magelang Km. 10, Sleman, D.I. YOGYAKARTA, 55511",
+    "phone": "(0274) 865123, 868405 Ex.285"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sokaraja",
+    "address": "Jl. Gatot Subroto No.04 . Sokaraja, Banyumas, JAWA TENGAH, 53181",
+    "phone": "(0281) 6441541"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo Baru",
+    "address": "Jl. Yos Sudarso No. 387, Solo, JAWA TENGAH, 57157",
+    "phone": "(0271) 663542, 664407, 6644096"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solok Sungai Rumbai",
+    "address": "Jl. Lintas Sumatera No. 2, Sungai Rumbai, Dharmasraya, SUMATERA BARAT, 27584",
+    "phone": "(0754) 583393, 583394"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo Pasar Klewer",
+    "address": "Komplek Pasar Klewer Los E 27-29, Jl. Dr. Rajiman, Solo, JAWA TENGAH, 57115",
+    "phone": "(0271) 642925"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo Pasar Legi",
+    "address": "Jl. Sutan Syahrir No. 204 Pasar Legi, Solo, JAWA TENGAH,",
+    "phone": "(0271) 634486, 634487"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo Purwotomo",
+    "address": "Jl. Brigjend. Slamet Riyadi No. 329, Solo, JAWA TENGAH, 57142",
+    "phone": "(0271) 711161 - 71896535"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo RSO Dr. Soeharso",
+    "address": "RSO Prof.Dr.Soeharso,Jl. Jenderal Ahmad Yani, Pabelan, Sukoharjo, JAWA TENGAH, 57162",
+    "phone": "(0271) 742184, 742185"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Solo Slamet Riyadi",
+    "address": "Jl. Brigjend. Slamet Riyadi No. 16, Solo, JAWA TENGAH, 57111",
+    "phone": "(0271) 641940, 644911, 645462"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sorong Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 99, Sorong, PAPUA BARAT, 98414",
+    "phone": "(0951) 323200, 323111, 323222"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sragen",
+    "address": "Plaza Atrium Blokc C-D, Jl. Raya Sukowati No. 302-304, Sragen, JAWA TENGAH, 57211",
+    "phone": "(0271) 890585, 894610"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sragen Gemolong",
+    "address": "Jl. Diponegoro No. 3 Gemolong, Sragen, JAWA TENGAH, 57274",
+    "phone": "(0271) 6811811"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Stabat",
+    "address": "Jl. KH Zainul Arifin No. 32, Stabat, Langkat, SUMATERA UTARA, 20811",
+    "phone": "(061) 8910691, 8912239"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Subang",
+    "address": "Jl. Jenderal Ahmad Yani No.5, Subang, JAWA BARAT, 41211",
+    "phone": "(0260) 417773, 416445, 416550"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Subang Ciasem",
+    "address": "Jalan Raya Pantura Ciasem RT 01 RW 02 Kel. Ciasem Tengah Kec. Ciasem, Kab. Subang, JAWA BARAT, 41256",
+    "phone": "(0260) 7510518"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Subang Jalan Cagak",
+    "address": "Jl. Raya Jalan Cagak -  Kec. Jalan Cagak, Subang, JAWA BARAT, 41281",
+    "phone": "(0260) 471500"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Subang Kalijati",
+    "address": "Jl. Raya Kalijati - Kec. Subang, Subang, JAWA BARAT, 41271",
+    "phone": "(0260) 461244"
+  }
+]

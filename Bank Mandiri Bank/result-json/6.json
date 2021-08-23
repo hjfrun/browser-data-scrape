@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Cepu",
+    "address": "Jl. Pemuda No. 60, Cepu, JAWA TENGAH, 58312",
+    "phone": "(0296) 424627, 424630, 424631, 424632, 424737"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ciamis",
+    "address": "Jl. Ahmad Yani No. 21, Ciamis, JAWA BARAT, 46211",
+    "phone": "(0265) 771538"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ciamis Banjar",
+    "address": "Jl. Letjend. Suwarto No. 48, Banjar, Ciamis, JAWA BARAT, 43622",
+    "phone": "(0265) 744713, 744814"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cianjur",
+    "address": "Jl. Suroso No. 51, Cianjur, JAWA BARAT, 43211",
+    "phone": "(0263) 268383"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cianjur Ciranjang",
+    "address": "Jl. Jati Kp. Pasir Kawung Kav.2 RT 01 RW 14 Kec. Ciranjang, Kab. Cianjur, JAWA BARAT, 43282",
+    "phone": "(0263) 322367"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cianjur Cokroaminoto",
+    "address": "Jl. HOS Cikroaminoto No. 172, Cianjur, JAWA BARAT, 43214",
+    "phone": "(0263) 261730"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cibadak",
+    "address": "Jl. Suryakencana No. 4, Cibadak, Sukabumi, JAWA BARAT, 43351",
+    "phone": "(0266) 5311919"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cibinong",
+    "address": "Komp. Ruko Graha Cibinong No. B-1, Jl.  Raya Jakarta Bogor Km.43, Cibinong, Bogor, JAWA BARAT, 16917",
+    "phone": "(021) 87918731-34"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cibubur Citra Grand",
+    "address": "Komplek Citra Grand Ruko 2 No. 15, Jl. Alternatif Km.4, Pondok Gede, Bekasi, JAWA BARAT, 17435",
+    "phone": "(021) 84596941, 84596942"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cibubur Time Square",
+    "address": "Jl. Raya Alternatif Cibubur-Cileungsi No. 37 G, Jatisampurna, Bekasi, JAWA BARAT, 17433",
+    "phone": "(021) 84303649 - 50"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cicurug",
+    "address": "Jl. Siliwangi No. 287 B, Cicurug, Sukabumi, JAWA BARAT, 43159",
+    "phone": "(0266) 732512"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cikarang Jababeka",
+    "address": "Ruko Commercial Center Jl. Jababeka Raya Blok  B7 dan B21 Kawasan Industri Cikarang Jababeka, Bekasi, JAWA BARAT, 17550",
+    "phone": "(021) 89832280 - 81"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cikarang Jababeka Capitol",
+    "address": "Ruko Capitol Business Park Jl. Niaga Raya Blok 2 C, Jababeka, Cikarang, Bekasi, JAWA BARAT, 17530",
+    "phone": "(021) 89841698, 89841697"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cikarang Jababeka Ruko Roxy",
+    "address": "Ruko Roxy Blok B No. 3, Jl. Kasuari Raya, Cikarang Utara, Bekasi, JAWA BARAT, 17550",
+    "phone": "(021) 89840781 - 84"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cikarang Kota",
+    "address": "Jl. Kapten Sumantri No. 27, Cikarang, Bekasi, JAWA BARAT, 17530",
+    "phone": "(021) 89108980, 89108987"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cikarang Ruko Sentra",
+    "address": "Ruko Sentra Cikarang Blok C No.2, Jl. Raya Cikarang-Cibarusah, Bekasi, JAWA BARAT, 17550",
+    "phone": "(021) 89902333, 89903742"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cilegon Merak",
+    "address": "Jl. Raya Merak No. 3, Cilegon, BANTEN, 42431",
+    "phone": "(0254) 391211"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cilegon Pasar Anyar",
+    "address": "Jl. Raya Anyer No. 103, Anyer, Kab. Serang, BANTEN, 42166",
+    "phone": "(0254) 603515"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cileungsi",
+    "address": "Ruko Mall Cileungsi Blok C No. 5 & 6, Jl. Raya Narogong, Cileungsi, Bogor, JAWA BARAT, 16820",
+    "phone": "(021) 82484604 - 07"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cimahi",
+    "address": "Jl. Raya Cimahi No. 612, Cimahi, JAWA BARAT, 40525",
+    "phone": "(022) 6644628"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cinere",
+    "address": "Jl. Cinere Raya Kav. 32-33, Depok, JAWA BARAT, 16514",
+    "phone": "(021) 7541916"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cipanas",
+    "address": "Jl. Raya Cipanas Blok 11 No. 201, Pacet, Cianjur, JAWA BARAT, 43553",
+    "phone": "(0263) 511037"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Arjawinangun",
+    "address": "Jl. Ki Hajar Dewantoro No. 21, Desa Jungjang, Arjawinangun, Kab. Cirebon, JAWA BARAT, 45162",
+    "phone": "(0231) 357676"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Cigasong Majalengka",
+    "address": "Jl. KH. Abdul Halim No.528 Desa Cigasong Kec. Majalengka, Kab. Majalengka, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Ciledug",
+    "address": "Jl. Merdeka Barat No. 68, Ciledug, Kab. Cirebon, JAWA BARAT, 45188",
+    "phone": "(0231) 8665727"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Jalan Kantor",
+    "address": "Jl. Kantor No. 4, Cirebon, JAWA BARAT, 45112",
+    "phone": "(0231) 203025"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Kuningan Ciawigebang",
+    "address": "Jl. Raya Siliwangi No.126 Desa Ciawi Gebang Kec. Ciawi Gebang, Kab. Kuningan, JAWA BARAT, 45591",
+    "phone": "(0232) 878418"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Patrol",
+    "address": "Desa Patrol Jalan Pantura No. 83 RT 01 RW 03 Kec. Patrol, Kab. Indramayu , JAWA BARAT, 45257",
+    "phone": "(0234) 5613226"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Plered",
+    "address": "Jl. Raya Panembahan No. 51, Plered, Cirebon, JAWA BARAT, 45154",
+    "phone": "(0231) 325438, 325439"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Siliwangi",
+    "address": "Jl. Siliwangi No. 139, Cirebon, JAWA BARAT, 45124",
+    "phone": "(0231) 202125"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Sumber",
+    "address": "Jl. Dewi Sartika No.5 Kel. Sumber Kec. Sumber, Kab. Cirebon, JAWA BARAT, 45611",
+    "phone": "(0231) 320035"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Cirebon Tegalwangi",
+    "address": "Jl. Raya Tegalwangi Km. 9 No. 58, Cirebon, JAWA BARAT, 45154",
+    "phone": "(0231) 321260, 321513"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Citeureup",
+    "address": "Jl. Mayor Oking No. 10 - 11, Citeureup, Bogor, JAWA BARAT, 16810",
+    "phone": "(021) 87942420, 87942283, 87909462"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Comal",
+    "address": "Jl. Ahmad Yani Ruko Blok A No.10 Comal, Pemalang, JAWA TENGAH, 52363",
+    "phone": "(0285) 577449"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Delanggu",
+    "address": "Jl. Raya Delanggu No. 87, Dongkolan, Delanggu, JAWA TENGAH, 57471",
+    "phone": "(0272) 555640, 555645"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Demak",
+    "address": "Jl. Sultan Fatah No. 4B, Demak, JAWA TENGAH, 59511",
+    "phone": "(0291) 6904077 - 78"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Gajah Mada",
+    "address": "Jl. Gajah Mada No. 3, Denpasar, BALI, 80112",
+    "phone": "(0361) 224705, 234647"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Gatot Subroto",
+    "address": "Jl. Gatot Subroto No. 80, Denpasar, BALI, 80111",
+    "phone": "(0361) 436487"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Merdeka",
+    "address": "Komplek Graha Merdeka No. 12-12A, Jl. Merdeka, Denpasar, BALI, 80226",
+    "phone": "(0361) 246647, 248827, 263451"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Pasar Kumbasari",
+    "address": "Jl. Gajah Mada No. 105, Denpasar, BALI, 80118",
+    "phone": "(0361) 434812"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Sanur",
+    "address": "Jl. Danau Tamblingan No. 27, Denpasar, BALI, 80228",
+    "phone": "(0361) 283485, 283885"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Teuku Umar",
+    "address": "Jl. Teuku Umar No. 85, Denpasar, BALI, 80111",
+    "phone": "(0361) 257566, 257655"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Denpasar Udayana",
+    "address": "Jl. Udayana No. 11, Denpasar, BALI, 80112",
+    "phone": "(0361) 223511"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Bukit Sawangan",
+    "address": "Ruko Bukit Sawangan Indah Blok F2 No.1, Jl.Raya Parung Km.35, Sawangan, Depok, JAWA BARAT, 16518",
+    "phone": "(0251) 604904, 604905"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Cinere Limo",
+    "address": "Jl. Cenere Raya No. 18 B, Cinere, Depok, JAWA BARAT, 16514",
+    "phone": "(021) 7536364, 7536360"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Cisalak",
+    "address": "Jl. Raya Bogor Km.31 No.8, Cisalak, Depok, JAWA BARAT, 16416",
+    "phone": "(021) 8734224, 8734117"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok I",
+    "address": "Jl. Nusantara Raya No. 25 AB, Depok, JAWA BARAT, 16432",
+    "phone": "(021) 77205078, 77205270"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok ITC",
+    "address": "Pertokoan ITC Depok No.49,Jl. Margonda Raya, Depok, JAWA BARAT, 16431",
+    "phone": "(021) 77202319, 77202325"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Jatijajar",
+    "address": "Jl. Raya Tole Iskandar No. 1, Depok, JAWA BARAT, 16415",
+    "phone": "(021) 87741872, 87744255, 87743880"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Kartini",
+    "address": "Pertokoan Kartini Blok A No. 11, Jl. Kartini Raya, Pancoran Mas, Depok, JAWA BARAT, 16436",
+    "phone": "(021) 77217342, 77217343, 77217344, 77217345"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Kelapa Dua",
+    "address": "Jl. Raya Akses UI No. 88 C, Kelapa Dua, Cimanggis, Depok, JAWA BARAT, 16951",
+    "phone": "(021) 87712226"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Pondok Cina",
+    "address": "Jl. Raya Margonda No. 345 D, Pondok Cina, Depok, JAWA BARAT, 16424",
+    "phone": "(021) 77210999, 77213388"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Tengah",
+    "address": "Komplek Ruko Sukmajaya No. 15, Jl. Tole Iskandar, Depok II Tengah, Depok, JAWA BARAT, 16411",
+    "phone": "(021) 7715427, 7715432"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Depok Timur",
+    "address": "Jl. Proklamasi Raya Blok A No.7-8, Depok II Timur, Depok, JAWA BARAT, 16417",
+    "phone": "(021) 77831443, 77829381, 77827453"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Donggala",
+    "address": "Jl. Moro No. 78, Donggala, SULAWESI TENGAH, 94351",
+    "phone": "(0457) 71175"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Dumai Syarif Kasim",
+    "address": "Jl. Sultan Syarif Kasim No. 99, Dumai, RIAU, 28812",
+    "phone": "(0765) 32203-4"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Duri Caltex",
+    "address": "Kompleks PT Caltex Pacific Indonesia, Duri, Bengkalis, RIAU, 28884",
+    "phone": "(0765) 821500, 821156"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Duri Sudirman",
+    "address": "Jl. Jenderal Sudirman Kav. 109, Bengkalis, RIAU, 28884",
+    "phone": "(0765) 598795, 598791"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ende",
+    "address": "Jl. Kelimutu Ende, Onekore - Ende, Kab. Ende, NUSA TENGGARA TIMUR, 84111",
+    "phone": "0374 - 42740, 4646937-38, 4646894-95"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Gamping",
+    "address": "Jl. Raya Yogya-Wates Km. 6, Kec. Gamping - Sleman, Sleman, JAWA TENGAH, 55294",
+    "phone": "(0274)  6499546"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Garut",
+    "address": "Jl. Ahmad Yani No. 24, Garut, JAWA BARAT, 44115",
+    "phone": "(0262) 231698"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Garut Cikajang",
+    "address": "Jl. Garut Cikajang No. 99, Garut, JAWA BARAT, 44171",
+    "phone": "(0262) 577595, 577596"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Garut Guntur",
+    "address": "Jl. Guntur Blok A-18 (Intan Business Center A-18) Kel. Pakuwon, Garut, JAWA BARAT, 44117",
+    "phone": "(0262) 544566"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Garut Kadungora",
+    "address": "Jl. Raya Garut-Bandung No. 4 Blok A Kel. Karangmulya, Garut, JAWA BARAT, 44153",
+    "phone": "(0262) 2458898"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Genteng",
+    "address": "Jl. Gajah Mada No. 253, Genteng, Banyuwangi, JAWA TIMUR, 68465",
+    "phone": "(0333) 845375, 845376, 845116, 845784"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Gianyar Ngurah Rai",
+    "address": "Komplek Pertokoan Pasar Gianyar Blok I No.2-3,Jl. I Gusti Ngurah Rai, Gianyar, BALI, 80511",
+    "phone": "(0361) 948945, 948976"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Gombong",
+    "address": "Jl. Yos Sudarso No. 241, Gombong, JAWA TENGAH, 54411",
+    "phone": "(0287) 473620, 473621, 473115"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Gresik",
+    "address": "Jl. R.A. Kartini No. 210, Gresik, JAWA TIMUR, 61122",
+    "phone": "(031) 3981300"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Gresik Kota Baru",
+    "address": "Jl. Sukomulyo No. 10, Manyar, Gresik, JAWA TIMUR, 61121",
+    "phone": "(031) 3956406, 3956475"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Grobogan",
+    "address": "Jl. MT Haryono No. 1, Gubug, Grobogan, JAWA TENGAH, 58164",
+    "phone": "(0292) 533199"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Indramayu Panjaitan",
+    "address": "Jl. D.I. Panjaitan No. 8, Indramayu, JAWA BARAT, 45212",
+    "phone": "(0234) 272001"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Indramayu Pasar Daerah",
+    "address": "Jl. Tanjungpura No. 01 Blok G-33 Karangmalang, Indramayu, JAWA BARAT, 45213",
+    "phone": "(0234) 274762"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 2, Jakarta Pusat, DKI JAKARTA, 10510",
+    "phone": "(021) 4211167"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Ambassador",
+    "address": "Mall Ambassador, Jl. Prof. Dr. Satrio, Jakarta Selatan, DKI JAKARTA, 12940",
+    "phone": "(021) 57930970, 57930971 - 72"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Aminta Plaza",
+    "address": "Gedung Aminta Plaza, Jl. Letjend. T.B. Simatupang Kav. X, Jakarta Selatan, DKI JAKARTA, 12310",
+    "phone": "(021) 7512061-6"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Ancol",
+    "address": "Jl. Parang Tritis No. 4, Jakarta Utara, DKI JAKARTA, 14430",
+    "phone": "(021) 6911037"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Angkasa",
+    "address": "Kantor Pusat PT MNA, Jl. Angkasa Blok B-15 Kav. 2-3, Jakarta Pusat, DKI JAKARTA, 10720",
+    "phone": "(021) 6540703"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Arteri Pondok Indah",
+    "address": "Jl. Sultan Iskandar Muda No. 8 A, Jakarta Selatan, DKI JAKARTA, 12240",
+    "phone": "(021) 2701173, 2701174, 2701175"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Atrium Senen",
+    "address": "Ruko Segitiga Senen  Blok E-21/22, Jl. Senen Raya No. 135, Jakarta Pusat, DKI JAKARTA, 10410",
+    "phone": "(021) 3852370"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bandara Soekarno-Hatta Cargo",
+    "address": "Bandara Soekarno-Hatta, Cargo Area Gedung 501, Jakarta Barat, DKI JAKARTA, 19101",
+    "phone": "(021) 5501260"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bandara Soekarno-Hatta Gedung Angkasa Pura",
+    "address": "Bandara Soekarno-Hatta, Gedung 601, Jakarta Barat, DKI JAKARTA, 19120",
+    "phone": "(021) 5501240, 5501378, 5502426"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bandara Soekarno-Hatta Terminal D",
+    "address": "Bandara Soekarno-Hatta, Terminal D & E Departures, Jakarta Barat, DKI JAKARTA, 19100",
+    "phone": "(021) 5502062, 5506744"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bandengan",
+    "address": "Komplek Puri Deltamas Blok J 1-2, Jl. Bandengan Selatan No. 43, Jakarta Utara, DKI JAKARTA, 14450",
+    "phone": "(021) 6603086, 6603087"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bendungan Hilir",
+    "address": "Jl. Bendungan Hilir Raya No. 82, Jakarta Pusat, DKI JAKARTA, 10210",
+    "phone": "(021) 5711658, 5721672, 5733283"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Berdharma",
+    "address": "Jl. Jend. Sudirman Kav. 32-33, Jakarta Pusat, DKI JAKARTA, 10220",
+    "phone": "(021) 5701916"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bintaro Burung Gereja",
+    "address": "Jl. Burung Gereja  Blok B2 HS 2 No.6, Sektor II, Bintaro Jaya, Jakarta Selatan, DKI JAKARTA, 12330",
+    "phone": "(021) 7357272"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bintaro Jaya",
+    "address": "Jl. Bintaro Utama, Bintaro Jaya Sektor I, Jakarta Selatan, DKI JAKARTA, 12330",
+    "phone": "(021) 7340924 - 29"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bintaro Veteran",
+    "address": "Ruko Bintaro Veteran Raya Permai Jl. RC Veteran No. 17 E, Jakarta Selatan, DKI JAKARTA, 12330",
+    "phone": "(021) 7369215, 73691223, 73691907, 73691931, 73887202"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta BKPM",
+    "address": "Gedung BKPM, Jl. Jend. Gatot Subroto Kav. 44, Jakarta Selatan, DKI JAKARTA, 12190",
+    "phone": "(021) 5225828-9"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Blok M",
+    "address": "Jl. Sultan Hasanuddin No. 30, Blok M Kebayoran Baru, Jakarta Selatan, DKI JAKARTA, 12160",
+    "phone": "(021) 7257981, 7257980, 7257977, 7257975"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Botanical Garden",
+    "address": "Komplek Puri Botanical Blok H7 No.3, Jl. Raya Joglo, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 58907250, 58907251"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Bursa Efek",
+    "address": "Gedung Bursa Efek Jakarta, Jl. Jend. Sudirman Kav. 52-53, Jakarta Selatan, DKI JAKARTA, 12190",
+    "phone": "(021) 5153003-04"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cakung",
+    "address": "Komplek PT KBN, Jl. Raya Cakung, Cilincing, Jakarta Utara, DKI JAKARTA, 14410",
+    "phone": "(021) 44820942"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Casablanca",
+    "address": "Jl. Casablanca Kav. 18, Jakarta Selatan, DKI JAKARTA, 12180",
+    "phone": "(021) 8317028, 8317029"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cempaka Mas",
+    "address": "Kompleks Pertokoan Graha Cempaka Mas Blok A 24-25, Jl. Letjend. Suprapto, Jakarta Pusat, DKI JAKARTA, 10640",
+    "phone": "(021) 42800153, 4263947"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cempaka Putih Permai",
+    "address": "Cempaka Putih Permai Blok A No. 20-21, Jl. Letjend. Suprapto, Jakarta Pusat, DKI JAKARTA, 10510",
+    "phone": "(021) 4203363"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cibubur",
+    "address": "Jl. Lapangan Tembak, Pertokoan Cibubur Indah Blok. A-22 - 23, Jakarta Timur, DKI JAKARTA, 13720",
+    "phone": "(021) 87704204-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cideng",
+    "address": "Jl. Cideng Barat No. 87, Jakarta Pusat, DKI JAKARTA, 10150",
+    "phone": "(021) 3450945, 3446955"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cijantung",
+    "address": "Gedung BP2TKI Lantai 1, Jl. Raya Bogor Km. 23,5, Jakarta Timur, DKI JAKARTA, 13750",
+    "phone": "(021) 87794824, 87794874, 87794902"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cik Ditiro",
+    "address": "Jl. Ki S. Mangunsarkoro No. 49, Jakarta Pusat, DKI JAKARTA, 10310",
+    "phone": "(021) 2300112, 2300291, 544"
+  }
+]

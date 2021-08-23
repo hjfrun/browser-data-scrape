@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Sunter Kirana",
+    "address": "Komplek Pertokoan Mitra Sunter, Jl. Mitra Sunter Blvd Blok B No. 40, Jakarta Utara, DKI JAKARTA, 14350",
+    "phone": "(021) 65837029, 65837101-02"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Suprapto",
+    "address": "Jl. Letjend. Suprapto L 20 C, Jakarta Pusat, DKI JAKARTA, 10640",
+    "phone": "(021) 4206771, 4200851"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Taman Aries",
+    "address": "Rukan Kencana Niaga I, Jl. Taman Aries Blok D1-1L Kembangan, Jakarta Barat, DKI JAKARTA, 11620",
+    "phone": "(021) 58908430 - 31"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Taman Duta Mas",
+    "address": "Ruko Taman Dua Mas Blok A3/46, Grogol, Petamburan, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 56942316"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Taman Kencana",
+    "address": "Ruko Perumahan Taman Kencana Blok CI No. 12 Tegal Alur - Cengkareng, Jakarta Barat, DKI JAKARTA, 11820",
+    "phone": "(021) 5553438"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Taman Permata Buana",
+    "address": "Ruko Taman Permata Buana, Jl. Pulau Bira III Blok D1 Kav.47, Kembangan, Jakarta Barat, DKI JAKARTA, 11610",
+    "phone": "(021) 58355045"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Tanjung Duren Raya",
+    "address": "Jl. Tanjung Duren Raya Blok Z III Kav. 683 SEB, Jakarta Barat, DKI JAKARTA, 11470",
+    "phone": "(021) 56972378 - 380"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Tanjungpriok Departemen Agama",
+    "address": "Kantor Departemen Agama Kota, Jakarta Utara, Jl. Plumpang Raya Semper No.52, Jakarta Utara, DKI JAKARTA, 14210",
+    "phone": "(021) 4300489, 4304572, 4308769, 4300821"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Tebet Raya",
+    "address": "Jl. Tebet Raya No. 9 A, Jakarta Selatan, DKI JAKARTA, 12810",
+    "phone": "(021) 8310117"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Unika Atmajaya",
+    "address": "Kampus Unika Atmajaya, Jl. Jend. Sudirman No. 51, Jakarta Selatan, DKI JAKARTA, 12930",
+    "phone": "(021) 57906502, 57906501"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Universitas Tarumanegara",
+    "address": "Kampus Universitas Tarumanegara,Jl. Letjen. S. Parman No.1, Jakarta Barat, DKI JAKARTA, 11440",
+    "phone": "(021) 56967038"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Wahid Hasyim",
+    "address": "Jl. Wahid Hasyim No. 183, Jakarta Pusat, DKI JAKARTA, 10240",
+    "phone": "(021) 3141359, 3140709"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Waskita Karya",
+    "address": "Jl. Biru Laut X Kav. 10, Cawang, Jakarta Timur, DKI JAKARTA, 13340",
+    "phone": "(021) 8564421"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Wisma 46 Kota BNI",
+    "address": "Gedung Wisma 46-Kota BNI. Jl. Jend. Sudirman Kav. 1, Jakarta Pusat, DKI JAKARTA, 10220",
+    "phone": "(021) 5746158, 5746159, 5746160"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta Wisma IKPT",
+    "address": "Wisma IKPT, Jl. M.T. Haryono Kav.4-5, Jakarta Selatan, DKI JAKARTA, 12820",
+    "phone": "(021) 8294717"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jakarta WTC Mangga Dua",
+    "address": "WTC Mangga Dua Lt. 5 Blok D No. 27, Jl. Mangga Dua Raya No. 8, Jakarta Utara, DKI JAKARTA, 14430",
+    "phone": "(021) 30012229-2234-5"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jayapura Entrop",
+    "address": "Jl. Kelapa Dua, Entrop, Jayapura, PAPUA, 99224",
+    "phone": "(0967) 536347, 536228, 536229"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Jayapura Waena",
+    "address": "Jl. Raya Waena Sentani No. 35, Jayapura, PAPUA, 99351",
+    "phone": "(0967) 572815, 572817"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet KCP Jakarta Cilandak KKO",
+    "address": "Jl. Raya Cilandak KKO No. 5, Jakarta Selatan, DKI JAKARTA, 12560",
+    "phone": "(021) 7818880, 7811469, 78831456, 78835622"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet KCP Jakarta Pertamina DP",
+    "address": "Jl. Yos Sudarso No. 32-34, Jakarta Utara, DKI JAKARTA, 14320",
+    "phone": "(021) 43904578 - 9"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Kendari Soekarno",
+    "address": "Jl. Sukowati No. 37, Kendari, SULAWESI TENGGARA, 93127",
+    "phone": "(0401) 3131211, 3131210"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Kerobokan",
+    "address": "Jl. Raya Kerobokan No. 104, Banjar Taman Legian Kuta, Badung, BALI, 80361",
+    "phone": "(0361) 733282, 733283"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Kuala Kencana",
+    "address": "Sentra Niaga Suite 117, Jl. Mandala Raya Selatan, Kuala Kencana-Mimika, PAPUA, 99920",
+    "phone": "(0901) 302265, 302266"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Kuta Discovery Mall",
+    "address": "Discovery Shopping Mall A-3A, Jl. Kartika Plaza, Kuta, Badung, BALI, 80361",
+    "phone": "(0361) 755522, 753390"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Lhoksukon",
+    "address": "Kompleks Mobil Oil Inc., Point A Landing, Lhoksukon, NANGGROE ACEH DARUSSALAM, 24381",
+    "phone": "(0645) 393119, 393120"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Magelang Ahmad Yani",
+    "address": "Jl. Ahmad Yani No. 203, Magelang, JAWA TENGAH, 56115",
+    "phone": "(0293) 314503"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Magelang SMA Taman Taruna Nusantara",
+    "address": "Jl. Raya Purworejo Km 5, Magelang, JAWA TENGAH, 56172",
+    "phone": "(0293) 364012"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Makassar Panakkukang",
+    "address": "Panakkukang Mas, Jl. Bolevar  No. F 89, Makassar, SULAWESI SELATAN, 90231",
+    "phone": "(0411) 441605, 425290"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Makassar Pelabuhan Indonesia",
+    "address": "Jl. Ir. Soekarno Komp. Pelabuhan Indonesia IV No. 1, Makassar, SULAWESI SELATAN, 90174",
+    "phone": "(0411) 316125"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Makassar R.S. Stella Maris",
+    "address": "Komplek RS Stella Maris, Jl. Somba Opu No. 273, Makassar, SULAWESI SELATAN, 90001",
+    "phone": "(0411) 854289"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Makassar Toddopuli",
+    "address": "Jl. Toddopuli Raya, Pertokoan Villa Surya Mas Blok A2-36, Makassar, SULAWESI SELATAN, 90222",
+    "phone": "(0411) 4663577, 4663578"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Makassar Universitas Hasanuddin",
+    "address": "Jl. Perintis Kemerdekaan Komp. Univ Hasanuddin, Makassar, SULAWESI SELATAN, 90241",
+    "phone": "(0411) 581283"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Malang Universitas Brawijaya",
+    "address": "Kampus Universitas Brawijaya, Jl. Veteran, Malang, JAWA TIMUR, 65145",
+    "phone": "(0341) 573201, 573204"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Medan JW Marriot",
+    "address": "Jl. Putri Hijau No. 10, Medan, SUMATERA UTARA, 20111",
+    "phone": "(061) 80010082 - 83"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Medan Pertamina",
+    "address": "Jl. Yos Sudarso No. 8-10, Medan, SUMATERA UTARA, 10513",
+    "phone": "(061) 4552406"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Medan PLN Wilayah II",
+    "address": "Jl. Yos Sudarso No. 284, Medan, SUMATERA UTARA, 20112",
+    "phone": "(061) 6617848"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Medan S. Parman",
+    "address": "Jl. S. Parman No. 207 DE, Medan, SUMATERA UTARA, 20153",
+    "phone": "(061) 4529059, 4572871"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Mota Ain",
+    "address": "Pos Terpadu Perbatasan RI - RDTL, Desa Silawan Mota Ain, Belu, NUSA TENGGARA TIMUR, 83236",
+    "phone": "(0389) 21688, 21766"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Muncar",
+    "address": "Jl. Brawijaya No. 115 Muncar, Banyuwangi, JAWA TIMUR,",
+    "phone": "(0333) 593909"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Ngawi",
+    "address": "Jl. Jaksa Agung Suprapto No.35, Ngawi, JAWA TIMUR, 63211",
+    "phone": "(0351) 747565, 747484, 744641, 742156"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Palembang Bandara Sultan Badaruddin",
+    "address": "Bandara Sultan Mahmud.Badaruddin II, Palembang, SUMATERA SELATAN, 30152",
+    "phone": "(0711) 410150"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Palembang Uniba",
+    "address": "Jl. Mayor Ruslan, Palembang, SUMATERA SELATAN, 30113",
+    "phone": "(0711) 364025"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pekalongan Alun-alun",
+    "address": "Jl. Alun-alun No. 3, Pekalongan, JAWA TENGAH, 51101",
+    "phone": "(0285) 421758, 422212, 425240, 435144"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pekanbaru Minas",
+    "address": "Main Office PT Caltex Pasific Indonesia, Minas, Pekanbaru, RIAU, 28885",
+    "phone": "(0761) 993894, 993895"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pekanbaru RS Eka Hospital",
+    "address": "Jl. Soekarno - Hatta Km. 6,5, Pekanbaru, RIAU, 28282",
+    "phone": "(0761) 589076, 589079"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pekanbaru Rumbai",
+    "address": "Kompleks PT Caltex Pasific Indonesia, Rumbai, Pekanbaru, RIAU, 28271",
+    "phone": "(0761) 592190,  946190,559036"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pekanbaru UIN Sultan Syarif Kasim",
+    "address": "Jl. H. Soebrantas No. 155 KM 15 Simpang Baru Panam, Pekanbaru, RIAU, 28293",
+    "phone": "(0761) 589538, 589539"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pelabuhan Nunukan",
+    "address": "Jl. Tien Suharto - Pelabuhan Baru, Nunukan, Kab. Bulungan, KALIMANTAN TIMUR, 14813",
+    "phone": "(0556) 23000"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pelabuhan Ratu",
+    "address": "Jl. Siliwangi No. 62, Pelabuhan Ratu, Sukabumi, JAWA BARAT, 43363",
+    "phone": "(0266) 434651, 434654"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pendopo",
+    "address": "Komplek Pertamina II, Jl. Cemara 18, Pendopo, SUMATERA SELATAN, 31211",
+    "phone": "(0711) 90204"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pertamina Sungai Pakning",
+    "address": "Kompleks Pertamina, Sungai Pakning, Jl. Cendana, Singai Pakning, Dumai, RIAU, 28700",
+    "phone": "(0766) 91220 - 22 Ext. 4269"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pontianak RS Santo Antonius",
+    "address": "Jl. K.H. Wahid Hasyim, Pontianak, KALIMANTAN BARAT, 78115",
+    "phone": "(0561) 737454"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pontianak S. Parman (PB)",
+    "address": "Jl. Letjen. S. Parman No. 01, Pontianak, KALIMANTAN BARAT, 78122",
+    "phone": "(0561) 741777, 746197, 746198, 746199"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Pulau Bunyu",
+    "address": "Jl. Pangkalan, RT 01, Pulau Bunyu, Tarakan, KALIMANTAN TIMUR, 77181",
+    "phone": "(0551) 24318, 25001"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Purwokerto Unsoed",
+    "address": "Jl. Prof. Dr. HR Boenyamin No. 15, Purwokerto, JAWA TENGAH, 53124",
+    "phone": "(0281) 642555, 642556"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Rantau",
+    "address": "Jl. Brigjen Hasan Basery Rt..6 Rantau Kiwa, Kab. Tapin, KALIMANTAN SELATAN, 70862",
+    "phone": "(0517) 31561"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Samarinda Seberang",
+    "address": "Jl. Bung Tomo No. 1 RT 18/08 Samarinda Seberang, Samarinda, KALIMANTAN TIMUR, 75131",
+    "phone": "(0541) 7269662, 7269257, 7269426"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Semarang Patrajasa",
+    "address": "Jl. Sisingamangaraja, Semarang, JAWA TENGAH, 50231",
+    "phone": "(024) 8314450"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Semarang Pelindo",
+    "address": "Kompleks Pelabuhan Tanjung Emas, Jl. Coaster No. 10, Semarang, JAWA TENGAH, 50174",
+    "phone": "(024) 3585382"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Singaraja Seririt",
+    "address": "Jl. Jenderal Sudirman No. 64-66, Seririt, Singaraja, Buleleng, BALI, 81153",
+    "phone": "(0362) 94790, 94793, 94794, 94795"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Sumbawa Newmont",
+    "address": "Town Site PT Newmont Nusa Tenggara, Batu Hijau - Maluk, Sumbawa, NUSA TENGGARA TIMUR, 84457",
+    "phone": "(0372)  635427, 635428, 635429"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Armada Timur",
+    "address": "Markas Komando TNI AL, Gedung Panti Tjahaya Armada, Basis TNI AL Ujung, Surabaya, JAWA TIMUR, 60155",
+    "phone": "(031) 3281075"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Darmo Trade Center",
+    "address": "Darmo Trade Center Lt. 1 Kios A1-2, Jl. Wonokromo Raya, Surabaya, JAWA TIMUR, 60241",
+    "phone": "(031) 8484490, 8484491"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Indosat",
+    "address": "Jl. Kayun No. 72, Surabaya, JAWA TIMUR, 60271",
+    "phone": "(031) 60000171"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Pertamina Jagir",
+    "address": "Jl. Jagir, Wonokromo, Surabaya, JAWA TIMUR, 60243",
+    "phone": "(031) 8420753, 8420754"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya PT. PAL",
+    "address": "Kantor Pusat PT. PAL, Surabaya, JAWA TIMUR, 60155",
+    "phone": "(031) 3282026, 3298482"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Sucofindo",
+    "address": "Jl. Kalibutuh No. 215, Surabaya, JAWA TIMUR, 60172",
+    "phone": "(031) 5353193, 5466270, 5483887"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Telkom Ketintang",
+    "address": "Jl. Ketintang No. 156, Surabaya, JAWA TIMUR, 60245",
+    "phone": "(031) 8292659, 8292314, 8285823"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Unika Widya Mandala",
+    "address": "Jl. Dinoyo No. 41-44, Surabaya, JAWA TIMUR, 60265",
+    "phone": "(031) 5624344"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Universitas Airlangga",
+    "address": "Kampus B, Universitas Airlangga, Jl. Airlangga No. 4-6, Surabaya, JAWA TIMUR, 60286",
+    "phone": "(031) 5020365, 5020367"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Surabaya Universitas Petra",
+    "address": "Jl. Siwalankerto No. 121-131, Surabaya, JAWA TIMUR, 60236",
+    "phone": "(031) 8439040, 8494830 - 31"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tabanan Kota",
+    "address": "Jl. Gajah Mada No. 131 A Tabanan, Tabanan, BALI, 82111",
+    "phone": "(0361) 819151, 819153, 819538"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Bandara Terminal 3",
+    "address": "Bandara Soekarno-Hatta Terminal 3, Gedung Angkasa Pura II Cengkareng, Tangerang, BANTEN, 19100",
+    "phone": "(021) 29963021 - 23"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang BNP2TKI Selapajang",
+    "address": "Gedung Pendataan Kepulangan TKI Selapajang, Jl. Marsekal Surya Dharma, Neglasari, Selapajang, Tangerang, BANTEN, 15127",
+    "phone": "5502062"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang BSD Modern",
+    "address": "Ruko Pasar Modern BSD, Sektor Commercial I Blok R No.59, Serpong, Jl. Pahlawan Seribu, Tangerang, BANTEN, 15318",
+    "phone": "(021) 53158541, 53158542"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Duta Garden",
+    "address": "Ruko Duta Garden Blok A1 No 7A, Jl Husin Sastranegara, Tangerang, BANTEN, 15124",
+    "phone": "(021) 54356671, 54356672"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Gedung Manajemen Garuda",
+    "address": "Gedung Manajemen Garuda,  Bandara Soekarno-Hatta, Cengkareng, Tangerang, BANTEN, 19110",
+    "phone": "(021) 55916577"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Jurangmangu",
+    "address": "Ruko Pondok Aren, Jl. Raya Ceger No.59, Jurangmangu, Tangerang, BANTEN, 15222",
+    "phone": "(021) 73887963, 73887964, 73886679"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Kunciran Alam Sutera",
+    "address": "Jl. Jalur Sutera Kav. 29D No. 58 Alam Sutera Serpong, Tangerang, BANTEN, 15324",
+    "phone": "(021) 53140830-32"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Poris Business",
+    "address": "Jl. Poris Paradise Exclusive Blok C2 No. 1, Tangerang, BANTEN, 15122",
+    "phone": "(021) 55700580"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang R.S. Eka BSD",
+    "address": "Rumah Sakit Eka Horpital CBD Lot IX BSD City, Serpong, Tangerang, BANTEN, 15321",
+    "phone": "(021) 53154637, 53154638, 53154639"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Taman Niaga Soewarna",
+    "address": "Taman Niaga Soewarna, Lantai Dasar Blok B Lot 1-5, Bandara International Soekarno-Hatta, Tangerang, BANTEN, 19101",
+    "phone": "(021) 55911440, 55911242"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang UIN Syarif Hidayatullah",
+    "address": "Jl. Ir. H. Jianda No. 95 Ciputat, Tangerang  Selatan, BANTEN, 15412",
+    "phone": "(021) 7406254, 74713655, 74713968, 74714439"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tangerang Universitas Multimedia Nusantara",
+    "address": "Jl. Boulevard Gading Serpong, Tangerang, BANTEN, 15810",
+    "phone": "(021) 54220090"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tembagapura Shopping Centre",
+    "address": "Family Shopping Center Tembagapura, Tembagapura-Mimika, PAPUA, 98100",
+    "phone": "(0901) 351125"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Trenggalek",
+    "address": "Jl. Panglima Sudirman, Kab. Trenggalek, JAWA TIMUR,",
+    "phone": "(0355) 792687, 792688, 795254"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Tuban Semen Gresik",
+    "address": "Gedung Domitory - Semen Gresik Tuban, Sumberarum, Tuban, JAWA TIMUR, 62356",
+    "phone": "(0356) 711336"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Wua Wua",
+    "address": "Jl. Brigjend M. Yoenoes No. 189 A-B, Kendari, SULAWESI TENGGARA, 93117",
+    "phone": "(0401) 3194455, 3193273"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Yogyakarta Godean",
+    "address": "Jl. Raya Godean Km.4 No. 32, Sleman, D.I. YOGYAKARTA, 55292",
+    "phone": "(0274) 561311"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Yogyakarta R.S. Sardjito",
+    "address": "Jl. Kesehatan Sekip, Kotak Pos 21, Sleman, D.I. YOGYAKARTA, 55284",
+    "phone": "(0274) 552168 - 69"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Yogyakarta Suryotomo",
+    "address": "Hotel Limaran, Jl. Suryotomo No. 1, Yogyakarta, D.I. YOGYAKARTA, 55121",
+    "phone": "(0274) 515621"
+  },
+  {
+    "type": "Mandiri Cash",
+    "name": "Outlet Yogyakarta Universitas Islam Indonesia",
+    "address": "Gedung Rektorat Universitas Islam Indonesia Jl. Kaliurang Km.14,5, Besi, Sleman, Sleman, D.I. YOGYAKARTA, 55283",
+    "phone": "(0274) 896323"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Ambon Pantai Mardika",
+    "address": "Jl. Pantai Mardika, Ambon, MALUKU, 97123",
+    "phone": "(0911) 354572-5"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Ambon Pattimura",
+    "address": "Jl. Raya Pattimura No. 14 (SK.2 / 1), Ambon, MALUKU, 90172",
+    "phone": "(0911) 345587, 353122"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Balikpapan Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 15, Balikpapan, KALIMANTAN TIMUR, 76113",
+    "phone": "(0542) 733564, 427777, 424994, 422882, 415593, 396950, 424994"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Banda Aceh",
+    "address": "Jl. Teuku H. Daud Beureuh No. 15 H, Banda Aceh, NANGGROE ACEH DARUSSALAM, 23123",
+    "phone": "(0651) 23981, 21793, 23974"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bandar Lampung Malahayati",
+    "address": "Jl. Laksamana Malahayati No. 3, Bandar Lampung, LAMPUNG, 35221",
+    "phone": "(0721) 481222, 486146, 481431"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bandung Asia Afrika Utara",
+    "address": "Jl. Asia Afrika No. 107, Bandung, JAWA BARAT, 40112",
+    "phone": "(022) 4207026, 4203461, 4336693"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bandung Braga",
+    "address": "Jl. Braga No. 133, Bandung, JAWA BARAT, 40111",
+    "phone": "(022) 4236030"
+  },
+  {
+    "type": "Mandiri KC",
+    "name": "Bandung Surapati",
+    "address": "Jl. Surapati No. 2, Bandung, JAWA BARAT, 40115",
+    "phone": "(022) 4241411"
+  }
+]

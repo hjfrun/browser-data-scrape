@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cilangkap",
+    "address": "Komplek Mabes ABRI Cilangkap, Jakarta Timur, DKI JAKARTA, 13870",
+    "phone": "(021) 8711739"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cimanggis",
+    "address": "Jl. Raya Jakarta Bogor Km. 28, Jakarta Timur, DKI JAKARTA, 13710",
+    "phone": "(021) 8710013, 8710016, 8710657"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cipete",
+    "address": "Gedung Chase Worth, Jl. R.S. Fatmawati No. 75, Cipete, Jakarta Selatan, DKI JAKARTA, 12410",
+    "phone": "(021) 7236142-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Ciputat Center",
+    "address": "Pertokoan Ciputat Center, Jl. Ciputat Raya No. 75, Tangerang, BANTEN, 15412",
+    "phone": "(021) 7491621"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cirendeu",
+    "address": "Jl. Cirendeu Raya, Pertokoan Prima Indah No. 10, Tangerang, BANTEN, 15419",
+    "phone": "(021) 7444809"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Citra Garden",
+    "address": "Jl. Peta Selatan No. 6 A-B, Kalideres, Jakarta Barat, DKI JAKARTA, 11840",
+    "phone": "(021) 54380494, 54380495"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Cut Meutia",
+    "address": "Jl. Cut Meutiah No. 16, Jakarta Pusat, DKI JAKARTA, 10340",
+    "phone": "(021) 3927781-3"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Daan Mogot Baru",
+    "address": "Pertokoan Daan Mogot Baru, Jl. Jimbaran Blok 7 B No. 14, Jakarta Barat, DKI JAKARTA, 11840",
+    "phone": "(021) 54381659, 5459397"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Departemen Agama",
+    "address": "Jl. Lapangan Banteng No. 3-4, Jakarta Pusat, DKI JAKARTA, 10710",
+    "phone": "(021) 3504132 - 53 - 56"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Departemen Hankam",
+    "address": "Jl. Merdeka Barat No. 13-14, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 3828403"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Departemen Keuangan",
+    "address": "Gedung 16 Lantai Departemen Keuangan, Jl.Lapangan Banteng Timur No. 2-4, Jakarta Pusat, DKI JAKARTA, 10710",
+    "phone": "(021) 3522074"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Departemen PU",
+    "address": "Jl. Patimura No. 20, Kebayoran Baru, Jakarta Selatan, DKI JAKARTA, 12110",
+    "phone": "(021) 2700017"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Design Center",
+    "address": "Jl. Jend. Gatot Subroto Kav. 53-54, Jakarta Pusat, DKI JAKARTA, 10260",
+    "phone": "(021) 5495136-8"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Dewi Sartika",
+    "address": "Jl. Dewi Sartika No.184 A, Cawang, Jakarta Timur, DKI JAKARTA, 13630",
+    "phone": "(021) 8094754-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta D.I. Panjaitan",
+    "address": "Jl. D.I. Panjaitan Kav. 9, Gedung Wika, Jakarta Timur, DKI JAKARTA, 13340",
+    "phone": "(021) 2800088"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta DPR RI",
+    "address": "Gedung MPR/DPR RI Senayan, Jl. Jend. Gatot Subroto, Jakarta Pusat, DKI JAKARTA, 10270",
+    "phone": "(021) 5701274"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Duren Sawit",
+    "address": "Jl. Kolonel Sugiono No. 19 Blok O, Duren sawit, Jakarta Timur, DKI JAKARTA, 13430",
+    "phone": "(021) 86612782, 86612783"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Duta Harapan Indah",
+    "address": "Ruko Duta Harapan Indah Blok I No.18, Kapuk Muara, Jakarta Utara, DKI JAKARTA, 14460",
+    "phone": "(021) 66605630"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Duta Merlin",
+    "address": "Komplek Pertokoan Duta Merlin, Blok A/26-28, Jl. Gajah Mada No. 3-5, Jakarta Pusat, DKI JAKARTA, 10130",
+    "phone": "(021) 63866447, 63866450 / 446"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Energi",
+    "address": "Gedung The Energy, Kawasan SCBD Lot 11 A,Jl. Jend. Sudirman Kav.52-53, Jakarta Selatan, DKI JAKARTA, 12190",
+    "phone": "(021) 52892466, 52964535"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Fakhrudin",
+    "address": "Jl. K.H. Fakhrudin No.15, Tanah Abang, Jakarta Pusat, DKI JAKARTA, 10250",
+    "phone": "(021) 2301486, 2301487"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Fatmawati Cenderawasih",
+    "address": "Jl. Cenderawasih I No. 15 A, Cilandak, Jakarta Selatan, DKI JAKARTA, 12420",
+    "phone": "(021) 75905080"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gandaria",
+    "address": "Jl. Gandaria Tengah III No. 21, Kebayoran Baru, Jakarta Selatan, DKI JAKARTA, 12130",
+    "phone": "(021) 2702865-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Garuda Sentra Operasi",
+    "address": "Bandara Soekarno-Hatta, Cengkareng, Jakarta Barat, DKI JAKARTA, 19110",
+    "phone": "(021) 5590369"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gatot Subroto",
+    "address": "Gedung Menara Jamsostek, Jl. Jend. Gatot Subroto Kav. 38, Jakarta Selatan, DKI JAKARTA, 12710",
+    "phone": "(021) 52961514, 52962256 - 57, 52962263"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Aneka Tambang",
+    "address": "Jl. Letjend. T.B. Simatupang, Tanjung Barat, Jakarta Selatan, DKI JAKARTA, 12530",
+    "phone": "(021) 7892956"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Bidakara",
+    "address": "Jl. Jend. Gatot Subroto Kav. 71-73, Jakarta Selatan, DKI JAKARTA, 12870",
+    "phone": "(021) 83793115-9"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Bimantara",
+    "address": "Gedung Bimantara, Jl. Kebun Sirih 17-19, Jakarta Pusat, DKI JAKARTA, 10340",
+    "phone": "(021) 3920105"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Depparpostel",
+    "address": "Jl. Merdeka Barat No. 17, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 3867496"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Elnusa",
+    "address": "Graha Elnusa, Jl. Letjend. T.B. Simatupang Kav. 1 B, Jakarta Selatan, DKI JAKARTA, 12560",
+    "phone": "(021) 78831183-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Indosat",
+    "address": "Jl. Medan Merdeka Barat No. 21, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 3802614"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Jamsostek",
+    "address": "Jl. Jend. Gatot Subroto No. 79, Jakarta Selatan, DKI JAKARTA, 12930",
+    "phone": "(021) 5201885"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Jaya",
+    "address": "Jl. M.H. Thamrin No. 12, Jakarta Pusat, DKI JAKARTA, 10250",
+    "phone": "(021) 2300104, 2300843, 2300849"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Lemigas",
+    "address": "Kanpus. PPPTMGB Lemigas, Jl. Ciledug Raya, Jakarta Selatan, DKI JAKARTA, 12230",
+    "phone": "(021) 2700298"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Patrajasa",
+    "address": "Gedung Patrajasa, Jl. Jend. Gatot Subroto Kav. 32-34, Jakarta Selatan, DKI JAKARTA, 12950",
+    "phone": "(021) 5251621"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Pelni",
+    "address": "Jl. Gajah Mada No. 14, Jakarta Pusat, DKI JAKARTA, 10130",
+    "phone": "(021) 6335770"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Pusat Kehutanan",
+    "address": "Jl. Jend. Gatot Subroto, Manggala Wanabakti, Jakarta Pusat, DKI JAKARTA, 10270",
+    "phone": "(021) 5703246"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Pusri",
+    "address": "Jl. Taman Anggrek-Kemanggisan Jaya, Jakarta Barat, DKI JAKARTA, 11480",
+    "phone": "(021) 5481489"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gedung Tira",
+    "address": "Jl. H.R. Rasuna Said Kav. B-3, Jakarta Selatan, DKI JAKARTA, 12920",
+    "phone": "(021) 5209345"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Glodok Plaza",
+    "address": "Ruko Glodok Plaza Blok H No.45-46, Jl. Pinangsia Raya, Jakarta Barat, DKI JAKARTA, 11180",
+    "phone": "(021) 6252348-7"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Glodok Sky",
+    "address": "Pasar Glodok Lt. 2 A.LO2 BKS039,, Jakarta Barat, DKI JAKARTA, 11120",
+    "phone": "(021) 6336120, 6336130"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Graha 55",
+    "address": "Jl. Tanah Abang II No. 57, Jakarta Pusat, DKI JAKARTA, 10160",
+    "phone": "(021) 3801092 - 93, 3801104"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Graha Irama",
+    "address": "Graha Irama Lantai DasarJl. H.R. Rasuna Said Kav. X-1, No. 1-2, Jakarta Selatan, DKI JAKARTA, 12950",
+    "phone": "(21) 52964180, 52964282, 52964184"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Graha Rekso",
+    "address": "Graha Rekso Building Ground & 3 Floor, Jl. Bulever Artha Gading Kav. A1, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 45856278, 45856279, 45856315, 45856317, 45856866, 45856867"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Grand Wijaya",
+    "address": "Jl. Wijaya II, Komp. Wijaya Grand Center Blok B 1-3, Jakarta Selatan, DKI JAKARTA, 12160",
+    "phone": "(021) 2700107-09, 2700939"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Grha Citra Caraka",
+    "address": "Grha Citra Caraka/Witel IV, Jl. Jend. Gatot Subroto No. 52, Jakarta Selatan, DKI JAKARTA, 12710",
+    "phone": "(021) 5222185-6"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Griya Inti Sentosa",
+    "address": "Ruko Griya Inti Sentosa, Jl. Griya Utama Blok A No. 22, Jakarta Utara, DKI JAKARTA, 14350",
+    "phone": "(021) 65835034 - 35, 65835014,  6516285"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Grogol Muwardi",
+    "address": "Jl. Dr. Muwardi II No. 15 A, Grogol, Petamburan, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 5632657"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Gunung Sahari",
+    "address": "Jl. Industri No. 1, Jakarta Pusat, DKI JAKARTA, 10720",
+    "phone": "(021) 2600025"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Halim Perdanakusuma",
+    "address": "Bandara Halim Perdanakusuma No. 121 HT, Jakarta Timur, DKI JAKARTA, 13610",
+    "phone": "(021) 80889951"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Harco Mangga Dua",
+    "address": "Ruko Agung Sedayu Blok N No. 36, Jl. Mangga Dua Raya, Jakarta Pusat, DKI JAKARTA, 10730",
+    "phone": "(021) 6127048, 6127049"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Iskandarsyah",
+    "address": "Graha Iskandarsyah, Jl. Iskandarsyah Raya No. 66, Jakarta Selatan, DKI JAKARTA, 12160",
+    "phone": "(021) 2702711-5, 2700015"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta ITC Cempaka Mas",
+    "address": "ITC Cempaka Mas Mega Grosir, Lower Ground No. 155 dan 156, Jl. Letjen. Suprapto, Jakarta Pusat, DKI JAKARTA, 10640",
+    "phone": "(021) 42874324, 42876943, 42874774"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta ITC Fatmawati",
+    "address": "Komplek Pertokoan Duta Mas Blok A.I No. 17 , Jl. RS Fatmawati, Jakarta Selatan, DKI JAKARTA, 12150",
+    "phone": "(021) 7248700, 72788815"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta ITC Mangga Dua",
+    "address": "ITC Mangga Dua Lt. I Blok B 13-14, Jl. Mangga Dua Raya, Jakarta Utara, DKI JAKARTA, 14410",
+    "phone": "(021) 62300268-269"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta ITC Permata Hijau",
+    "address": "Ruko Grand ITC Permata Hijau Blok Emerald G 28, Jl. Arteri Permata Hijau, Jakarta Selatan, DKI JAKARTA, 12210",
+    "phone": "(021) 53663322, 53663950, 53663951"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta ITC Roxy Mas",
+    "address": "Gedung ITC Roxy Mas Blok B No. 14-15,Jl. KH Hasyim Ashari, Jakarta Pusat, DKI JAKARTA, 10150",
+    "phone": "(021) 63859978"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jalan Panjang",
+    "address": "Jl. Panjang No. 5 A, Kebon Jeruk, Jakarta Barat, DKI JAKARTA, 11530",
+    "phone": "(021) 5327262, 5327472, 5327393"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jalan Sunda",
+    "address": "Jl. Sunda No. 1, Jakarta Pusat, DKI JAKARTA, 10350",
+    "phone": "(021) 2300473, 2300718, 31930396"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jatinegara Barat",
+    "address": "Jl. Jatinegara Barat No. 142 AB, Jakarta Timur, DKI JAKARTA, 13320",
+    "phone": "(021) 8199747"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jatipadang",
+    "address": "Jl. Raya Ragunan No. 8 D, Jakarta Selatan, DKI JAKARTA, 12520",
+    "phone": "(021) 7890989"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jayakarta Komplek Sentral",
+    "address": "Komplek Ruko Sentral Blok A.9 & Blok A.10,Jl. Pangeran Jayakarta No. 126-129, Jakarta Pusat, DKI JAKARTA, 10730",
+    "phone": "(021) 6242671"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jelambar",
+    "address": "Jl. Pangeran Tubagus Angke No. 10, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 5647439"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jelambar Baru",
+    "address": "Ruko Jelambar Baru, Jl.Jelambar Baru Raya No. 6B, Grogol, Petamburan, Jakarta Barat, DKI JAKARTA, 11460",
+    "phone": "(021) 5643966"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jembatan Dua",
+    "address": "Ruko Jembatan Dua, Jl. Jembatan Dua No.5C, Penjaringan, Jakarta Utara, DKI JAKARTA, 14450",
+    "phone": "(021) 6619596"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Jembatan Lima",
+    "address": "Jl. K.H. Moch. Mansyur No. 222, Jakarta Barat, DKI JAKARTA, 11210",
+    "phone": "(021) 6310068"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Juanda",
+    "address": "Jl. Ir. H. Juanda No. 25, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 2310203"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kalibata",
+    "address": "Jl. Raya Pasar Minggu Km. 17 No.8, Jakarta Selatan, DKI JAKARTA, 12740",
+    "phone": "(021) 7945427-28"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kalideres",
+    "address": "Jl. Utama Raya Blok B No. 57 A-B, Cengkareng, Jakarta Barat, DKI JAKARTA, 11730",
+    "phone": "(021) 5450258, 5450259, 54391549"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kalimalang",
+    "address": "Jl. Raya Tarum Barat Blok M I No. 2, Kav. Billy Moon, Kalimalang, Jakarta Timur, DKI JAKARTA, 13450",
+    "phone": "(021) 8645943-4"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Karang Anyar",
+    "address": "Jl. Karang Anyar No. 55 Blok A-1/21, Jakarta Pusat, DKI JAKARTA, 10740",
+    "phone": "(021) 6591855, 62302972"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kawasan Industri Pulogadung",
+    "address": "Jl. Pulobuaran No. 2, Pulogadung, Jakarta Timur, DKI JAKARTA, 13930",
+    "phone": "(021) 4600081, 46826938"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kawasan Komersial Cilandak",
+    "address": "Jl. Raya Cilandak KKO, Kawasan Komersial Cilandak Gedung III, Jakarta Selatan, DKI JAKARTA, 12560",
+    "phone": "(021) 7801478"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kebayoran Lama",
+    "address": "Jl. Raya Kebayoran Lama No. 222, Jakarta Selatan, DKI JAKARTA, 12220",
+    "phone": "(021) 2700602-5"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kebon Jati",
+    "address": "Jl. Kebon Jati No.18, Komplek Ruko No.116-117, Jakarta Pusat, DKI JAKARTA, 10250",
+    "phone": "(021) 3914859"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kebon Jeruk Perjuangan",
+    "address": "Jl. Perjuangan No. 9 B, Kebon Jeruk, Jakarta Barat, DKI JAKARTA, 11520",
+    "phone": "(021) 5360735-7"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kedoya",
+    "address": "Rukan Golden Green No. 21, Jl. Arteri Kedoya, Jakarta Barat, DKI JAKARTA, 11520",
+    "phone": "(021) 5824804"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading",
+    "address": "Jl. Kelapa Gading Bolevar Blok TB2 No. 6-8, Kelapa Gading, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 4520387"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Barat",
+    "address": "Jl. Bolevar Barat Raya Blok LC-7 No. 22-23, Kelapa Gading, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 45841815, 45841816, 4504789"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Bolevar",
+    "address": "Jl. Bolevar Raya Blok L No. 8, Kelapa Gading, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 4520245, 4520474, 45840343"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Bolevar Raya",
+    "address": "Jl. Raya Bolever Blok LA 6 No. 10-11, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 45856822, 45856823, 45856824, 45856825"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Bolevar Timur",
+    "address": "Jl. Raya Bolevar Timur Blok NB I No.55, Jakarta Utara, DKI JAKARTA, 14250",
+    "phone": "(021) 4535909, 4535910, 4535911"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Hibrida",
+    "address": "Jl. Bulevar Raya Blok PA 11 No. 18, Jakarta Utara, DKI JAKARTA, 14250",
+    "phone": "(021) 45866152, 45866153"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kelapa Gading Inkopal",
+    "address": "Pertokoan dan Kantor Inkopal, Jl. Bulevar Barat Raya Blok A No. 12A, Kelapa Gading Barat, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 45859414, 45859415, 45859416"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kemanggisan",
+    "address": "Jl. Budi Raya No. 7 A-B, Kemanggisan, Jakarta Barat, DKI JAKARTA, 11480",
+    "phone": "(021) 53666265"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kemang Plaza",
+    "address": "Kemang Plaza, Jl. Kemang Raya No. 15 C, Jakarta Selatan, DKI JAKARTA, 12790",
+    "phone": "(021) 71794582, 71794583, 71794585"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kemang Raya",
+    "address": "Jl. Kemang Raya No. 18 A, Jakarta Selatan, DKI JAKARTA, 12370",
+    "phone": "(021) 7199123-7, 7194805, 71791514"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kenari Lama",
+    "address": "Jl. Kenari II No. 5, Jakarta Pusat, DKI JAKARTA, 10430",
+    "phone": "(021) 3924361"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kepa Duri",
+    "address": "Jl. Mangga Raya Blok Y No. 20, Jakarta Barat, DKI JAKARTA, 11510",
+    "phone": "(021) 5656646-7"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Ketapang Indah",
+    "address": "Komplek Ketapang Indah, Jl. K.H. Zainal Arifin Blok A1, Jakarta Barat, DKI JAKARTA, 11140",
+    "phone": "(021) 6336461, 6336601, 6336482"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Klender",
+    "address": "Komplek Ruko Blok B1 No.6, Jl. I Gusti Ngurah Rai, Jakarta Timur, DKI JAKARTA, 13470",
+    "phone": "(021) 86612125 - 27"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta KP BPKP",
+    "address": "KP BPKP, Jl. Hayam Wuruk, Jakarta Pusat, DKI JAKARTA, 10120",
+    "phone": "(021) 3866724, 3866725"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta KPKN II",
+    "address": "Jl. Dr. Wahidin II No. 3, Jakarta Pusat, DKI JAKARTA, 10710",
+    "phone": "(021) 3850159"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta KP Pertamina",
+    "address": "Jl. Perwira No. 2, Jakarta Pusat, DKI JAKARTA, 10110",
+    "phone": "(021) 2310380"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Krakatau Steel",
+    "address": "Jl. Jend. Gatot Subroto Kav. 54, Jakarta Selatan, DKI JAKARTA, 12170",
+    "phone": "(021) 5221263, 5200683"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kramatjati",
+    "address": "Kokan Anggatra PUSDIKKES No. PP8-A1 dan PP9-A1, Jl. Raya Bogor Km. 18, Jakarta Timur, DKI JAKARTA, 13510",
+    "phone": "(021) 8000455, 80882152, 8006693, 80876863"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kramat Raya",
+    "address": "Jl. Kramat Raya No. 94-96, Jakarta Pusat, DKI JAKARTA, 10450",
+    "phone": "(021) 3161938"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Krekot",
+    "address": "Jl. H. Samanhudi No. 2 AB, Jakarta Pusat, DKI JAKARTA, 10710",
+    "phone": "(021) 3506002"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Krekot Bunder",
+    "address": "Ruko Krekot Bunder, Jl. Krekot Bunder Raya No. 62, Sawah Besar, Jakarta Pusat, DKI JAKARTA, 10710",
+    "phone": "(021) 3841665"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Jakarta Kuningan",
+    "address": "Gedung Menara Duta, Jl. H.R. Rasuna Said Kav. B-9, Jakarta Selatan, DKI JAKARTA, 12920",
+    "phone": "(021) 5207075"
+  }
+]

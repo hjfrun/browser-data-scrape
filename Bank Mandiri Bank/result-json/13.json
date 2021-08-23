@@ -1,0 +1,602 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Sukabumi Ahmad Yani",
+    "address": "Jl. Ahmad Yani No. 44, Sukabumi, JAWA BARAT, 43131",
+    "phone": "(0266) 222801, 222802, 223677, 224748"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sukabumi Cikembar",
+    "address": "Jl. Pelabuhan II No.3 KM.12, Sukabumi, JAWA BARAT, 43156",
+    "phone": "(0266) 321071"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sukoharjo",
+    "address": "Jl. Jenderal Sudirman No. 29, Sukoharjo, JAWA TENGAH, 57551",
+    "phone": "(0271) 6594972, 6594973"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumbawa Besar",
+    "address": "Jl. Diponegoro No. 10, Sumbawa Besar, NUSA TENGGARA BARAT, 84343",
+    "phone": "(0371) 21438, 21567"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumberrejo",
+    "address": "Jl. Raya Sumberrejo RT 025 RW 08 Sumberrejo, Bojonegoro, JAWA TIMUR, 62191",
+    "phone": "(0353) 333438"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumedang",
+    "address": "Jl. Mayor Abdurachman No. 99, Sumedang, JAWA BARAT, 45323",
+    "phone": "(0261) 210275, 210276, 210277"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumedang Tanjungsari",
+    "address": "Jalan Raya Tanjungsari No. 154 Sumedang, Sumedang, JAWA BARAT, 45362",
+    "phone": "(022) 7911777"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumedang Wado",
+    "address": "Dusun Wado Girang, RT. 03 RW. 03 Kec. Wado, Sumedang, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sumenep",
+    "address": "Jl. Raya Trunojoyo No. 55, Sumenep, JAWA TIMUR, 69417",
+    "phone": "(0328) 669836, 669837, 669874"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sungailiat",
+    "address": "Jl. Sudirman No. 18, Sungailiat, BANGKA BELITUNG, 32111",
+    "phone": "(0717) 92233, 92416"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sungai Lilin",
+    "address": "Pasar Sungai Lilin No. 33, Jl. Raya Palembang-Jambi, Musi Banyuasin, SUMATERA SELATAN, 30755",
+    "phone": "(0714) 322750"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Sungai Pinyuh",
+    "address": "Jl. Raya Seliung Jurusan Anjungan No.1-2 Sungai Pinyuh, Pontianak, KALIMANTAN BARAT, 78353",
+    "phone": "(0561) 654468"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Bandara Juanda",
+    "address": "Bandara Juanda, Surabaya, JAWA TIMUR, 61253",
+    "phone": "(031) 2986422, 8667596, 8688419"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Bratang Binangun",
+    "address": "Jl. Ngagek Jaya Selatan, Plaza Manyar Megah Indah Blok J 5-6, Surabaya, JAWA TIMUR, 60284",
+    "phone": "(031) 5043531, 5043701, 5624701"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Citra Raya G-Walk",
+    "address": "Perumahan Citra Raya Gwalk Blok W-1 No.10-11, Surabaya, JAWA TIMUR, 60216",
+    "phone": "(031) 57431000, 57431222"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Darmo Indah",
+    "address": "Komplek Ruko Darmo Indah Timur, Jl. Darmo Indah Timur Blok SS No.8, Surabaya, JAWA TIMUR, 60187",
+    "phone": "(031) 7328524, 7317618"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Darmo Park",
+    "address": "Komplek Pertokoan Darmo Park I Blok V No.5-6, Jl. Mayjend. Sungkono, Surabaya, JAWA TIMUR, 60256",
+    "phone": "(031) 5661745, 5661816"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Darmo Permai",
+    "address": "Jl. H.R. Muhammad 36, Ruko Permata Blok B-1, Surabaya, JAWA TIMUR, 60226",
+    "phone": "(031) 7344473-4"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Darmo Raya",
+    "address": "Jl. Raya Darmo No. 41, Surabaya, JAWA TIMUR, 60625",
+    "phone": "(031) 5685574, 5685891, 5686756, 5687458"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Diponegoro",
+    "address": "Jl. Raya Diponegoro No. 155, Surabaya, JAWA TIMUR, 60241",
+    "phone": "(031) 5662853, 5669892, 5674347"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Gubeng",
+    "address": "Jl. Kalimantan No.10, Surabaya, JAWA TIMUR, 60281",
+    "phone": "(031) 5039839, 5033783-84,5030765"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Indragiri",
+    "address": "Jl. Indragiri No.30-32, Surabaya, JAWA TIMUR, 60241",
+    "phone": "(031) 5611360, 5681439, 5681442, 70991623"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Indrapura",
+    "address": "Jl. Indrapura No. 45, Surabaya, JAWA TIMUR, 60176",
+    "phone": "(031) 3521251 - 52, 3535715"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Jembatan Merah",
+    "address": "Jl. Jembatan Merah No. 25-27, Surabaya, JAWA TIMUR, 60175",
+    "phone": "(031) 3520090 - 99"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Jemursari",
+    "address": "Jl. Jemursari No. 81, Surabaya, JAWA TIMUR, 60231",
+    "phone": "(031) 8474247, 8474458"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kapasan",
+    "address": "Jl. Kapasan No. 159, Surabaya, JAWA TIMUR, 60141",
+    "phone": "(031) 319944, 3717529"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kapas Krampung",
+    "address": "Jl. Kapas Krampung No.67 Kav. 06, Surabaya, JAWA TIMUR, 60133",
+    "phone": "(031) 3737469, 3737467, 3737471"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kedungdoro",
+    "address": "Jl. Kedungdoro No. 84, Surabaya, JAWA TIMUR, 60251",
+    "phone": "(031) 5462851, 5462853"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kembang Jepun",
+    "address": "Jl. Kembang Jepun No.168-170, Surabaya, JAWA TIMUR, 60162",
+    "phone": "(031) 3550091 - 92"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kenjeran",
+    "address": "Ruko Kenjeran Indah, Jl. Babatan Pantai No. 2 AB, Surabaya, JAWA TIMUR, 60113",
+    "phone": "(031) 3823303, 3823273"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kertajaya",
+    "address": "Jl. Dharmahusada Indah No. 130, Surabaya, JAWA TIMUR, 32190",
+    "phone": "(0321) 5999869, 5981670"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Klampis",
+    "address": "Jl. Klampis Jaya No. 50, Surabaya, JAWA TIMUR, 60117",
+    "phone": "(031) 5990060, 5990061"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kupang Jaya",
+    "address": "Jl. Kupang Jaya A I No. 43, Surabaya, JAWA TIMUR, 60189",
+    "phone": "(031) 7344674, 7344693"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Kusuma Bangsa",
+    "address": "Jl. Kusuma Bangsa No. 106, Surabaya, JAWA TIMUR, 60136",
+    "phone": "(031) 5323642, 5323880"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Margorejo",
+    "address": "Jl. Raya Margorejo Indah Kav. A No. 131 - 132, Surabaya, JAWA TIMUR, 60238",
+    "phone": "(031) 8499502, 8499773"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Menanggal",
+    "address": "Jl. A. Yani Komplek Mandiri Menanggal B1-B3, Surabaya, JAWA TIMUR, 60243",
+    "phone": "(031) 8287568, 8287728"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Menganti",
+    "address": "Jl. Raya Menganti Sidowungu No.6 Kec. Menganti, Kab. Gresik, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Mojoagung",
+    "address": "Jl. Raya Mojoagung 145 RT.02 RW.02 Kel. Gambiran Utara, Kec. Mojoagung, Kab. Jombang, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Mulyosari",
+    "address": "Jl. Raya Mulyosari No. 360 D-E, Surabaya, JAWA TIMUR, 60113",
+    "phone": "(031) 5927468 - 70, 5930034, 5962282"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Ngoro",
+    "address": "Kompl. Ruko Ngoro Industrial Park Jl. Raya Ngoro Blok A-1, Kab. Mojokerto, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pahlawan",
+    "address": "Jl. Pahlawan No. 120, Surabaya, JAWA TIMUR, 60174",
+    "phone": "(031) 3534072-74, 3552550"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pakuwon",
+    "address": "Jl. Raya Bukit Darmo Boulevard No.8 G, Surabaya, JAWA TIMUR, 60226",
+    "phone": "(031) 7344049, 7344708"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pasar Atum",
+    "address": "Pusat Perbelanjaan Pasar Atum Mall Lantai 2, Stand No. BA 25-29, Jl. Stasiun Kota, Surabaya, JAWA TIMUR, 60161",
+    "phone": "(031) 3531820, 3531825"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pasar Turi",
+    "address": "Kompleks Pertokoan Dupak Megah Blok B-6, Jl. Dupak No. 3-9, Surabaya, JAWA TIMUR, 60174",
+    "phone": "(031) 5345620"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya PDAM",
+    "address": "Jl. Prof. Dr. Moestopo No. 2, Surabaya, JAWA TIMUR, 60131",
+    "phone": "(031) 5046745 - 46"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pelabuhan Tanjungperak",
+    "address": "Jl. Perak Timur No.512 Blok H3-H4, Surabaya, JAWA TIMUR, 60165",
+    "phone": "(031) 3295924, 3297929, 3295924"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pemuda",
+    "address": "Jl. Pemuda No. 27-31, Surabaya, JAWA TIMUR, 60271",
+    "phone": "(031) 5311736 - 36 - 40 - 41, 5340756"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pondok Chandra",
+    "address": "Jl. Palem TC 1 / 12, Pondok Chandra Indah, Surabaya, JAWA TIMUR, 61256",
+    "phone": "(031) 866672, 8663393, 8663363"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Pucang Anom",
+    "address": "Jl. Pucang Anom Timur No. 12, Surabaya, JAWA TIMUR, 60282",
+    "phone": "(031) 5020126, 5020701"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Rengel",
+    "address": "Ruko Rengel Indah No.9-10 Jl. Raya Rengel, Kec. Rengel, Tuban, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Rungkut",
+    "address": "Jl. Rungkut Industri Raya No. 10, Surabaya, JAWA TIMUR, 60293",
+    "phone": "(031) 8439193, 84322113, 8411238"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Rungkut Madya",
+    "address": "Komp. Ruko Rungkut Mutiara B-02, Jl. Raya Rungkut Madya, Surabaya, JAWA TIMUR, 60293",
+    "phone": "(031) 8794740, 8794762"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Rungkut Megah Raya",
+    "address": "Komplek Pertokoan Rungkut Megah Raya Blok E/5-6, Jl. Raya Kali Rungkut No.5, Surabaya, JAWA TIMUR, 60293",
+    "phone": "(031)  8720705, 8720706, 8720708, 8720709"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Stasiun Kota",
+    "address": "Jl. Stasiun Kota No.60 C-D Kav. No.1 dan 2, Surabaya, JAWA TIMUR, 60160",
+    "phone": "(031) 3530293, 3539366 - 67"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Sungkono",
+    "address": "Jl. Mayjend. Sungkono No. 121 F, Surabaya, JAWA TIMUR, 60225",
+    "phone": "(031) 5685021 - 22, 5663045"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Tanjungperak",
+    "address": "Jl. Perak Timur No. 398, Surabaya, JAWA TIMUR, 60164",
+    "phone": "(031) 3291792, 3292580, 3293568"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Tunjungan Plaza",
+    "address": "Jl. Basuki Rahmat No. 2-4, Surabaya, JAWA TIMUR, 60261",
+    "phone": "(031) 5343251 - 52"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Undaan",
+    "address": "Jl. Undaan Kulon No. 105 A, Surabaya, JAWA TIMUR, 60274",
+    "phone": "(031) 5484379, 5484383, 5484384, 5481997"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Surabaya Wiyung",
+    "address": "Komplek Ruko Taman Pondok Indah Kav.A-35, Jl. Raya Menganti No. 207, Wiyung, Surabaya, JAWA TIMUR, 60222",
+    "phone": "(031) 7660056, 7664559, 7664029"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tabanan",
+    "address": "Jl. Jend. Ahmad Yani No. 99 X, Kediri, Tabanan, BALI, 82171",
+    "phone": "(0361) 812217, 812654, 815363"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Takalar",
+    "address": "Jl. Jend. Sudirman, Kel Kallabirang, Kec Pattallassang, Takalar, SULAWESI SELATAN, 92216",
+    "phone": "(0418) 22299"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Takengon",
+    "address": "Jl. Sengeda No. 77-78, Takengon, Aceh Tengah, NANGGROE ACEH DARUSSALAM, 24512",
+    "phone": "(0643) 24408, 24409"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tambun",
+    "address": "Naga Swalayan, Jl. Raya Hasanudin Km.38, Tambun, Bekasi, JAWA BARAT, 17510",
+    "phone": "(021) 8810953, 8811029, 8811055"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanah Grogot",
+    "address": "Jl. Gajah Mada No. 22, Tanah Grogot, Kabupaten Paser, KALIMANTAN TIMUR, 76211",
+    "phone": "(0543) 23208, 23577"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tana Toraja",
+    "address": "Jl. Andi Mappanyukki No. 70, Rantepao, Tana Toraja, SULAWESI SELATAN, 91831",
+    "phone": "(0423) 23202, 23377, 25522"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Ahmad Yani",
+    "address": "Jl. Jend. Ahmad Yani No. 9, Tangerang, BANTEN, 15111",
+    "phone": "(021) 5522206"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Alam Sutera",
+    "address": "Ruko Sutera Niaga I No. 71, Jl. Raya Serpong, Tangerang, BANTEN, 15325",
+    "phone": "(021) 53124348, 53124349"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Balaraja",
+    "address": "Jl. Raya Kresek No.8-9, Balaraja, Tangerang, BANTEN, 15160",
+    "phone": "(021) 5954461, 5954463"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Bintaro Sektor III",
+    "address": "Jl. Bintaro Utama 3A Blok D No. 42-43, Sektor III, Bintaro Jaya, Tangerang, BANTEN, 15225",
+    "phone": "(021) 7362419, 7362404"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Bumi Permata Indah",
+    "address": "Pertokoan Bumi Permata Indah Blok R 1 No. 23, Jl. Raden Saleh, Karang Tengah, Ciledug, Tangerang, BANTEN, 15157",
+    "phone": "(021) 73453233, 73456025"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Bumi Serpong Damai",
+    "address": "Jl. Gunung Rinjani No.13 Blok R-G, Sektor IV Bumi Serpong Damai, Tangerang, BANTEN, 15311",
+    "phone": "(021) 5376767/68"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Cikokol",
+    "address": "Ruko Mahkota Mas Blok C No. J4 - J5, Cikokol, Tangerang, BANTEN, 15117",
+    "phone": "(021) 5543218"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Cikupa",
+    "address": "Pertokoan Cikupa Blok B No.3, Jl. Raya Serang Km. 14,8, Tangerang, BANTEN, 15710",
+    "phone": "(021) 5960561, 5963003"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Ciledug",
+    "address": "Jl. Ciledug Raya No. 77, Kav. 1-2, Ciledug, Tangerang, BANTEN, 15154",
+    "phone": "(021) 5847826, 5854693, 7329006"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Ciledug CBD",
+    "address": "Ruko Central Business Dustrict (CBD), Trade Mall and Shopping Arcade, Jl. HOS Cokroaminoto No. 93, Ciledug, Tangerang, BANTEN, 15157",
+    "phone": "(021) 7324942, 7328453, 7303899"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang City",
+    "address": "Ruko Business Park Tangerang City Blok A.8  Jl. Jend. Sudirman No. 1, Tangerang, BANTEN, 15117",
+    "phone": "(021) 55749147, 55749148"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Curug",
+    "address": "Jl. Raya Curug Rt.02,Rw.04, Curug Kulon, Tangerang, BANTEN, 15810",
+    "phone": "(021) 5983697, 5983698"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Daan Mogot",
+    "address": "Jl. Daan Mogot No. 55 - 57, Tangerang, BANTEN, 15111",
+    "phone": "(021) 5530607, 5530641 / 661 / 671"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Gading Serpong",
+    "address": "Ruko Gading Serpong Blok AA4 No. 38, Jl. Boulevard, Tangerang, BANTEN, 15333",
+    "phone": "(021) 5462297, 5462330"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Graha Bintaro",
+    "address": "Graha Bintaro Jl. Trulek I HG 13 No.18 Bintaro, Tangerang, BANTEN, 15226",
+    "phone": "(021) 7312224"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Graha Karnos",
+    "address": "Graha Karnos, Jl. Ir. H. Juanda No. 39, Ciputat, Tangerang, BANTEN, 15412",
+    "phone": "(021) 74701725, 74701726, 74701727"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang ITC BSD",
+    "address": "Ruko ITC BSD No.17, Jl. Pahlawan Seribu, Serpong, Tangerang, BANTEN, 15322",
+    "phone": "(021) 53161747, 53161748, 53161749"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Jurangmangu Permai",
+    "address": "Jl Raya Ceger Komplek Jurangmangu Permai Blok AI No.1 RT.01/RW.04 Kel Jurangmangu Barat, Kec. Pondok Aren Barat, Kab. Tangerang, BANTEN, 15222",
+    "phone": "(021) 73882360"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Merdeka",
+    "address": "Plaza Sinar Merdeka Mas Blok A2 No. 7-8, Jl. Merdeka No. 53, Tangerang, BANTEN, 15113",
+    "phone": "(021) 5516959, 5517019"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Mutiara Kosambi",
+    "address": "Wkawasan Pergudangan Mutiara Kosambi 2 Blok A No.11, Tangerang, BANTEN, 15211",
+    "phone": "(021) 55310473, 55910471, 55911072"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pamulang Siliwangi",
+    "address": "Ruko Tita, Jl. Raya Siliwangi No. 9 A, Pamulang, Tangerang, BANTEN, 15416",
+    "phone": "(021) 74718012, 74718014"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Paris Square BSD",
+    "address": "Komplek Ruko Paris Square KOM III Blok B2 Nomor 11, Jl Letnan Sutopo, BSD, Tangerang, BANTEN, 15416",
+    "phone": "(021)  5387149"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Anyar",
+    "address": "JL. Mukti Ruko Sinar Intan Blok B, Pasar Anyar, Tangerang, BANTEN, 15111",
+    "phone": "(021) 5534608"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Ciputat",
+    "address": "Ruko Mutiara Center Ciputat,Jl.Dewi Sartika No. B3, Ciputat, Tangerang, BANTEN, 15411",
+    "phone": "(021) 7426545, 7425932, 7425635"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Jati Uwung",
+    "address": "Ruko Sastra Plaza, Jalan Gatot Subroto Blok D. Nomor 63 Jatiuwung Tangerang, Tangerang, BANTEN, 15134",
+    "phone": "(021) 55658116"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Kemis",
+    "address": "Pertokoan Kutajaya, Pasar Kemis, Blok A Nomor 3, Tangerang, Tangerang, BANTEN, 15560",
+    "phone": "(021) - 5907886"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Kutabumi",
+    "address": "Pasar Kutabumi Blok E-3 No. 19 Kabupaten Tangerang, Tangerang, BANTEN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Poris",
+    "address": "Ruko Poris Indah Blok A9-C, No.15, Cipondoh Indah, Kec. Cipondoh,, Tangerang, BANTEN, 15148",
+    "phone": "(021) 55700 642"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pasar Sepatan",
+    "address": "Jl. Raya Mauk Kel. Sepatan, Kec. Sepatan, Kab. Tangerang, Kab. Tangerang, BANTEN, 15520",
+    "phone": "(021) 593-71549"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pinangsia Karawaci",
+    "address": "Ruko Pinangsia Blok A No. 39, Lippo Karawaci, Tangerang, BANTEN, 15139",
+    "phone": "(021) 5516058, 5515745"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Pondok Cabe Mutiara",
+    "address": "Komplek Pertokoan Pondok Cabe Mutiara Blok B-3A, Jl. Raya Parung, Tangerang, BANTEN, 15418",
+    "phone": "(021) 7490389"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Puri Serpong",
+    "address": "Ruko Puri Serpong No.3 Jl. Raya Rawa Buntu Utara RT.03/RW 01 (Perum Delatinos) BSD City Serpong, Tangerang Selatan, BANTEN, 15314",
+    "phone": "(021) 7566856"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Sarua",
+    "address": "Jl. Aria Putera No.89 Blok B No.2 Green Hills, Ciputat, Tangerang, BANTEN, 15411",
+    "phone": "(021) 74633246"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Serpong",
+    "address": "Simpang Tiga Puspitek Serpong, Tangerang, BANTEN, 15310",
+    "phone": "(021) 7560948, 7560949"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Summarecon Gading Serpong",
+    "address": "Ruko Financial Center Blok BA 2 Summarecon Gading Serpong, Tangerang, BANTEN, 15810",
+    "phone": "(021) 54200797, 54200697"
+  }
+]

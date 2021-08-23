@@ -1,0 +1,542 @@
+[
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Taman Borobudur",
+    "address": "Taman Borobudur II Blok DD No.1-2,Jl. Borobudur Raya, Perum II, Karawaci, Tangerang, BANTEN, 15810",
+    "phone": "(021) 5912801, 5912806"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tangerang Villa Melati Mas",
+    "address": "Ruko Villa Melati Mas Blok SR1 No. 20, Jl. Pahlawan Seribu, Serpong, Tangerang, BANTEN, 15323",
+    "phone": "(021) 5372607, 5373144"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjung Balai",
+    "address": "Jl. Teuku Umar No. 48-54, Tanjung Balai, SUMATERA UTARA, 21312",
+    "phone": "(0623) 593137"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjung Balai Karimun",
+    "address": "Jl. Teuku Umar No. 9, Tanjung Balai karimun, KEPULAUAN RIAU, 29161",
+    "phone": "(0771) 327668, 327389, 327078"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjungkarang Bambu Kuning",
+    "address": "Jl. Bukit Tinggi No. 21 D, Tanjungkarang, LAMPUNG, 35114",
+    "phone": "(0721) 255167"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjungkarang Kartini",
+    "address": "Jl. Kartini No. 79, Tanjungkarang, LAMPUNG, 35111",
+    "phone": "(0721) 251414"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjung Redeb",
+    "address": "Jl. Jenderal Sudirman No. 747, Tanjung Redeb, KALIMANTAN TIMUR, 77312",
+    "phone": "(0554) 26031, 26032, 26033"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tanjung Uban",
+    "address": "Jl. Permaisuri No. 3, Tanjung Uban, KEPULAUAN RIAU, 29152",
+    "phone": "(0771) 81006 - 07"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tapak Tuan",
+    "address": "Jl. Merdeka No. 93 - Tapak Tuan, Aceh Selatan, NANGGROE ACEH DARUSSALAM, 23751",
+    "phone": "(0656) 323711, 323170"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tarailu Mamuju",
+    "address": "Kel. Tarailu, Kec. Sampaga, Kab. Mamuju, SULAWESI BARAT, 90511",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tarakan Simpang Tiga",
+    "address": "Jl. Yos Sudarso No. 25, Tarakan, KALIMANTAN TIMUR, 71112",
+    "phone": "(0551) 21933"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tasikmalaya Ciawi",
+    "address": "Jl. Otto Iskandardinata No. 26, Tasikmalaya, JAWA BARAT, 46156",
+    "phone": "(0265) 456600"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tasikmalaya Manonjaya",
+    "address": "Jl. RTA Prawira Adiningrat No. 59 Pasar Kaler Manonjaya, Tasikmalaya, JAWA BARAT, 46197",
+    "phone": "(0265) 381480"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tasikmalaya Mustofa",
+    "address": "Jl. H.Z. Mustofa No. 294, Tasikmalaya, JAWA BARAT, 46125",
+    "phone": "(0265) 333328"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tasikmalaya Singaparna",
+    "address": "Jl. Raya Timur Singaparna No.23 Cikiray Singaparna, Tasikmalaya, JAWA BARAT, 46411",
+    "phone": "(0265) 541546"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tasikmalaya Sutisna",
+    "address": "Jl. Sutisna Senjaya No. 88, Tasikmalaya, JAWA BARAT, 46114",
+    "phone": "(0265) 323261"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tegal Banjaran Adiwerna",
+    "address": "Jl. Raya Banjaran No. 10, Adiwerna, Tegal, JAWA TENGAH, 52194",
+    "phone": "(0283) 442255, 442377"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tegal Sudirman",
+    "address": "Jl. Jend. Sudirman No. 11, Tegal, JAWA TENGAH, 52131",
+    "phone": "(0283) 358181"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Temanggung",
+    "address": "Jl. Tentara Pelajar No. 1, Tamenggung, JAWA TENGAH, 56213",
+    "phone": "(0293) 493862, 493863"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tembagapura",
+    "address": "Jl. Numfor, Tembagapura-Mimika, PAPUA, 99930",
+    "phone": "(0901) 351125, 361027"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tenggarong",
+    "address": "Jl. K.H. Akhmad Muksin No. 36, Kutai Kartanegara, KALIMANTAN TIMUR, 75512",
+    "phone": "(0541) 662150, 661945, 665981, 662132"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ternate Mononutu",
+    "address": "Jl. A. Mononutu No. 91, Ternate, MALUKU UTARA, 97712",
+    "phone": "(0921) 327304, 327358, 24604"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tobelo",
+    "address": "Jl. Kemakmuran No. 330, Tobelo, Halmahera Utara, MALUKU UTARA, 97762",
+    "phone": "(0924) 2621492, 2621679"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Toboali",
+    "address": "Jl. Jend. Sudirman No. 97, Toboali, BANGKA BELITUNG, 33183",
+    "phone": "(0718) 42100, 42101, 42102, 42103"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tomohon",
+    "address": "Komplek RS Bethesda Jl. Raya Tomohon, Tomohon, SULAWESI UTARA, 95362",
+    "phone": "(0431) 354951"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tual",
+    "address": "Jl. Jend. Sudirman, Ohoibun, Kei Kecil, Langgur, MALUKU, 97611",
+    "phone": "(0916) 22996 - 97, 22097"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tuban",
+    "address": "Jl. Basuki Rachmat No. 75, Tuban, JAWA TIMUR, 62317",
+    "phone": "(0356) 320786, 331436, 331437"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tulang Bawang",
+    "address": "Jl. Lintas Timur, Desa Dwi Tunggal Jaya, Banjar Agung, Tulang Bawang, LAMPUNG, 34596",
+    "phone": "(0726) 750700, 750165"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Tulungagung Ngunut",
+    "address": "Komplek Ruko Jalan Raya II, Kec. Ngunut, Tulungagung, JAWA TIMUR, 66292",
+    "phone": "(0355) 398530"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ubud",
+    "address": "Jl. Raya Ubud No. 14, Ubud, Gianyar, BALI, 80561",
+    "phone": "(0361) 977022, 975946"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ujungbatu",
+    "address": "Jl. Jenderal Sudirman No. 15, Ujungbatu, Riau, RIAU, 28454",
+    "phone": "(0762) 61147, 61636, 61620"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Ungaran",
+    "address": "Jl. Jend. Gatot Subroto No. 671 E-F, Ungaran, Semarang, JAWA TENGAH, 50511",
+    "phone": "(024) 6924296, 921989"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Wates",
+    "address": "Jl. Kolonel Sugiyono, Wates, Kulon Progo, D.I. YOGYAKARTA, 55611",
+    "phone": "(0274) 775319"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Weleri",
+    "address": "Jl. Utama Tengah No. 198, Weleri, JAWA TENGAH, 51355",
+    "phone": "(0294) 644009, 642010"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Wlingi",
+    "address": "Jl. Urip Sumoharjo No.105 Wlingi, Blitar, Blitar, JAWA TIMUR, 66184",
+    "phone": "(0342)  692671"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Wonogiri",
+    "address": "Jl. Jenderal Sudirman No. 132, Wonogiri, JAWA TENGAH, 57611",
+    "phone": "(0273) 323656, 323658"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Wonosari",
+    "address": "Jl. Baron No. 34, Baleharjo, Wonosari, Gunung Kidul, D.I. YOGYAKARTA, 55811",
+    "phone": "(0274) 394433, 394713, 394271"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Wonosobo",
+    "address": "Jl. Sumbing No. 18, Wonosobo, JAWA TENGAH, 56311",
+    "phone": "(0286) 322474"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Ahmad Dahlan",
+    "address": "Jl. K.H.  Ahmad Dahlan No. 25, Yogyakarta, D.I. YOGYAKARTA, 55121",
+    "phone": "(0274) 411753, 411784"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Amir Pattinama",
+    "address": "Jl. Raya Godean / Jl Amir Patinama, Ds Sidoagung Kec Godean, Sleman, JAWA TENGAH, 55564",
+    "phone": "(0274) 798339"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Diponegoro",
+    "address": "Jl. Pangeran Diponegoro No. 107, Yogyakarta, D.I. YOGYAKARTA, 55231",
+    "phone": "(0274) 584758, 562415"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Gedung Magister UGM",
+    "address": "Lobby Gedung Magister UGM, Jl. Nusantara, Bulak Sumur, Sleman, D.I. YOGYAKARTA, 55281",
+    "phone": "(0274) 521412"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Gejayan",
+    "address": "Jl. Gejayan No. 28, Condong Catur, Sleman, D.I. YOGYAKARTA, 55283",
+    "phone": "(0274) 543028, 584041, 584140"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta HOS Cokroaminoto",
+    "address": "Jl. HOS Cokroaminoto No. 38, Yogyakarta, D.I. YOGYAKARTA, 55253",
+    "phone": "(0274) 620006"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Imogiri",
+    "address": "Jl. Raya Imogiri, Ds. Sidoharjo, RT.07/05, Imogiri, Bantul, D.I. YOGYAKARTA, 55782",
+    "phone": "(0274) 6460921"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Kaliurang",
+    "address": "Jl. Kaliurang Km.6,5 No.A 5 C, Condongcatur, Depok, Sleman, Sleman, D.I. YOGYAKARTA, 55281",
+    "phone": "(0274) 889645, 889646"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Katamso",
+    "address": "Jl. Brigjen. Katamso No. 69 B, Yogyakarta, D.I. YOGYAKARTA, 55121",
+    "phone": "(0274) 415392, 415616, 415670, 415672"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Kotagede",
+    "address": "Jl. Kemasan No. 52 Kotagede, Yogyakarta, D.I. YOGYAKARTA, 55172",
+    "phone": "(0274) 4437168 - 69"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta STIE YKPN",
+    "address": "Kampus STIE YKPN, Jl. Seturan, Sleman, D.I. YOGYAKARTA, 55281",
+    "phone": "(0274) 486163"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta UGM",
+    "address": "Jl. Kaliurang, Sekip Blok L-6, Sleman, D.I. YOGYAKARTA, 55281",
+    "phone": "(0274) 543032, 521136"
+  },
+  {
+    "type": "Mandiri KCP",
+    "name": "Yogyakarta Wisma PU",
+    "address": "Jl. Laksda Adisucipto No. 165, Sleman, D.I. YOGYAKARTA, 55281",
+    "phone": "(0274) 560915 - 19"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Bandung Soekarno Hatta",
+    "address": "Jl. Soekarno Hatta No. 486, Bandung, JAWA BARAT, 40266",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Balikpapan Klandasan",
+    "address": "Jl. Jend. Sudirman No. 71, Balikpapan, KALIMANTAN TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Bandar Lampung Supratman",
+    "address": "Jl. W.R. Supratman No. 70, Bandar Lampung, LAMPUNG, 35111",
+    "phone": "(0721) 486942-3"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Bandung Surapati",
+    "address": "Jl. Surapati No. 2, Bandung, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Banjarmasin P. Samudera",
+    "address": "Jl. Lambung Mangkurat No. 4, Banjarmasin, KALIMANTAN SELATAN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Bekasi Sentra Niaga Kalimalang",
+    "address": "Jl. Jend. Ahmad Yani, Sentra Niaga Kalimalang Blok A3 No. 6-7, Bekasi, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Bogor Juanda",
+    "address": "Jl. Ir. H, Juanda No. 12, Bogor, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Denpasar Udayana",
+    "address": "Jl. Udayana No. 11, Denpasar, BALI, 80112",
+    "phone": "(0361) 223511"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Depok",
+    "address": "Jl. Margonda Raya No. 2, Depok, JAWA BARAT,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jakarta Gambir",
+    "address": "Jl. Ir. H. Juanda No. 18, Jakarta Pusat, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jakarta Kebon Sirih",
+    "address": "Jl. Tanah Abang Timur No. 1-2, Jakarta Pusat, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Bintaro Jaya",
+    "address": "Jl. Bintaro Utama, Bintaro Jaya Sektor I, Jakarta Selatan, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Graha Irama",
+    "address": "Graha Irama Lantai DasarJl. H.R. Rasuna Said Kav. X-1, No. 1-2, Jakarta Selatan, DKI JAKARTA, 12950",
+    "phone": "(21) 52964180, 52964282, 52964184"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Graha Rekso",
+    "address": "Graha Rekso Building Ground & 3 Floor, Jl. Bulever Artha Gading Kav. A1, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 45856278, 45856279, 45856315, 45856317, 45856866, 45856867"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Imam Bonjol",
+    "address": "Jl. Imam Bonjol No. 61, Jakarta Pusat, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Iskandarsyah",
+    "address": "Graha Iskandarsyah, Jl. Iskandarsyah Raya No. 66, Jakarta Selatan, DKI JAKARTA, 12160",
+    "phone": "(021) 2702711-5, 2700015"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Jatinegara Timur",
+    "address": "Jl. Jatinegara Timur No. 58, Jakarta Timur, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Kebon Jeruk",
+    "address": "Jl. Perjuangan No. 9 B, Kebon Jeruk, Jakarta Barat, DKI JAKARTA, 11520",
+    "phone": "(021) 5360735-7"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Kelapa Gading Blolevar",
+    "address": "Jl. Bolevar Raya Blok L No. 8, Kelapa Gading, Jakarta Utara, DKI JAKARTA, 14240",
+    "phone": "(021) 4520245, 4520474, 45840343"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Kyai Tapa",
+    "address": "Jl. Kyai Tapa No. 99, Jakarta Barat, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Mangga Dua Square",
+    "address": "Mangga Dua Square Blok B No. 9, Jl. Gunung Sahari Raya 1, Jakarta Utara, DKI JAKARTA, 14430",
+    "phone": "(021) 62312970"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Pasar Rebo",
+    "address": "Plaza PP, Jl. Letjend. T.B. Simatupang No. 57, Jakarta Timur, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Plaza Mandiri",
+    "address": "Jl. Jend. Gatot Subroto Kav. 36-38, Jakarta Selatan, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Pluit Kencana",
+    "address": "Jl. Raya Pluit Kencana No. 51-53, Jakarta Utara, DKI JAKARTA, 14450",
+    "phone": "(021) 6683440 Ext 204"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Sunter Agung Utara",
+    "address": "Jl. Danau Utara Blok B - 36A No. 6, Jakarta Utara, DKI JAKARTA, 14350",
+    "phone": "(021) 65835132, 65835133, 65835229, 65835230"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Jkt Thamrin",
+    "address": "Jl. Kebon Sirih No. 83, Jakarta Pusat, DKI JAKARTA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Makassar Slamet Riyadi",
+    "address": "Jl. Brigjend. Slamet Riyadi No. 8, Makassar, SULAWESI SELATAN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Malang Merdeka",
+    "address": "Jl. Merdeka Barat No. 1, Malang, JAWA TIMUR, 65119",
+    "phone": "(0341) 325658"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Manado Toar",
+    "address": "Jl. Toar No. 4-6, Manado, SULAWESI UTARA,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Medan Pulau Pinang",
+    "address": "Jl. Imam Bonjol No. 28-30, Medan, SUMATERA UTARA, 20152",
+    "phone": "(061) 4519666, 4518477"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Palembang Arief",
+    "address": "Jl. Kapten A. Rivai No. 27, Palembang, SUMATERA SELATAN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Samarinda Mulawarman",
+    "address": "Jl. Mulawarman No. 23, Samarinda, KALIMANTAN TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Semarang Pemuda",
+    "address": "Jl. Pemuda No. 73, Semarang, JAWA TENGAH,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Solo Sriwedari",
+    "address": "Jl. Brigjend. Slamet Riyadi No. 294, Solo, JAWA TENGAH, 57141",
+    "phone": "(0271) 715455"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Surabaya Basuki Rahmat",
+    "address": "Jl. Basuki Rahmat No. 129-137, Surabaya, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Surabaya Darmo Permai",
+    "address": "Jl. H.R. Muhammad 36, Ruko Permata Blok B-1, Surabaya, JAWA TIMUR,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Surabaya Kertajaya",
+    "address": "Jl. Dharmahusada Indah No. 130, Surabaya, JAWA TIMUR, 32190",
+    "phone": "(0321) 5999869, 5981670"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Tangerang Alam Sutera",
+    "address": "Ruko Sutera Niaga I No. 71, Jl. Raya Serpong, Tangerang, BANTEN,",
+    "phone": "-"
+  },
+  {
+    "type": "Mandiri Priority",
+    "name": "Banking Yogyakarta Sudirman",
+    "address": "Jl. Jend. Sudirman No. 26, Yogyakarta, D.I. YOGYAKARTA,",
+    "phone": "-"
+  }
+]
