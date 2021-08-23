@@ -22,7 +22,7 @@ function fetchPageData(page) {
     stores.push(...storesPiece)
 
     const filename = page.toString().padStart(3, '0')
-    fs.writeFileSync(`../results-3/${filename}.json`, JSON.stringify(storesPiece, null, 2))
+    fs.writeFileSync(`../results/${filename}.json`, JSON.stringify(storesPiece, null, 2))
   })
 }
 

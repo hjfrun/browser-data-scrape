@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 function convertFormat(piece) {
-  fs.readFile(`./data-raw/${piece}.json`, (err, data) => {
+  fs.readFile(`./raw-json/${piece}.json`, (err, data) => {
     const list = JSON.parse(data)
 
     const res = list.map(e => {

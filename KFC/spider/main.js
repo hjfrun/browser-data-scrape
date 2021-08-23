@@ -18,7 +18,7 @@ function fetchPageData(page) {
     })
 
     const filename = page.toString().padStart(3, '0')
-    fs.writeFileSync(`../results-2/${filename}.json`, JSON.stringify(stores, null, 2))
+    fs.writeFileSync(`../results-join-services/${filename}.json`, JSON.stringify(stores, null, 2))
   })
 }
 
